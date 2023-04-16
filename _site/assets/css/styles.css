@@ -326,7 +326,7 @@ h6 {
   letter-spacing: 0;
 }
 
-@media (min-width: 650px) {
+@media (min-width: 550px) {
   h1 {
     font-size: 3.4rem;
   }
@@ -382,13 +382,13 @@ p {
   box-sizing: border-box;
 }
 
-@media (min-width: 500px) {
+@media (min-width: 400px) {
   .container {
     width: 85%;
     padding: 0;
   }
 }
-@media (min-width: 650px) {
+@media (min-width: 550px) {
   .container {
     width: 80%;
   }
