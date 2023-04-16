@@ -115,16 +115,16 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 
 ### Imperial Ships
 
-| Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     | Points |
+| Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     | Pts |
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- | :----: |
-| Imperial Fighter     |  4  |  7  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 9      |
-| Imperial Interceptor |  5  |  7  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 12     |
-| Imperial Bomber      |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 12     |
-| Imperial Silencer    |  5  |  7  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (2) | 24     |
+| Imperial Fighter     |  4  |  7  |  4+ |  4+ |  3  |  3  | Laser Cannons                            | Agile             | 9      |
+| Imperial Interceptor |  5  |  7  |  3+ |  4+ |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 12     |
+| Imperial Bomber      |  4  |  5  |  4+ |  4+ |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 12     |
+| Imperial Silencer    |  5  |  7  |  3+ |  4+ |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (2) | 24     |
 
 ### Rebel Ships
 
-| Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                        | Special Rules                      | Points |
+| Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                        | Special Rules                      | Pts |
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------------- | :--------------------------------- | :----: |
 | Rebel Fighter        |  4  |  6  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (2)                         | 14     |
 | Rebel Bomber         |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (2)                         | 12     |
