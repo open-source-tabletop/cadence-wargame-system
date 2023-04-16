@@ -10,31 +10,31 @@ Version 0.1
 
 ### Introduction
 
-Welcome to the Cadence System, a free, community owned wargaming ruleset designed to open up a world of wargaming possibilities. These core rules provide the foundation upon which any number of games can be created, you will find a range of pre-written modules and expansions to play or you can create your own game using the system.
+Cadence is a set of light wargaming rules designed to be used in a wide variety of different games. These core rules provide a familiar foundation expanded upon by modules: games built using these rules.
 
-<!-- TODO: Include WHERE to find these resources -->
+You will find modules to play in the modules section of this site.
 
 ## Section 1 - Basic Rules
 
 ### Dice
 
-Cadence uses six sided dice, written as "d6", to determine the outcome of many actions and there are a few ways these are used. The most common is in an action roll, such as an attack roll to see if a weapon hits an enemy unit. action rolls are always based on a single d6, though you may make many action rolls at the same time, where each dice must score equal to or above a target number to count as a success, with anything below the target being a failure.
+Cadence uses six sided dice, written as "d6", to determine the outcome of many actions. Most dice rolls require the player to roll equal to or higher than a target number to successfully perform an action.
 
-Action rolls often have modifiers applied to them making the roll either easier or more difficult. The modifiers may affect the roll to where it would automatically succeed or automatically fail regardless of the value rolled. A roll of a 1 always counts as a failure regardless of modifiers, however a modifier that automatically fails still counts as a failure regardless of the number rolled.
+Modifiers are sometimes applied to your dice rolls which affects the number rolled not the target number. Regardless of modifiers an unmodified roll of 1 always counts as a failure.
 
-You may also be asked to "roll-off" against other players. In this case both players roll a number of d6 equal to the number of players in the roll-off with the winner being the player with the highest combined result. In the case of a tie players should roll-off again until they have unique results.
+You may also be asked to "roll-off" against other players. In this case both players roll a number of d6 equal to the number of players in the roll-off, with the winner being the player with the highest combined result. In the case of a tie players should roll-off again until they have unique results.
 
-Unless otherwise instructed, your dice rolls should be done in full view of all players with enough time for them to see the results.
+*Unless otherwise instructed, your dice rolls should be done in full view of all players with enough time for them to see the results.*
 
-Rules that allow you re-roll a dice only allow that dice to be re-rolled once, regardless of how many rules permit it to be re-rolled. If you re-roll a dice you must accept the new result even if it is worse.
-
-Six sided dice are also used in the game to mark a unit's remaining actions and hit points. In this case the dice are not rolled but instead the top face of the dice represents the value. In practice this means you will need at least 3 colours of six sided dice to avoid mixing up these uses on the tabletop.
+*Rules that allow you re-roll a dice only allow that dice to be re-rolled once, regardless of how many rules permit it to be re-rolled. If you re-roll a dice you must accept the new result even if it is worse.*
 
 ### Distance and Measuring
 
-Measuring is another key part of the game, whether checking if a unit is in range for an attack, or seeing how far they travel when moving. Cadence uses inches for all distances and you will need a ruler marked in inches to play. When you measure the distance to or from a model you always do so from the closest point on it's base. You may measure any distance at any time so long as doing so does not interfere with the actions of your opponent or unnecessarily slow down the game.
+Distances between models and objects in Cadence are measured in inches. When you measure the distance to or from a model you always do so from the closest point on it's base.
 
-It is important to remember that a model or object is "within" a certain distance if any part of it is closer than the specified distance.
+*You may measure any distance at any time so long as doing so does not interfere with the actions of your opponent or unnecessarily slow down the game.*
+
+*A model or object is "within" a certain distance if any part of it is closer than the specified distance.*
 
 ### Armies
 
