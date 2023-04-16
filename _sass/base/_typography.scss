@@ -23,8 +23,13 @@ h6 { font-size: 1.5rem; line-height: 1.6;  letter-spacing: 0; }
   h4 { font-size: 1.8rem; }
   h5 { font-size: 2.4rem; }
   h6 { font-size: 1.5rem; }
+  p {
+    letter-spacing: 0;
+  }
+  
 }
 
 p {
   margin-top: 0;
+  letter-spacing: -.1rem;
 }
