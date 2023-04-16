@@ -118,6 +118,16 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 | Imperial Bomber      |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 12     |
 | Imperial Silencer    |  5  |  7  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (2) | 32     |
 
+#### Imperial Fighter - 9pts
+
+| Cmd | Mov | Skl | Def | Tgh | HP  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  4  |  7  |  4  |  4  |  3  |  3  |
+
+| Weapons                                  | Special Rules     |
+| :--------------------------------------- | :---------------- |
+| Laser Cannons                            | Agile             |
+
 ### Rebel Ships
 
 | Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                        | Special Rules                      | Points |
