@@ -1,19 +1,16 @@
 ---
-layout: default
+layout: full-width
 ---
 Cadence System - Core Rules
 ===========================
 
-Version 0.1
-
-## Introduction
+###### Version 0.1
 
 Welcome to the Cadence System, a free, community owned wargaming ruleset designed to open up a world of wargaming possibilities. These core rules provide the foundation upon which any number of games can be created, you will find a range of pre-written modules and expansions to play or you can create your own game using the system.
 
-Section 1 - Basic Rules
-=======================
+## Section 1 - Basic Rules
 
-## Dice
+### Dice
 
 Cadence uses six sided dice, written as "d6", to determine the outcome of many actions and there are a few ways these are used. The most common is in an action roll, such as an attack roll to see if a weapon hits an enemy unit. action rolls are always based on a single d6, though you may make many action rolls at the same time, where each dice must score equal to or above a target number to count as a success, with anything below the target being a failure.
 
@@ -27,23 +24,23 @@ Rules that allow you re-roll a dice only allow that dice to be re-rolled once, r
 
 Six sided dice are also used in the game to mark a unit's remaining actions and hit points. In this case the dice are not rolled but instead the top face of the dice represents the value. In practice this means you will need at least 3 colours of six sided dice to avoid mixing up these uses on the tabletop.
 
-## Distance and Measuring
+### Distance and Measuring
 
 Measuring is another key part of the game, whether checking if a unit is in range for an attack, or seeing how far they travel when moving. Cadence uses inches for all distances and you will need a ruler marked in inches to play. When you measure the distance to or from a model you always do so from the closest point on it's base. You may measure any distance at any time so long as doing so does not interfere with the actions of your opponent or unnecessarily slow down the game.
 
 It is important to remember that a model or object is "within" a certain distance if any part of it is closer than the specified distance.
 
-## Armies
+### Armies
 
 In Cadence, each player has a selection of miniatures that represent their army. This can vary depending on the module you choose but will usually include a range of units, such as infantry, vehicles, or monsters, each with their own strengths and weaknesses. Every model in a player's army is considered friendly, all the models in your opponent's army are considered enemies.
 
-## Units and Models
+### Units and Models
 
 To avoid confusion there are some terms relating to your miniatures which have specific meaning within the game. While you may find modules using a wide variety of miniatures in many different scales, a **model** is a miniature, or group of miniatures, which are mounted on a single base or are otherwise connected. If a model does not have a base, such as is sometimes the case with large vehicle or monster miniatures, it must have a clear footprint to count as the base within the game.
 
 Units are groupings of 1 or more models within the game. Some modules will group several models together, like soldiers in a squad, others will have each unit contain only a single model. All models must belong to exactly one unit.
 
-### Profiles and Attributes
+#### Profiles and Attributes
 
 In order to play a game, you need to know which models you can use and what they can do on the battlefield. Each module will contain relevant unit profiles, often organised into army lists, that give you all the information you need for your units.
 
@@ -55,7 +52,7 @@ A unit profile has the following information:
 - Special rules that apply to the unit.
 - Any abilities the unit has.
 
-### Attributes
+#### Attributes
 
 Each model in Cadence has a set of attributes that tell you how well it can perform various actions, these are:
 
@@ -66,27 +63,27 @@ Each model in Cadence has a set of attributes that tell you how well it can perf
 - Toughness (Tgh): How much damage the model can take for each of it's hit points.
 - Hit Points (HP): How much damage the model can take before being destroyed.
 
-### Special Rules
+#### Special Rules
 
 Special rules modify how the model operates within the game. Some special rules are universal and are included in this book, these are typically given simply by name in a unit profile. Others are unique to a module, army, or model, and will be provided in the unit's profile or army list.
 
-### Abilities
+#### Abilities
 
 Abilities are like actions that are unique to a unit. These work like normal actions and the details of how they work, along with any requirements or restrictions, will be given in a unit's profile.
 
-### Unit Formation
+#### Unit Formation
 
 Units consisting of more than one model must stay within close proximity of each other during a battle, known as being "in formation". A unit is in formation when the distance between each model forms a chain connecting all the models with a gap between each model no larger than 3 inches. Every time you activate a unit, after you move each of your models, the unit must finish that action in formation.
 
 It is possible for your unit to become out of formation during another units activation, by losing models as they are destroyed for example. If this happens, the next time the unit activates it must immediately make a move action to restore being in formation. If it cannot be resume being in formation after it's move action the unit is destroyed and removed from the game.
 
-### Direction
+#### Direction
 
 Every model in Cadence has a forward facing direction, typically the direction the miniature is facing but if this is not obvious you should agree with your opponent or mark a point on the model's base. By extension there is also an opposite backwards facing for the model.
 
 In addition a model divides the battlefield into two zones: it's front and rear arcs. Draw a line through the center of your model at a right angle to the forward facing, everything in front of that line is considered the front arc with everything behind that line considered the rear arc. A model or object is in the front arc if any part of it is within the front arc.
 
-## Weapons
+### Weapons
 
 In order to fight, your models require weapons and these will be listed in your unit profile. Weapons have their own set of attributes which are usually provided in your module or army list. These are:
 
@@ -96,15 +93,15 @@ In order to fight, your models require weapons and these will be listed in your 
 - Piercing (Prc): The weapons ability to negate armour.
 - Special Rules that apply to the weapon.
 
-### Missions
+#### Missions
 
 When you play a game of Cadence you will typically choose a mission to play, this is a set of rules for how to set up your table, how armies will be deployed, and what the goal of the mission will be. A simple mission might simply see two armies fight to wipe out the oppoising army, but most provide a range of objectives that provide different goals for the players to achieve. There are 3 simple missions included in the Advance Rules section of this book with more available in modules, you should also feel free to create your own.
 
-### Victory Points
+#### Victory Points
 
 In order to win a battle, players are awarded Victory Points throughout the game according to the mission they are playing. The player with the most Victory Points is the winner.
 
-### Objective Markers
+#### Objective Markers
 
 Objectives are a key component of most missions, small markers that represent key points on the battlefield: such as resources to be collected, equipment to be destroyed, or zones to be controlled. An objective marker is typically a 40mm circle, though small models or other appropriate objects can be used for a more thematic experience. Objectives come in 4 types, each of which can first be secured, or controlled by a unit, and then scored, when they award points according to a mission.
 
@@ -117,11 +114,11 @@ Objectives can be one of the following four types:
 - **Access**: Once this objective is secured it is scored at the end of that round and then removed from the game. Access objectives cannot be secured on the first round.
 - **Recover**: Once this objective is secured the unit that secured it must survive until the end of the battle to score any victory points from it. If the unit that secured the objective is destroyed the objective is destroyed.
 
-### Entry Points
+#### Entry Points
 
 When you begin the first round of a game you begin with all of your units off the table "in reserve". To be able to deploy your units you have a number of markers called Entry Points that you will be instructed to set up on the table, typically along a table edge. This is covered in more detail in Section 2.
 
-### Mission Parameters
+#### Mission Parameters
 
 When choosing your mission each will provide a list of Mission Parameters, detailing some or all of the following information:
 
@@ -130,14 +127,13 @@ When choosing your mission each will provide a list of Mission Parameters, detai
 - The conditions under which players will score Victory Points.
 - The placement of Entry Points, used for deploying your units onto the battlefield.
 
-Section 2 - Playing the Game
-============================
+## Section 2 - Playing the Game
 
-## Structure of a Game
+### Structure of a Game
 
 Cadence is broken down into easy to follow stages and steps, these are as follows:
 
-### Stage 1: Setup
+#### Stage 1: Setup
 
 Stage 1 is a few simple steps to set up your battlefield ready to play.
 
@@ -146,7 +142,7 @@ Stage 1 is a few simple steps to set up your battlefield ready to play.
 3. Set Up Markers
 4. Put Armies into Reserve
 
-### Stage 2: Battle
+#### Stage 2: Battle
 
 Stage 2 is played in a series of rounds with the following steps each round:
 
@@ -155,39 +151,39 @@ Stage 2 is played in a series of rounds with the following steps each round:
 3. Players Alternate Activations
 4. Score Victory Points
 
-## Setup
+### Setup
 
-### Choosing A Mission
+#### Choosing A Mission
 
 The first step in setting up your game is to choose a mission to play. Every game of Cadence is played using a mission that provides a set of parameters that outline the setup of your board, the length of the game, the victory conditions for the battle, and other relevant information. There are 3 basic missions included in the Advanced Rules sections with more available from modules, you should also feel free to create your own.
 
-### Set Up Terrain
+#### Set Up Terrain
 
 Your chosen mission may include some guidance on setting up your terrain but most will allow you to set up your terrain from your collection as you see fit. Try to include a mix of terrain such as large line of sight blocking elements and smaller, cover-providing scatter pieces. If one player sets up all the terrain, then the other player should be provided an opportunity to modify the setup.
 
-### Set Up Markers
+#### Set Up Markers
 
 Set up any Objective Markers and Entry Points according to your Mission Parameters.
 
-### Put Armies into Reserve
+#### Put Armies into Reserve
 
 Once you have your battlefield set up you are almost ready to begin the battle. Place all the units that will be used in the game near the table so that both players can see which units each player is using, and which units are already deployed as the game progresses.
 
-## Battle
+### Battle
 
-### Rounds
+#### Rounds
 
 The battle stage of a game of Cadence is played through a number of rounds, during which players will be able to activate their units to move and fight. Unless otherwise specified a game of Cadence lasts for 4 rounds.
 
-### Roll for Initiative
+#### Roll for Initiative
 
 At the start of each new round players should roll-off, the player that rolls the highest has the initiative this round and will have the first activation.
 
-### Place Command Dice
+#### Place Command Dice
 
 Every unit in your army will need a Command Dice, a d6 in a different colour from those you roll or mark hit points with, placed next to it at the start of a new round. Each dice should be placed with the top face showing the unit's Command attribute, this is the unit's Command Points for this round. On the first turn this should also be done for each unit that you have in reserve.
 
-### Alternate Activations
+#### Alternate Activations
 
 Once players have placed all of their Command Dice they can begin taking turns, starting with the player that won the initiative, to activate one of their units.
 
@@ -195,7 +191,7 @@ Players choose one of their units that still has Command Points, these are then 
 
 This will continue until the players have used all of the Command Points on all of their units. If one player has no units remaining to activate then play automatically returns to the other player until all players have finished.
 
-#### Deploying From Reserve
+##### Deploying From Reserve
 
 As your units do not begin on the battlefield they must be deployed from reserve. When it is your turn to activate a unit you may choose a unit already on the battlefield or one in reserve. If you choose a unit in reserve it is placed up to it's Movement attribute in inches from one of your Entry Points and then activates as normal. This does not count as having taken a Move action and can be done before declaring your actions for that unit.
 
@@ -205,7 +201,7 @@ Some restrictions apply to deploying your models from reserve:
 - If a unit cannot be placed within range of an entry point then it cannot be deployed. If it must be deployed but cannot be placed then it is destroyed.
 - If a round ends with a player having no units on the battlefield, even if they still have some in reserve, then that player immediately forfeits the game.
 
-## Actions
+### Actions
 
 When you activate a unit you first declare a number of actions and the order you will perform them, then pay the appropriate cost from the unit's Command Points (a unit must have enough points to perform your chosen actions). You do not have to spend all of a unit's Command Points when you activate it, allowing you to activate it again later in the round, however there are some restrictions:
 
