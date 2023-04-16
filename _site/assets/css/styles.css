@@ -737,6 +737,10 @@ pre > code {
   white-space: pre;
 }
 
+table {
+  max-width: 100%;
+}
+
 th,
 td {
   padding: 5px 4px;
