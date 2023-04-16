@@ -238,11 +238,11 @@ th {
 * Sass Version by Seth Coelen https://github.com/whatsnewsaes
 */
 html {
-  font-size: 75%;
+  font-size: 62.5%;
 }
 
 body {
-  font-size: 1.6em;
+  font-size: 2em;
   line-height: 1.6;
   font-weight: 400;
   font-family: "Source Sans Pro", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -286,16 +286,17 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 2rem;
   font-weight: 300;
   font-family: "Oswald", sans-serif;
+  text-transform: uppercase;
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.2;
   letter-spacing: -0.1rem;
 }
 
 h2 {
-  font-size: 2.6rem;
+  font-size: 3rem;
   line-height: 1.25;
   letter-spacing: -0.1rem;
   border-bottom: 1px solid #e1e1e1;
@@ -303,19 +304,21 @@ h2 {
 }
 
 h3 {
-  font-size: 2.1rem;
+  font-size: 2.6rem;
   line-height: 1.3;
   letter-spacing: -0.1rem;
 }
 
 h4 {
-  font-size: 1.6rem;
+  font-size: 2rem;
   line-height: 1.35;
   letter-spacing: -0.08rem;
+  color: #666666;
+  margin-bottom: 1rem;
 }
 
 h5 {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   line-height: 1.5;
   letter-spacing: -0.05rem;
 }
@@ -326,20 +329,25 @@ h6 {
   letter-spacing: 0;
 }
 
+p {
+  margin-top: 0;
+  letter-spacing: -0.05rem;
+}
+
 @media (min-width: 550px) {
   h1 {
-    font-size: 3.4rem;
+    font-size: 5rem;
   }
   h2 {
-    font-size: 3rem;
+    font-size: 3.8rem;
     border-bottom: 1px solid #e1e1e1;
     padding-bottom: 0.5rem;
   }
   h3 {
-    font-size: 2.4rem;
+    font-size: 3rem;
   }
   h4 {
-    font-size: 1.8rem;
+    font-size: 2.2rem;
   }
   h5 {
     font-size: 2.4rem;
@@ -351,11 +359,6 @@ h6 {
     letter-spacing: 0;
   }
 }
-p {
-  margin-top: 0;
-  letter-spacing: -0.1rem;
-}
-
 /* Modules */
 /*
 * Skeleton V2.0.4
@@ -517,7 +520,7 @@ button {
   display: inline-block;
   height: 38px;
   padding: 0 30px;
-  color: #555555;
+  color: #888888;
   text-align: center;
   font-size: 11px;
   font-weight: 600;
@@ -537,7 +540,7 @@ input[type=submit], input[type=reset], input[type=button] {
   display: inline-block;
   height: 38px;
   padding: 0 30px;
-  color: #555555;
+  color: #888888;
   text-align: center;
   font-size: 11px;
   font-weight: 600;
@@ -555,27 +558,27 @@ input[type=submit], input[type=reset], input[type=button] {
 
 .button:hover,
 button:hover {
-  color: #333;
-  border-color: #888888;
+  color: #666666;
+  border-color: #bbbbbb;
   outline: 0;
 }
 
 input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover {
-  color: #333;
-  border-color: #888888;
+  color: #666666;
+  border-color: #bbbbbb;
   outline: 0;
 }
 
 .button:focus,
 button:focus {
-  color: #333;
-  border-color: #888888;
+  color: #666666;
+  border-color: #bbbbbb;
   outline: 0;
 }
 
 input[type=submit]:focus, input[type=reset]:focus, input[type=button]:focus {
-  color: #333;
-  border-color: #888888;
+  color: #666666;
+  border-color: #bbbbbb;
   outline: 0;
 }
 
@@ -737,15 +740,13 @@ pre > code {
   white-space: pre;
 }
 
-table {
-  max-width: 100%;
-}
-
 th,
 td {
-  padding: 2px 4px;
+  padding: 2px 3px;
   text-align: left;
   border-bottom: 1px solid #e1e1e1;
+  font-size: 1.6rem;
+  letter-spacing: -0.03rem;
 }
 
 th:first-child,
@@ -756,6 +757,11 @@ td:first-child {
 th:last-child,
 td:last-child {
   padding-right: 0;
+}
+
+th {
+  text-transform: uppercase;
+  white-space: nowrap;
 }
 
 button,

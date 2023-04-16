@@ -1,13 +1,11 @@
 // Tables
-//––––––––––––––––––––––––––––––––––––––––––––––––––
-table {
-  max-width: 100%;
-}
 th,
 td {
-  padding: 2px 4px;
+  padding: 2px 3px;
   text-align: left;
   border-bottom: 1px solid $light-grey;
+  font-size: 1.6rem;
+  letter-spacing: -.03rem;
 }
 
 th:first-child,
@@ -18,4 +16,9 @@ td:first-child {
 th:last-child,
 td:last-child {
   padding-right: 0;
+}
+
+th {
+  text-transform: uppercase;
+  white-space: nowrap;
 }

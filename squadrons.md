@@ -2,6 +2,7 @@
 layout: default
 title: Squadrons
 ---
+
 Squadrons
 =========
 
@@ -11,15 +12,15 @@ Squadrons is a tabletop space combat Game using the Cadence System featuring fig
 
 This game uses the Cadence Wargame System for it's core rules with the following additional rules.
 
-### Battlefield
+#### Battlefield
 
-Squadrons is best played on either a 3ft x 3ft or similar sized area.
+Squadrons is best played on either a 3ft x 3ft battlefield or any table with a similar area.
 
-### Rounds
+#### Rounds
 
-Each game of Squadrons lasts for 4 rounds, at the end of the 4th round the players should roll a d6, on a roll of 3 or more there is also a 5th round.
+Each game of Squadrons lasts for 3 rounds, at the end of the 3rd round the players should roll a d6, on a roll of 3 or more there is also a 4th round.
 
-### Ships
+#### Ships 
 
 Each model in Squadrons represents a single ship of fighter or bomber scale referred to throughout as Ships.
 
@@ -35,19 +36,21 @@ Each time you activate one of your Ships you must always take a Move action, tho
 
 When you make an Advance action you follow the same rules as above for making a Move action. Alternatively you may instead move 2 inches forward and pivot your model exactly 180 degrees.
 
-### Moving over Bases
+#### Moving over Bases
 
 You may move over the bases of any friendly or enemy models during your movement so long as you have sufficient movement to complete the move without the bases overlapping. If you do not have sufficient movement your model stops before passing over the enemy base and your activation ends.
 
-### Evasion
+### Ship Attacks
 
-When this model is targeted for an attack it may try to evade the attack if it still has Command Points remaining. Spend one Command Point and move this model up to 2 inches directly to the left or right of its forward direction, stopping if it would overlap another model's base. This model may re-roll any failed Defence rolls from the attack that targetted it. 
+#### Evasion
 
-### Attack Targets
+When this model is targeted for an attack it may try to evade the attack if it still has Command Points remaining. This must be declared before any dice are rolled for the attack and the attacking player must give sufficient time for the player to declare they are evading. Spend one Command Point and move this model up to 2 inches directly to the left or right of its forward direction, stopping if it would overlap another model's base. This model may re-roll any failed Defence rolls from the attack that targetted it. 
+
+#### Targets
 
 Ships may choose any ship as a target, even when they have enemy ships within 1 inch.
 
-### Line of Sight
+#### Line of Sight
 
 Line of sight should be worked out for ships using only their bases, when looking through a model for line of sight the line is drawn from the base:
 
@@ -89,23 +92,24 @@ A Destroy objective is treated much the same as an enemy ship, with Defence, Tou
 
 The following new special rules apply to units and weapons in Squadrons.
 
-| Unit Special Rules | Details |
+| Unit Rules | Details |
 | :----------------- | :------ |
 | Agile | This ship may make an additional 45 degree turn during a Move Action. |
 | Boost | If this ship does not pivot during a Move action it may add 1 inch to it's movement. |
 | Shields (X) | While this ship has it's full Hit Points it adds X to it's Toughness. |
+| Squadron Leader | This ship gains +1 to it's Attack Rolls. |
 
-| Weapon Special Rules | Details |
+| Weapon Rules | Details |
 | :------------------- | :------ |
 | Fixed | This weapon can only target enemy models that are directly on the line of this models forward facing measured from the centre of the base. |
 | Forward | This weapon can only target enemy models that lie within the front arc of the model. |
 | Target Lock | Roll a d6 before making any attack rolls, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
 
-## Section 2 - Army Lists
+## Section 2 - Building an Army
 
-### Building an Army
+Players should select units from either the Imperial Ships or Rebel Ships lists below. Players may also add upgrades to their ships from the list, no more than half of your ships may be given upgrades and each ship may only have one upgrade.
 
-Players should select units from either the Imperial Ships or Rebel Ships lists. Players may also add upgrades to their ships from the list, no more than half of your ships may be given upgrades and each ship may only have one upgrade.
+One ship in your squadron should be designated as your Squadron Leader and gains the special rule of the same name.
 
 Games are best played at 100, 150, and 200 point limits depending on the size of game you wish to play.
 
@@ -113,20 +117,10 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 
 | Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- | :----: |
-| Imperial Fighter     |  4  |  7  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 10     |
-| Imperial Interceptor |  5  |  7  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 14     |
+| Imperial Fighter     |  4  |  7  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 9      |
+| Imperial Interceptor |  5  |  7  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 12     |
 | Imperial Bomber      |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 12     |
-| Imperial Silencer    |  5  |  7  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (2) | 32     |
-
-#### Imperial Fighter - 9pts
-
-| Cmd | Mov | Skl | Def | Tgh | HP  |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|  4  |  7  |  4  |  4  |  3  |  3  |
-
-| Weapons                                  | Special Rules     |
-| :--------------------------------------- | :---------------- |
-| Laser Cannons                            | Agile             |
+| Imperial Silencer    |  5  |  7  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (2) | 24     |
 
 ### Rebel Ships
 
@@ -135,18 +129,18 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 | Rebel Fighter        |  4  |  6  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (2)                         | 14     |
 | Rebel Bomber         |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (2)                         | 12     |
 | Rebel Heavy Bomber   |  4  |  5  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (2)                         | 18     |
-| Rebel Striker        |  5  |  6  |  3  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (2), Countermeasures | 16     |
+| Rebel Striker        |  5  |  6  |  3  |  4  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (2), Countermeasures | 16     |
 | Rebel Gunship        |  5  |  6  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (3)                         | 20     |
 
 ### Weapons
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules               |
 | :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
-| Laser Cannons             | 12  |  5  |  2  |  0  | Fixed                       |
-| Twin Laser Cannons        | 12  |  6  |  2  |  0  | Fixed                       |
-| Heavy Laser Cannon        | 16  |  5  |  3  |  1  | Fixed                       |
-| Concussion Missiles       | 16  |  3  |  9  |  1  | Heavy, Forward, Target Lock |
-| Heavy Concussion Missiles | 16  |  3  | 10  |  2  | Heavy, Forward, Target Lock |
+| Laser Cannons             | 12  |  6  |  2  |  0  | Fixed                       |
+| Twin Laser Cannons        | 12  |  8  |  2  |  0  | Fixed                       |
+| Heavy Laser Cannon        | 16  |  6  |  3  |  1  | Fixed                       |
+| Concussion Missiles       | 16  |  3  |  8  |  1  | Heavy, Forward, Target Lock |
+| Heavy Concussion Missiles | 16  |  3  |  9  |  2  | Heavy, Forward, Target Lock |
 
 ### Upgrades
 
@@ -164,22 +158,25 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 In addition to scoring Victory Points by securing objective markers you also score Victory Points by eliminating enemy ships. Missions may identify specific ships that are worth additional Victory Points for destroying. You also score Victory Points for the following:
 
 - 1VP for scoring the first ship kill in the game.
+- 2VP for destroying the enemy Squadron Leader.
 - 1VP for destroying more than half of the enemy ships.
-- 1VP for sestroying all enemy ships.
+- 2VP for destroying all enemy ships.
 
-### Mission 1 - Scan the Debris
+### Mission 1 - Debris Field
 
 #### Battlefield
 
 The players will both take opposing table edges, if playing on a rectangular table this should be the shorter table edges, they may place 2 Entry Points anywhere on their table edge.
 
+This mission is best played
+
 #### Objectives
 
-**Primary Objectives**: Place 4 Scan Objectives on the table each 9 inches from the centre towards each of the corners. Each Scan Objective is worth 2 Victory Points if scored on the first or second round, after which they are worth 1 Victory Point.
+**Primary Objectives**: Place 4 Scan Objectives on the table each 9 inches from the centre towards each of the corners. Each Scan Objective is worth 2 Victory Points, these remain on the table after being scored and may be scored by both players.
 
-**Secondary Objectives**: Both players should place a Destroy Objective within 6 inches directly in front of one of their Entry Points. These objectives may only be targeted by enemy ships and are worth 4 Victory Points.
+**Secondary Objectives**: From Round 2 each objective you have scanned becomes a Destroy Objective worth 1 Victory Point.
 
-**Targets**: Each player should nominate one enemy ship before the game begins, they score 2 Victory Points if they destroy that ship before the end of Round 2, or 1 Victory Point in any subsequent turn.
+**Targets**: From Round 3 each player should nominate one of their own ships, that ship is worth 2 Victory Points if it survives until the end of the game.
 
 ### Mission 2 - Target Acquired
 
