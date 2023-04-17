@@ -1,0 +1,19 @@
+<!-- Header -->
+<header id="header">
+    <h1><a href="index.html">Future Imperfect</a></h1>
+    <nav class="links">
+        <ul>
+            {% for item in site.data.top_nav %}
+            <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+            {% endfor %}
+        </ul>
+
+    </nav>
+    <nav class="main">
+        <ul>
+            <li class="menu">
+                <a class="fa-bars" href="#menu">Menu</a>
+            </li>
+        </ul>
+    </nav>
+</header>

@@ -6,77 +6,16 @@
 -->
 <html>
 	
-<head>
-	<title>test</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-	<link rel="stylesheet" href="assets/css/styles.css" />
-	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link
-		href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700;800;900&family=Source+Sans+Pro:wght@400;700;900&display=swap"
-		rel="stylesheet">
-</head>
-
+{% include head.html %}
 
 <body class="is-preload">
 
 	<!-- Wrapper -->
 	<div id="wrapper">
 
-		<!-- Header -->
-<header id="header">
-    <h1><a href="index.html">Future Imperfect</a></h1>
-    <nav class="links">
-        <ul>
-            
-            <li><a href="/">Home</a></li>
-            
-            <li><a href="/about.html">About</a></li>
-            
-        </ul>
+		{% include header.html %}
 
-    </nav>
-    <nav class="main">
-        <ul>
-            <li class="menu">
-                <a class="fa-bars" href="#menu">Menu</a>
-            </li>
-        </ul>
-    </nav>
-</header>
-
-		<!-- Menu -->
-<section id="menu">
-    <section>
-        <ul class="links">
-            <li>
-                <a href="#">
-                    <h3>Lorem ipsum</h3>
-                    <p>Feugiat tempus veroeros dolor</p>
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <h3>Dolor sit amet</h3>
-                    <p>Sed vitae justo condimentum</p>
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <h3>Feugiat veroeros</h3>
-                    <p>Phasellus sed ultricies mi congue</p>
-                </a>
-            </li>
-            <li>
-                <a href="#">
-                    <h3>Etiam sed consequat</h3>
-                    <p>Porta lectus amet ultricies</p>
-                </a>
-            </li>
-        </ul>
-    </section>
-</section>
+		{% include mainmenu.html %}
 
 		
 		<!-- Main -->
@@ -86,14 +25,13 @@
 			<article class="post">
 				<header>
 					<div class="title">
-						<h2>test</h2>
-						
-						<p>some data</p>
-						
+						<h2>{{ page.title }}</h2>
+						{% if page.subtitle %}
+						<p>{{ page.subtitle }}</p>
+						{% endif %}
 					</div>
 				</header>
-				<h1 id="test">Test</h1>
-
+				{{ content }}
 			</article>
 
 		</div>
@@ -224,12 +162,7 @@
 
 	</div>
 
-	<!-- Scripts -->
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/browser.min.js"></script>
-<script src="assets/js/breakpoints.min.js"></script>
-<script src="assets/js/util.js"></script>
-<script src="assets/js/main.js"></script>
+	{% include scripts.html %}
 
 </body>
 
