@@ -65,7 +65,7 @@ Models that spend any part of their activation within Dangerous terrain must rol
 
 ### Objectives
 
-Squadrons has three types of objectives: scan, recover, and destroy.
+Squadrons has three types of objectives: **Scan**, **Recover**, and **Destroy**.
 
 #### Scan
 
