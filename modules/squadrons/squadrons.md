@@ -9,7 +9,7 @@ permalink: /modules/squadrons/
 
 #### Battlefield
 
-Squadrons is best played on either a 3ft x 3ft or similar sized area.
+Squadrons is best played on a 3ft x 3ft or similar sized area.
 
 #### Rounds
 
