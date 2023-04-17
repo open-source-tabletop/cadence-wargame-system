@@ -2,6 +2,7 @@
 layout: single
 title: Modules
 subtitle: Find a game to play
+permalink: /modules/
 ---
 
 ### Squadrons

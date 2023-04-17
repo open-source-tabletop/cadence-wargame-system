@@ -15,13 +15,13 @@ Squadrons is best played on a 3ft x 3ft or similar sized area.
 
 Each game of Squadrons lasts for 3 rounds, at the end of the 3rd round the players should roll a d6, on a roll of 3 or more there is also a 4th round.
 
-Each model in Squadrons represents a single ship of fighter or bomber scale referred to throughout as Ships. You may use any models you find appropriate so long as the scale and bases are consistent between players, though 1/270 scale is recommended.
+Each model in Squadrons represents a single ship of fighter or bomber scale referred to throughout as **ships**. You may use any models you find appropriate so long as the scale and bases are consistent between players, though 1/270 scale is recommended.
 
 ### Ship Movement
 
 #### Move Actions
 
-Each time you activate one of your Ships you must always take a Move action, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed in a straight line directly forward. When making a Move action you may make 1 pivot up to 45 degrees at any point during your movement.
+Each time you activate one of your ships you must always take a Move action, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed and must moved in a straight line directly forward. When making a Move action you may make 1 pivot up to 45 degrees at any point during your movement.
 
 #### Advance Actions
 

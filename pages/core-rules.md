@@ -1,6 +1,7 @@
 ---
 title: Cadence
 subtitle: Core Rules version 0.1
+permalink: /core-rules/
 ---
 
 Welcome to the Cadence System, a free, community owned wargaming ruleset designed to open up a world of wargaming possibilities. These core rules provide the foundation upon which any number of games can be created, you will find a range of pre-written modules and expansions to play or you can create your own game using the system.
