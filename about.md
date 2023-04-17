@@ -1,7 +1,6 @@
 ---
 layout: single
-title: About
-subtitle: some data
+title: About Cadence
 ---
 
 # About Cadence

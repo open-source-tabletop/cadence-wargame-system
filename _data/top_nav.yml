@@ -1,4 +1,6 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
+- name: About Cadence
+  link: /about
+- name: Core Rules
+  link: /core-rules
