@@ -5,19 +5,17 @@ subtitle: A space combat game featuring fighter scale ships.
 permalink: /modules/squadrons/
 ---
 
+Squadrons is a game of space combat between small fighter or bomber scale ships. Each player commands a squadron of around 5 to 15 ships, performing high speed manoeuvres as they try to take down their opponents ships.
+
 ## Module Rules
 
-#### Battlefield
+#### Playing Squadrons
 
 Squadrons is best played on a 3ft x 3ft or similar sized area.
 
-#### Rounds
-
 Each game of Squadrons lasts for 3 rounds, at the end of the 3rd round the players should roll a d6, on a roll of 3 or more there is also a 4th round.
 
-#### Ships 
-
-Each model in Squadrons represents a single ship of fighter or bomber scale referred to throughout as Ships.
+Each model in Squadrons represents a single ship of fighter or bomber scale referred to throughout as Ships. You may use any models you find appropriate so long as the scale and bases are consistent between players, though 1/270 scale is recommended.
 
 ### Ship Movement
 
