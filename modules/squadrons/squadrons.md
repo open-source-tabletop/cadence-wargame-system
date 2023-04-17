@@ -2,13 +2,10 @@
 layout: single
 title: Squadrons
 subtitle: A space combat game featuring fighter scale ships.
+permalink: /modules/squadrons/
 ---
 
-## Section 1 - Rules
-
-This game uses the Cadence Wargame System for it's core rules with the following additional rules.
-
-### Playing Squadrons
+## Module Rules
 
 #### Battlefield
 
@@ -24,13 +21,11 @@ Each model in Squadrons represents a single ship of fighter or bomber scale refe
 
 ### Ship Movement
 
-Ships in Squadrons are flying at high speeds meaning they need to be carefully manoeuvred.
-
-#### Move Action
+#### Move Actions
 
 Each time you activate one of your Ships you must always take a Move action, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed in a straight line directly forward. When making a Move action you may make 1 pivot up to 45 degrees at any point during your movement.
 
-#### Advance Action
+#### Advance Actions
 
 When you make an Advance action you follow the same rules as above for making a Move action. Alternatively you may instead move 2 inches forward and pivot your model exactly 180 degrees.
 
@@ -44,7 +39,7 @@ When this model is targeted for an attack it may try to evade the attack if it s
 
 ### Ship Attacks
 
-#### Attack Targets
+#### Targets
 
 Ships may choose any ship as a target, even when they have enemy ships within 1 inch.
 
@@ -86,9 +81,7 @@ A Recover objective is secured in the same way as a Scan objective, except that 
 
 A Destroy objective is treated much the same as an enemy ship, with Defence, Toughness and Hit Point attributes. Unless otherwise specified these are all 3. A Destroy objective belongs to one player and is scored for the opposite player when it is destroyed, regardless of which model destroys it.
 
-## Section 2 - Army Lists
-
-### Building an Army
+## Building an Army
 
 Players should select units from either the Imperial Ships or Rebel Ships lists. Players may also add upgrades to their ships from the list, no more than half of your ships may be given upgrades and each ship may only have one upgrade.
 
@@ -173,10 +166,9 @@ The following new special rules apply to units and weapons in Squadrons.
 | Forward | This weapon can only target enemy models that lie within the front arc of the model. |
 | Target Lock | Roll a d6 before making any attack rolls, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
 
-Section 3 - Missions
-====================
+## Missions
 
-## Targets and Kills
+### Victory Points
 
 In addition to scoring Victory Points by securing objective markers you also score Victory Points by eliminating enemy ships. Missions may identify specific ships that are worth additional Victory Points for destroying. You also score Victory Points for the following:
 
@@ -185,48 +177,58 @@ In addition to scoring Victory Points by securing objective markers you also sco
 - 1VP for destroying more than half of the enemy ships.
 - 2VP for destroying all enemy ships.
 
-## Mission 1 - Debris Field
+### Mission 1 - Debris Field
 
-### Battlefield
+##### Battlefield
 
 The players will both take opposing table edges, if playing on a rectangular table this should be the shorter table edges, they may place 2 Entry Points anywhere on their table edge.
 
 This mission is best played
 
-### Objectives
+##### Primary Objectives
 
-**Primary Objectives**: Place 4 Scan Objectives on the table each 9 inches from the centre towards each of the corners. Each Scan Objective is worth 2 Victory Points, these remain on the table after being scored and may be scored by both players.
+Place 4 Scan Objectives on the table each 9 inches from the centre towards each of the corners. Each Scan Objective is worth 2 Victory Points, these remain on the table after being scored and may be scored by both players.
 
-**Secondary Objectives**: From Round 2 each objective you have scanned becomes a Destroy Objective worth 1 Victory Point.
+##### Secondary Objectives
 
-**Targets**: From Round 3 each player should nominate one of their own ships, that ship is worth 2 Victory Points if it survives until the end of the game.
+From Round 2 each objective you have scanned becomes a Destroy Objective worth 1 Victory Point.
 
-## Mission 2 - Target Acquired
+##### Targets
 
-### Attacker and Defender
+From Round 3 each player should nominate one of their own ships, that ship is worth 2 Victory Points if it survives until the end of the game.
+
+### Mission 2 - Target Acquired
+
+##### Attacker and Defender
 
 One player is considered the attacker and the other the defender, players can agree or roll-off to determine this.
 
-### Battlefield
+##### Battlefield
 
 The players will both take opposing table edges, if playing on a rectangular table this should be the longer table edges. The player that is the attacker must place one Entry Point in the centre of their table edge. The player that is the defender places two entry points at each end of their table edge.
 
-### Objectives
+##### Primary Objectives
 
-**Primary Objectives**: The defender places two Destroy objectives near their table edge. They must be 6 inches directly in front of their table edge and at least 6 inches from any other table edge or from each other. At the end of the 3rd round any destroyed Primary Objective is worth 3 Victory Points to the attacker and any surviving Primary Objective is worth 3 Victory Points to the defender.
+The defender places two Destroy objectives near their table edge. They must be 6 inches directly in front of their table edge and at least 6 inches from any other table edge or from each other. At the end of the 3rd round any destroyed Primary Objective is worth 3 Victory Points to the attacker and any surviving Primary Objective is worth 3 Victory Points to the defender.
 
-**Targets**: The defender should nominate one of the attackers ships before the game begins, they score 2 Victory Points if they destroy that ship before the end of Round 2, or 1 Victory Point in any subsequent turn.
+##### Targets
 
-## Mission 3 - Crossed Paths
+The defender should nominate one of the attackers ships before the game begins, they score 2 Victory Points if they destroy that ship before the end of Round 2, or 1 Victory Point in any subsequent turn.
 
-### Battlefield
+### Mission 3 - Crossed Paths
+
+##### Battlefield
 
 Players take diagonally opposite corners and place an entry marker on it. 
 
-### Objectives
+##### Primary Objectives
 
-**Primary Objective**: Place one Scan Objective in the centre of the table and 4 more 9 inches away towards each of the corners of the table. Each Scan Objective is worth 1 Victory Point.
+Place one Scan Objective in the centre of the table and 4 more 9 inches away towards each of the corners of the table. Each Scan Objective is worth 1 Victory Point.
 
-**Secondary Objectives**: When any of the Primary Objectives have been secured they are replaced with Recover Objectives, each worth 2 Victory Points.
+##### Secondary Objectives
 
-**Targets**: Each player should nominate one of their own ships, they score 1 Victory Point if that ship survives to the end of the game.
+When any of the Primary Objectives have been secured they are replaced with Recover Objectives, each worth 2 Victory Points.
+
+##### Targets
+
+Each player should nominate one of their own ships, they score 1 Victory Point if that ship survives to the end of the game.

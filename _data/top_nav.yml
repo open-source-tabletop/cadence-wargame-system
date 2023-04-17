@@ -1,6 +1,8 @@
 - name: Home
   link: /
 - name: About Cadence
-  link: /about
+  link: /about/
 - name: Core Rules
-  link: /core-rules
+  link: /core-rules/
+- name: Modules
+  link: /modules/
