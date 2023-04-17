@@ -75,7 +75,7 @@ Units consisting of more than one model must stay within close proximity of each
 
 It is possible for your unit to become out of formation during another units activation, by losing models as they are destroyed for example. If this happens, the next time the unit activates it must immediately make a move action to restore being in formation. If it cannot be resume being in formation after it's move action the unit is destroyed and removed from the game.
 
-#### Direction
+#### Facing and Arcs
 
 Every model in Cadence has a forward facing direction, typically the direction the miniature is facing but if this is not obvious you should agree with your opponent or mark a point on the model's base. By extension there is also an opposite backwards facing for the model.
 
