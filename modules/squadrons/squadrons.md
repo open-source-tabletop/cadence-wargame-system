@@ -9,7 +9,7 @@ Squadrons is a game of space combat between small fighter or bomber scale ships.
 
 ## Module Rules
 
-#### Playing Squadrons
+### Playing Squadrons
 
 Squadrons is best played on a 3ft x 3ft or similar sized area.
 
