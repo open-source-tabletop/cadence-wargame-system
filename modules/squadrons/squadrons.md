@@ -85,7 +85,7 @@ Players should select units from either the Imperial Ships or Rebel Ships lists.
 
 One ship in your squadron should be designated as your Squadron Leader and gains the special rule of the same name.
 
-Games are best played at 100, 150, and 200 point limits depending on the size of game you wish to play.
+Games are best played at 50, 100, and 150 point limits for regular games. At higher points you may require a larger area for your games.
 
 ### Imperial Ships
 
