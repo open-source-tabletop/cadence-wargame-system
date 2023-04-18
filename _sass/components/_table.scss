@@ -13,7 +13,8 @@
 
 	table {
 		margin: 0 0 _size(element-margin) 0;
-		width: 100%;
+		max-width: 100%;
+		min-width: 60%;
 		font-size: 0.85em;
 
 		tbody {

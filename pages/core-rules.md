@@ -79,7 +79,7 @@ It is possible for your unit to become out of formation during another units act
 
 Every model in Cadence has a forward facing direction, typically the direction the miniature is facing but if this is not obvious you should agree with your opponent or mark a point on the model's base. By extension there is also an opposite backwards facing for the model.
 
-In addition a model divides the battlefield into two zones: it's front and rear arcs. Draw a line through the center of your model at a right angle to the forward facing, everything in front of that line is considered the front arc with everything behind that line considered the rear arc. A model or object is in the front arc if any part of it is within the front arc.
+In addition a model divides the battlefield around it into 4 zones, 90 degree arcs around the center of the model. The front 90 degree arc is centered on the models forward facing, the rear arc aligned to the rear facing, and the left and right arcs to the left and right of the model. To determine which arc a model or unit is in it is always considered in the front-most possible arc, if a model or unit is partially in more than one arc the front arc takes priority, the left and right arcs take the next priority, with the rear arc being the lowest priority.
 
 ### Weapons
 
@@ -330,6 +330,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Non-Scoring | This unit cannot secure objectives. |
 | Resilient | This model may re-roll any failed defence rolls that roll a 1. |
 | Rugged | This model ignores the penalty for travelling through rough terrain. |
+| Shields (X) | While this model has it's full Hit Points it adds X to it's Toughness. |
 | Skilled | This unit may re-roll any attack rolls that roll a 1. |
 | Stealth | Attacks against this model from more than 12 inches away suffer -1 to their Attack Rolls. |
 | Support | Models with this rule do not need to be deployed on the first turn and may instead be held in reserve in subsequent turns. These models must be deployed in the second or third turn. |
@@ -339,10 +340,12 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Rules | Details |
 | ----- | ------- |
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
+| Arc (X) | This weapon may only be used against models in the named arcs. |
 | Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
 | Heavy | A unit must spend an additional Command Point to use this weapon. |
 | Indirect | Attacks with this weapon count an obscured line of sight as clear. |
 | One Use | This weapon may only be used once per battle. |
+| Rapid Fire | This weapon gains +1 to it's Attack attribute against targets within half of it's maximum range. |
 | Rending (X) | Weapons with this rule automatically cause additional X damage when the attack roll is a 6. |
 | Torrent | An attack with this weapon hits on any attack roll that is not a 1. |
 

@@ -107,13 +107,13 @@ Games are best played at 50, 100, and 150 point limits for regular games. At hig
 
 ### Weapons
 
-| Weapon                    | Rng | Att | Dmg | Prc | Special Rules               |
-| :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
-| Laser Cannons             | 12  |  6  |  2  |  0  | Fixed                       |
-| Twin Laser Cannons        | 12  |  8  |  2  |  0  | Fixed                       |
-| Heavy Laser Cannon        | 16  |  6  |  3  |  1  | Fixed                       |
-| Concussion Missiles       | 16  |  3  |  8  |  1  | Heavy, Forward, Target Lock |
-| Heavy Concussion Missiles | 16  |  3  |  9  |  2  | Heavy, Forward, Target Lock |
+| Weapon                    | Rng | Att | Dmg | Prc | Special Rules                   |
+| :------------------------ | :-: | :-: | :-: | :-: | :------------------------------ |
+| Laser Cannons             | 12  |  6  |  2  |  0  | Fixed                           |
+| Twin Laser Cannons        | 12  |  8  |  2  |  0  | Fixed                           |
+| Heavy Laser Cannon        | 16  |  6  |  3  |  1  | Fixed                           |
+| Concussion Missiles       | 16  |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock |
+| Heavy Concussion Missiles | 16  |  3  |  9  |  2  | Heavy, Arc (Front), Target Lock |
 
 ### Upgrades
 
@@ -152,7 +152,6 @@ The following new special rules apply to units and weapons in Squadrons.
 | :--- | :------ |
 | Agile | This ship may make an additional 45 degree turn during a Move Action. |
 | Boost | If this ship does not pivot during a Move action it may add 1 inch to it's movement. |
-| Shields (X) | While this ship has it's full Hit Points it adds X to it's Toughness. |
 | Squadron Leader | Friendly ships within 6 inches of this ship do not have to roll to see if they lose a Command Point when activating with just 1. This ship also gains +1 to it's Command attribute on the first round, up to a maximum of 6. |
 
 #### Weapon Special Rules
@@ -160,7 +159,6 @@ The following new special rules apply to units and weapons in Squadrons.
 | Rules | Details |
 | :---- | :------ |
 | Fixed | This weapon can only target enemy models that are directly on the line of this models forward facing measured from the centre of the base. |
-| Forward | This weapon can only target enemy models that lie within the front arc of the model. |
 | Target Lock | Roll a d6 before making any attack rolls, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
 
 ## Missions
