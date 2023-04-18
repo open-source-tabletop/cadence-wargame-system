@@ -34,4 +34,12 @@ Models that purchased a horse as part of their equipment may call it during thei
 
 ## Creating a Gang
 
-Creating a gang for Devil's Bluff 
+Creating a gang for Devil's Bluff is simple, you have 50 points to spend creating your Gang Leader and up to 2 more Legendary Gunslingers. You may then spend another 50 points on Hired Guns.
+
+### Legendary Characters
+
+You have 50 points to spend creating Legendary Gunslingers, one of which should be given the Gang Leader upgrade. No upgrade option may be taken twice in your gang.
+
+Each Legendary Gunslinger starts with the profile below and may purchase up to 3 Upgrades. You may then purchase up to 3 weapons or equipment options.
+
+### Hired Guns
