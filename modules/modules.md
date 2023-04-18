@@ -5,6 +5,10 @@ subtitle: Find a game to play
 permalink: /modules/
 ---
 
+### Devil's Bluff
+
+<a href="{% link modules/devils-bluff/devils-bluff.md %}" class="button">Devil's Bluff</a>
+
 ### Squadrons
 
 Squadrons is a space combat game featuring fighter scale ships.
@@ -13,4 +17,4 @@ Squadrons is a space combat game featuring fighter scale ships.
 
 ### Scraplands Showdown
 
-[Scraplands]({% link modules/scraplands-showdown/scraplands-showdown.md %})
+<a href="{% link modules/scraplands-showdown/scraplands-showdown.md %}" class="button">Scraplands Showdown</a>
