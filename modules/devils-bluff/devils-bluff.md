@@ -31,3 +31,7 @@ Models that purchased a horse as part of their equipment may call it during thei
 | Rule    | Details    |
 | :------ | :--------- |
 | Mounted | This model gains +6 to it's Movement attribute. <br>This model suffers -1 to it's Attack Rolls if it declared a Move action this activation. <br>This model may use the Trample weapon. |
+
+## Creating a Gang
+
+Creating a gang for Devil's Bluff 
