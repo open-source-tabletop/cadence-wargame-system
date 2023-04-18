@@ -11,11 +11,11 @@ Welcome to the town of Devil's Bluff: a lawless place where anything goes and da
 
 ### Playing Devil's Bluff
 
-Devil's Bluff requires a battlefield around 2ft by 3ft, or something with a similar area. Each game of Devil's Bluff lasts for 4 round. 
+Devil's Bluff requires a battlefield around 2ft by 3ft, or something with a similar area. Each game of Devil's Bluff lasts for 4 rounds. 
 
 Each gang will normally consist of between 6 and 10 models. You will need a selection of 28mm scale miniatures suitable for a Wild West theme and may include models that have a mounted version.
 
-#### Action: Call Horse
+### Action: Call Horse
 
 Models that purchased a horse as part of their equipment may call it during their activation. The player rolls a d6 and on a roll of a 2 or more the model gains the **Mounted** special rule. A model with the **Mounted** special rule may choose to dismount, removing the special rule, at the start of any subsequent activation.
 
