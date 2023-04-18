@@ -1,24 +1,14 @@
 ---
-layout: single
 title: Modules
 subtitle: Find a game to play
 permalink: /modules/
 ---
 
-### Dark Millenium
+{% for module in site.data.module_list %}
 
-<a href="{% link modules/dark-millenium/shadow-war/shadow-war.md %}" class="button">Dark Millenium: Shadow War</a>
+### [{{module.name}}]({{module.link}})
 
-### Devil's Bluff
+{{module.description}}
 
-<a href="{% link modules/devils-bluff/devils-bluff.md %}" class="button">Devil's Bluff</a>
 
-### Squadrons
-
-Squadrons is a space combat game featuring fighter scale ships.
-
-<a href="{% link modules/squadrons/squadrons.md %}" class="button">Squadrons</a>
-
-### Scraplands Showdown
-
-<a href="{% link modules/scraplands-showdown/scraplands-showdown.md %}" class="button">Scraplands Showdown</a>
+{% endfor %}

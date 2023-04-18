@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Scraplands Showdown
 subtitle: Vehicular Combat Racing in a post-apocalyptic wasteland
 permalink: /modules/scraplands-showdown/

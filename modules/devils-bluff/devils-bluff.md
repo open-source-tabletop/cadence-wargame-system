@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Devils' Bluff
 subtitle: A Wild West Skirmish game in the Lawles
 permalink: /modules/devils-bluff/

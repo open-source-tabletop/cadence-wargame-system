@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Squadrons
 subtitle: A space combat game featuring fighter scale ships.
 permalink: /modules/squadrons/
