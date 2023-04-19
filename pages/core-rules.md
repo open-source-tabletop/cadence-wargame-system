@@ -6,7 +6,7 @@ permalink: /core-rules/
 
 Welcome to the Cadence System, a free, community owned wargaming ruleset designed to open up a world of wargaming possibilities. These core rules provide the foundation upon which any number of games can be created, you will find a range of pre-written modules and expansions to play or you can create your own game using the system.
 
-## Section 1 - Basic Rules
+## Basic Rules
 
 ### Dice
 
@@ -46,6 +46,12 @@ Each model in Cadence has a set of attributes that tell you how well it can perf
 - Defence (Def): The model's armour or ability to negate attacks.
 - Toughness (Tgh): How much damage the model can take for each of it's hit points.
 - Hit Points (HP): How much damage the model can take before being destroyed.
+
+#### Showing Command Points and Hit Points
+
+During a game you will place a d6 next to each of your units to show how many Command Points they have remaining this round, refreshed at the start of each new round. You also use a d6 to show how many hit points a unit has remaining after they take damage. It is important to use different colour dice to represent each of these and to ensure that these will not be mixed up with your opponents dice or those you use to make rolls.
+
+It is best to use a red or warm colour for hit points and a blue or cold colour dice for command points.
 
 #### Special Rules
 
@@ -89,31 +95,30 @@ Victory Points are awarded to players throughout the game based on the mission o
 
 #### Objective Markers
 
-Objectives are a key component of most missions, small markers that represent key points on the battlefield: such as resources to be collected, equipment to be destroyed, or zones to be controlled. An objective marker is typically a 40mm circle, though small models or other appropriate objects can be used for a more thematic experience. Objectives come in 4 types, each of which can first be secured, or controlled by a unit, and then scored, when they award points according to a mission.
+Objectives Markers represent key points on the battlefield, such as resources to be collected, intel to be gathered, or zones to be controlled. An objective marker is typically a 40mm token or miniature. Objectives come in 3 basic types, each of which can first be secured, or controlled by a unit, and then scored when they award points according to a mission. Additional types may be specified by a game module.
 
-Objectives are secured using the "Secure" action when a unit is within 1 inch of the objective marker. If no other enemy units are within 3 inches of the objective marker then the marker may be secured. The unit attempting to secure an objective must make a successful Secure Roll, rolliing a d6 and scoring 4 or higher, to secure the objective.
+To secure an Objective Marker, a unit must use the "Secure" action when it is within 1 inch of the marker and no enemy units are within 3 inches of it. The unit must make a successful Secure Roll, rolling a d6 and scoring 3 or higher to secure an objective.
 
-Objectives can be one of the following four types:
+Objectives can be one of the following 3 types:
 
-- **Control**: Once a control objective is secured, it remains secured so long as at least 1 unit from the securing army stays within 1 inch of the objective.
-- **Destroy**: Once a player has secured this objective it must remain secured until the end of the next round at which point it is destroyed and removed from the battlefield.
-- **Access**: Once this objective is secured it is scored at the end of that round and then removed from the game. Access objectives cannot be secured on the first round.
-- **Recover**: Once this objective is secured the unit that secured it must survive until the end of the battle to score any victory points from it. If the unit that secured the objective is destroyed the objective is destroyed.
+- Control: Once a control objective is secured, it remains secured so long as at least 1 unit from the securing army stays within 3 inches of the objective.
+- Access: Once this objective is secured the unit that secured it must stay within 1 inch until the end of the current round, after which it is removed from the game and scored. Access objectives cannot be secured on the first round.
+- Recover: Once this objective is secured the unit that secured it must survive until the end of the battle to score any victory points from it. If the unit that secured the objective is destroyed the objective is destroyed.
 
 #### Entry Points
 
-When you begin the first round of a game you begin with all of your units off the table "in reserve". To be able to deploy your units you have a number of markers called Entry Points that you will be instructed to set up on the table, typically along a table edge. This is covered in more detail in Section 2.
+At the start of the game, all of your units begin off the table and are considered "in reserve." To deploy your units onto the table, you set up a number of Entry Points markers according to your mission. During the first round your models will activate from reserve and make their way onto the battlefield from these Entry Points, typically located along a table edge.
 
 #### Mission Parameters
 
-When choosing your mission each will provide a list of Mission Parameters, detailing some or all of the following information:
+Each mission includes some parameters, detailing some or all of the following information:
 
 - Any rules for setting up the terrain on your table.
 - The number and type of objectives to be placed on your table.
 - The conditions under which players will score Victory Points.
 - The placement of Entry Points, used for deploying your units onto the battlefield.
 
-## Section 2 - Playing the Game
+## Playing the Game
 
 ### Structure of a Game
 
@@ -141,11 +146,11 @@ Stage 2 is played in a series of rounds with the following steps each round:
 
 #### Choosing A Mission
 
-The first step in setting up your game is to choose a mission to play. Every game of Cadence is played using a mission that provides a set of parameters that outline the setup of your board, the length of the game, the victory conditions for the battle, and other relevant information. There are 3 basic missions included in the Advanced Rules sections with more available from modules, you should also feel free to create your own.
+Choose a mission that outlines the setup of your board, game length, victory conditions, and other relevant information. You can use one of the 3 basic missions provided or create your own. More missions may be available from game modules.
 
 #### Set Up Terrain
 
-Your chosen mission may include some guidance on setting up your terrain but most will allow you to set up your terrain from your collection as you see fit. Try to include a mix of terrain such as large line of sight blocking elements and smaller, cover-providing scatter pieces. If one player sets up all the terrain, then the other player should be provided an opportunity to modify the setup.
+Set up your terrain according to your chosen mission or as you see fit. Include a mix of large line-of-sight blocking elements and smaller scatter pieces. If one player sets up all the terrain, the other player should have an opportunity to modify it.
 
 #### Set Up Markers
 
@@ -153,39 +158,33 @@ Set up any Objective Markers and Entry Points according to your Mission Paramete
 
 #### Put Armies into Reserve
 
-Once you have your battlefield set up you are almost ready to begin the battle. Place all the units that will be used in the game near the table so that both players can see which units each player is using, and which units are already deployed as the game progresses.
+Place all units to be used in the game near the table so that both players can see which units each player is using, and which units are already deployed as the game progresses.
 
 ### Battle
 
 #### Rounds
 
-The battle stage of a game of Cadence is played through a number of rounds, during which players will be able to activate their units to move and fight. Unless otherwise specified a game of Cadence lasts for 4 rounds.
+The battle stage of a game of Cadence is played over a set number of rounds, typically four. During each round, players take turns activating their units to move and fight.
 
 #### Roll for Initiative
 
-At the start of each new round players should roll-off, the player that rolls the highest has the initiative this round and will have the first activation.
+At the start of each new round, players roll-off to determine who has the initiative for that round. The player who rolls the highest has the initiative and gets the first activation.
 
 #### Place Command Dice
 
-Every unit in your army will need a Command Dice, a d6 in a different colour from those you roll or mark hit points with, placed next to it at the start of a new round. Each dice should be placed with the top face showing the unit's Command attribute, this is the unit's Command Points for this round. On the first turn this should also be done for each unit that you have in reserve.
+Each unit in your army needs a Command Dice - a d6 in a different color from those used for hit points - placed next to it at the start of a new round. The top face of the die should show the unit's Command attribute, which represents the unit's Command Points for that round. On the first turn, this should also be done for each unit that you have in reserve.
 
 #### Alternate Activations
 
-Once players have placed all of their Command Dice they can begin taking turns, starting with the player that won the initiative, to activate one of their units.
+Once both players have placed all of their Command Dice, they can take turns activating one of their units, starting with the player who won the initiative. Players select a unit that still has Command Points and spend those points to perform a number of actions from a selection listed below. After performing all desired actions play moves onto the next player to repeat this process.
 
-Players choose one of their units that still has Command Points, these are then spent to perform a number of actions from the selection below. Once the player has performed all the actions it wishes to they then pass, allowing the other player to then activate one of their units.
-
-This will continue until the players have used all of the Command Points on all of their units. If one player has no units remaining to activate then play automatically returns to the other player until all players have finished.
+This continues until both players have used all of the Command Points on all of their units. If one player has no units left to activate, play returns to the other player until both players have finished.
 
 ##### Deploying From Reserve
 
-As your units do not begin on the battlefield they must be deployed from reserve. When it is your turn to activate a unit you may choose a unit already on the battlefield or one in reserve. If you choose a unit in reserve it is placed up to it's Movement attribute in inches from one of your Entry Points and then activates as normal. This does not count as having taken a Move action and can be done before declaring your actions for that unit.
+As your units do not begin on the battlefield, they must be deployed from reserve. When it is your turn to activate a unit, you may choose a unit already on the battlefield or one in reserve. If you choose a unit in reserve, it is placed up to its Movement attribute in inches from one of your Entry Points and then activates as normal. This does not count as having taken a Move action and can be done before declaring your actions for that unit.
 
-Some restrictions apply to deploying your models from reserve:
-
-- Unless another rule permits it, each player must deploy all of their units on the battlefield during the first turn.
-- If a unit cannot be placed within range of an entry point then it cannot be deployed. If it must be deployed but cannot be placed then it is destroyed.
-- If a round ends with a player having no units on the battlefield, even if they still have some in reserve, then that player immediately forfeits the game.
+Unless another rule permits it, each player must deploy all of their units on the battlefield during the first turn. If a unit cannot be placed within range of an entry point, then it cannot be deployed. If it must be deployed but cannot be placed, it is destroyed.
 
 ### Actions
 
@@ -196,44 +195,41 @@ When you activate a unit you first declare a number of actions and the order you
 - You may only perform each action once per activation.
 - If you start your activation with only 1 Command Point available, roll a d6, on a roll of a 1 this last Command Point is lost. This still counts as your activation.
 
+When you activate a unit, you first declare the actions you are going to perform and the order in which you will perform them. You then pay the appropriate cost from the unit's Command Points, but you do not have to spend all of them in one activation. Keep in mind the following restrictions:
+
+- You must spend at least 2 Command Points per activation, unless your unit has only 1 Command Point remaining.
+- You may spend a maximum of 4 Command Points per activation.
+- You may only perform each action once per activation.
+- If you begin your activation with only 1 Command Point remaining, roll a d6. On a roll of 1, this last Command Point is lost, and this still counts as your activation.
+
 ### Action: Move
 
-When you take a Move action each model in your unit can be moved up to it's Movement attribute in inches. Each model in the unit is moved according to the rules outlined below and the unit must finish this action in formation.
+During a Move action, each model in a unit can move up to its Movement attribute in inches, as long as the unit finishes in formation. Always measure from the same point on the base to avoid moving any part of the model beyond the allowed distance. Models move in a straight line along their forward facing, but may pivot on the spot as needed.
 
-When moving a model always measure from the same point on the base to ensure no part of the model moves more than the allowed distance. Models should always be moved in a straight line along their forward facing but may be pivoted on the spot as often as needed.
-
-There are some points to remember when moving:
-
-- A model may not move over the base of any enemy models but may move over the base of a friendly model so long as it can finish it's movement without any bases overlapping.
-- A model may not be moved out of the boundary of your battlefield.
+Models cannot move over the base of any enemy models, but can move over friendly models' bases as long as they don't overlap when they finish moving. Models should not move outside of the game board, any that do so are immediately destroyed.
 
 #### Terrain
 
-When you move your models they will often find different types of terrain in their path, most of which they will have to move around as they cannot pass through it.
-
-There are several types of terrain that can affect how your models move and these are covered in the Advanced Rules section later in this book.
+During the movement phase, models may encounter various types of terrain, which may impede their movement. There are different types of terrain, each with specific rules that can affect the movement of models. For more information on terrain rules, please refer to the Advanced Rules section.
 
 ### Action: Advance
 
-An Advance action follows the same rules as a Move action but must be taken immediately after a Move Action.
+An Advance action follows the same rules as a Move action but must be taken immediately after a Move action.
 
 ### Action: Attack
 
-When a unit takes an attack action you begin by declaring which models in your unit will target which enemy units and which weapons you will be using. A model that has more than one weapon may only use one when making an attack. You may choose different targets for each of your models in a unit.
+When your unit takes an attack action, you declare which models in your unit will target which enemy units and which weapons you will use. Each model can use only one weapon. You may choose different targets for each model in your unit. If there are any enemy units within 1 inch of your unit, you must choose one of them as your target.
 
-If you have any enemy units within 1 inch of your unit you must choose one of those as your target.
-
-Before rolling any dice for the attack you need to determine if you have line of sight to your target, if they are in range, and if they are a valid target. You may change which models are targeting which units while checking this but once you start rolling dice for an attack you may no longer change any of your targets.
+Before rolling any dice, you need to determine if you have line of sight to your target and if it is in range. You may change which models are targeting which units while checking this, but once you start rolling dice, you can no longer change your targets.
 
 #### Line of Sight
 
-For each target unit you determine your line of sight through any model in your unit that is targeting that unit. Check, from the perspective of that model (i.e. by bending down and looking through the model), to see if it can see models in the enemy unit. The result of this check will be either clear, obstructed, or blocked.
+To determine line of sight, you check if any model in your unit that is targeting the unit can see models in the enemy unit. You can ignore intervening models in both the attacking and target units. Check this by looking through the model at tabletop level.
 
-You can ignore intervening models in the attacking and target units when determining line of sight.
-
-- If you can see at least 1 model completely unobstructed in the target unit then you have a clear line of sight to that unit.
-- If you can see at least 1 model in the target unit, but every model you can see is at least partially obscured by terrain, then you have an obstructed line of sight.
-- If any of the models in the enemy unit are partially obscured by another unit, or if you cannot see any of the models in the enemy unit, then you have a blocked line of sight.
+- If you can see at least one model in the target unit without any obstruction, you have a **clear** line of sight.
+- If you can see at least one model in the target unit, but none without obstruction, you have an **obstructed** line of sight.
+- If any models in the enemy unit are partially obscured by another unit, or you cannot see any models in the enemy unit, you have a **blocked** line of sight.
+- If you are attacking a unit within 1 inch and can see any models in the unit then it always counts as a **clear** line of sight.
 
 #### Check Range
 
@@ -245,25 +241,24 @@ Once you have determined your targets and line of sights you follow the attack p
 
 #### Step 1 - Attack Rolls
 
-To determine if each attack hits the target unit you make a number of Attack Rolls equal to the attacks attribute of the weapon being used. An Attack Roll is a d6 roll trying to equal or beat the attacking model's Skill attribute. If multiple models are attacking with the same weapon against the same unit you may roll the combined number of these attacks together. Each succesful roll is considered a hit.
+Make Attack Rolls equal to the attacks attribute of the weapon being used. Each roll is a d6 trying to equal or beat the attacking model's Skill attribute. When multiple models attack with the same weapon against the same unit, roll the combined number of these attacks together. Every successful roll is a hit.
 
-- **Close Range Penalty**: Many ranged weapons are not designed for use at extremely short range, when making an attack against a target unit that is within 1 inch of your unit (not the individual model) your Attack Roll counts as having a Skill of 6. Weapons with the Assault special rule do not suffer this penalty.
-- **Height Advantage**: When making an Attack Roll against a target at a lower height level, as explained in the section on terrain, you gain a +1 to your Attack Roll.
-- **Obscured Penalty**: When making an Attack Roll against a target with an obscured Line of Sight you suffer a -1 to your Attack Roll.
+- **Close Range Penalty**: Attack Rolls against a target unit within 1 inch of your unit count as having a Skill of 6, instead of the attacking model's Skill attribute. However, weapons with the Assault special rule don't suffer this penalty.
+- **Rush Penalty**: Models using 3 or more Command Points this activation suffer a -1 penalty to their Attack Rolls.
+- **Height Advantage**: Gain a +1 to your Attack Roll when attacking a target at a lower height level.
+- **Obscured Penalty**: When attacking a target with an obscured line of sight, suffer a -1 penalty to your Attack Roll.
 
 #### Step 3 - Roll Defence
 
-For each successful hit against a target unit that player must make a number of Defence Rolls equal to the Damage attribute of the weapon being used. A Defence Roll is a d6 roll trying to score equal or higher than that unit's Defence attribute. This Defence Roll is reduced by the attacking weapons Piercing attribute.
-
-Each failed Defence Roll is 1 point of damage.
+For every successful hit against a target unit, the target player makes Defence Rolls equal to the Damage attribute of the weapon being used. Roll a d6 trying to score equal or higher than that unit's Defence attribute. This roll is reduced by the attacking weapon's Piercing attribute. Each failed Defence Roll results in 1 point of damage.
 
 #### Step 3 - Apply Damage
 
-When a unit takes damage it loses 1 hit point for every amount of damage that equals it's Toughness attribute. So a unit with a Toughness of 1 will lose 1 hit point for every point of damage, where a unit with a Toughness of 3 would lose 1 hit point for every 3 points of damage it takes. Any excess damage that is insufficient to lose another hit point is discarded.
+When a unit takes damage, it loses 1 hit point for every amount of damage that equals its Toughness attribute. For instance, a unit with a Toughness of 1 will lose 1 hit point for every point of damage, while a unit with a Toughness of 3 would lose 1 hit point for every 3 points of damage.
 
-For each lost hit point the target unit's owner chooses any model in that unit, except the leader unless it is the only model remaining, to have it's hit points reduced. If that model is reduced to 0 hit points it is destroyed, remove it from the game and select another model. Continue doing this until you have assigned all the lost hit points to models or until every model in the unit has been removed.
+The target player assigns the lost hit points to one model in the target unit, except the leader unless it's the only model remaining. If that model is reduced to 0 hit points, it's destroyed, remove it from the game, and select another model. Continue doing this until you have assigned all the damage to models, or until every model in the unit has been removed.
 
-If a model loses hit points, but is not reduced to 0, place a die next to the model showing how many hit points it has remaining. If your unit takes damage and has a model that has already taken damage in a previous attack, you must assign any new damage to that model first. In this way a unit will only ever require one dice to display remaining hit points.
+If a model loses hit points but isn't reduced to 0, place a die next to the model, indicating the remaining hit points. If your unit takes damage and has a model that has already taken damage in a previous attack, assign any new damage to that model first. This way, a unit only needs one dice to display remaining hit points.
 
 ### Action: Ability (Variable Cost)
 
@@ -271,9 +266,13 @@ An ability is a unique action that some units possess. The details of any abilit
 
 ### Action: Secure
 
-When a unit wishes to secure an objective they take a Secure action. They must be within 1 inch of the objective marker and no other enemy units can be within 3 inches of the objective marker. The unit attempting to secure an objective must make a successful Secure Roll, rolliing a d6 and scoring 4 or higher, to secure the objective.
+To secure an objective, a unit must take a Secure action while being within 1 inch of the objective marker, with no enemy units within 3 inches of the objective marker. The unit attempting to secure the objective must make a successful Secure Roll by rolling a d6 and scoring 3 or higher.
 
-## Section 3 - Advanced Rules
+### Action: Pass
+
+This action does nothing but permits a unit to wait during its turn without making another action.
+
+## Advanced Rules
 
 ### Terrain
 
@@ -318,7 +317,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Non-Scoring | This unit cannot secure objectives. |
 | Resilient | This model may re-roll any failed defence rolls that roll a 1. |
 | Rugged | This model ignores the penalty for travelling through rough terrain. |
-| Shields (X) | While this model has it's full Hit Points it adds X to it's Toughness. |
+| Shields (X) | While this model has it's full Hit Points it adds X to its Toughness. |
 | Skilled | This unit may re-roll any attack rolls that roll a 1. |
 | Stealth | Attacks against this model from more than 12 inches away suffer -1 to their Attack Rolls. |
 | Support | Models with this rule do not need to be deployed on the first turn and may instead be held in reserve in subsequent turns. These models must be deployed in the second or third turn. |
