@@ -10,23 +10,17 @@ Welcome to the Cadence System, a free, community owned wargaming ruleset designe
 
 ### Dice
 
-Cadence uses six sided dice, written as "d6", to determine the outcome of many actions and there are a few ways these are used. The most common is in an action roll, such as an attack roll to see if a weapon hits an enemy unit. action rolls are always based on a single d6, though you may make many action rolls at the same time, where each dice must score equal to or above a target number to count as a success, with anything below the target being a failure.
+Cadence uses six-sided dice ("d6") to determine the outcome of actions. Most rolls are based on a single d6 which may have modifiers applied to them. To succeed, the dice must score equal to or above a target number. However, a roll of 1 always counts as a failure regardless of any modifiers.
 
-Action rolls often have modifiers applied to them making the roll either easier or more difficult. The modifiers may affect the roll to where it would automatically succeed or automatically fail regardless of the value rolled. A roll of a 1 always counts as a failure regardless of modifiers, however a modifier that automatically fails still counts as a failure regardless of the number rolled.
+You may also be asked to "roll-off" against other players, each player rolls 2 d6. The winner is the player with the highest combined result. In case of a tie, players roll-off again.
 
-You may also be asked to "roll-off" against other players. In this case both players roll a number of d6 equal to the number of players in the roll-off with the winner being the player with the highest combined result. In the case of a tie players should roll-off again until they have unique results.
-
-Unless otherwise instructed, your dice rolls should be done in full view of all players with enough time for them to see the results.
-
-Rules that allow you re-roll a dice only allow that dice to be re-rolled once, regardless of how many rules permit it to be re-rolled. If you re-roll a dice you must accept the new result even if it is worse.
-
-Six sided dice are also used in the game to mark a unit's remaining actions and hit points. In this case the dice are not rolled but instead the top face of the dice represents the value. In practice this means you will need at least 3 colours of six sided dice to avoid mixing up these uses on the tabletop.
+Dice rolls should be done in full view of all players, and, when a rule permits you to re-roll a dice you may only re-roll a dice once.
 
 ### Distance and Measuring
 
-Measuring is another key part of the game, whether checking if a unit is in range for an attack, or seeing how far they travel when moving. Cadence uses inches for all distances and you will need a ruler marked in inches to play. When you measure the distance to or from a model you always do so from the closest point on it's base. You may measure any distance at any time so long as doing so does not interfere with the actions of your opponent or unnecessarily slow down the game.
+Measuring is important for checking range and movement. Cadence uses inches, and you'll need an inch-marked ruler to play.
 
-It is important to remember that a model or object is "within" a certain distance if any part of it is closer than the specified distance.
+Always measure the distance to or from a model from the closest point on its base. You may measure any distance at any time, as long as it doesn't interfere with your opponent's actions or unnecessarily slow down the game. Remember that a model or object is considered "within" a certain distance if any part of it is closer than the specified distance.
 
 ### Armies
 
@@ -34,21 +28,13 @@ In Cadence, each player has a selection of miniatures that represent their army.
 
 ### Units and Models
 
-To avoid confusion there are some terms relating to your miniatures which have specific meaning within the game. While you may find modules using a wide variety of miniatures in many different scales, a **model** is a miniature, or group of miniatures, which are mounted on a single base or are otherwise connected. If a model does not have a base, such as is sometimes the case with large vehicle or monster miniatures, it must have a clear footprint to count as the base within the game.
+In the game, a "model" is a specific term referring to a miniature or group of miniatures mounted on a single base or otherwise connected. If a model does not have a base, it must have a clear footprint to count as a base.
 
-Units are groupings of 1 or more models within the game. Some modules will group several models together, like soldiers in a squad, others will have each unit contain only a single model. All models must belong to exactly one unit.
+"Units" are groups of 1 or more models within the game. All models must belong to exactly one unit.
 
 #### Profiles and Attributes
 
-In order to play a game, you need to know which models you can use and what they can do on the battlefield. Each module will contain relevant unit profiles, often organised into army lists, that give you all the information you need for your units.
-
-A unit profile has the following information:
-
-- The unit's name.
-- The unit configuration, explaining which models it includes and which weapons and equipment.
-- Model attributes for each model in the unit, some modules may list these separately.
-- Special rules that apply to the unit.
-- Any abilities the unit has.
+To play the game, you need to know which models you can use and what they can do on the battlefield. Each model in the game has a profile that lists its stats and rules, including its weapons and equipment, special abilities, and any unique rules it may have. The unit profiles are provided in each module, often grouped into different factions or army lists.
 
 #### Attributes
 
@@ -71,19 +57,21 @@ Abilities are like actions that are unique to a unit. These work like normal act
 
 #### Unit Formation
 
-Units consisting of more than one model must stay within close proximity of each other during a battle, known as being "in formation". A unit is in formation when the distance between each model forms a chain connecting all the models with a gap between each model no larger than 3 inches. Every time you activate a unit, after you move each of your models, the unit must finish that action in formation.
+Units consisting of more than one model must stay within close proximity of each other during a battle, known as being "in formation". A unit is in formation when the distance between each model forms a chain connecting all the models with a gap between each model no larger than 2 inches. Every time you activate a unit, after you move each of your models, the unit must finish that action in formation.
 
-It is possible for your unit to become out of formation during another units activation, by losing models as they are destroyed for example. If this happens, the next time the unit activates it must immediately make a move action to restore being in formation. If it cannot be resume being in formation after it's move action the unit is destroyed and removed from the game.
+It is possible for your unit to become out of formation during another units activation, by losing models as they are destroyed for example. If this happens, the next time the unit activates it must make a move action ad it's first action to restore being in formation. If it cannot resume being in formation after this move action the unit is destroyed and removed from the game.
 
 #### Facing and Arcs
 
-Every model in Cadence has a forward facing direction, typically the direction the miniature is facing but if this is not obvious you should agree with your opponent or mark a point on the model's base. By extension there is also an opposite backwards facing for the model.
+Each model in Cadence has a forward-facing direction, typically the direction the miniature is facing. If this is not clear, you should agree with your opponent or mark a point on the model's base. By extension, there is also an opposite backward-facing direction for the model.
 
-In addition a model divides the battlefield around it into 4 zones, 90 degree arcs around the center of the model. The front 90 degree arc is centered on the models forward facing, the rear arc aligned to the rear facing, and the left and right arcs to the left and right of the model. To determine which arc a model or unit is in it is always considered in the front-most possible arc, if a model or unit is partially in more than one arc the front arc takes priority, the left and right arcs take the next priority, with the rear arc being the lowest priority.
+Additionally, each model divides the battlefield around it into four 90-degree zones, called arcs. The front arc is centered on the model's forward-facing direction, the rear arc is aligned with the backward-facing direction, and the left and right arcs are to the model's left and right, respectively.
+
+To determine which arc a model or unit is in, it is considered to be in the front-most possible arc. If a model or unit is partially in more than one arc, the front arc takes priority, followed by the left and right arcs, with the rear arc being the lowest priority.
 
 ### Weapons
 
-In order to fight, your models require weapons and these will be listed in your unit profile. Weapons have their own set of attributes which are usually provided in your module or army list. These are:
+The weapons that your models fight with also have their own set of attributes which are usually provided in your module or army list. These are:
 
 - Range (Rng): The distance the weapon can make an attack up to.
 - Attacks (Att): The volume or intensity of the attacks from the weapon.
@@ -93,11 +81,11 @@ In order to fight, your models require weapons and these will be listed in your 
 
 #### Missions
 
-When you play a game of Cadence you will typically choose a mission to play, this is a set of rules for how to set up your table, how armies will be deployed, and what the goal of the mission will be. A simple mission might simply see two armies fight to wipe out the oppoising army, but most provide a range of objectives that provide different goals for the players to achieve. There are 3 simple missions included in the Advance Rules section of this book with more available in modules, you should also feel free to create your own.
+When you play a game of Cadence, you will select a mission to play. A mission is a set of rules that dictates how to set up the battlefield, how armies are deployed, and what objectives players must achieve to win. Simply put, playing a game means playing a mission.
 
-#### Victory Points
+There are three simple missions included in the Advanced Rules section of this book, with more available in modules. Additionally, players are encouraged to create their own missions.
 
-In order to win a battle, players are awarded Victory Points throughout the game according to the mission they are playing. The player with the most Victory Points is the winner.
+Victory Points are awarded to players throughout the game based on the mission objectives. The player with the most Victory Points at the end of the game is declared the winner.
 
 #### Objective Markers
 
