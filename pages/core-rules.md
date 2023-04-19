@@ -260,9 +260,9 @@ The target player assigns the lost hit points to one model in the target unit, e
 
 If a model loses hit points but isn't reduced to 0, place a die next to the model, indicating the remaining hit points. If your unit takes damage and has a model that has already taken damage in a previous attack, assign any new damage to that model first. This way, a unit only needs one dice to display remaining hit points.
 
-### Action: Ability (Variable Cost)
+### Action: Ability
 
-An ability is a unique action that some units possess. The details of any ability, along with the associated Command Point cost, will be listed in the unit's profile, army list, or module.
+An ability is a unique action that some units possess. The details of any ability will be listed in the unit's profile, army list, or module.
 
 ### Action: Secure
 
