@@ -1,8 +1,9 @@
-- name: Home
-  link: /
 - name: About Cadence
   link: /about/
+  subtitle: "Learn about what Cadence is and how it works"
 - name: Core Rules
   link: /core-rules/
-- name: Modules
+  subtitle: "Read the core rules used by all game modules"
+- name: Game Modules
   link: /modules/
+  subtitle: "Find a game to play, expansions on the core rules for many settings"

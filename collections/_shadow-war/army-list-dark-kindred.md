@@ -1,7 +1,7 @@
 ---
-layout: single
 title: "Army List: Dark Kindred"
-permalink: /modules/dark-millenium/shadow-war/dark-kindred/
+subtitle: "Dark Millenium: Shadow War"
+category: alien
 ---
 
 ### Dark Kindred Special Rules

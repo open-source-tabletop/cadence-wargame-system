@@ -2772,26 +2772,25 @@ body.single #wrapper {
 
 /* Sidebar */
 #sidebar {
-  margin-right: 2em;
+  margin-left: 2em;
   min-width: 22em;
   width: 22em;
 }
 #sidebar > * {
-  border-top: solid 1px rgba(160, 160, 160, 0.3);
-  margin: 2em 0 0 0;
-  padding: 2em 0 0 0;
+  margin: 0;
+  padding: 0;
+  border-bottom: solid 1px rgba(160, 160, 160, 0.3);
 }
 #sidebar > :first-child {
-  border-top: 0;
+  border-b: 0;
   margin-top: 0;
   padding-top: 0;
 }
 @media screen and (max-width: 1280px) {
   #sidebar {
-    border-top: solid 1px rgba(160, 160, 160, 0.3);
-    margin: 2em 0 0 0;
+    margin: 0 0 2em 0;
     min-width: 0;
-    padding: 2em 0 0 0;
+    padding: 0;
     width: 100%;
     overflow-x: hidden;
   }
@@ -2961,6 +2960,21 @@ body.is-menu-visible #menu {
   #menu > * {
     padding: 1.5em;
   }
+}
+
+.module-subtitle {
+  font-family: "Raleway", Helvetica, sans-serif;
+  font-size: 0.6em;
+  font-weight: 400;
+  letter-spacing: 0.25em;
+  margin-bottom: 0;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.post h1, .post h2, .post h3, .post h4, .post h5, .post h6 {
+  padding-top: 75px;
+  margin-top: -75px;
 }
 
 /*# sourceMappingURL=styles.css.map */

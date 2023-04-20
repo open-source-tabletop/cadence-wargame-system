@@ -7,27 +7,26 @@
 /* Sidebar */
 
 	#sidebar {
-		margin-right: _size(section-spacing);
+		margin-left: _size(section-spacing);
 		min-width: 22em;
 		width: 22em;
 
 		> * {
-			border-top: solid 1px _palette(border);
-			margin: _size(section-spacing) 0 0 0;
-			padding: _size(section-spacing) 0 0 0;
+			margin: 0;
+			padding: 0;
+			border-bottom: solid 1px _palette(border);
 		}
 
 		> :first-child {
-			border-top: 0;
+			border-b: 0;
 			margin-top: 0;
 			padding-top: 0;
 		}
 
 		@include breakpoint('<=large') {
-			border-top: solid 1px _palette(border);
-			margin: _size(section-spacing) 0 0 0;
+			margin: 0 0 _size(section-spacing) 0;
 			min-width: 0;
-			padding: _size(section-spacing) 0 0 0;
+			padding: 0;
 			width: 100%;
 			overflow-x: hidden;
 		}

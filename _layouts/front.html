@@ -17,21 +17,31 @@
 
 		{% include mainmenu.html %}
 
+		{% if page.title %}
+		<header>
+			<div class="title">
+				<h2>{{ page.headline }}</h2>
+				{% if page.subtitle %}
+				<p>{{ page.subtitle }}</p>
+				{% endif %}
+			</div>
+		</header>
+		{% endif %}
 		<!-- Main -->
 		<div id="main">
 
+			{% if page.title %}
+			<header>
+				<div class="title">
+					<h2 class="align-center">{{ page.title }}</h2>
+					{% if page.subtitle %}
+					<p>{{ page.subtitle }}</p>
+					{% endif %}
+				</div>
+			</header>
+			{% endif %}
 			<!-- Post -->
 			<article class="post">
-				{% if page.title %}
-				<header>
-					<div class="title">
-						<h2>{{ page.title }}</h2>
-						{% if page.subtitle %}
-						<p>{{ page.subtitle }}</p>
-						{% endif %}
-					</div>
-				</header>
-				{% endif %}
 				{{ content }}
 			</article>
 

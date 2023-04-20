@@ -1,7 +1,7 @@
 ---
 title: "Army List: Infernals"
-permalink: /modules/dark-millenium/shadow-war/infernals/
 subtitle: "Dark Millenium: Shadow War"
+category: demonic
 ---
 
 ### Infernals Special Rules

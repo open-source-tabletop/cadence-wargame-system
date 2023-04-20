@@ -1,6 +1,5 @@
 ---
 title: "Dark Millenium: Shadow War"
-permalink: /modules/dark-millenium/shadow-war/
 subtitle: Skirmish Warfare in the Dark Millenium
 ---
 
@@ -23,7 +22,17 @@ To build your army for Shadow War you select a number of units and their equipme
 
 Included in each army list is a number of upgrades, these may be purchased for models in your army following the restrictions given in the upgrade description. In addition you may not spend more than 10 points on upgrades and may not take the same upgrade more than 3 times unless indicated.
 
-## Army Lists
 
-- [Dark Kindred]({%link modules/dark-millenium/shadow-war/army-list-dark-kindred.md %})
-- [Infernals]({%link modules/dark-millenium/shadow-war/army-list-infernals.md %})
+### Demonic Army Lists
+
+{% assign demonic_lists = site.shadow-war | where: 'category', 'demonic' %}
+{% for list in demonic_lists %}
+- [{{list.title}}]({{list.url}})
+{% endfor %}
+
+### Alien Army Lists
+
+{% assign alien_lists = site.shadow-war | where: 'category', 'alien' %}
+{% for list in alien_lists %}
+- [{{list.title}}]({{list.url}})
+{% endfor %}

@@ -3,7 +3,10 @@
     <section>
         <ul class="links">
             {% for item in site.data.top_nav %}
-            <li><a href="{{ item.link }}"><h3>{{ item.name }}</h3></a></li>
+            <li><a href="{{ item.link }}">
+                <h3>{{ item.name }}</h3>
+                <p>{{ item.subtitle }}</p>
+            </a></li>
             {% endfor %}
         </ul>
     </section>

@@ -5,3 +5,11 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "single"
+collections:
+  modules:
+    output: true
+    sort_by: title
+  shadow-war:
+    output: true
+    sort_by: title
+collections_dir: collections

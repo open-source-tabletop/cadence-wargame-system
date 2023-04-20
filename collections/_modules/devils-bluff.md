@@ -1,7 +1,6 @@
 ---
 title: Devils' Bluff
-subtitle: A Wild West Skirmish game in the Lawles
-permalink: /modules/devils-bluff/
+subtitle: A Wild West Skirmish game in the lawless town of Devil's Bluff
 ---
 
 Welcome to the town of Devil's Bluff: a lawless place where anything goes and danger walks hand-in-hand with opportunity. In this fast-paced skirmish game, you'll put together a gang of gunslingers, battle for dominance, wealth, and power, as you build your Wild West legend.
