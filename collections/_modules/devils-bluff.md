@@ -42,8 +42,8 @@ Each Legendary Gunslinger starts with the profile below and may purchase up to 3
 
 #### Legendary Character
 
-| Cmd | Mov | Skl | Def | Tgh | HP  |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|  5  | 5"  | 4+  | 6+  |  3  |  6  |
+| Name                | Cmd | Mov | Skl | Def | Tgh | HP  |
+| :-------------------| :-: | :-: | :-: | :-: | :-: | :-: |
+| Legendary Character |  5  | 5"  | 4+  | 6+  |  3  |  6  |
 
 ### Hired Guns
