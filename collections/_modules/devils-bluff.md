@@ -40,10 +40,20 @@ You have 50 points to spend creating Legendary Gunslingers, one of which should 
 
 Each Legendary Gunslinger starts with the profile below and may purchase up to 3 Upgrades. You may then purchase up to 3 weapons or equipment options.
 
-#### Legendary Character
-
 | Name                | Cmd | Mov | Skl | Def | Tgh | HP  |
 | :-------------------| :-: | :-: | :-: | :-: | :-: | :-: |
-| Legendary Character |  5  | 5"  | 4+  | 6+  |  3  |  6  |
+| Legendary Character |  5  | 5"  | 4+  | 6+  |  3  |  5  |
+
+| Upgrade | Description | Points |
+| :------ | :---------- | :----: |
+| Gang Leader | This model gains +1 Command, this does not count towards your upgrade limit. | 0 |
+| Intimidate |
+| Sneak |
+| Quick Draw |
+| Brawler |
+| Grit |
+| Sniper |
+| Lucky |
+| Hot Foot |
 
 ### Hired Guns
