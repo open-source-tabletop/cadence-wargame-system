@@ -57,3 +57,8 @@ Each Legendary Gunslinger starts with the profile below and may purchase up to 3
 | Hot Foot |
 
 ### Hired Guns
+
+{% assign parts = page.url | split '/' %}
+{% for part in parts %}
+{{part}}
+{% endfor %}
