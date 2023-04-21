@@ -40,4 +40,10 @@ You have 50 points to spend creating Legendary Gunslingers, one of which should 
 
 Each Legendary Gunslinger starts with the profile below and may purchase up to 3 Upgrades. You may then purchase up to 3 weapons or equipment options.
 
+#### Legendary Character
+
+| Cmd | Mov | Skl | Def | Tgh | HP  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  5  | 5"  | 4+  | 6+  |  3  |  6  |
+
 ### Hired Guns
