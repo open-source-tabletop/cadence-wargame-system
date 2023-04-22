@@ -12,4 +12,10 @@ collections:
   shadow-war:
     output: true
     sort_by: title
+  halo-firefight:
+    output: true
+    sort_by: title
+  legions:
+    output: true
+    sort_by: title
 collections_dir: collections

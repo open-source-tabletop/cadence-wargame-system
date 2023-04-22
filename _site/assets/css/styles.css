@@ -2976,5 +2976,8 @@ body.is-menu-visible #menu {
   padding-top: 75px;
   margin-top: -75px;
 }
+.post ul p {
+  margin-bottom: 0;
+}
 
 /*# sourceMappingURL=styles.css.map */

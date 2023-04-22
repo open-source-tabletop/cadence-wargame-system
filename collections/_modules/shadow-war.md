@@ -23,6 +23,13 @@ To build your army for Shadow War you select a number of units and their equipme
 Included in each army list is a number of upgrades, these may be purchased for models in your army following the restrictions given in the upgrade description. In addition you may not spend more than 10 points on upgrades and may not take the same upgrade more than 3 times unless indicated.
 
 
+### Human Army Lists
+
+{% assign human_lists = site.shadow-war | where: 'category', 'human' %}
+{% for list in human_lists %}
+- [{{list.title}}]({{list.url}})
+{% endfor %}
+
 ### Demonic Army Lists
 
 {% assign demonic_lists = site.shadow-war | where: 'category', 'demonic' %}
