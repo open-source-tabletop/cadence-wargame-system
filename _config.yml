@@ -12,10 +12,13 @@ collections:
   shadow-war:
     output: true
     sort_by: title
+    permalink: /modules/shadow-war/:title/
   halo-firefight:
     output: true
     sort_by: title
+    permalink: /modules/halo-firefight/:title/
   legions:
     output: true
     sort_by: title
+    permalink: /modules/legions/:title/
 collections_dir: collections
