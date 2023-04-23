@@ -14,7 +14,12 @@ layout: modules
       <p>Find something new to play.</p>
     </div>
   </header>
-  <p>From grim-dark sci-fi to the dusty saloons of the Old West, these game modules should have something for everybody, and if you have an idea for one of your own why not create one.</p>
+  <h3>Contents</h3>
+  <ul class="alt">
+    {% for module in site.modules %}
+    <li><a href="#{{ module.title| slugify }}">{{ module.title }}</a></li>
+    {% endfor %}
+  </ul>
   {% endif %}
 </article>
 
@@ -22,7 +27,7 @@ layout: modules
 <article class="post">
   <header>
     <div class="title">
-      <a href="{{module.url}}"><h2>{{ module.title }}</h2></a>
+      <a href="{{module.url}}"><h2 id="{{ module.title | slugify }}">{{ module.title }}</h2></a>
       {% if module.subtitle %}
       <p>{{ module.subtitle }}</p>
       {% endif %}

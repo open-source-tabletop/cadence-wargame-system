@@ -6,6 +6,8 @@ category: demonic
 
 ### Infernals Special Rules
 
+All Infernal models count as having the **Demon** special rule.
+
 #### Demon
 
 This model's Defence Rolls can never be modified to worse than 6+.
@@ -24,9 +26,9 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 #### Tormentor
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | 
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- |
-| Tormentor          |  5  |  5" |  3+ |  5+ |  4  |  4  | Blood Sacrifice, Demon           |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | 
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+| Tormentor          |  5  |  5" |  3+ |  5+ |  4  |  4  | Blood Sacrifice   |
 
 **Equipment**: A Tormentor is equipped with two weapons from the following list:
 
@@ -36,9 +38,9 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 #### Fiends
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- |
-| Fiend              |  5  |  5" |  3+ |  5+ |  4  |  3  | Demon                            |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------- |
+| Fiend              |  5  |  5" |  3+ |  5+ |  4  |  3  | -                            |
 
 **Equipment**: A Fiend is armed with either a Bloodsword or Dreadspear.
 
@@ -46,17 +48,17 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 #### Hounds
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | 
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- |
-| Hound              |  5  |  8" |  3+ |  5+ |  4  |  4  | Demon, Non-scoring               |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | 
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ |
+| Hound              |  5  |  8" |  3+ |  5+ |  4  |  4  | Non-scoring               |
 
 **Equipment**: A Hound is armed with Vicious Claws and Teeth
 
 #### Malefactors
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | 
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- |
-| Malefactor         |  5  |  5" |  3+ |  5+ |  4  |  3  | Demon, Fury                      |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | 
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ |
+| Malefactor         |  5  |  5" |  3+ |  5+ |  4  |  3  | Fury                      |
 
 **Equipment**: A Malefactor is armed with one of the following weapons:
 
@@ -66,9 +68,9 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 #### Furies
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- |
-| Fury               |  5  | 10" |  3+ |  6+ |  3  |  4  | Demon, Fury, Flying              |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ |
+| Fury               |  5  | 10" |  3+ |  6+ |  3  |  4  | Fury, Flying              |
 
 **Equipment**: A Fury is armed with Headtaker Blades.
 
@@ -76,13 +78,13 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 ### Units
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                    | Points |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------- | :----: |
-| Tormentor          |  5  |  5" |  3+ |  5+ |  4  |  4  | Blood Sacrifice, Demon           | 12     |
-| Fiend              |  5  |  5" |  3+ |  5+ |  4  |  3  | Demon                            | 10     |
-| Hound              |  5  |  8" |  3+ |  5+ |  4  |  4  | Demon, Non-scoring               | 13     |
-| Malefactor         |  5  |  5" |  3+ |  5+ |  4  |  3  | Demon, Fury                      | 13     |
-| Fury               |  5  | 10" |  3+ |  6+ |  4  |  3  | Demon, Fury, Flying              | 13     |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----: |
+| Tormentor          |  5  |  5" |  3+ |  5+ |  4  |  4  | Blood Sacrific            | 12     |
+| Fiend              |  5  |  5" |  3+ |  5+ |  4  |  3  |     -                     | 10     |
+| Hound              |  5  |  8" |  3+ |  5+ |  4  |  4  | Non-scoring               | 13     |
+| Malefactor         |  5  |  5" |  3+ |  5+ |  4  |  3  | Fury                      | 13     |
+| Fury               |  5  | 10" |  3+ |  6+ |  4  |  3  | Fury, Flying              | 13     |
 
 ### Weapons
 

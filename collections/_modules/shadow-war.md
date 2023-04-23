@@ -10,6 +10,7 @@ Dark Millenium: Shadow War takes the combat of Dark Millenium into smaller, more
 | Weapon Special Rules | Description |
 | :------------------- | :---------- |
 | Blast | When this weapon makes at least one hit against it's target it also counts as having 1 successful hit against every model, friendly or enemy, within 2 inches of the original target that is not completely obscured by terrain from the point of view of the original target. |
+| Supercharge | You may add 1 to this weapon’s Attacks and Damage attributes, however if you do so, any Attack Rolls of 1 count as hitting the attacking model instead. |
 
 ## Building an Army
 

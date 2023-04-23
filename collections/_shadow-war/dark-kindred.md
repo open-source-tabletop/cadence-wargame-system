@@ -6,6 +6,8 @@ category: alien
 
 ### Dark Kindred Special Rules
 
+All Dark Kindred models count as having the **Kindred** and **Prey on the Weak** special rules.
+
 #### Kindred
 
 These models never test to see if they lose a Command Point when activating with just 1, they automatically pass.
@@ -24,9 +26,9 @@ Once per game, when this model kills an enemy model within 6 inches it may regai
 
 #### Dark Kindred Warrior Leader
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                         | 
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------ |
-| Warrior Leader     |  5  |  6" |  4+ |  5+ |  3  |  4  | Kindred, Prey on the Weak, Soul Drain |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules | 
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
+| Warrior Leader     |  5  |  6" |  4+ |  5+ |  3  |  4  | Soul Drain    |
 
 **Equipment**: A Warrior Leader is equipped with one weapon from each of the following options:
 
@@ -35,9 +37,9 @@ Once per game, when this model kills an enemy model within 6 inches it may regai
 
 #### Nightblade
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                         |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------ |
-| Nightblade         |  6  |  6" |  3+ |  6+ |  3  |  4  | Kindred, Prey on the Weak, Soul Drain |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
+| Nightblade         |  6  |  6" |  3+ |  6+ |  3  |  4  | Soul Drain    |
 
 **Equipment**: A Nightblade is equipped with one weapon from each of the following options:
 
@@ -50,17 +52,17 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 
 #### Dark Kindred Warriors
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                         |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------ |
-| Warriors           |  4  |  6" |  4+ |  5+ |  3  |  3  | Kindred, Prey on the Weak             |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
+| Warriors           |  4  |  6" |  4+ |  5+ |  3  |  3  | -             |
 
 **Equipment**: Dark Kindred Warriors are equipped with a Shard Rifle and Vicious Blades.
 
 #### Dark Kindred Blades
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                         |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------ |
-| Blades             |  5  |  6" |  4+ |  6+ |  3  |  3  | Kindred, Prey on the Weak             |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
+| Blades             |  5  |  6" |  4+ |  6+ |  3  |  3  | -             |
 
 **Equipment**: Dark Kindred Blades are equipped with a Shard Pistol and Poisoned Knives.
 
@@ -68,9 +70,9 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 
 #### Dark Kindred Warrior Hunters
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                         |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------ |
-| Warrior Hunter     |  4  |  6" |  4+ |  5+ |  3  |  3  | Kindred, Prey on the Weak             |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
+| Warrior Hunter     |  4  |  6" |  4+ |  5+ |  3  |  3  | -             |
 
 **Equipment**: Dark Kindred Hunters are armed with Vicious Blades and one weapon from the following list:
 
@@ -78,9 +80,9 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 
 #### Dark Kindred Blade Executioners
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                         |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------ |
-| Blade Executioner  |  5  |  6" |  4+ |  6+ |  3  |  3  | Kindred, Prey on the Weak             |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
+| Blade Executioner  |  5  |  6" |  4+ |  6+ |  3  |  3  | -             |
 
 **Equipment**: A Dark Kindred Executioner is armed with one of the following:
 
@@ -90,18 +92,18 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 
 ### Units
 
-| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                         | Points |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------ | :----: |
-| Warrior Leader     |  5  |  6" |  4+ |  5+ |  3  |  4  | Kindred, Prey on the Weak, Soul Drain | 8      |
-| Nightblade         |  6  |  6" |  3+ |  6+ |  3  |  4  | Kindred, Prey on the Weak, Soul Drain | 8      |
-| Warriors           |  4  |  6" |  4+ |  5+ |  3  |  3  | Kindred, Prey on the Weak             | 7      |
-| Blades             |  5  |  6" |  4+ |  6+ |  3  |  3  | Kindred, Prey on the Weak             | 7      |
-| Warrior Hunter     |  4  |  6" |  4+ |  5+ |  3  |  3  | Kindred, Prey on the Weak             | 7      |
-| Blade Executioner  |  5  |  6" |  4+ |  6+ |  3  |  3  | Kindred, Prey on the Weak             | 7      |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules | Points |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ | :----: |
+| Warrior Leader     |  5  |  6" |  4+ |  5+ |  3  |  4  | Soul Drain    | 8      |
+| Nightblade         |  6  |  6" |  3+ |  6+ |  3  |  4  | Soul Drain    | 8      |
+| Warriors           |  4  |  6" |  4+ |  5+ |  3  |  3  |               | 7      |
+| Blades             |  5  |  6" |  4+ |  6+ |  3  |  3  |               | 7      |
+| Warrior Hunter     |  4  |  6" |  4+ |  5+ |  3  |  3  |               | 7      |
+| Blade Executioner  |  5  |  6" |  4+ |  6+ |  3  |  3  |               | 7      |
 
-### Weapons
+### Ranged Weapons
 
-| Ranged Weapons             | Rng | Att | Dmg | Prc | Special Rules                    | Points |
+| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                    | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :------------------------------- | :----: |
 | Dark Matter Blaster        | 16" | 3   | 4   | 3   | Heavy                            | 4      |
 | Dark Matter Cannon         | 32" | 4   | 4   | 3   | Heavy                            | 5      |
@@ -113,7 +115,9 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 | Shard Carbine              | 12" | 4   | 2   | 0   | Rending (1)                      | 0      |
 | Shard Rifle                | 18" | 3   | 2   | 0   | Rapid Fire, Rending (1)          | 0      |
 
-| Assault Weapons         | Rng | Att | Dmg | Prc | Special Rules                   | Points |
+### Assault Weapons
+
+| Weapon                  | Rng | Att | Dmg | Prc | Special Rules                   | Points |
 | :---------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
 | Barbed Flail            | 2"  | 3   | 3   | 0   | Assault, Rending (1)            | 2      |
 | Eviscerator Gauntlet    | 1"  | 10  | 1   | 1   | Assault                         | 1      |

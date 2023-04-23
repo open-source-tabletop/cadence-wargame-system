@@ -6,6 +6,35 @@ permalink: /core-rules/
 
 Welcome to the Cadence System, a free, community owned wargaming ruleset designed to open up a world of wargaming possibilities. These core rules provide the foundation upon which any number of games can be created, you will find a range of pre-written modules and expansions to play or you can create your own game using the system.
 
+## Contents
+
+#### [Basic Rules](#basic-rules)
+
+- [Dice](#dice)
+- [Distance and Measuring](#distance-and-measuring)
+- [Armies](#armies)
+- [Units and Models](#units-and-models)
+- [Weapons](#weapons)
+
+#### [Playing the Game](#playing-the-game)
+
+- [Structure of a Game](#structure-of-a-game)
+- [Setup](#setup)
+- [Battle](#battle)
+- [Actions](#actions)
+- [Action: Move](#action-move)
+- [Action: Advance](#action-advance)
+- [Action: Attack](#action-attack)
+- [Action: Ability](#action-ability)
+- [Action: Secure](#action-secure)
+- [Action: Pass](#action-pass)
+
+#### [Advanced Rules](#advanced-rules)
+
+- [Terrain](#terrain-1)
+- [Universal Special Rules](#universal-special-rules)
+- [Basic Missions](#basic-missions)
+
 ## Basic Rules
 
 ### Dice
@@ -32,7 +61,7 @@ In the game, a "model" is a specific term referring to a miniature or group of m
 
 "Units" are groups of 1 or more models within the game. All models must belong to exactly one unit.
 
-#### Profiles and Attributes
+#### Profiles
 
 To play the game, you need to know which models you can use and what they can do on the battlefield. Each model in the game has a profile that lists its stats and rules, including its weapons and equipment, special abilities, and any unique rules it may have. The unit profiles are provided in each module, often grouped into different factions or army lists.
 
@@ -47,7 +76,7 @@ Each model in Cadence has a set of attributes that tell you how well it can perf
 - Toughness (Tgh): How much damage the model can take for each of it's hit points.
 - Hit Points (HP): How much damage the model can take before being destroyed.
 
-#### Showing Command Points and Hit Points
+#### Command Points and Hit Points
 
 During a game you will place a d6 next to each of your units to show how many Command Points they have remaining this round, refreshed at the start of each new round. You also use a d6 to show how many hit points a unit has remaining after they take damage. It is important to use different colour dice to represent each of these and to ensure that these will not be mixed up with your opponents dice or those you use to make rolls.
 
