@@ -81,6 +81,8 @@ A Destroy objective is treated much the same as an enemy ship, with Defence, Tou
 
 Players build their squadron by creating ships as outlined below. Each ship has a basic profile that is then enhanced by a number of upgrades. There are some premade lists for popular settings listed at the end of this document. Each ship starts at a cost of 15 points, with each upgrade and weapon adding to this total. Each ship with 5 or more upgrades costs an additional 5 points.
 
+Games are best played at 150, 250, or 350 point limits.
+
 ### Basic Ship Profile
 
 | Cmd | Mov | Skl | Def | Tgh | HP  |
