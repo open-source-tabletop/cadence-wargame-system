@@ -8,7 +8,7 @@ Welcome to the Cadence System, a free, community owned wargaming ruleset designe
 
 ## Contents
 
-#### [Basic Rules](#basic-rules)
+#### [Basic Rules](#basic-rules-1)
 
 - [Dice](#dice)
 - [Distance and Measuring](#distance-and-measuring)
@@ -16,7 +16,7 @@ Welcome to the Cadence System, a free, community owned wargaming ruleset designe
 - [Units and Models](#units-and-models)
 - [Weapons](#weapons)
 
-#### [Playing the Game](#playing-the-game)
+#### [Playing the Game](#playing-the-game-1)
 
 - [Structure of a Game](#structure-of-a-game)
 - [Setup](#setup)
@@ -29,7 +29,7 @@ Welcome to the Cadence System, a free, community owned wargaming ruleset designe
 - [Action: Secure](#action-secure)
 - [Action: Pass](#action-pass)
 
-#### [Advanced Rules](#advanced-rules)
+#### [Advanced Rules](#advanced-rules-1)
 
 - [Terrain](#terrain-1)
 - [Universal Special Rules](#universal-special-rules)
