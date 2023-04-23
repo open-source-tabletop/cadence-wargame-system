@@ -1,9 +1,30 @@
+- name: Home
+  link: /
 - name: About Cadence
   link: /about/
-  subtitle: "Learn about what Cadence is and how it works"
 - name: Core Rules
   link: /core-rules/
-  subtitle: "Read the core rules used by all game modules"
+  children:
+    - name: Online Rules
+      link: /core-rules/
+    - name: Download PDF
+      link: "#"
+    - name: Github Source
+      link: https://github.com/open-source-tabletop/cadence
 - name: Game Modules
   link: /modules/
-  subtitle: "Find a game to play, expansions on the core rules for many settings"
+  children:
+    - name: "Devil's Bluff"
+      link: /modules/devils-bluff/
+    - name: Guilds and Glory
+      link: /modules/guilds-and-glory/
+    - name: Halo Firefight
+      link: /modules/halo-firefight/
+    - name: "Realms of Arcanis: Legions"
+      link: /modules/legions/
+    - name: Scraplands Showdown
+      link: /modules/scraplands-showdown/
+    - name: "Dark Millenium: Shadow War"
+      link: /modules/shadow-war/
+    - name: Squadrons
+      link: /modules/squadrons/
