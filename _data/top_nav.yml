@@ -7,7 +7,7 @@
   children:
     - name: Online Rules
       link: /core-rules/
-    - name: Download PDF
+    - name: Download PDF (Coming Soon)
       link: "#"
     - name: Github Source
       link: https://github.com/open-source-tabletop/cadence
