@@ -89,30 +89,30 @@ Games are best played at 50, 100, and 150 point limits for regular games. At hig
 
 | Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     |
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- |
-| Imperial Fighter     |  4  |  7  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             |
-| Imperial Interceptor |  5  |  7  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      |
-| Imperial Bomber      |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   |
-| Imperial Silencer    |  5  |  7  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (2) |
+| Imperial Fighter     |  4  |  7" |  4+ |  4+ |  3  |  3  | Laser Cannons                            | Agile             |
+| Imperial Interceptor |  5  |  7" |  3+ |  4+ |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      |
+| Imperial Bomber      |  4  |  5" |  4+ |  4+ |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   |
+| Imperial Silencer    |  5  |  7" |  3+ |  4+ |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (2) |
 
 ### Rebel Ships
 
-| Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                        | Special Rules                      |
-| :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------------- | :--------------------------------- |
-| Rebel Fighter        |  4  |  6  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (2)                         |
-| Rebel Bomber         |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (2)                         |
-| Rebel Heavy Bomber   |  4  |  5  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (2)                         |
-| Rebel Striker        |  5  |  6  |  3  |  4  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (2), Countermeasures |
-| Rebel Gunship        |  5  |  6  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (3)                         |
+| Ship Type          | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                        | Special Rules            |
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------------- | :----------------------- |
+| Rebel Fighter      |  4  |  6" |  3+ |  4+ |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (2)               |
+| Rebel Bomber       |  4  |  5" |  4+ |  4+ |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (2)               |
+| Rebel Heavy Bomber |  4  |  5" |  4+ |  3+ |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (2)               |
+| Rebel Striker      |  5  |  6" |  3+ |  4+ |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (2), Countermeasures |
+| Rebel Gunship      |  5  |  6" |  4+ |  3+ |  4  |  4  | Heavy Laser Cannons                            | Shield (3)               |
 
 ### Weapons
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                   |
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------------------ |
-| Laser Cannons             | 12  |  6  |  2  |  0  | Fixed                           |
-| Twin Laser Cannons        | 12  |  8  |  2  |  0  | Fixed                           |
-| Heavy Laser Cannon        | 16  |  6  |  3  |  1  | Fixed                           |
-| Concussion Missiles       | 16  |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock |
-| Heavy Concussion Missiles | 16  |  3  |  9  |  2  | Heavy, Arc (Front), Target Lock |
+| Laser Cannons             | 12" |  6  |  2  |  0  | Fixed                           |
+| Twin Laser Cannons        | 12" |  8  |  2  |  0  | Fixed                           |
+| Heavy Laser Cannon        | 16" |  6  |  3  |  1  | Fixed                           |
+| Concussion Missiles       | 16" |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock |
+| Heavy Concussion Missiles | 16" |  3  |  9  |  2  | Heavy, Arc (Front), Target Lock |
 
 ### Upgrades
 
