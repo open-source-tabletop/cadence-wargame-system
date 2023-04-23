@@ -40,7 +40,7 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 | Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------- |
-| Fiend              |  5  |  5" |  3+ |  5+ |  4  |  3  | -                            |
+| Fiend              |  4  |  5" |  3+ |  5+ |  4  |  3  | -                            |
 
 **Equipment**: A Fiend is armed with either a Bloodsword or Dreadspear.
 
@@ -50,7 +50,7 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 | Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | 
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ |
-| Hound              |  5  |  8" |  3+ |  5+ |  4  |  4  | Non-scoring               |
+| Hound              |  5  |  8" |  3+ |  6+ |  4  |  3  | Non-scoring               |
 
 **Equipment**: A Hound is armed with Vicious Claws and Teeth
 
@@ -58,7 +58,7 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 | Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | 
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ |
-| Malefactor         |  5  |  5" |  3+ |  5+ |  4  |  3  | Fury                      |
+| Malefactor         |  4  |  5" |  3+ |  5+ |  4  |  3  | Fury                      |
 
 **Equipment**: A Malefactor is armed with one of the following weapons:
 
@@ -70,7 +70,7 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 | Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ |
-| Fury               |  5  | 10" |  3+ |  6+ |  3  |  4  | Fury, Flying              |
+| Fury               |  5  | 10" |  3+ |  6+ |  3  |  3  | Fury, Flying              |
 
 **Equipment**: A Fury is armed with Headtaker Blades.
 
@@ -78,13 +78,13 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 ### Units
 
-| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----: |
-| Tormentor          |  5  |  5" |  3+ |  5+ |  4  |  4  | Blood Sacrific            | 12     |
-| Fiend              |  5  |  5" |  3+ |  5+ |  4  |  3  |     -                     | 10     |
-| Hound              |  5  |  8" |  3+ |  5+ |  4  |  4  | Non-scoring               | 13     |
-| Malefactor         |  5  |  5" |  3+ |  5+ |  4  |  3  | Fury                      | 13     |
-| Fury               |  5  | 10" |  3+ |  6+ |  4  |  3  | Fury, Flying              | 13     |
+| Name            | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
+| :-------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----: |
+| Tormentor       |  5  |  5" |  3+ |  5+ |  4  |  4  | Blood Sacrifice           | 12     |
+| Fiend           |  4  |  5" |  3+ |  5+ |  4  |  3  | -                         | 9      |
+| Hound           |  5  |  8" |  3+ |  6+ |  4  |  4  | Non-scoring               | 10     |
+| Malefactor      |  4  |  5" |  3+ |  5+ |  4  |  3  | Fury                      | 13     |
+| Fury            |  5  | 10" |  3+ |  6+ |  3  |  3  | Fury, Flying              | 12     |
 
 ### Weapons
 
