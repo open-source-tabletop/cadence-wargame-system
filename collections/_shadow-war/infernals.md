@@ -88,20 +88,20 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 ### Weapons
 
-| Weapons                   | Rng | Att | Dmg | Prc | Special Rules                   | Points |
-| :------------------------ | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
-| Baleful Axe               | 1"  | 2   | 4   | 1   | Assault, Rending (2)            | 2      |
-| Blazing Skull             | 8"  | 2   | 6   | 0   | Blast, Heavy, Indirect, One-use | -      |
-| Bloodsword                | 1"  | 3   | 3   | 0   | Assault, Rending (1)            | 0      |
-| Crushing Maul             | 1"  | 3   | 7   | 2   | Assault, Heavy                  | 3      |
-| Cursed Gauntlet           | 1"  | 3   | 3   | 0   | Assault, Accurate               | 1      |
-| Dreadspear                | 2"  | 3   | 3   | 0   | Assault                         | 0      |
-| Dual Infernal Axes        | 1"  | 5   | 3   | 1   | Assault, Rending (1)            | 3      |
-| Gorehammer                | 1"  | 3   | 4   | 1   | Assault                         | 2      |
-| Headtaker Blades          | 1"  | 3   | 3   | 0   | Assault, Rending (4)            | 2      |
-| Infernal Halberd          | 2"  | 2   | 4   | 1   | Assault                         | 2      |
-| Infernal Whip             | 2"  | 2   | 6   | 0   | Assault                         | 2      |
-| Vicious Claws and Teeth   | 1"  | 3   | 4   | 0   | Accurate                        | 1      |
+| Weapons                 | Rng | Att | Dmg | Prc | Special Rules                   | Points |
+| :---------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
+| Baleful Axe             | 1"  | 3   | 4   | 1   | Assault, Rending (3)            | 2      |
+| Blazing Skull           | 8"  | 2   | 6   | 0   | Blast, Heavy, Indirect, One-use | -      |
+| Bloodsword              | 1"  | 3   | 4   | 0   | Assault, Rending (1)            | 0      |
+| Crushing Maul           | 1"  | 3   | 7   | 2   | Assault, Heavy                  | 3      |
+| Cursed Gauntlet         | 1"  | 3   | 3   | 0   | Assault, Accurate               | 1      |
+| Dreadspear              | 2"  | 3   | 3   | 0   | Assault                         | 0      |
+| Dual Infernal Axes      | 1"  | 5   | 3   | 1   | Assault, Rending (1)            | 3      |
+| Gorehammer              | 1"  | 3   | 4   | 1   | Assault                         | 2      |
+| Headtaker Blades        | 1"  | 3   | 3   | 0   | Assault, Rending (4)            | 2      |
+| Infernal Halberd        | 2"  | 2   | 5   | 1   | Assault                         | 2      |
+| Infernal Whip           | 2"  | 2   | 6   | 0   | Assault                         | 2      |
+| Vicious Claws and Teeth | 1"  | 3   | 4   | 0   | Accurate                        | 0      |
 
 ### Upgrades
 
