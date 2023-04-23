@@ -8,6 +8,10 @@ category: human
 
 All Guardian Chapter models count as having the **Tactical Doctrines** special rule.
 
+#### Squad Command
+
+If this model finishes its activation with 1 Command Point it may instead pass that Command Point to a friendly model within 3 inches that also has 1 Command Point remaining. Remove the Command Point from this model and roll a d6, on a roll of 2+ you may increase the remaining Command Points on the target friendly model.
+
 #### Tactical Doctrines
 
 If this model does not perform a Move action it may perform two Attack actions during an activation, however the second attack action must be made against the same target as the first.
@@ -20,7 +24,7 @@ If this model does not perform a Move action it may perform two Attack actions d
 
 | Name                  | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Guardian Sergeant     | 5   | 5"  | 3+  | 3+  | 4   | 5   | -             |
+| Guardian Sergeant     | 5   | 5"  | 3+  | 3+  | 4   | 5   | Squad Command |
 
 **Equipment**: A Guardian Sergeant is armed with a combat knife, frag grenade, and two items from the following list:
 
