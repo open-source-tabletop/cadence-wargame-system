@@ -39,7 +39,7 @@ Once per game, when this model kills an enemy model within 6 inches it may regai
 
 | Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Nightblade         |  6  |  6" |  3+ |  6+ |  3  |  4  | Soul Drain    |
+| Nightblade         |  6  |  7" |  3+ |  6+ |  3  |  3  | Soul Drain    |
 
 **Equipment**: A Nightblade is equipped with one weapon from each of the following options:
 
@@ -62,7 +62,7 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 
 | Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Blades             |  5  |  6" |  4+ |  6+ |  3  |  3  | -             |
+| Blades             |  4  |  7" |  4+ |  6+ |  3  |  3  | -             |
 
 **Equipment**: Dark Kindred Blades are equipped with a Shard Pistol and Poisoned Knives.
 
@@ -82,7 +82,7 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 
 | Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Blade Executioner  |  5  |  6" |  4+ |  6+ |  3  |  3  | -             |
+| Blade Executioner  |  5  |  7" |  4+ |  6+ |  3  |  3  | -             |
 
 **Equipment**: A Dark Kindred Executioner is armed with one of the following:
 
@@ -94,26 +94,26 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 
 | Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules | Points |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ | :----: |
-| Warrior Leader     |  5  |  6" |  4+ |  5+ |  3  |  4  | Soul Drain    | 8      |
-| Nightblade         |  6  |  6" |  3+ |  6+ |  3  |  4  | Soul Drain    | 8      |
-| Warriors           |  4  |  6" |  4+ |  5+ |  3  |  3  |               | 7      |
-| Blades             |  5  |  6" |  4+ |  6+ |  3  |  3  |               | 7      |
+| Warrior Leader     |  5  |  6" |  4+ |  5+ |  3  |  4  | Soul Drain    | 9      |
+| Nightblade         |  6  |  7" |  3+ |  6+ |  3  |  3  | Soul Drain    | 11     |
+| Warriors           |  4  |  6" |  4+ |  5+ |  3  |  3  |               | 6      |
+| Blades             |  4  |  7" |  4+ |  6+ |  3  |  3  |               | 7      |
 | Warrior Hunter     |  4  |  6" |  4+ |  5+ |  3  |  3  |               | 7      |
-| Blade Executioner  |  5  |  6" |  4+ |  6+ |  3  |  3  |               | 7      |
+| Blade Executioner  |  5  |  7" |  4+ |  6+ |  3  |  3  |               | 9      |
 
 ### Ranged Weapons
 
-| Weapon                     | Rng | Att | Dmg | Prc | Special Rules                    | Points |
-| :------------------------- | :-: | :-: | :-: | :-: | :------------------------------- | :----: |
-| Dark Matter Blaster        | 16" | 3   | 4   | 3   | Heavy                            | 4      |
-| Dark Matter Cannon         | 32" | 4   | 4   | 3   | Heavy                            | 5      |
-| Dark Matter Pistol         | 8"  | 2   | 4   | 3   |                                  | 2      |
-| Plasma Grenade             | 8"  | 2   | 5   | 2   | Blast, Heavy, Indirect, One-use  | -      |
-| Ripper                     | 8"  | 4   | 4   | 2   | Indirect                         | 3      |
-| Shard Cannon               | 24" | 5   | 3   | 0   | Heavy, Rending (1)               | 2      |
-| Shard Pistol               | 8"  | 2   | 2   | 0   | Rending (1)                      | 0      |
-| Shard Carbine              | 12" | 4   | 2   | 0   | Rending (1)                      | 0      |
-| Shard Rifle                | 18" | 3   | 2   | 0   | Rapid Fire, Rending (1)          | 0      |
+| Weapon                 | Rng | Att | Dmg | Prc | Special Rules                    | Points |
+| :--------------------- | :-: | :-: | :-: | :-: | :------------------------------- | :----: |
+| Dark Matter Blaster    | 16" | 3   | 4   | 3   | Rapid Fire                       | 3      |
+| Dark Matter Cannon     | 32" | 4   | 4   | 3   | Heavy                            | 5      |
+| Dark Matter Pistol     | 8"  | 2   | 4   | 3   |                                  | 2      |
+| Plasma Grenade         | 8"  | 2   | 5   | 2   | Blast, Heavy, Indirect, One-use  | -      |
+| Ripper                 | 8"  | 4   | 4   | 2   | Indirect                         | 3      |
+| Shard Cannon           | 24" | 6   | 3   | 0   | Heavy, Rending (2)               | 2      |
+| Shard Pistol           | 8"  | 3   | 2   | 0   | Rending (1)                      | 0      |
+| Shard Carbine          | 12" | 4   | 2   | 0   | Rending (1)                      | 0      |
+| Shard Rifle            | 18" | 5   | 2   | 0   | Rapid Fire, Rending (1)          | 0      |
 
 ### Assault Weapons
 
