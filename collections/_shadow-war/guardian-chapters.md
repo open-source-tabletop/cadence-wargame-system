@@ -10,6 +10,8 @@ All Guardian Chapter models count as having the **Tactical Doctrines** special r
 
 #### Tactical Doctrines
 
+If this model does not perform a Move action it may perform two Attack actions during an activation, however the second attack action must be made against the same target as the first.
+
 ## Guardian Chapter Units
 
 ### Command Units
@@ -18,7 +20,7 @@ All Guardian Chapter models count as having the **Tactical Doctrines** special r
 
 | Name                  | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Guardian Sergeant     | 0   | 0   | 0   | 0   | 0   | 0   | -             |
+| Guardian Sergeant     | 5   | 5"  | 3+  | 3+  | 4   | 5   | -             |
 
 **Equipment**: A Guardian Sergeant is armed with a combat knife, frag grenade, and two items from the following list:
 
@@ -35,7 +37,7 @@ All Guardian Chapter models count as having the **Tactical Doctrines** special r
 
 | Name                  | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Ranger Sergeant       | 0   | 0   | 0   | 0   | 0   | 0   | -             |
+| Ranger Sergeant       | 5   | 6"  | 3+  | 4+  | 4   | 5   | -             |
 
 **Equipment**: 
 
@@ -45,7 +47,7 @@ All Guardian Chapter models count as having the **Tactical Doctrines** special r
 
 | Name                  | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Guardian Marine       | 0   | 0   | 0   | 0   | 0   | 0   | -             |
+| Guardian Marine       | 5   | 5"  | 3+  | 3+  | 4   | 4   | -             |
 
 **Equipment**: A Guardian is equipped with a Heavy Pistol, Combat Knife, and Frag Grenade. A Guardian is also equipped with either a Heavy Rifle or Ripper Sword.
 
@@ -54,7 +56,7 @@ All Guardian Chapter models count as having the **Tactical Doctrines** special r
 
 | Name                  | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules |
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
-| Guardian Ranger       | 0   | 0   | 0   | 0   | 0   | 0   | -             |
+| Guardian Ranger       | 5   | 6"  | 3+  | 4+  | 4   | 4   | -             |
 
 **Equipment**: A Ranger is equipped with one of the following options: 
 
@@ -96,7 +98,8 @@ All Guardian Chapter models count as having the **Tactical Doctrines** special r
 
 | Name                  | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules | Points |
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ | :----: |
-| Guardian Sergeant     | 0   | 0   | 0   | 0   | 0   | 0   | -             | 0      |
+| Guardian Marine       | 5   | 5"  | 3+  | 3+  | 4   | 4   | -             | 16     |
+| Guardian Ranger       | 5   | 6"  | 3+  | 4+  | 4   | 4   | -             | 15     |
 
 ### Ranged Weapons
 
