@@ -1942,7 +1942,7 @@ ul.pagination li:last-child {
 
 table {
   margin: 0 0 2em 0;
-  width: 100%;
+  min-width: 50%;
   font-size: 0.8em;
 }
 table tbody tr {

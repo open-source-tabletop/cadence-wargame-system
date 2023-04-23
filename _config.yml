@@ -5,6 +5,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
+collections_dir: collections
 collections:
   modules:
     output: true
@@ -21,4 +22,7 @@ collections:
     output: true
     sort_by: title
     permalink: /modules/legions/:title/
-collections_dir: collections
+  squadrons:
+    output: true
+    sort_by: title
+    permalink: /modules/squadrons/:title/

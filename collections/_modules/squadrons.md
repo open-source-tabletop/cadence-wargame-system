@@ -77,6 +77,59 @@ A Recover objective is secured in the same way as a Scan objective, except that 
 
 A Destroy objective is treated much the same as an enemy ship, with Defence, Toughness and Hit Point attributes. Unless otherwise specified these are all 3. A Destroy objective belongs to one player and is scored for the opposite player when it is destroyed, regardless of which model destroys it.
 
+## Building a Squadron
+
+Players build their squadron by creating ships as outlined below. Each ship has a basic profile that is then enhanced by a number of upgrades. There are some premade lists for popular settings listed at the end of this document. Each ship starts at a cost of 10 points, with each upgrade and weapon adding to this total. Each ship with 5 or more upgrades costs an additional 5 points.
+
+### Basic Ship Profile
+
+| Cmd | Mov | Skl | Def | Tgh | HP  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  4  |  6" |  4+ |  4+ |  3  |  3  |
+
+### Ship Upgrades
+
+| Upgrade         | Description                                   | Cost |
+| :-------------- | :-------------------------------------------- | :--: |
+| Command 1       | The ship has a Command of 5                   | 2*   |
+| Command 2       | The ship has a Command of 6                   | 3*   |
+| Speed 1         | The ship has a Movement of 7"                 | 1    |
+| Speed 2         | The ship has a Movement of 8"                 | 3    |
+| Skilled 1       | The ship has the Skilled special rule         | 2    |
+| Skilled 2       | The ship has a Skill of 3+                    | 4    |
+| Skilled 3       | The ship has a Skill of 2+                    | 8    |
+| Armour 1        | The ship has a Defence of 3+                  | 4    |
+| Armour 2        | The ship has a Defence of 2+                  | 8    |
+| Tough 1         | The ship has the Resilient special rule       | 2    |
+| Tough 2         | The ship has a Toughness of 4                 | 4    |
+| Tough 3         | The ship has a Toughness of 5                 | 8    |
+| Hit Points 1    | The ship has 4 hit points                     | 4    |
+| Hit Points 2    | The ship has 5 hit points                     | 8    |
+| Agility         | The ship has the Agile special rule           | 1    |
+| Boost           | The ship has the Boost special rule           | 1    |
+| Shield 1        | The ship has the Shields (1) special rule     | 2    |
+| Shield 2        | The ship has the Shields (2) special rule     | 4    |
+| Shield 3        | The ship has the Shields (3) special rule     | 7    |
+| Stealth 1       | The ship has the Stealth (12) special rule    | 5    |
+| Stealth 2       | The ship has the Stealth (9) special rule     | 8    |
+| Jamming         | The ship has the Signal Jam special rule      | 4    |
+| Countermeasures | The ship has the Countermeasures special rule | 3    |
+
+\* This upgrade multiplies its cost by the number of upgrades the ship has, not including itself.
+
+| Weapon                    | Rng | Att | Dmg | Prc | Special Rules                   | Cost |
+| :------------------------ | :-: | :-: | :-: | :-: | :------------------------------ | :--: |
+| Energy Cannons            | 12" |  6  |  2  |  0  | Fixed                           | 3    |
+| Twin Energy Cannons       | 12" |  9  |  2  |  1  | Fixed                           | 4    |
+| Heavy Energy Cannons      | 16" |  7  |  3  |  1  | Fixed                           | 5    |
+| Disruptor Cannons         | 8"  |  3  |  3  |  2  | Disruptor                       | 3    |
+| Heavy Disruptor Cannons   | 12" |  4  |  3  |  2  | Disruptor                       | 4    |
+| Kinetic Cannons           | 12" |  7  |  2  |  1  | Kinetic, Rapid Fire             | 4    |
+| Heavy Kinetic Cannons     | 16" |  8  |  2  |  2  | Kinetic, Rapid Fire             | 6    |
+| Concussion Missiles       | 16" |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock | 7    |
+| Heavy Concussion Missiles | 16" |  3  |  9  |  2  | Heavy, Arc (Front), Target Lock | 10   |
+| Unguided Bombs            | 6"  |  3  |  9  |  3  | Fixed, Heavy, Inaccurate        | 9    |
+
 ## Building an Army
 
 Players should select units from either the Imperial Ships or Rebel Ships lists. Players may also add upgrades to their ships from the list, no more than half of your ships may be given upgrades and each ship may only have one upgrade.
@@ -120,7 +173,6 @@ Games are best played at 50, 100, and 150 point limits for regular games. At hig
 | :------- | :------ | :----- |
 | Elite Pilot | Model gains +1 to it's Command attribute, this can never be higher than 6. | 5 |
 | Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 5+. | 3 |
-| Countermeasures | Once per game this model may evade an attack without spending a Command Point. | 3 |
 | Advanced Targeting | This model gets a +1 to attack rolls for Fixed weapons. | 7 |
 
 ### Points
@@ -150,15 +202,19 @@ The following new special rules apply to units and weapons in Squadrons.
 | Rule | Details |
 | :--- | :------ |
 | Agile | This ship may make an additional 45 degree turn during a Move Action. |
-| Boost | If this ship does not pivot during a Move action it may add 1 inch to it's movement. |
+| Boost | If this ship does not pivot during a Move or Advance action it may add up to 2 inches to it's movement. |
+| Countermeasures | Once per game this model may evade an attack without spending a Command Point. |
 | Squadron Leader | Friendly ships within 6 inches of this ship do not have to roll to see if they lose a Command Point when activating with just 1. This ship also gains +1 to it's Command attribute on the first round, up to a maximum of 6. |
+| Signal Jam | Target Lock rolls against this ship only succeed on a 5+. |
 
 #### Weapon Special Rules
 
 | Rules | Details |
 | :---- | :------ |
+| Disruptor | Defence rolls against this weapon do not gain the benefit of the Shields (X) special rule. |
 | Fixed | This weapon can only target enemy models that are directly on the line of this models forward facing measured from the centre of the base. |
-| Target Lock | Roll a d6 before making any attack rolls, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
+| Target Lock | Roll a d6 before making any attack rolls, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack but it must be against the same target. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
+| Kinetic | This weapon counts as having a Piercing value of 0 against a ship with Shields (X), while the effect of the shield is active. |
 
 ## Missions
 
@@ -226,3 +282,9 @@ When any of the Primary Objectives have been secured they are replaced with Reco
 ##### Targets
 
 Each player should nominate one of their own ships, they score 1 Victory Point if that ship survives to the end of the game.
+
+## Premade Army Lists
+
+{% for item in site.squadrons %}
+- [{{ item.title }}]({{ item.url }})
+{% endfor %}

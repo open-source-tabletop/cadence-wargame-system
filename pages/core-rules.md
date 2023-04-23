@@ -348,7 +348,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Rugged | This model ignores the penalty for travelling through rough terrain. |
 | Shields (X) | While this model has it's full Hit Points it adds X to its Toughness. |
 | Skilled | This unit may re-roll any attack rolls that roll a 1. |
-| Stealth | Attacks against this model from more than 12 inches away suffer -1 to their Attack Rolls. |
+| Stealth (X) | Attacks against this model from more than X inches away suffer -1 to their Attack Rolls. |
 | Support | Models with this rule do not need to be deployed on the first turn and may instead be held in reserve in subsequent turns. These models must be deployed in the second or third turn. |
 
 #### Weapon Special Rules
@@ -359,6 +359,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Arc (X) | This weapon may only be used against models in the named arcs. |
 | Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
 | Heavy | A unit must spend an additional Command Point to use this weapon. |
+| Inaccurate | When making an attack with this weapon your attack roll has a -1 modifier. |
 | Indirect | Attacks with this weapon count an obscured line of sight as clear. |
 | One Use | This weapon may only be used once per battle. |
 | Rapid Fire | This weapon gains +1 to it's Attack attribute against targets within half of it's maximum range. |
