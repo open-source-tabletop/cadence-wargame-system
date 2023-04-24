@@ -23,3 +23,6 @@ collections:
   squadrons:
     output: true
     sort_by: title
+  guilds-and-glory:
+    output: true
+    sort_by: title
