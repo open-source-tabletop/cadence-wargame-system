@@ -28,19 +28,16 @@ Included in each army list is a number of upgrades, these may be purchased for m
 
 {% assign human_lists = site.shadow-war | where: 'category', 'human' %}
 {% for list in human_lists %}
-- [{{list.title}}]({{list.url}})
-{% endfor %}
+- [{{list.title}}]({{list.url}}){% endfor %}
 
 ### Demonic Army Lists
 
 {% assign demonic_lists = site.shadow-war | where: 'category', 'demonic' %}
 {% for list in demonic_lists %}
-- [{{list.title}}]({{list.url}})
-{% endfor %}
+- [{{list.title}}]({{list.url}}){% endfor %}
 
 ### Alien Army Lists
 
 {% assign alien_lists = site.shadow-war | where: 'category', 'alien' %}
 {% for list in alien_lists %}
-- [{{list.title}}]({{list.url}})
-{% endfor %}
+- [{{list.title}}]({{list.url}}){% endfor %}

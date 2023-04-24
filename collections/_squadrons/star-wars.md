@@ -2,6 +2,8 @@
 title: Star Wars
 ---
 
+The following ship setups can be used to represent ships from Star Wars. This is a fan creation and not an official Star Wars product.
+
 ## Age of Rebellion Fleets
 
 ### Galactic Empire
