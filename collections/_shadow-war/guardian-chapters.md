@@ -2,6 +2,8 @@
 title: "Army List: Guardian Chapters"
 subtitle: "Dark Millenium: Shadow War"
 category: human
+parent: "Dark Millenium: Shadow War"
+parentlink: /shadow-war/
 ---
 
 ### Guardian Chapters Special Rules

@@ -2,6 +2,8 @@
 title: "Army List: Infernals"
 subtitle: "Dark Millenium: Shadow War"
 category: demonic
+parent: "Dark Millenium: Shadow War"
+parentlink: /shadow-war/
 ---
 
 ### Infernals Special Rules

@@ -15,16 +15,16 @@
   link: /modules/
   children:
     - name: "Devil's Bluff"
-      link: /modules/devils-bluff/
+      link: /devils-bluff/
     - name: Guilds and Glory
-      link: /modules/guilds-and-glory/
+      link: /guilds-and-glory/
     - name: Halo Firefight
-      link: /modules/halo-firefight/
+      link: /halo-firefight/
     - name: "Realms of Arcanis: Legions"
-      link: /modules/legions/
+      link: /legions/
     - name: Scraplands Showdown
-      link: /modules/scraplands-showdown/
+      link: /scraplands-showdown/
     - name: "Dark Millenium: Shadow War"
-      link: /modules/shadow-war/
+      link: /shadow-war/
     - name: Squadrons
-      link: /modules/squadrons/
+      link: /squadrons/

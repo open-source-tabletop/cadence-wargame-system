@@ -14,10 +14,18 @@
 
     <!-- Wrapper -->
     <div id="wrapper">
-
         <!-- Main -->
         <div id="main">
-            <div class="inner"><!-- Header -->
+            <div class="inner">
+                {% if page.parent %}
+                <header id="header">
+                    <a href="{{ page.parentlink }}" class="logo"><strong>{{ page.parent}}</strong></a>
+                </header>
+                {% else %}
+                <header id="header">
+                    <a href="/" class="logo"><strong>Cadence</strong></a>
+                </header>
+                {% endif %}
                 <!-- Content -->
                 <section>
                     <header class="main">

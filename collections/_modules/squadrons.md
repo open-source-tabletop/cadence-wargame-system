@@ -3,7 +3,7 @@ title: Squadrons
 subtitle: A space combat game featuring fighter scale ships.
 ---
 
-Squadrons is a game of space combat between small fighter or bomber scale ships. Each player commands a squadron of around 5 to 15 ships, performing high speed manoeuvres as they try to take down their opponents ships.
+Squadrons is a game of high speed combat between small fighter or bomber scale ships. Each player commands a squadron of around 5 to 15 ships as they try to take down their opponents ships.
 
 ## Module Rules
 
@@ -135,7 +135,14 @@ Games are best played at 150, 250, or 350 point limits.
 | Heavy Energy Turret       | 16" |  7  |  3  |  1  |                                 | 7    |
 | Heavy Kinetic Turret      | 16" |  9  |  2  |  2  | Kinetic                         | 9    |
 
-### Special Rules
+### Constructed Army Lists
+
+The following army lists represent popular ships from different settings constructed using the ship construction rules above:
+
+{% for item in site.squadrons %}
+- [{{ item.title }}]({{ item.url }}){% endfor %}
+
+## Special Rules
 
 The following new special rules apply to units and weapons in Squadrons.
 
@@ -223,10 +230,3 @@ When any of the Primary Objectives have been secured they are replaced with Reco
 ##### Targets
 
 Each player should nominate one of their own ships, they score 1 Victory Point if that ship survives to the end of the game.
-
-## Constructed Army Lists
-
-The following army lists represent popular ships from different settings constructed using the ship construction rules above:
-
-{% for item in site.squadrons %}
-- [{{ item.title }}]({{ item.url }}){% endfor %}

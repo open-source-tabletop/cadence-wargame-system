@@ -2,6 +2,8 @@
 title: "Army List: Dark Kindred"
 subtitle: "Dark Millenium: Shadow War"
 category: alien
+parent: "Dark Millenium: Shadow War"
+parentlink: /shadow-war/
 ---
 
 ### Dark Kindred Special Rules
