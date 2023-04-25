@@ -3,21 +3,58 @@ title: Guilds and Glory
 subtitle: A Wild West Skirmish game in the lawless town of Devil's Bluff
 ---
 
-Welcome to Guilds and Glory, a cooperative game where players embark on epic narrative fantasy campaigns. As members of The Guild of Adventurers, players fight fierce battles against monsters, delve into treacherous dungeons, and uncover hidden treasures. Working together is crucial to success, as players face tough decisions and thrilling challenges that will test their courage and strategic thinking.
+Welcome to Guilds and Glory, a game of narrative fantasy adventures. A brave party of heroes. members of The Guild of Adventurers, fight fierce battles against monsters, delve into treacherous dungeons against all odds, all in the hope of glory and untold treasures.
+
+Guilds and Glory is an asymmetric adventure game for 2 or more players. 1 player will play as the overlord - controlling a host of deadly creatures, as a brave party of adventurers make their way through a selection of narrative campaigns.
 
 ## Module Rules
 
-### The Grid
+### Overview
 
-Guilds and Glory uses inch square grids for all movement and measuring.
+#### The Adventurers
 
-#### Grid Movement
+In Guilds and Glory, one player or a group of players controls a party of 4 heroes, members of the Guild of Adventurers, who have been hired for a dangerous job. Each campaign will see these heroes face several battles as they fight towards a final showdown.
 
-Models move 1 square instead of 1 inch when moving and may only move orthogonally (in straight,  or diagonal lines). A model must always be placed wholly within a square. Models that are too big for one square must either take up 2 squares in a row or 4 squares in a block. When moving these models they still move 1 square for each point of movement. If a model with a rectangular footprint wishes to rotate, choose one of the squares it occupies as the point to rotate around, using 1 inch of movement any time it rotates to occupy a new square.
+#### The Overlord
+
+The other player takes the role of the Overlord, controlling hordes of monsters and minions as they try to thwart the Adventurers at every turn. The Overlord is also responsible for running the game, including relating the narrative elements and any events that happen within the game.
+
+#### Asymmetric Play
+
+This game is designed to be asymmetric, with the focus of the story being the goals of the Adventurers. While the game is intended to be balanced in each battle, it is ultimately designed to allow the Adventurers to regroup, change their characters or equipment, and try again until they prevail against the Overlord. This does not mean that the Overlord player should allow the Adventurers to win, rather they should understand that their role is that of the storyteller and antagonist, similar to the role of a Dungeon Master in roleplaying games.
 
 #### Battlefield
 
-Different adventures may require a broad range of terrain. If you do not wish to make or buy terrain having an inch grid mat around 2ft by 2ft that you can draw basic terrain on will work for most games.
+Different campaigns may require a broad range of terrain. If you do not wish to make or buy terrain, having a surface that measures around 2ft by 2ft, on which you can draw basic terrain, will work for most games.
 
-{% for item in site.guilds-and-glory %}
+### Gameplay
+
+#### Initiative
+
+Guilds and Glory uses a fixed initiative order for the Adventurers, which is determined by rolling-off for each Adventurer and noting down the order. Initiative always begins with the Adventurers, and after each of their activations, the Overlord may activate one of their units. 
+
+TODO
+
+- Magic System
+- Status Effects
+- Experience
+- Gold and its uses
+- Explain Books
+
+### Create your Adventurers
+
+{% assign heroes = site.guilds-and-glory | where: 'category', 'heroes' %}
+{% for item in heroes %}
+- [{{ item.title }}]({{ item.url }}){% endfor %}
+
+### Monsters and Minions
+
+{% assign minions = site.guilds-and-glory | where: 'category', 'minions' %}
+{% for item in minions %}
+- [{{ item.title }}]({{ item.url }}){% endfor %}
+
+### Campaigns
+
+{% assign campaign = site.guilds-and-glory | where: 'category', 'campaign' %}
+{% for item in campaign %}
 - [{{ item.title }}]({{ item.url }}){% endfor %}

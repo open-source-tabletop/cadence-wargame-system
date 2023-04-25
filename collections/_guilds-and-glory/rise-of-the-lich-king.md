@@ -1,6 +1,6 @@
 ---
-title: Book of Heroes
+title: Rise of the Lich King
 parent: Guilds and Glory
 parentlink: /guilds-and-glory/
-category: heroes
+category: campaign
 ---
