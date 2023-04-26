@@ -1,6 +1,5 @@
 ---
 title: Squadrons
-subtitle: A space combat game featuring fighter scale ships.
 ---
 
 Squadrons is a game of high speed combat between small fighter or bomber scale ships. Each player commands a squadron of around 5 to 15 ships as they try to take down their opponents ships.

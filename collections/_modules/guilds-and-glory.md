@@ -1,6 +1,5 @@
 ---
 title: Guilds and Glory
-subtitle: A Wild West Skirmish game in the lawless town of Devil's Bluff
 ---
 
 Welcome to Guilds and Glory, a game of narrative fantasy adventures. A brave party of heroes. members of The Guild of Adventurers, fight fierce battles against monsters, delve into treacherous dungeons against all odds, all in the hope of glory and untold treasures.

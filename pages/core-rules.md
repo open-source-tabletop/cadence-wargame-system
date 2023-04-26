@@ -1,6 +1,5 @@
 ---
 title: Cadence
-subtitle: Core Rules version 0.1
 permalink: /core-rules/
 ---
 

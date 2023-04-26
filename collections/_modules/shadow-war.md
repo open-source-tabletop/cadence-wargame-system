@@ -1,6 +1,5 @@
 ---
 title: "Dark Millenium: Shadow War"
-subtitle: Skirmish Warfare in the Dark Millenium
 ---
 
 Dark Millenium: Shadow War takes the combat of Dark Millenium into smaller, more intense battles, featuring a small number of infantry scale models per player.

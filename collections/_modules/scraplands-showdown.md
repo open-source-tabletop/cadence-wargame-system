@@ -1,6 +1,5 @@
 ---
 title: Scraplands Showdown
-subtitle: Vehicular Combat Racing in a post-apocalyptic wasteland
 ---
 
 Scraplands Showdown is a post-apocalyptic vehicle racing and combat game. Each player assembles a team of vehicles, customised with upgrades, weapons, and armour, and competes to out-race and out-fight their opponents in a brutal Showdown.
