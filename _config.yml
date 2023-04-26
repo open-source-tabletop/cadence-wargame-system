@@ -1,4 +1,5 @@
 permalink: pretty
+exclude: [utils]
 defaults:
   -
     scope:

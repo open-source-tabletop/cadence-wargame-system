@@ -10,12 +10,7 @@
                 {% for nav in site.data.top_nav %}
                 {% if nav.children %}
                 <li>
-                    {% for child in nav.children %}
-                    {% if child.link == page.url %}
-                    {% assign active = " active" %}
-                    {% endif %}
-                    {% endfor %}
-                    <span class="opener{{ active }}">{{ nav.name }}</span>
+                    <span class="opener">{{ nav.name }}</span>
                     <ul>
                         {% for child in nav.children %}
                         <li><a href="{{ child.link }}">{{ child.name }}</a></li>
@@ -29,12 +24,12 @@
                 {% endfor %}
             </ul>
         </nav>
-        
         <section>
             <header>
                 <h2>Get Involved</h2>
             </header>
-            <p>Cadence is a Community owned project, you can find the source files for the rules and modules on Github. Find out more about it at the <a href="/about/">About Cadence</a> page.</p>
+            <p>Cadence is a Community owned project, you can find the source files for the rules and modules on Github.
+                Find out more about it at the <a href="/about/">About Cadence</a> page.</p>
             <ul class="contact">
                 <li class="icon solid brands fa-github">
                     <a href="https://github.com/open-source-tabletop/cadence">Cadence on Github</a>
