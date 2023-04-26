@@ -12,7 +12,7 @@ The following ship setups can be used to represent ships from Warhammer 40k. Thi
 
 ---
 
-#### Xiphon Pattern Interceptor - 48pts
+#### Xiphon Pattern Interceptor - 51pts
 
 **Setup**: Command 1, Skilled 2, Armour 1, Tough 2, Twin Energy Cannons, Concussion Missiles
 
@@ -25,11 +25,9 @@ The following ship setups can be used to represent ships from Warhammer 40k. Thi
 | Twin Energy Cannons       | 12" |  9  |  2  |  1  | Fixed                           |
 | Concussion Missiles       | 16" |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock |
 
-**Upgrades**: Add Countermeasures for +5 points.
-
 ---
 
-#### Storm Eagle Gunship - 54pts
+#### Storm Eagle Gunship - 57pts
 
 **Setup**: Command 1, Skilled 2, Armour 1, Tough 2, Hit Points 1, Heavy Kinetic Cannons, Concussion Missiles
 
@@ -42,11 +40,9 @@ The following ship setups can be used to represent ships from Warhammer 40k. Thi
 | Heavy Kinetic Cannons     | 16" |  8  |  2  |  2  | Fixed, Kinetic, Rapid Fire      |
 | Concussion Missiles       | 16" |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock |
 
-**Upgrades**: Add Tough 1 (Gain Resilient special rule) for + 4 points.
-
 ---
 
-#### Fire Raptor Gunship - 63pts
+#### Fire Raptor Gunship - 67pts
 
 **Setup**: Command 1, Skilled 2, Armour 1, Tough 2, Hit Points 1, Heavy Kinetic Cannons, Heavy Energy Turret, Concussion Missiles
 
@@ -60,11 +56,9 @@ The following ship setups can be used to represent ships from Warhammer 40k. Thi
 | Heavy Energy Turret       | 16" |  7  |  3  |  1  |                                 |
 | Concussion Missiles       | 16" |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock |
 
-**Upgrades**: Upgrade the Heavy Energy Turret to Heavy Kinetic Turret for +2 points.
-
 ---
 
-#### Thunderhawk Gunship - 96pts
+#### Thunderhawk Gunship - 104pts
 
 **Setup**: Command 2, Skilled 2, Armour 2, Tough 2, Hit Points 2, Weapon Platform, Heavy Kinetic Cannons, Heavy Energy Cannons, Heavy Concussion Missiles
 

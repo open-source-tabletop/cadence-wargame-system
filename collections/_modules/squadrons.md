@@ -97,41 +97,41 @@ Games are best played at 150, 250, or 350 point limits.
 | Speed 1         | The ship has a Movement of 7"                 | 1    |
 | Speed 2         | The ship has a Movement of 8"                 | 3    |
 | Skilled 1       | The ship has the Skilled special rule         | 1    |
-| Skilled 2       | The ship has a Skill of 3+                    | 3    |
-| Skilled 3       | The ship has a Skill of 2+                    | 8    |
+| Skilled 2       | The ship has a Skill of 3+                    | 4    |
+| Skilled 3       | The ship has a Skill of 2+                    | 9    |
 | Armour 1        | The ship has a Defence of 3+                  | 4    |
-| Armour 2        | The ship has a Defence of 2+                  | 8    |
-| Tough 1         | The ship has the Resilient special rule       | 2    |
+| Armour 2        | The ship has a Defence of 2+                  | 9    |
+| Tough 1         | The ship has the Resilient special rule       | 1    |
 | Tough 2         | The ship has a Toughness of 4                 | 4    |
-| Tough 3         | The ship has a Toughness of 5                 | 8    |
-| Hit Points 1    | The ship has 4 hit points                     | 3    |
-| Hit Points 2    | The ship has 5 hit points                     | 7    |
+| Tough 3         | The ship has a Toughness of 5                 | 10   |
+| Hit Points 1    | The ship has 4 hit points                     | 4    |
+| Hit Points 2    | The ship has 5 hit points                     | 10   |
 | Agility         | The ship has the Agile special rule           | 1    |
 | Boost           | The ship has the Boost special rule           | 1    |
 | Shield 1        | The ship has the Shields (1) special rule     | 2    |
 | Shield 2        | The ship has the Shields (2) special rule     | 4    |
-| Shield 3        | The ship has the Shields (3) special rule     | 7    |
-| Stealth 1       | The ship has the Stealth (12) special rule    | 5    |
-| Stealth 2       | The ship has the Stealth (9) special rule     | 8    |
-| Jamming         | The ship has the Signal Jam special rule      | 4    |
-| Countermeasures | The ship has the Countermeasures special rule | 3    |
-| Weapon Platform | The ship has the Weapon Platform special rule | 9    |
+| Shield 3        | The ship has the Shields (3) special rule     | 10   |
+| Stealth 1       | The ship has the Stealth (12) special rule    | 4    |
+| Stealth 2       | The ship has the Stealth (9) special rule     | 7    |
+| Jamming         | The ship has the Signal Jam special rule      | 3    |
+| Countermeasures | The ship has the Countermeasures special rule | 2    |
+| Weapon Platform | The ship has the Weapon Platform special rule | 10   |
 
 \* This upgrade multiplies its cost by the number of upgrades the ship has, not including itself.
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                   | Cost |
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------------------ | :--: |
 | Energy Cannons            | 12" |  6  |  2  |  0  | Fixed                           | 1    |
-| Twin Energy Cannons       | 12" |  9  |  2  |  1  | Fixed                           | 2    |
-| Heavy Energy Cannons      | 16" |  7  |  3  |  1  | Fixed                           | 3    |
+| Twin Energy Cannons       | 12" |  9  |  2  |  1  | Fixed                           | 3    |
+| Heavy Energy Cannons      | 16" |  7  |  3  |  1  | Fixed                           | 4    |
 | Disruptor Cannons         | 8"  |  3  |  3  |  2  | Disruptor                       | 1    |
 | Heavy Disruptor Cannons   | 12" |  4  |  3  |  2  | Disruptor                       | 2    |
 | Kinetic Cannons           | 12" |  7  |  2  |  1  | Fixed, Kinetic, Rapid Fire      | 2    |
 | Heavy Kinetic Cannons     | 16" |  8  |  2  |  2  | Fixed, Kinetic, Rapid Fire      | 3    |
-| Concussion Missiles       | 16" |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock | 5    |
-| Heavy Concussion Missiles | 16" |  3  |  9  |  2  | Heavy, Arc (Front), Target Lock | 7    |
-| Unguided Bombs            | 6"  |  3  |  9  |  3  | Fixed, Heavy, Inaccurate        | 7    |
-| Heavy Energy Turret       | 16" |  7  |  3  |  1  |                                 | 7    |
+| Concussion Missiles       | 16" |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock | 6    |
+| Heavy Concussion Missiles | 16" |  3  |  9  |  2  | Heavy, Arc (Front), Target Lock | 8    |
+| Unguided Bombs            | 6"  |  3  |  9  |  3  | Fixed, Heavy, Inaccurate        | 6    |
+| Heavy Energy Turret       | 16" |  7  |  3  |  1  |                                 | 8    |
 | Heavy Kinetic Turret      | 16" |  9  |  2  |  2  | Kinetic                         | 9    |
 
 ### Constructed Army Lists

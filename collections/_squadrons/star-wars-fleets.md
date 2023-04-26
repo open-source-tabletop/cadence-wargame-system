@@ -26,7 +26,7 @@ The following ship setups can be used to represent ships from Star Wars. This is
 
 ---
 
-#### TIE Interceptor - 29pts
+#### TIE Interceptor - 34pts
 
 **Setup**: Command 1, Speed 1, Agility, Boost, Twin Energy Cannons.
 
@@ -38,11 +38,9 @@ The following ship setups can be used to represent ships from Star Wars. This is
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------------ |
 | Twin Energy Cannons       | 12" |  9  |  2  |  1  | Fixed                     |
 
-**Upgrades**: Upgrade to Skilled 2 (Skl = 3+) for +5 points.
-
 ---
 
-#### TIE Bomber - 26pts
+#### TIE Bomber - 28pts
 
 **Setup**: Hit Points 1, Energy Cannon, Heavy Concussion Missiles
 
@@ -56,11 +54,9 @@ The following ship setups can be used to represent ships from Star Wars. This is
 | Heavy Concussion Missiles | 16" |  3  |  9  |  2  | Heavy, Arc (Front), Target Lock |
 | Unguided Bombs (Upgrade)  | 6"  |  3  |  9  |  3  | Fixed, Heavy, Inaccurate        | 7    |
 
-**Upgrades**: Upgrade to add Unguided Bombs for +7 points.
-
 ---
 
-#### TIE Silencer - 62pts
+#### TIE Silencer - 64pts
 
 **Setup**: Command 1, Speed 1, Skilled 2, Hit Points 2, Agility, Shield 2, Heavy Energy Cannons, Concussion Missiles
 
@@ -73,15 +69,13 @@ The following ship setups can be used to represent ships from Star Wars. This is
 | Heavy Energy Cannons      | 16" |  7  |  3  |  1  | Fixed                           |
 | Concussion Missiles       | 16" |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock |
 
-**Upgrades**: Upgrade to Command 2 (Cmd = 6) for + 14 points.
-
 ---
 
 ### Rebel Alliance
 
 ---
 
-#### X-Wing Starfighter - 37pts
+#### X-Wing Starfighter - 41pts
 
 **Setup**: Skilled 2, Hit Points 1, Shield 2, Twin Energy Cannons, Concussion Missiles
 
@@ -94,11 +88,9 @@ The following ship setups can be used to represent ships from Star Wars. This is
 | Twin Energy Cannons       | 12" |  9  |  2  |  1  | Fixed                           |
 | Concussion Missiles       | 16" |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock |
 
-**Upgrades**: Upgrade to Command 1 (Cmd = 5) for 10 points.
-
 ---
 
-#### Y-Wing Bomber - 30pts
+#### Y-Wing Bomber - 32pts
 
 **Setup**: Hit Points 1, Shield (2), Energy Cannons, Heavy Concussion Missiles
 
@@ -112,11 +104,9 @@ The following ship setups can be used to represent ships from Star Wars. This is
 | Heavy Concussion Missiles | 16" |  3  |  9  |  2  | Heavy, Arc (Front), Target Lock |
 | Heavy Disruptor Cannons (Upgrade) | 12" |  4  |  3  |  2  | Disruptor               |
 
-**Upgrades**: Upgrade to add Heavy Disruptor Cannons for +7 points.
-
 ---
 
-#### A-Wing Interceptor - 44pts
+#### A-Wing Interceptor - 46pts
 
 **Setup**: Command 1, Skilled 2, Boost, Shield 2, Energy Cannons, Concussion Missiles
 
@@ -131,7 +121,7 @@ The following ship setups can be used to represent ships from Star Wars. This is
 
 ---
 
-#### B-Wing Starfighter - 44pts
+#### B-Wing Starfighter - 48pts
 
 **Setup**: Skilled 2, Tough 2, Hit Points 1, Shield 2, Heavy Energy Cannons Cannons, Heavy Concussion Missiles
 
@@ -146,7 +136,7 @@ The following ship setups can be used to represent ships from Star Wars. This is
 
 ---
 
-#### U-Wing Support Craft - 54pts
+#### U-Wing Support Craft - 59pts
 
 **Setup**: Command 1, Armour 1, Tough 2, Hit Points 1, Shield 3, Heavy Energy Cannons, Disruptor Cannons
 

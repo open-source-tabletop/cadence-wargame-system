@@ -10,7 +10,7 @@ The following ship setups can be used to represent ships from Battlestar Galacti
 
 ---
 
-#### Mk II Viper - 49pts
+#### Mk II Viper - 48pts
 
 **Setup**: Command 1, Speed 2, Skilled 2, Armour 1, Tough 2, Agility, Kinetic Cannons
 
@@ -22,11 +22,9 @@ The following ship setups can be used to represent ships from Battlestar Galacti
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------------------ |
 | Kinetic Cannons           | 12" |  7  |  2  |  1  | Fixed, Kinetic, Rapid Fire      |
 
-**Upgrades**: Upgrade to add Concussion Missiles for +7 points.
-
 ---
 
-#### Raptor - 47pts
+#### Raptor - 49pts
 
 **Setup**: Armour 1, Tough 2, Hit Points 2, Jamming, Countermeasures, Concussion Missiles
 
@@ -44,7 +42,7 @@ The following ship setups can be used to represent ships from Battlestar Galacti
 
 ---
 
-#### Cylon Raider - 34pts
+#### Cylon Raider - 33pts
 
 **Setup**: Speed 2, Armour 1, Agility, Jamming, Kinetic Cannons
 
@@ -56,11 +54,9 @@ The following ship setups can be used to represent ships from Battlestar Galacti
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------------------ |
 | Kinetic Cannons           | 12" |  7  |  2  |  1  | Fixed, Kinetic, Rapid Fire      |
 
-**Upgrades**: Upgrade to Skilled 3 (Skl = 2+) for +8 points.
-
 ---
 
-#### Cylon Heavy Raider - 49pts
+#### Cylon Heavy Raider - 54pts
 
 **Setup**: Armour 2, Tough 2, Hit Points 2, Heavy Kinetic Cannons, Heavy Concussion Missiles
 
