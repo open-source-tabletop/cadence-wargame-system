@@ -59,10 +59,9 @@ Slowed   | This model may only move 1 space during a Move or Advance action.
 Blinded  | This model must re-roll successful Attack Rolls.
 Fear     | This model must spend an additional Command Point to move closer to an enemy or to make an Attack action.
 
-TODO
+## Playing the game
 
-- Magic System
-- Explain Books
+There are 3 steps to follow to play a game of Guilds and Glory: choose your campaign, get the rules for the listed monsters, and choose your characters. These sections are separated out into their own expansions called Books, the "Book of Heroes", for example, provides a selection of premade characters you can choose from.
 
 ### Choose your Adventurers
 
