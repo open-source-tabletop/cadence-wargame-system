@@ -27,7 +27,7 @@ If this model does not perform a Move action it may perform two Attack actions d
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
 | Guardian Sergeant     | 5   | 5"  | 3+  | 3+  | 4   | 5   | Squad Command |
 
-**Equipment**: A Guardian Sergeant is armed with a combat knife, frag grenade, and two items from the following list:
+**Equipment**: A Guardian Sergeant is armed with a combat knife and two items from the following list:
 
 - Heavy Pistol 
 - Heavy Rifle
@@ -46,10 +46,10 @@ If this model does not perform a Move action it may perform two Attack actions d
 
 **Equipment**: A Ranger Sergeant is equipped with one of the following options: 
 
-- Modified Heavy Pistol, Combat Knife, Frag Grenade, Shock Helm, and Exo-Mobility Gear.
-- Heavy Carbine, Combar Knife, Frag Grenade, Shock Helm, and Exo-Mobility Gear.
+- Modified Heavy Pistol, Combat Knife, Shock Helm, and Exo-Mobility Gear.
+- Heavy Carbine, Combar Knife, Shock Helm, and Exo-Mobility Gear.
 - Heavy Carbine, Combat Knife and Smoke Grenade.
-- Heavy Carbine, Combat Knife, Frag Grenades, and Targeting Array.
+- Heavy Carbine, Combat Knife, and a Targeting Array.
 
 ### Standard Units
 
@@ -59,7 +59,7 @@ If this model does not perform a Move action it may perform two Attack actions d
 | :-------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------ |
 | Guardian Marine       | 5   | 5"  | 3+  | 3+  | 4   | 4   | -             |
 
-**Equipment**: A Guardian is equipped with a Heavy Pistol, Combat Knife, and Frag Grenade. A Guardian is also equipped with either a Heavy Rifle or Ripper Sword.
+**Equipment**: A Guardian is equipped with a Heavy Pistol and Combat Knife. A Guardian is also equipped with either a Heavy Rifle or Ripper Sword.
 
 #### Guardian Rangers
 
@@ -70,10 +70,10 @@ If this model does not perform a Move action it may perform two Attack actions d
 
 **Equipment**: A Ranger is equipped with one of the following options: 
 
-- Modified Heavy Pistol, Combat Knife, Frag Grenade, Shock Helm, and Exo-Mobility Gear.
-- Heavy Carbine, Frag Grenade, Shock Helm, and Exo-Mobility Gear.
+- Modified Heavy Pistol, Combat Knife,Shock Helm, and Exo-Mobility Gear.
+- Heavy Carbine, Shock Helm, and Exo-Mobility Gear.
 - Heavy Carbine, Combat Knife and Smoke Grenade.
-- Heavy Carbine, Combat Knife, Frag Grenades, and Targeting Array.
+- Heavy Carbine, Combat Knife, and a Targeting Array.
 
 ### Specialist Units
 
@@ -107,8 +107,8 @@ If this model does not perform a Move action it may perform two Attack actions d
 - Twin Heavy Autocannons, 2 Fusion Gauntlets, and an Auto Grenade Launcher
 - Twin Autocannons and a Jump Pack
 - Twin Plasma Rifles and a Jump Pack
-- Heavy Pistol, Fusion Rifle, and Frag Grenades
-- Heavy Pistol, Heavy Fusion Rifle, and Frag Grenades
+- Heavy Pistol and Fusion Rifle
+- Heavy Pistol and Heavy Fusion Rifle
 
 ## Guardian Chapters Summary
 
@@ -126,42 +126,46 @@ If this model does not perform a Move action it may perform two Attack actions d
 
 ### Ranged Weapons
 
-# TODO FROM HERE
-
 | Weapon                   | Rng | Att | Dmg | Prc | Special Rules                          | Points |
 | :----------------------- | :-: | :-: | :-: | :-: | :------------------------------------- | :----: |
-| Flamer Pistol            |     |     |     |     |                                        | 0      |
-| Frag Grenade             |     |     |     |     |                                        | 0      |
-| Fusion Rifle             |     |     |     |     |                                        | 0      |
-| Heavy Carbine            |     |     |     |     |                                        | 0      |
-| Heavy Fusion Rifle       |     |     |     |     |                                        | 0      |
-| Heavy Pistol             |     |     |     |     |                                        | 0      |
-| Heavy Rifle              |     |     |     |     |                                        | 0      |
-| Heavy Sniper Rifle       |     |     |     |     |                                        | 0      |
-| Modified Heavy Pistol    |     |     |     |     |                                        | 0      |
-| Plasma Pistol            |     |     |     |     |                                        | 0      |
-| Plasma Rifle             |     |     |     |     |                                        | 0      |
-| Twin Autocannons         |     |     |     |     |                                        | 0      |
-| Twin Heavy Autocannons   |     |     |     |     |                                        | 0      |
-| Twin Heavy Flamer        |     |     |     |     |                                        | 0      |
-| Twin Plasma Rifle        |     |     |     |     |                                        | 0      |
+| Flamer Pistol            | 6"  | 5   | 3   | 0   | Torrent                                | 0      |
+| Frag Grenade             | 8"  | 2   | 8   | 0   | Blast, Heavy, Indirect, One-Use        | -      |
+| Fusion Rifle             | 12" | 3   | 6   | 4   | Rapid Fire                             | 3      |
+| Heavy Carbine            | 18" | 5   | 3   | 1   |                                        | 1      |
+| Heavy Fusion Rifle       | 12" | 4   | 7   | 4   | Heavy, Rapid Fire                      | 5      |
+| Heavy Pistol             | 8"  | 3   | 3   | 1   | Assault                                | 0      |
+| Heavy Rifle              | 24" | 5   | 3   | 1   | Rapid Fire                             | 1      |
+| Heavy Sniper Rifle       | 36" | 3   | 6   | 2   | Accurate, Heavy                        | 2      |
+| Modified Heavy Pistol    | 12" | 3   | 3   | 2   | Assault, Rending (1)                   | 1      |
+| Plasma Pistol            | 8"  | 3   | 6   | 3   | Assault, Supercharge                   | 2      |
+| Plasma Rifle             | 24" | 4   | 6   | 3   | Rapid Fire, Supercharge                | 5      |
+| Twin Autocannons         | 16" | 10  | 3   | 1   |                                        | 3      |
+| Twin Heavy Autocannons   | 16" | 10  | 4   | 2   | Heavy                                  | 7      |
+| Twin Heavy Flamer        | 8"  | 8   | 4   | 1   | Torrent                                | 3      |
+| Twin Plasma Rifle        | 24" | 6   | 6   | 3   | Heavy, Supercharge                     | 8      |
 
 ### Assault Weapons
 
 | Weapon                     | Rng | Att | Dmg | Prc | Special Rules                          | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :------------------------------------- | :----: |
-| Combat Knife               | 1   | 2   | Str | 0   | Assault                                | 0      |
-| Fusion Gauntlet            | 1   | 3   | 4   | 1   | SOME KIND OF DOUBLE RULE?              | 2      |
-| Fusion Hammer              | 1   | 2   | 6   | 3   | Unwieldy, Assault                      | 2      |
-| Fusion Sword               | 1   | 3   | 3   | 3   | Assault                                | 1      |
-| Ripper Sword               | 1   | 3   | 3   | 1   | Assault, Rending (2)                   | 0      |
+| Combat Knife               | 1"  |  3  |  4  |  0  | Assault                                | 0      |
+| Fusion Gauntlet            | 1"  |  3  |  7  |  2  | Assault, Paired                        | 4      |
+| Fusion Hammer              | 1"  |  3  |  8  |  3  | Assault, Heavy                         | 5      |
+| Fusion Sword               | 1"  |  4  |  6  |  2  | Assault                                | 3      |
+| Ripper Sword               | 1"  |  4  |  5  |  1  | Assault, Rending (2)                   | 1      |
 
 ### Equipment
 
 | Equipment | Description |
 | :-------- | :---------- |
 | Exo-mobility Gear | This model ignores penalties for ascending elevated terrain. |
-| Jump Pack | |
-| Shock Helm | This model gains the Fear (2) special rule. |
-| Smoke Grenade | One use only. This model may place a smoke marker anywhere within 8 inches, a smoke marker is a 50mm diameter circle and lasts until the end of the round. Line of sight that passes through this marker counts as blocked. |
-| Targeting Array | When making an attack roll against a target more than 12 inches away this model may re-roll one failed Attack Roll dice. |
+| Jump Pack | This model gains the Flying and Support special rule. |
+| Shock Helm | This model gains the Fear (3) special rule. |
+| Smoke Grenade | One use only. This model may place a smoke marker anywhere within 8 inches, a smoke marker is a 60mm diameter circle and lasts until the end of the round. Lines of sight drawn through this marker count as not being able to see through it. |
+| Targeting Array | This model gains the Skilled special rule. |
+
+### Upgrades
+
+| Upgrade | Restrictions | Description | Points |
+| :------ | :----------- | :---------- | :----: |
+| Frag Grenade | Any model except Vanguard. | This model gains the Frag Grenade weapon. | 1 |
