@@ -135,7 +135,7 @@ If this model does not perform a Move action it may perform two Attack actions d
 | Heavy Fusion Rifle       | 12" | 4   | 7   | 4   | Heavy, Rapid Fire                      | 5      |
 | Heavy Pistol             | 8"  | 3   | 3   | 1   | Assault                                | 0      |
 | Heavy Rifle              | 24" | 5   | 3   | 1   | Rapid Fire                             | 1      |
-| Heavy Sniper Rifle       | 36" | 3   | 6   | 2   | Accurate, Heavy                        | 2      |
+| Heavy Sniper Rifle       | 36" | 3   | 6   | 2   | Accurate, Heavy                        | 3      |
 | Modified Heavy Pistol    | 12" | 3   | 3   | 2   | Assault, Rending (1)                   | 1      |
 | Plasma Pistol            | 8"  | 3   | 6   | 3   | Assault, Supercharge                   | 2      |
 | Plasma Rifle             | 24" | 4   | 6   | 3   | Rapid Fire, Supercharge                | 5      |
@@ -169,3 +169,8 @@ If this model does not perform a Move action it may perform two Attack actions d
 | Upgrade | Restrictions | Description | Points |
 | :------ | :----------- | :---------- | :----: |
 | Frag Grenade | Any model except Vanguard. | This model gains the Frag Grenade weapon. | 1 |
+| Neurotoxin Blade | Any Model | If this model is equipped with a Combat Knife it gains the Rending (4) special rule. | 2 |
+| Eliminator Rounds | Ranger Sniper only | This models Heavy Sniper Rifle gains +1 to Damage and Piercing. | 1 |
+| Master Crafted Armour | Guardian Sergeant or Ranger Sergeant only. | This model gains the Resilient special rule. | 2 |
+| Oath Scroll | Any model | This model automatically passes the test for losing a Command Point when activating with just 1. | 2 |
+| Med Kit | Any Standard model | One use only. At the end of their activation, this model may attempt to heal 1 hit point for any friendly model within 1 inch, so long as there are no enemy models within 6 inches. To do so they roll a d6, on a 2+ the model regains 1 lost hit point. This does not count as taking an action. | 2 |
