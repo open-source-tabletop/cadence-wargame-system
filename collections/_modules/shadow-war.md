@@ -4,6 +4,10 @@ title: "Dark Millenium: Shadow War"
 
 Dark Millenium: Shadow War takes the combat of Dark Millenium into smaller, more intense battles, featuring a small number of infantry scale models per player.
 
+<span class="image main">
+![Guardian Vanguard](/images/armoured.png "Guardian Vanguard by u/pidgeon_pete")
+</span>
+
 ### Module Rules
 
 - [Dark Millenium: Shadow War Module Rules](/shadow-war/module-rules/)

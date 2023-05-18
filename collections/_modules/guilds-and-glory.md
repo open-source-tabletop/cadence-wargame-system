@@ -7,7 +7,7 @@ Welcome to Guilds and Glory, a game of narrative fantasy adventures. A brave par
 Guilds and Glory is an asymmetric adventure game for 2 or more players. 1 player will play as the overlord - controlling a host of deadly creatures, as a brave party of adventurers make their way through a selection of narrative campaigns.
 
 <span class="image main">
-![Guilds and Glory](/images/guilds.jpg "Hero by u/pidgeonpete")
+![Guilds and Glory](/images/dungeon.png "Dungeon by u/pidgeonpete")
 </span>
 
 ## Module Rules
