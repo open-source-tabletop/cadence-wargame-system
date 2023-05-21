@@ -58,7 +58,7 @@ Models cannot make attacks that pass through Obscuring terrain.
 
 #### Dangerous
 
-Models that spend any part of their activation within Dangerous terrain must roll 3 d6, for each roll of a 6 the model takes 3 damage and must make a Defence roll as though it was the target of an attack.
+Models that spend any part of their activation within Dangerous terrain must roll 3 d6, for each roll of a 6 the model takes d6 damage and must make a Defence roll as though it was the target of an attack.
 
 ### Objectives
 

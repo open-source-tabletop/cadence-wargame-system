@@ -1,3 +1,0 @@
----
-title: "Saturday Morning Smackdown"
----

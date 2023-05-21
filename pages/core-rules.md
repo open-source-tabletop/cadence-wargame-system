@@ -1,5 +1,5 @@
 ---
-title: Cadence
+title: Cadence Core Rules
 permalink: /core-rules/
 ---
 
@@ -20,7 +20,9 @@ Welcome to the Cadence System, a free, community owned wargaming ruleset designe
 - [Structure of a Game](#structure-of-a-game)
 - [Setup](#setup)
 - [Battle](#battle)
-- [Actions](#actions)
+
+#### [Actions](#actions)
+
 - [Action: Move](#action-move)
 - [Action: Advance](#action-advance)
 - [Action: Attack](#action-attack)
@@ -214,7 +216,7 @@ As your units do not begin on the battlefield, they must be deployed from reserv
 
 Unless another rule permits it, each player must deploy all of their units on the battlefield during the first turn. If a unit cannot be placed within range of an entry point, then it cannot be deployed. If it must be deployed but cannot be placed, it is destroyed.
 
-### Actions
+## Actions
 
 When you activate a unit you first declare a number of actions and the order you will perform them, then pay the appropriate cost from the unit's Command Points (a unit must have enough points to perform your chosen actions). You do not have to spend all of a unit's Command Points when you activate it, allowing you to activate it again later in the round, however there are some restrictions:
 
