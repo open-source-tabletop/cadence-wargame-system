@@ -46,6 +46,14 @@ When you perform an advance action you follow the same rules as above except tha
 
 When activating a car with 1 Command Point, if you fail the test to use the Command Point you may move directly forward up to 2 inches instead of losing the Command Point.
 
+### Taking Damage
+
+Any time a car loses a Hit Point it must make a control check.
+
+### Dodging
+
+When a car moves into contact with you you may choose to Dodge them by spending a Command Point. If you do so you are not required to make a control check.
+
 ### Control Checks
 
 At times you may be at risk of losing control of your car, when being attacked, pushing your speed, or colliding with the terrain. When asked to perform a control check you must make a Skill Roll. If you pass the Skill Roll nothing happens. If you fail the Skill Roll then the following happens:
@@ -73,18 +81,48 @@ Any terrain with the destructible keyword counts as having Defence of 3, Toughne
 
 ## Building a Team
 
-Players build their team by selecting a number of cars from the list below and upgrading them with weapons, armour, and abilities. When adding upgrades to a car you may not add more than 15 points to any individual car. Games of Scraplands Showdown are best played at 100-150 points.
+Players build their team by selecting a number of cars from the list below and upgrading them with weapons, armour, and abilities. When adding upgrades to a car you may not add more points of upgrades than the initial cost of the car. Games of Scraplands Showdown are best played at 100-150 points.
 
 ### Cars
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
-| Runner             |  5  |  5  |  5  |  4  |  4  |  5  |                       | 20     |
-| Hotrod             |  5  |  5  |  5  |  4  |  3  |  5  | Fast                  | 23     |
-| Buggy              |  5  |  4  |  5  |  3  |  3  |  5  | Off-road              | 18     |
-| Truck              |  5  |  4  |  5  |  4  |  4  |  6  | Rugged                | 28     |
+| Runner             |  5  |  5" |  5+ |  3+ |  4  |  5  |                       | 20     |
+| Hotrod             |  5  |  5" |  5+ |  3+ |  3  |  5  | Fast                  | 23     |
+| Buggy              |  5  |  4" |  5+ |  4+ |  3  |  5  | Off-road              | 18     |
+| Truck              |  5  |  4" |  5+ |  3+ |  4  |  6  | Rugged                | 28     |
 
+### Upgrades
 
+#### Weapons
+
+| Weapon                      | Rng | Att | Dmg | Prc | Special Rules                 | Points |
+| :-------------------------- | :-: | :-: | :-: | :-: | :---------------------------- | :----: |
+| Light Machine Gun           | 10" | 4   |  2  |  0  | Arc (Front)                   | 3      |
+| Twin Light Machine Guns     | 10" | 5   |  2  |  0  | Arc (Front)                   | 4      |
+| Heavy Machine Gun           | 12" | 4   |  2  |  1  | Arc (Front)                   | 4      |
+| Twin Heavy Machine Guns     | 12" | 5   |  2  |  1  | Arc (Front)                   | 5      |
+| Minigun                     | 12" | 6   |  2  |  1  | Arc (Front)                   | 7      |
+| Rocket Launcher             | 12" | 3   |  5  |  2  | Arc (Front)                   | 9      |
+| Flamethrower                | 3"  | 10  |  1  |  1  | Arc (Front), Torrent, Disrupt | 5      |
+
+#### Equipment
+
+| Equipment | Benefit | Points |
+| :-------- | :------ | :----: |
+| Ram | If this model moves into contact with an enemy car it must make 2 control checks instead of 1. | 2 |
+| Armour | Gain the Resilient Special Rule (Re-roll failed Defence Rolls of 1) | 6 |
+| Tank Tracks | This model does not need to take control checks but has it's Movement Rate reduced by 2. In addition the model gains +1 to its Toughness. | 12 |
+
+#### Abilities
+
+| Abilities | Details | Points |
+| :-------- | :------ | :----: |
+| Drift | This model may move its full Movement Rate in inches following the rules for a move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action. | 3 |
+
+<!--
 fast - re-roll 1s for advance
 off-road - make a free pivot at the start of an advance action
 rugged - re-roll d6 for number of hits for collision
+
+disrupt - causes 1 control check -->
