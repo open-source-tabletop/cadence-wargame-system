@@ -162,7 +162,6 @@ The following new special rules apply to units and weapons in Squadrons.
 | Rules | Details |
 | :---- | :------ |
 | Disruptor | Defence rolls against this weapon do not gain the benefit of the Shields (X) special rule. |
-| Fixed | This weapon can only target enemy models that are directly on the line of this models forward facing measured from the centre of the base. |
 | Target Lock | Roll a d6 before making any attack rolls, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack but it must be against the same target. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
 | Kinetic | This weapon counts as having a Piercing value of 0 against a ship with Shields (X), while the effect of the shield is active. |
 

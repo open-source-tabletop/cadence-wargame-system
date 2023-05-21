@@ -21,7 +21,7 @@ Welcome to the Cadence System, a free, community owned wargaming ruleset designe
 - [Setup](#setup)
 - [Battle](#battle)
 
-#### [Actions](#actions)
+#### [Actions](#actions-1)
 
 - [Action: Move](#action-move)
 - [Action: Advance](#action-advance)
@@ -359,6 +359,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
 | Arc (X) | This weapon may only be used against models in the named arcs. |
 | Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
+| Fixed | This weapon can only target enemy models that are directly on the line of this models forward facing measured from the centre of the base. |
 | Heavy | A unit must spend an additional Command Point to use this weapon. |
 | Inaccurate | When making an attack with this weapon your attack roll has a -1 modifier. |
 | Indirect | Attacks with this weapon count an obscured line of sight as clear. |
