@@ -8,7 +8,7 @@ Scraplands Showdown is a post-apocalyptic vehicle racing and combat game. Each p
 
 ### Playing Scraplands Showdown
 
-Scraplands Showdown is best played on a 3ft x 3ft or similar sized area.
+Scraplands Showdown is best played on a 3ft x 3ft or similar sized area set up to form a race track.
 
 The models in Scraplands represent ramshackle cars with makeshift weapons and armour. Models be around the 1:64 scale similar to die cast model cars are the best scale for this game. These models are referred to throughout this module as **cars**.
 
@@ -18,7 +18,7 @@ Most missions in Scraplands Showdown follow a race format. The terrain should be
 
 #### Race Initiative
 
-In race format missions, models activate in a specific order as determined below:
+In race missions, models activate in a specific order as determined below:
 
 - The car with the most Command Points remaining activates next.
 - Cars with the same number of Command Points activate in order of race position. This is the car that is furthest ahead on the track and furthest ahead in laps (i.e. the shortest distance to travel to complete the race).
@@ -26,7 +26,7 @@ In race format missions, models activate in a specific order as determined below
 
 #### Race Deployment
 
-At the start of each Mission, the players will be required to place their cars on the table before the first round starts. Players roll-off then alternate placing their cars as instructed by the mission.
+At the start of each mission, the players will be required to place their cars on the table before the first round starts. Players roll-off then alternate placing their cars. The first player places a car touching, but behind, the starting line. The second car is then placed one inch behind the starting line, the next is placed 2 inches behind the start line and so on. The cars must be placed facing forward across the start line but may otherwise be placed anywhere along it.
 
 #### Finishing a Race
 
@@ -36,15 +36,15 @@ A race mission ends at the end of any round after which a car has crossed the fi
 
 #### Action: Move
 
-Each time one of your cars performs a Move action it may move up to its Movement attribute in inches directly forward, or 1 inch backward, making 1 pivot of up to 45 degrees at any point during the action. You may not move over any other car at any time. If at any point during your move you move into base contact with another car your movement ends and both cars must make a control check. 
+Each time one of your cars performs a Move action it may move up to its Movement attribute in inches directly forward, or 1 inch backward, making 1 pivot of up to 45 degrees at any point during the action. You may not move over any other car at any time. If at any point during your move you move into base contact with another car your movement ends and both cars must make a control check as explained below.
 
 #### Action: Advance
 
-When you perform an advance action you follow the same rules as above except that you must move up to your full Movement attribute directly forward making 1 pivot of up to 45 degrees at any point during the action. In addition you may increase your Movement attribute for this action by up to 6. For each additional inch you add you must roll a d6 before moving, for each 1 you roll you must make a control check as outlined below.
+When you perform an advance action you follow the same rules as above except that you must move up to your full Movement attribute directly forward making 1 pivot of up to 45 degrees at any point during the action. In addition you may increase your Movement attribute for this action by up to 6 inches. For each additional inch you add you must roll a d6 before moving, for each 1 you roll you must make a control check as outlined below.
 
 #### Action: Coasting
 
-When activating a car with 1 Command Point, if you fail the test to use the Command Point you may move directly forward up to 2 inches instead of losing the Command Point.
+When activating a car with 1 Command Point, if you fail the test to use the Command Point you may make a Move Action but only moving 2 inches directly forward instead of losing the Command Point.
 
 ### Taking Damage
 
@@ -52,7 +52,7 @@ Any time a car loses a Hit Point it must make a control check.
 
 ### Dodging
 
-When a car moves into contact with you you may choose to Dodge them by spending a Command Point. If you do so you are not required to make a control check.
+When a car moves into contact with you you may choose to dodge them by spending a Command Point. If you do so you are not required to make a control check and may move your car up to 1 inch in any direction so long as it doesn't bring you into contact with another car or any terrain.
 
 ### Control Checks
 
@@ -69,11 +69,11 @@ Terrain in Scraplands comes in the following types: Solid, Dangerous, Destructib
 
 #### Solid Terrain
 
-Your car may not move over any terrain with the solid keyword. If any move you make brings you into contact with solid terrain your movement immediately ends and you make a control check. If you were making an Advance action you take 2 control checks instead.
+Your car may not move over any terrain with the solid keyword. If any move you make brings you into contact with solid terrain your activation immediately ends and you make a control check. If you were making an Advance action you make 2 control checks instead.
 
 #### Dangerous
 
-If your car moves over dangerous terrain you roll 1 control check for every full inch you travel through it.
+If your car moves over dangerous terrain you roll 1 control check for each move or advance action that includes moving through the terrain.
 
 #### Destructible
 
@@ -87,31 +87,31 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
-| Runner             |  5  |  5" |  5+ |  3+ |  4  |  5  |                       | 20     |
-| Hotrod             |  5  |  5" |  5+ |  3+ |  3  |  5  | Fast                  | 23     |
-| Buggy              |  5  |  4" |  5+ |  4+ |  3  |  5  | Off-road              | 18     |
-| Truck              |  5  |  4" |  5+ |  3+ |  4  |  6  | Rugged                | 28     |
+| Runner             |  5  |  6" |  5+ |  3+ |  4  |  5  |                       | 18     |
+| Hotrod             |  5  |  6" |  5+ |  3+ |  4  |  5  | Fast                  | 25     |
+| Buggy              |  5  |  6" |  5+ |  4+ |  3  |  5  | Off-road              | 16     |
+| Truck              |  5  |  5" |  5+ |  3+ |  4  |  6  | Rugged                | 28     |
 
 ### Upgrades
 
 #### Weapons
 
-| Weapon                      | Rng | Att | Dmg | Prc | Special Rules                 | Points |
-| :-------------------------- | :-: | :-: | :-: | :-: | :---------------------------- | :----: |
-| Light Machine Gun           | 10" | 4   |  2  |  0  | Arc (Front)                   | 3      |
-| Twin Light Machine Guns     | 10" | 5   |  2  |  0  | Arc (Front)                   | 4      |
-| Heavy Machine Gun           | 12" | 4   |  2  |  1  | Arc (Front)                   | 4      |
-| Twin Heavy Machine Guns     | 12" | 5   |  2  |  1  | Arc (Front)                   | 5      |
-| Minigun                     | 12" | 6   |  2  |  1  | Arc (Front)                   | 7      |
-| Rocket Launcher             | 12" | 3   |  5  |  2  | Arc (Front)                   | 9      |
-| Flamethrower                | 3"  | 10  |  1  |  1  | Arc (Front), Torrent, Disrupt | 5      |
+| Weapon                    | Rng | Att | Dmg | Prc | Special Rules                 | Points |
+| :------------------------ | :-: | :-: | :-: | :-: | :---------------------------- | :----: |
+| Light Machine Gun         | 10" | 4   |  2  |  0  | Arc (Front)                   | 3      |
+| Twin Light Machine Guns   | 10" | 5   |  2  |  0  | Arc (Front)                   | 4      |
+| Heavy Machine Gun         | 12" | 4   |  2  |  1  | Arc (Front)                   | 4      |
+| Twin Heavy Machine Guns   | 12" | 5   |  2  |  1  | Arc (Front)                   | 5      |
+| Minigun                   | 12" | 6   |  2  |  2  | Arc (Front)                   | 8      |
+| Rocket Launcher           | 12" | 3   |  5  |  3  | Arc (Front)                   | 11     |
+| Flamethrower              | 3"  | 10  |  1  |  1  | Arc (Front), Torrent, Disrupt | 5      |
 
-#### Equipment
+#### Upgrades 
 
-| Equipment | Benefit | Points |
+| Upgrades  | Benefit | Points |
 | :-------- | :------ | :----: |
 | Ram | If this model moves into contact with an enemy car it must make 2 control checks instead of 1. | 2 |
-| Armour | Gain the Resilient Special Rule (Re-roll failed Defence Rolls of 1) | 6 |
+| Armour | Gain the Resilient Special Rule (Re-roll failed Defence Rolls of 1) | 5 |
 | Tank Tracks | This model does not need to take control checks but has it's Movement Rate reduced by 2. In addition the model gains +1 to its Toughness. | 12 |
 
 #### Abilities
@@ -119,6 +119,7 @@ Players build their team by selecting a number of cars from the list below and u
 | Abilities | Details | Points |
 | :-------- | :------ | :----: |
 | Drift | This model may move its full Movement Rate in inches following the rules for a move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action. | 3 |
+| Boost | One use only. This model moves 12 inches forward following the rules for a move action. This action costs 1 Command Point and must be taken immediately after a Move action. | 3 |
 
 <!--
 fast - re-roll 1s for advance
