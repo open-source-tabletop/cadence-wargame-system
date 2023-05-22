@@ -40,7 +40,7 @@ Each time one of your cars performs a Move action it may move up to its Movement
 
 #### Action: Advance
 
-When you perform an advance action you follow the same rules as above except that you must move up to your full Movement attribute directly forward making 1 pivot of up to 45 degrees at any point during the action. In addition you may increase your Movement attribute for this action by up to 6 inches. For each additional inch you add you must roll a d6 before moving, for each 1 you roll you must make a control check as outlined below.
+When you perform an advance action you follow the same rules as above except that you must move up to your full Movement attribute directly forward making 1 pivot of up to 45 degrees at any point during the action. In addition you may increase your Movement attribute for this action by up to 8 inches. For every 2 inches you wish to add you must roll a d6 before moving, for each 1 you roll you must make a control check as outlined below.
 
 #### Action: Coasting
 
@@ -60,7 +60,7 @@ At times you may be at risk of losing control of your car, when being attacked, 
 
 - If you are in contact with terrain or another car you take d6 hits, making Defence Rolls as normal for these. You take d6 hits regardless of how many cars or pieces of terrain you are in contact with.
 - Any cars you are in contact with also take d6 hits, making Defence Rolls as normal.
-- Your opponent may either rotate your car up to 90 degrees or move you 1 inch in any direction. If this move brings you into contact with terrain or any cars not originally hit, these also take d6 hits.
+- Your opponent may either rotate your car up to 45 degrees or move you 1 inch in any direction. If this move brings you into contact with terrain or any cars not originally hit, these also take d6 hits.
 - If a control check causes your car to lose any hit points your activation immediately ends.
 
 ### Terrain
@@ -87,10 +87,10 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
-| Runner             |  5  |  6" |  5+ |  3+ |  4  |  5  |                       | 18     |
-| Hotrod             |  5  |  6" |  5+ |  3+ |  4  |  5  | Fast                  | 25     |
-| Buggy              |  5  |  6" |  5+ |  4+ |  3  |  5  | Off-road              | 16     |
-| Truck              |  5  |  5" |  5+ |  3+ |  4  |  6  | Rugged                | 28     |
+| Runner             |  5  |  9" |  5+ |  3+ |  4  |  5  |                       | 18     |
+| Hotrod             |  5  |  10" |  5+ |  3+ |  4  |  5  | Fast                  | 25     |
+| Buggy              |  5  |  9" |  5+ |  4+ |  3  |  5  | Off-road              | 16     |
+| Truck              |  5  |  9" |  5+ |  3+ |  4  |  6  | Rugged                | 28     |
 
 ### Upgrades
 
