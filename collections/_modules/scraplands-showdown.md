@@ -113,6 +113,8 @@ Players build their team by selecting a number of cars from the list below and u
 | Ram | If this model moves into contact with an enemy car it must make 2 control checks instead of 1. | 2 |
 | Armour | Gain the Resilient Special Rule (Re-roll failed Defence Rolls of 1) | 5 |
 | Tank Tracks | This model does not need to take control checks but has it's Movement Rate reduced by 2. In addition the model gains +1 to its Toughness. | 12 |
+| Elite Driver | One per team only. Improve the cars Skill attribute to 4+. | 6 |
+| Turret | One per car only. Remove the Arc (Front) special rule from one weapon on this car. | 6 |
 
 #### Abilities
 
