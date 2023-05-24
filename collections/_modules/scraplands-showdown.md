@@ -138,7 +138,9 @@ Players build their team by selecting a number of cars from the list below and u
 | Drift | This model may move its full Movement Rate in inches following the rules for a move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action. | 3 |
 | J-Turn | This model moves backwards 3 inches then rotates 180 degrees. This counts as taking a Move action and costs 1 Command Point. | 2 |
 
-### Special Rules 
+## Special Rules
+
+The following special rules apply in games of Scraplands Showdown.
 
 | Special Rules | Effect |
 | :------------ | :----- |
@@ -147,3 +149,15 @@ Players build their team by selecting a number of cars from the list below and u
 | Rugged | You may re-roll the d6 to determine the number of hits in a control check. |
 | Ramshackle | This car gains +1 to its Defence rolls against control check hits. |
 | Disrupt | Any car that takes damage from this weapon makes 1 control check. |
+
+## Missioms
+
+### Team Race
+
+#### Battlefield
+
+Team Race is a race format mission and the battlefield should be set up to form a looped track. The race will take 2 laps.
+
+#### Primary Objectives
+
+The cars will score points at the end of the race for their finishing positions.
