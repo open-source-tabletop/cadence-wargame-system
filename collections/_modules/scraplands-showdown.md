@@ -116,7 +116,7 @@ Players build their team by selecting a number of cars from the list below and u
 | Heavy Machine Gun         | 12" | 4   |  2  |  1  | Arc (Front)                   | 5      |
 | Twin Heavy Machine Guns   | 12" | 5   |  2  |  1  | Arc (Front)                   | 6      |
 | Minigun                   | 12" | 6   |  2  |  2  | Arc (Front)                   | 9      |
-| Rocket Launcher           | 12" | 3   |  5  |  3  | Arc (Front)                   | 12     |
+| Rocket Launcher           | 12" | 3   |  5  |  3  | Arc (Front), Disrupt          | 12     |
 | Flamethrower              | 3"  | 10  |  1  |  1  | Arc (Front), Torrent, Disrupt | 5      |
 
 #### Upgrades 
@@ -136,12 +136,14 @@ Players build their team by selecting a number of cars from the list below and u
 | :-------- | :------ | :----: |
 | Boost | One use only. This model moves 12 inches forward following the rules for a move action. This action costs 1 Command Point and must be taken immediately after a Move action. | 3 |
 | Drift | This model may move its full Movement Rate in inches following the rules for a move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action. | 3 |
-| J-Turn | This model moves backwards 3 inches then rotates 180 degrees. This counts as taking a Move action and costs 1 Command Point. |
+| J-Turn | This model moves backwards 3 inches then rotates 180 degrees. This counts as taking a Move action and costs 1 Command Point. | 2 |
 
+### Special Rules 
 
-<!--
-fast - re-roll 1s for advance
-off-road - make a free pivot at the start of an advance action
-rugged - re-roll d6 for number of hits for collision
-ramshackle - +1 Defence against control checks
-disrupt - causes 1 control check -->
+| Special Rules | Effect |
+| :------------ | :----- |
+| Fast | You may re-roll any 1s when adding movement in an Advance action and testing for a control check. |
+| Off-road | You may make a free pivot at the start of an Advance action. |
+| Rugged | You may re-roll the d6 to determine the number of hits in a control check. |
+| Ramshackle | This car gains +1 to its Defence rolls against control check hits. |
+| Disrupt | Any car that takes damage from this weapon makes 1 control check. |
