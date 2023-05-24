@@ -113,10 +113,10 @@ Players build their team by selecting a number of cars from the list below and u
 | :------------------------ | :-: | :-: | :-: | :-: | :---------------------------- | :----: |
 | Light Machine Gun         | 10" | 4   |  2  |  0  | Arc (Front)                   | 3      |
 | Twin Light Machine Guns   | 10" | 5   |  2  |  0  | Arc (Front)                   | 4      |
-| Heavy Machine Gun         | 12" | 4   |  2  |  1  | Arc (Front)                   | 4      |
-| Twin Heavy Machine Guns   | 12" | 5   |  2  |  1  | Arc (Front)                   | 5      |
-| Minigun                   | 12" | 6   |  2  |  2  | Arc (Front)                   | 8      |
-| Rocket Launcher           | 12" | 3   |  5  |  3  | Arc (Front)                   | 11     |
+| Heavy Machine Gun         | 12" | 4   |  2  |  1  | Arc (Front)                   | 5      |
+| Twin Heavy Machine Guns   | 12" | 5   |  2  |  1  | Arc (Front)                   | 6      |
+| Minigun                   | 12" | 6   |  2  |  2  | Arc (Front)                   | 9      |
+| Rocket Launcher           | 12" | 3   |  5  |  3  | Arc (Front)                   | 12     |
 | Flamethrower              | 3"  | 10  |  1  |  1  | Arc (Front), Torrent, Disrupt | 5      |
 
 #### Upgrades 
@@ -126,7 +126,6 @@ Players build their team by selecting a number of cars from the list below and u
 | Armour | Gain the Resilient Special Rule (Re-roll failed Defence Rolls of 1) | 4 |
 | Elite Driver | One per team only. Improve the cars Skill attribute to 4+. | 6 |
 | Ram | If this model moves into contact with an enemy car it rolls 2d6 for the number of hits caused in a control check instead of 1 and you may re-roll the d6 for the number of hits you take. | 2 |
-| Skilled Driver | Improve the Skill attribute to 4+ | 6 |
 | Spikes | Cars that must take a control check for collisions with this car take d6+1 hits instead of d6. | 2 |
 | Tank Tracks | This model may re-roll the d6 for how many hits a control check causes and has it's Movement Rate reduced by 2. In addition the model gains +1 to its Toughness. | 12 |
 | Turret | One per car only. Remove the Arc (Front) special rule from one weapon on this car. | 6 |
