@@ -150,4 +150,10 @@ Team Race is a race format mission and the battlefield should be set up to form 
 
 #### Primary Objectives
 
-The cars will score points at the end of the race for their finishing positions.
+The cars will score points at the end of the race for their finishing positions:
+
+- 13 points for 1st
+- 10 points for 2nd
+- 8 points for 3rd
+- 6 points for 4th
+- 4 points for 5th
