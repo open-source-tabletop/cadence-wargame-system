@@ -133,8 +133,8 @@ If this model does not perform a Move action it may perform two Attack actions d
 | Fusion Rifle             | 12" | 3   | 6   | 4   | Rapid Fire                             | 3      |
 | Heavy Carbine            | 18" | 5   | 3   | 1   |                                        | 1      |
 | Heavy Fusion Rifle       | 12" | 4   | 7   | 4   | Heavy, Rapid Fire                      | 5      |
-| Heavy Pistol             | 8"  | 3   | 3   | 1   | Assault                                | 0      |
-| Heavy Rifle              | 24" | 5   | 3   | 1   | Rapid Fire                             | 1      |
+| Heavy Pistol             | 8"  | 3   | 4   | 1   | Assault                                | 0      |
+| Heavy Rifle              | 24" | 5   | 3   | 1   | Rapid Fire                             | 0      |
 | Heavy Sniper Rifle       | 36" | 3   | 6   | 2   | Accurate, Heavy                        | 3      |
 | Modified Heavy Pistol    | 12" | 3   | 3   | 2   | Assault, Rending (1)                   | 1      |
 | Plasma Pistol            | 8"  | 3   | 6   | 3   | Assault, Supercharge                   | 2      |

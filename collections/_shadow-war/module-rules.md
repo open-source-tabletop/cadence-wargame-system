@@ -10,7 +10,7 @@ parentlink: /shadow-war/
 
 | Rules    | Details |
 | :------- | :------ |
-| Fear (X) | Models within X inches of this model suffer -1 on Attack Rolls against this model. | 
+| Fear (X) | Models within 6 inches of this model suffer -X on Attack Rolls against this model. | 
 | Scout    | This model doubles the distance at which it is placed from its Entry Point when being deployed |
 
 ### Weapon Special Rules

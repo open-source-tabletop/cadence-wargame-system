@@ -1,9 +1,11 @@
 ---
-title: "Army List: Dark Kindred"
+title: "Dark Kindred"
 category: alien
 parent: "Dark Millenium: Shadow War"
 parentlink: /shadow-war/
 ---
+
+The Dark Kindred are a malevolent and enigmatic alien race known for their sadistic nature and insatiable thirst for suffering. Originating from a shadowy realm, they are infamous raiders who derive wicked pleasure from inflicting torment and anguish upon their hapless prey, reveling in the darkness that consumes them.
 
 ### Dark Kindred Special Rules
 
@@ -106,11 +108,11 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 
 | Weapon                 | Rng | Att | Dmg | Prc | Special Rules                    | Points |
 | :--------------------- | :-: | :-: | :-: | :-: | :------------------------------- | :----: |
-| Dark Matter Blaster    | 16" | 3   | 4   | 3   | Rapid Fire                       | 3      |
+| Dark Matter Blaster    | 16" | 3   | 5   | 3   | Rapid Fire                       | 4      |
 | Dark Matter Cannon     | 32" | 4   | 4   | 3   | Heavy                            | 5      |
 | Dark Matter Pistol     | 8"  | 2   | 4   | 3   |                                  | 2      |
-| Plasma Grenade         | 8"  | 2   | 5   | 2   | Blast, Heavy, Indirect, One-use  | -      |
-| Ripper                 | 8"  | 4   | 4   | 2   | Indirect                         | 3      |
+| Plasma Grenade         | 8"  | 2   | 7   | 2   | Blast, Heavy, Indirect, One-use  | -      |
+| Ripper                 | 8"  | 6   | 3   | 2   | Indirect                         | 3      |
 | Shard Cannon           | 24" | 6   | 3   | 0   | Heavy, Rending (2)               | 2      |
 | Shard Pistol           | 8"  | 3   | 2   | 0   | Rending (1)                      | 0      |
 | Shard Carbine          | 12" | 4   | 2   | 0   | Rending (1)                      | 0      |
@@ -120,13 +122,13 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 
 | Weapon                  | Rng | Att | Dmg | Prc | Special Rules                   | Points |
 | :---------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
-| Barbed Flail            | 2"  | 3   | 3   | 0   | Assault, Rending (1)            | 2      |
+| Barbed Flail            | 2"  | 4   | 3   | 2   | Assault, Rending (1)            | 2      |
 | Eviscerator Gauntlet    | 1"  | 10  | 1   | 1   | Assault                         | 1      |
 | Plasma Blade            | 1"  | 3   | 3   | 1   | Assault                         | 2      |
-| Poisoned Knives         | 1"  | 3   | 2   | 0   | Assault, Rending (3)            | 0      |
-| Razor Flail             | 2"  | 4   | 2   | 0   | Assault                         | 1      |
-| Vicious Blades          | 1"  | 2   | 1   | 0   | Assault                         | 0      |
-| Voidnet and Shadowblade | 2"  | 4   | 3   | 2   | Assault, Heavy, Rending (3)     | 2      |
+| Poisoned Knives         | 1"  | 5   | 2   | 0   | Assault, Rending (3)            | 0      |
+| Razor Flail             | 2"  | 4   | 2   | 1   | Assault                         | 1      |
+| Vicious Blades          | 1"  | 5   | 1   | 0   | Assault                         | 0      |
+| Voidnet and Shadowblade | 2"  | 4   | 4   | 2   | Assault, Heavy, Rending (3)     | 2      |
 
 ### Upgrades
 
