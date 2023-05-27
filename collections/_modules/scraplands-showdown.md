@@ -124,7 +124,7 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Abilities | Details | Points |
 | :-------- | :------ | :----: |
-| Boost | One use only. This model moves 12 inches forward following the rules for a move action. This action costs 1 Command Point and must be taken immediately after a Move action. | 3 |
+| Boost | One use only. This model moves 18 inches forward following the rules for a move action. This action costs 1 Command Point and must be taken immediately after a Move action. | 3 |
 | Drift | This model may move its full Movement Rate in inches following the rules for a move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action. | 3 |
 | J-Turn | This model moves backwards 3 inches then rotates 180 degrees. This counts as taking a Move action and costs 1 Command Point. | 2 |
 
