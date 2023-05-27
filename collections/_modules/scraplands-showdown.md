@@ -111,12 +111,12 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                 | Points |
 | :------------------------ | :-: | :-: | :-: | :-: | :---------------------------- | :----: |
-| Light Machine Gun         | 10" | 4   |  2  |  0  | Arc (Front)                   | 3      |
-| Twin Light Machine Guns   | 10" | 5   |  2  |  0  | Arc (Front)                   | 4      |
-| Heavy Machine Gun         | 12" | 4   |  2  |  1  | Arc (Front)                   | 5      |
-| Twin Heavy Machine Guns   | 12" | 5   |  2  |  1  | Arc (Front)                   | 6      |
-| Minigun                   | 12" | 6   |  2  |  2  | Arc (Front)                   | 9      |
-| Rocket Launcher           | 12" | 3   |  5  |  3  | Arc (Front), Disrupt          | 12     |
+| Light Machine Gun         | 10" | 5   |  2  |  0  | Arc (Front)                   | 3      |
+| Twin Light Machine Guns   | 10" | 7   |  2  |  0  | Arc (Front)                   | 4      |
+| Heavy Machine Gun         | 12" | 6   |  2  |  1  | Arc (Front)                   | 5      |
+| Twin Heavy Machine Guns   | 12" | 8   |  2  |  1  | Arc (Front)                   | 6      |
+| Minigun                   | 12" | 10  |  2  |  2  | Arc (Front)                   | 9      |
+| Rocket Launcher           | 12" | 3   |  6  |  3  | Arc (Front), Disrupt          | 12     |
 | Flamethrower              | 3"  | 10  |  1  |  1  | Arc (Front), Torrent, Disrupt | 5      |
 
 #### Upgrades 
