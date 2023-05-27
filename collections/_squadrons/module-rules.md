@@ -4,6 +4,8 @@ parent: Squadrons
 parentlink: /squadrons/
 ---
 
+Squadrons is a game of high speed combat between small fighter or bomber scale ships. Each player commands a squadron of around 5 to 15 ships as they try to take down their opponents ships.
+
 ## Module Rules
 
 ### Playing Squadrons
@@ -133,6 +135,33 @@ Games are best played at 150, 250, or 350 point limits.
 | Unguided Bombs            | 6"  |  3  |  9  |  3  | Fixed, Heavy, Inaccurate        | 6    |
 | Heavy Energy Turret       | 16" |  7  |  3  |  1  |                                 | 8    |
 | Heavy Kinetic Turret      | 16" |  9  |  2  |  2  | Kinetic                         | 9    |
+
+### Example Ships
+
+#### Interceptor - 41pts
+
+**Setup**: Command 1, Speed 2, Agility, Boost, Shield 1, Twin Energy Cannons.
+
+| Name              | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules            |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------- |
+| Interceptor       |  5  |  8" |  4+ |  4+ |  3  |  3  | Agile, Boost, Shield (1) |
+
+#### Light Bomber - 32pts
+
+**Setup**: Hit Points 1, Shield 2, Disruptor Cannons, Heavy Concussion Missiles
+
+| Name              | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
+| Light Bomber      |  4  |  6" |  4+ |  4+ |  3  |  4  | Shield (2)            |
+
+#### Heavy Gunship - 79pts
+
+**Setup**: Command 2, Armour 1, Tough 2, Hit Points 1, Weapon Platform, Heavy Kinetic Cannons, Concussion Missiles
+
+| Name              | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
+| Heavy Gunship     |  5  |  6" |  4+ |  3+ |  4  |  4  | Weapon Platform       |
+
 
 ### Constructed Army Lists
 

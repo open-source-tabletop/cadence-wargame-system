@@ -83,11 +83,15 @@
 
 <p>When you perform an Advance action you follow the same rules as above except that you must move up to your full Movement attribute directly forward making 1 pivot of up to 45 degrees at any point during the action.</p>
 
-<p>In addition you may increase your Movement attribute for this action. You may add 2 inches to your Movement attribute and may do this up to 5 times, declaring this before moving. For each additional 2 inches added you must roll a d6 before moving, for each 1 you roll you must make a control check as outlined below.</p>
+<p>In addition you may increase your Movement attribute for this action. You may add 2 inches to your Movement attribute and may do this up to 5 times, declaring this before moving. For each additional 2 inches added you must roll a d6 before moving, if you roll any 1s you must take a control check as outlined below.</p>
 
 <h4 id="action-coasting">Action: Coasting</h4>
 
 <p>When activating a car with 1 Command Point, if you fail the test to use the Command Point you may make a Move Action but only moving up to 2 inches directly forward instead of losing the Command Point.</p>
+
+<h3 id="ramming">Ramming</h3>
+
+<p>When you move into another car you may declare this as a deliberate attempt to ram if you have moved at least 6 inches during that action. To do this you must spend 1 Command Point, all cars involved in the collision will roll 3 control checks, however you may re-roll any failed skill checks for your control checks.</p>
 
 <h3 id="dodging">Dodging</h3>
 
@@ -104,7 +108,7 @@
 
 <h3 id="terrain">Terrain</h3>
 
-<p>Terrain in Scraplands comes in the following types: Solid, Dangerous, Destructible, and Ramps.</p>
+<p>Terrain in Scraplands comes in the following types: Solid, Dangerous, Rough, Destructible, and Ramps.</p>
 
 <h4 id="solid-terrain">Solid Terrain</h4>
 
@@ -112,21 +116,19 @@
 
 <h4 id="dangerous">Dangerous</h4>
 
-<p>If your car moves over dangerous terrain you roll 1 control check for each move or advance action that includes moving through the terrain.</p>
+<p>If your car moves over dangerous terrain you roll 1 control check for each move or advance action that includes moving through the terrain. If the shape of the terrain does not allow you to place your car part way through the terrain, you may only move through the terrain if you have sufficient movement to completely move past it, otherwise it is treated as Solid terrain.</p>
 
 <h4 id="destructible">Destructible</h4>
 
-<p>Any terrain with the destructible keyword counts as having Defence of 3, Toughness of 3, and 1 Hit Point. If reduced to 0 Hit Points it is removed from the table.</p>
+<p>Any terrain with the destructible keyword counts as having Defence of 3, Toughness of 3, and 1 Hit Point. If reduced to 0 Hit Points it is removed from the table. Destructible terrain is also usually Solid or Dangerous.</p>
 
 <h4 id="ramps">Ramps</h4>
 
-<p>Ramps are a special type of terrain that allow your car to make spectacular jumps across other cars or terrain.</p>
+<p>Ramps are a special type of terrain that allows your cars to make large jumps. Ramps should have a marked area where cars can move onto the ramp, and move into any other part of a ramp is treated as moving into solid terrain.</p>
 
-<p>A ramp should have a clear entry line where it begins and can be moved onto, and an end where the car will exit from. A car must move onto a ramp through the entry line and have enough remaining movement to move entirely past the ramp. Moving into a ramp in any other way is treated as solid terrain.</p>
+<p>When a car moves into contact with the ramp, the move action it is doing immediately ends. The car then moves up to 12 inches directly forward, ignoring any intervening terrain or cars until the end of the movement. If the model cannot be placed due to solid terrain it is removed from the game as it is wrecked.</p>
 
-<p>If the car moves so that it leaves the ramp through the correct exit line it adds 2 inches to it’s remaining movement and may ignore intervening terrain object of height 1 and other cars that are entirely within 6 inches of the ramp. At the end of the movement the car takes a control check.</p>
-
-<p>If the car moves off the ramp through any part not the correct exit it will complete it’s move as normal, colliding with any cars or terrain as normal. If it does not have enough movement to be placed in a clear area of terrain the car is wrecked, and removed from the game.</p>
+<p>At the end of the cars movement it takes a control check.</p>
 
 <h2 id="building-a-team">Building a Team</h2>
 
@@ -313,7 +315,7 @@
     </tr>
     <tr>
       <td style="text-align: left">Ram</td>
-      <td style="text-align: left">If this model moves into contact with an enemy car it rolls 2d6 for the number of hits caused in a control check instead of 1 and you may re-roll the d6 for the number of hits you take.</td>
+      <td style="text-align: left">If this car makes a deliberate ram it makes only 1 control check.</td>
       <td style="text-align: center">2</td>
     </tr>
     <tr>
@@ -323,7 +325,7 @@
     </tr>
     <tr>
       <td style="text-align: left">Tank Tracks</td>
-      <td style="text-align: left">This model may re-roll the d6 for how many hits a control check causes and has it’s Movement Rate reduced by 2. In addition the model gains +1 to its Toughness.</td>
+      <td style="text-align: left">This car may re-roll the d6 for how many hits a control check causes and has it’s Movement Rate reduced by 2. This car ignores the effects of dangerous terrain and gains +1 to its Toughness.</td>
       <td style="text-align: center">12</td>
     </tr>
     <tr>
@@ -347,17 +349,17 @@
   <tbody>
     <tr>
       <td style="text-align: left">Boost</td>
-      <td style="text-align: left">One use only. This model moves 12 inches forward following the rules for a move action. This action costs 1 Command Point and must be taken immediately after a Move action.</td>
+      <td style="text-align: left">One use only. This car moves 18 inches forward following the rules for a move action. This action costs 1 Command Point and must be taken immediately after a Move action.</td>
       <td style="text-align: center">3</td>
     </tr>
     <tr>
       <td style="text-align: left">Drift</td>
-      <td style="text-align: left">This model may move its full Movement Rate in inches following the rules for a move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action.</td>
+      <td style="text-align: left">This car may move its full Movement Rate in inches following the rules for a move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action.</td>
       <td style="text-align: center">3</td>
     </tr>
     <tr>
       <td style="text-align: left">J-Turn</td>
-      <td style="text-align: left">This model moves backwards 3 inches then rotates 180 degrees. This counts as taking a Move action and costs 1 Command Point.</td>
+      <td style="text-align: left">This car moves backwards 3 inches then rotates 180 degrees. This counts as taking a Move action and costs 1 Command Point.</td>
       <td style="text-align: center">2</td>
     </tr>
   </tbody>
@@ -408,7 +410,63 @@
 
 <h4 id="primary-objectives">Primary Objectives</h4>
 
-<p>The cars will score points at the end of the race for their finishing positions.</p>
+<p>The cars will score points at the end of the race for their finishing positions:</p>
+
+<ul>
+  <li>13 points for 1st</li>
+  <li>10 points for 2nd</li>
+  <li>8 points for 3rd</li>
+  <li>6 points for 4th</li>
+  <li>4 points for 5th</li>
+</ul>
+
+<h4 id="secondary-objectives">Secondary Objectives</h4>
+
+<p>Each player will also score 1 point for each enemy vehicle destroyed.</p>
+
+<h3 id="showdown">Showdown</h3>
+
+<h4 id="battlefield-1">Battlefield</h4>
+
+<p>Showdown is a race format mission and the battlefield should be set up to form a looped track. If possible, ramps should be included on your track. The race will take 2 laps.</p>
+
+<h4 id="primary-objectives-1">Primary Objectives</h4>
+
+<p>The cars will score points at the end of the race for their finishing positions:</p>
+
+<ul>
+  <li>13 points for 1st</li>
+  <li>10 points for 2nd</li>
+  <li>8 points for 3rd</li>
+  <li>6 points for 4th</li>
+  <li>4 points for 5th</li>
+</ul>
+
+<h4 id="secondary-objective">Secondary Objective</h4>
+
+<p>Cars will score 1 additional point each time they achieve the following:</p>
+
+<ul>
+  <li>Successfully use a ramp</li>
+  <li>Ram another car</li>
+  <li>Destroy an enemy vehicle</li>
+  <li>Being the furthest ahead at the end of each round</li>
+</ul>
+
+<h3 id="arena-battle">Arena Battle</h3>
+
+<h4 id="battlefield-2">Battlefield</h4>
+
+<p>The players will both take opposing table edges, if playing on a rectangular table this should be the shorter table edges. Each player may place 2 entry points anywhere on their table edge.</p>
+
+<h4 id="primary-objectives-2">Primary Objectives</h4>
+
+<p>Cars will score points each time they achieve the following:</p>
+
+<ul>
+  <li>1 point for ramming another car</li>
+  <li>3 points for destroying an enemy vehicle</li>
+</ul>
 
                 </section>
             </div>

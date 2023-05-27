@@ -54,6 +54,10 @@ In addition you may increase your Movement attribute for this action. You may ad
 
 When activating a car with 1 Command Point, if you fail the test to use the Command Point you may make a Move Action but only moving up to 2 inches directly forward instead of losing the Command Point.
 
+### Ramming
+
+When you move into another car you may declare this as a deliberate attempt to ram if you have moved at least 6 inches during that action. To do this you must spend 1 Command Point, all cars involved in the collision will roll 3 control checks, however you may re-roll any failed skill checks for your control checks.
+
 ### Dodging
 
 When a car moves into contact with you you may choose to dodge them by spending a Command Point. If you do so you are not required to make a control check and may move your car up to 1 inch in any direction so long as it doesn't bring you into contact with another car or any terrain.
@@ -67,7 +71,7 @@ At times you may be at risk of losing control of your car; when being attacked, 
 
 ### Terrain
 
-Terrain in Scraplands comes in the following types: Solid, Dangerous, and Destructible.
+Terrain in Scraplands comes in the following types: Solid, Dangerous, Rough, Destructible, and Ramps.
 
 #### Solid Terrain
 
@@ -75,11 +79,19 @@ Your car may not move over any terrain with the solid keyword. If any move you m
 
 #### Dangerous
 
-If your car moves over dangerous terrain you roll 1 control check for each move or advance action that includes moving through the terrain.
+If your car moves over dangerous terrain you roll 1 control check for each move or advance action that includes moving through the terrain. If the shape of the terrain does not allow you to place your car part way through the terrain, you may only move through the terrain if you have sufficient movement to completely move past it, otherwise it is treated as Solid terrain.
 
 #### Destructible
 
-Any terrain with the destructible keyword counts as having Defence of 3, Toughness of 3, and 1 Hit Point. If reduced to 0 Hit Points it is removed from the table.
+Any terrain with the destructible keyword counts as having Defence of 3, Toughness of 3, and 1 Hit Point. If reduced to 0 Hit Points it is removed from the table. Destructible terrain is also usually Solid or Dangerous.
+
+#### Ramps
+
+Ramps are a special type of terrain that allows your cars to make large jumps. Ramps should have a marked area where cars can move onto the ramp, and move into any other part of a ramp is treated as moving into solid terrain.
+
+When a car moves into contact with the ramp, the move action it is doing immediately ends. The car then moves up to 12 inches directly forward, ignoring any intervening terrain or cars until the end of the movement. If the model cannot be placed due to solid terrain it is removed from the game as it is wrecked.
+
+At the end of the cars movement it takes a control check.
 
 ## Building a Team
 
@@ -115,18 +127,18 @@ Players build their team by selecting a number of cars from the list below and u
 | :-------- | :------ | :----: |
 | Armour | Gain the Resilient Special Rule (Re-roll failed Defence Rolls of 1) | 4 |
 | Elite Driver | One per team only. Improve the cars Skill attribute to 4+. | 6 |
-| Ram | If this model moves into contact with an enemy car it rolls 2d6 for the number of hits caused in a control check instead of 1 and you may re-roll the d6 for the number of hits you take. | 2 |
+| Ram | If this car makes a deliberate ram it makes only 1 control check. | 2 |
 | Spikes | Cars that must take a control check for collisions with this car take d6+1 hits instead of d6. | 2 |
-| Tank Tracks | This model may re-roll the d6 for how many hits a control check causes and has it's Movement Rate reduced by 2. In addition the model gains +1 to its Toughness. | 12 |
+| Tank Tracks | This car may re-roll the d6 for how many hits a control check causes and has it's Movement Rate reduced by 2. This car ignores the effects of dangerous terrain and gains +1 to its Toughness. | 12 |
 | Turret | One per car only. Remove the Arc (Front) special rule from one weapon on this car. | 6 |
 
 #### Abilities
 
 | Abilities | Details | Points |
 | :-------- | :------ | :----: |
-| Boost | One use only. This model moves 18 inches forward following the rules for a move action. This action costs 1 Command Point and must be taken immediately after a Move action. | 3 |
-| Drift | This model may move its full Movement Rate in inches following the rules for a move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action. | 3 |
-| J-Turn | This model moves backwards 3 inches then rotates 180 degrees. This counts as taking a Move action and costs 1 Command Point. | 2 |
+| Boost | One use only. This car moves 18 inches forward following the rules for a move action. This action costs 1 Command Point and must be taken immediately after a Move action. | 3 |
+| Drift | This car may move its full Movement Rate in inches following the rules for a move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action. | 3 |
+| J-Turn | This car moves backwards 3 inches then rotates 180 degrees. This counts as taking a Move action and costs 1 Command Point. | 2 |
 
 ## Special Rules
 
@@ -157,3 +169,45 @@ The cars will score points at the end of the race for their finishing positions:
 - 8 points for 3rd
 - 6 points for 4th
 - 4 points for 5th
+
+#### Secondary Objectives
+
+Each player will also score 1 point for each enemy vehicle destroyed.
+
+### Showdown
+
+#### Battlefield
+
+Showdown is a race format mission and the battlefield should be set up to form a looped track. If possible, ramps should be included on your track. The race will take 2 laps.
+
+#### Primary Objectives
+
+The cars will score points at the end of the race for their finishing positions:
+
+- 13 points for 1st
+- 10 points for 2nd
+- 8 points for 3rd
+- 6 points for 4th
+- 4 points for 5th
+
+#### Secondary Objective
+
+Cars will score 1 additional point each time they achieve the following:
+
+- Successfully use a ramp
+- Ram another car
+- Destroy an enemy vehicle
+- Being the furthest ahead at the end of each round
+
+### Arena Battle
+
+#### Battlefield
+
+The players will both take opposing table edges, if playing on a rectangular table this should be the shorter table edges. Each player may place 2 entry points anywhere on their table edge.
+
+#### Primary Objectives
+
+Cars will score points each time they achieve the following:
+
+- 1 point for ramming another car
+- 3 points for destroying an enemy vehicle
