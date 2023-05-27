@@ -48,7 +48,7 @@ If at any point during your move you move into base contact with another car you
 
 When you perform an Advance action you follow the same rules as above except that you must move up to your full Movement attribute directly forward making 1 pivot of up to 45 degrees at any point during the action.
 
-In addition you may increase your Movement attribute for this action. You may add 2 inches to your Movement attribute and may do this up to 5 times, declaring this before moving. For each additional 2 inches added you must roll a d6 before moving, for each 1 you roll you must make a control check as outlined below.
+In addition you may increase your Movement attribute for this action. You may add 2 inches to your Movement attribute and may do this up to 5 times, declaring this before moving. For each additional 2 inches added you must roll a d6 before moving, if you roll any 1s you must take a control check as outlined below.
 
 #### Action: Coasting
 
@@ -67,7 +67,7 @@ At times you may be at risk of losing control of your car; when being attacked, 
 
 ### Terrain
 
-Terrain in Scraplands comes in the following types: Solid, Dangerous, Destructible, and Ramps.
+Terrain in Scraplands comes in the following types: Solid, Dangerous, and Destructible.
 
 #### Solid Terrain
 
@@ -80,16 +80,6 @@ If your car moves over dangerous terrain you roll 1 control check for each move 
 #### Destructible
 
 Any terrain with the destructible keyword counts as having Defence of 3, Toughness of 3, and 1 Hit Point. If reduced to 0 Hit Points it is removed from the table.
-
-#### Ramps
-
-Ramps are a special type of terrain that allow your car to make spectacular jumps across other cars or terrain.
-
-A ramp should have a clear entry line where it begins and can be moved onto, and an end where the car will exit from. A car must move onto a ramp through the entry line and have enough remaining movement to move entirely past the ramp. Moving into a ramp in any other way is treated as solid terrain.
-
-If the car moves so that it leaves the ramp through the correct exit line it adds 2 inches to it's remaining movement and may ignore intervening terrain object of height 1 and other cars that are entirely within 6 inches of the ramp. At the end of the movement the car takes a control check.
-
-If the car moves off the ramp through any part not the correct exit it will complete it's move as normal, colliding with any cars or terrain as normal. If it does not have enough movement to be placed in a clear area of terrain the car is wrecked, and removed from the game.
 
 ## Building a Team
 
