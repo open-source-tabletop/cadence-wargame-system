@@ -50,9 +50,9 @@ If at any point during your move you move into base contact with another car you
 
 #### Action: Advance
 
-When you perform an Advance action you follow the same rules as a normal move action. However the distance and number of pivots your are permitted depends on how hard you want to push your car by adding boosts. A boost adds either 3 inches or a 45 degree pivot to your allowed movement in your advance action, however you must always move at least 1 inch between pivots and must move forward.
+When you perform an Advance action you follow the same rules as a normal move action. However the distance and number of pivots your are permitted depends on how hard you want to push your car by adding boosts. A boost adds either 4 inches or a 45 degree pivot to your allowed movement in your advance action, however you must always move at least 1 inch between pivots and must move forward.
 
-In addition, for each boost you add after the first you must make a control check.
+You may add up to 4 boosts in an advance action and declare how many you will do before moving. For each boost after the first you are required to take a control check.
 
 #### Action: Coasting
 
