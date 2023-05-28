@@ -97,6 +97,10 @@ When a car moves into contact with the ramp, the move action it is doing immedia
 
 At the end of the cars movement it takes a control check.
 
+### Mines
+
+You may place mine tokens around the track, or these may be placed by cars with a mine dropper. These should be no larger than 30mm circles. If any car moves within 1 inch of the mine it explodes and is removed from the battlefield. Any car within an inch of the token when it explodes takes d6 hits, each hit does 2 Damage, and has a Piercing attribute of 2.
+
 ## Building a Team
 
 Players build their team by selecting a number of cars from the list below and upgrading them with weapons, armour, and abilities. When adding upgrades to a car you may not add more points of upgrades than the initial cost of the car. Games of Scraplands Showdown are best played at 100 points for small games, and 150 to 200 points for large games.
@@ -133,6 +137,7 @@ Players build their team by selecting a number of cars from the list below and u
 | :-------- | :------ | :----: |
 | Armour | Gain the Resilient Special Rule (Re-roll failed Defence Rolls of 1) | 4 |
 | Elite Driver | One per team only. Improve the cars Skill attribute to 4+. | 6 |
+| Mine Dropper | One use only, if this car makes an attack action, instead of attacking with a regular weapon this car may place a mine marker in its rear arc. It may not place this token within 1 inch of an enemy car. |
 | Ram | Damage from a failed control check when rammed by this car has a Piercing attribute of 1, | 2 |
 | Spikes | Cars that must take a control check for collisions with this car take d6+1 hits instead of d6. | 2 |
 | Tank Tracks | This car may re-roll the d6 for how many hits a control check causes and has it's Movement Rate reduced by 2. This car ignores the effects of dangerous terrain and gains +1 to its Toughness. | 12 |
