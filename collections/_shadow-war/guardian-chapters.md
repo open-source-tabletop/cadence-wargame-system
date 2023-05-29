@@ -5,17 +5,19 @@ parent: "Dark Millenium: Shadow War"
 parentlink: /shadow-war/
 ---
 
+From the darkest corners of the galaxy to the forefront of the most lethal planet-scale battles, a force forged in unyielding resolve and honed by the fires of adversity stand firm, the Guardians. Clad in formidable power armor that echoes their indomitable spirit, these elite groups of near super-human warriors stand as the last bastion against encroaching shadows. Their presence inspires both awe and fear among all who bear witness to their relentless will.
+
 ### Guardian Chapters Special Rules
 
 All Guardian Chapter models count as having the **Tactical Doctrines** special rule.
 
 #### Squad Command
 
-If this model finishes its activation with 1 Command Point it may instead pass that Command Point to a friendly model within 3 inches that also has 1 Command Point remaining. Remove the Command Point from this model and roll a d6, on a roll of 2+ you may increase the remaining Command Points on the target friendly model.
+If this model finishes its activation with 1 Command Point it may instead pass that Command Point to a friendly model within 3 inches that also has 1 Command Point remaining.
 
 #### Tactical Doctrines
 
-If this model does not perform a Move action it may perform two Attack actions during an activation, however the second attack action must be made against the same target as the first.
+If this model does not perform a Move action it may perform two Attack actions during an activation, however the second attack action costs 2 Command Points.
 
 ## Guardian Chapter Units
 
@@ -138,7 +140,7 @@ If this model does not perform a Move action it may perform two Attack actions d
 | Heavy Sniper Rifle       | 36" | 3   | 6   | 2   | Accurate, Heavy                        | 3      |
 | Modified Heavy Pistol    | 12" | 3   | 3   | 2   | Assault, Rending (1)                   | 1      |
 | Plasma Pistol            | 8"  | 3   | 6   | 3   | Assault, Supercharge                   | 2      |
-| Plasma Rifle             | 24" | 4   | 6   | 3   | Rapid Fire, Supercharge                | 5      |
+| Plasma Rifle             | 24" | 4   | 6   | 3   | Rapid Fire, Supercharge                | 6      |
 | Twin Autocannons         | 16" | 10  | 3   | 1   |                                        | 3      |
 | Twin Heavy Autocannons   | 16" | 10  | 4   | 2   | Heavy                                  | 7      |
 | Twin Heavy Flamer        | 8"  | 8   | 4   | 1   | Torrent                                | 3      |

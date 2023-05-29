@@ -218,13 +218,6 @@ Unless another rule permits it, each player must deploy all of their units on th
 
 ## Actions
 
-When you activate a unit you first declare a number of actions and the order you will perform them, then pay the appropriate cost from the unit's Command Points (a unit must have enough points to perform your chosen actions). You do not have to spend all of a unit's Command Points when you activate it, allowing you to activate it again later in the round, however there are some restrictions:
-
-- You must spend at least 2 Command Points per activation, unless your unit has only 1 Command Point remaining.
-- You may only spend a maximum of 4 Command Points per activation.
-- You may only perform each action once per activation.
-- If you start your activation with only 1 Command Point available, roll a d6, on a roll of a 1 this last Command Point is lost. This still counts as your activation.
-
 When you activate a unit, you first declare the actions you are going to perform and the order in which you will perform them. You then pay the appropriate cost from the unit's Command Points, but you do not have to spend all of them in one activation. Keep in mind the following restrictions:
 
 - You must spend at least 2 Command Points per activation, unless your unit has only 1 Command Point remaining.

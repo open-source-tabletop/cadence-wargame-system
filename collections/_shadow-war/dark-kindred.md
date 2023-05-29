@@ -108,9 +108,9 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 
 | Weapon                 | Rng | Att | Dmg | Prc | Special Rules                    | Points |
 | :--------------------- | :-: | :-: | :-: | :-: | :------------------------------- | :----: |
-| Dark Matter Blaster    | 16" | 3   | 5   | 3   | Rapid Fire                       | 4      |
-| Dark Matter Cannon     | 32" | 4   | 4   | 3   | Heavy                            | 5      |
-| Dark Matter Pistol     | 8"  | 2   | 4   | 3   |                                  | 2      |
+| Dark Matter Blaster    | 16" | 3   | 5   | 3   | Rapid Fire, Shred                | 4      |
+| Dark Matter Cannon     | 32" | 4   | 4   | 3   | Heavy, Shred                     | 5      |
+| Dark Matter Pistol     | 8"  | 2   | 4   | 3   | Shred                            | 2      |
 | Plasma Grenade         | 8"  | 2   | 7   | 2   | Blast, Heavy, Indirect, One-use  | -      |
 | Ripper                 | 8"  | 6   | 3   | 2   | Indirect                         | 3      |
 | Shard Cannon           | 24" | 6   | 3   | 0   | Heavy, Rending (2)               | 2      |
@@ -123,7 +123,7 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 | Weapon                  | Rng | Att | Dmg | Prc | Special Rules                   | Points |
 | :---------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
 | Barbed Flail            | 2"  | 4   | 3   | 2   | Assault, Rending (1)            | 2      |
-| Eviscerator Gauntlet    | 1"  | 10  | 1   | 1   | Assault                         | 1      |
+| Eviscerator Gauntlet    | 1"  | 10  | 1   | 1   | Assault, Shred                  | 1      |
 | Plasma Blade            | 1"  | 3   | 3   | 1   | Assault                         | 2      |
 | Poisoned Knives         | 1"  | 5   | 2   | 0   | Assault, Rending (3)            | 0      |
 | Razor Flail             | 2"  | 4   | 2   | 1   | Assault                         | 1      |
@@ -135,6 +135,6 @@ A Nightblade also has the Combat Drugs upgrade at no additional points cost.
 | Upgrade | Restrictions | Description | Points |
 | :------ | :----------- | :---------- | :----: |
 | Arena Champion | Blade Executioners only. | This model gains the Skilled special rule. | 1 |
-| Combat Drugs | Blades and Blade Executioners only. | Ability: Once per game this model may use this ability action for 1 Command Point to gain 3 Command Points, after which it's activation ends. | 3 |
+| Combat Drugs | Blades and Blade Executioners only. | Ability: Once per game this model may use this ability action for 1 Command Point, the model may immediately take 2 free actions of different kinds. | 3 |
 | Phantasm Grenade Launcher | Warrior Leader only. | Ability: Once per game this model may use this ability action for 1 Command Point. Target 1 enemy model as if making an attack action and roll 1 Attack Roll. On a success the target and every model, friendly or enemy, within 2 inches lose 2 Command Points. On a failure the target loses 1 Command Point. | 4 |
 | Plasma Grenade | Any model. | This model has the Plasma Grenade weapon. | 1 |

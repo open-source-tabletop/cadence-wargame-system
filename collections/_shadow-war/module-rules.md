@@ -19,6 +19,7 @@ parentlink: /shadow-war/
 | :---- | :------ |
 | Blast | When this weapon makes at least one hit against it's target it also counts as having 1 successful hit against every model, friendly or enemy, within 2 inches of the original target that is not completely obscured by terrain from the point of view of the original target. |
 | Paired (X) | When a model is equipped with two of this weapon it gains +X to the Attacks attribute when making an attack. |
+| Shred | Models suffer -1 to their Toughness for damage taken from this weapon. |
 | Supercharge | You may add 1 to this weapon’s Attacks and Damage attributes, however if you do so, any Attack Rolls of 1 count as hitting the attacking model instead. |
 
 ## Building an Army

@@ -5,6 +5,8 @@ parent: "Dark Millenium: Shadow War"
 parentlink: /shadow-war/
 ---
 
+From the depths of a hellish dimension, where chaos and agony become manifest, the Infernals embody pure demonic savagery. Born of darkness and consumed by insatiable bloodlust, these malevolent entities are devoid of mercy or redemption. Their existence is an unending symphony of violence and destruction, as they relish in the art of slaughter.
+
 ### Infernals Special Rules
 
 All Infernal models count as having the **Demon** special rule.
@@ -27,9 +29,9 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 #### Tormentor
 
-| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | 
-| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
-| Tormentor          |  5  |  5" |  3+ |  5+ |  4  |  4  | Blood Sacrifice   |
+| Name               | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | 
+| :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ |
+| Tormentor          |  5  |  5" |  3+ |  5+ |  4  |  4  | Blood Sacrifice, Fear (1) |
 
 **Equipment**: A Tormentor is equipped with two weapons from the following list:
 
@@ -81,7 +83,7 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 
 | Name            | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules             | Points |
 | :-------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------ | :----: |
-| Tormentor       |  5  |  5" |  3+ |  5+ |  4  |  4  | Blood Sacrifice           | 12     |
+| Tormentor       |  5  |  5" |  3+ |  5+ |  4  |  4  | Blood Sacrifice, Fear     | 12     |
 | Fiend           |  4  |  5" |  3+ |  5+ |  4  |  3  | -                         | 9      |
 | Hound           |  5  |  8" |  3+ |  6+ |  4  |  4  | Non-scoring               | 10     |
 | Malefactor      |  4  |  5" |  3+ |  5+ |  4  |  3  | Fury                      | 13     |
@@ -101,7 +103,7 @@ This model may spend a Command Point to re-roll any failed Attack Rolls for the 
 | Gorehammer              | 1"  | 3   | 5   | 1   | Assault                         | 2      |
 | Headtaker Blades        | 1"  | 4   | 1   | 0   | Assault, Rending (6)            | 2      |
 | Infernal Halberd        | 2"  | 3   | 5   | 1   | Assault                         | 2      |
-| Infernal Whip           | 2"  | 3   | 6   | 0   | Assault                         | 3      |
+| Infernal Whip           | 2"  | 3   | 6   | 0   | Assault, Shred                  | 3      |
 | Vicious Claws and Teeth | 1"  | 4   | 4   | 0   | Accurate                        | 0      |
 
 ### Upgrades
