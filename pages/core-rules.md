@@ -14,6 +14,7 @@ Welcome to the Cadence System, a free, community owned wargaming ruleset designe
 - [Armies](#armies)
 - [Units and Models](#units-and-models)
 - [Weapons](#weapons)
+- [Missions](#missions)
 
 #### [Playing the Game](#playing-the-game-1)
 
@@ -115,7 +116,7 @@ The weapons that your models fight with also have their own set of attributes wh
 - Piercing (Prc): The weapons ability to negate armour.
 - Special Rules that apply to the weapon.
 
-#### Missions
+### Missions
 
 When you play a game of Cadence, you will select a mission to play. A mission is a set of rules that dictates how to set up the battlefield, how armies are deployed, and what objectives players must achieve to win. Simply put, playing a game means playing a mission.
 
@@ -210,7 +211,7 @@ Once both players have placed all of their Command Dice, they can take turns act
 
 This continues until both players have used all of the Command Points on all of their units. If one player has no units left to activate, play returns to the other player until both players have finished.
 
-##### Deploying From Reserve
+#### Deploying From Reserve
 
 As your units do not begin on the battlefield, they must be deployed from reserve. When it is your turn to activate a unit, you may choose a unit already on the battlefield or one in reserve. If you choose a unit in reserve, it is placed up to its Movement attribute in inches from one of your Entry Points and then activates as normal. This does not count as having taken a Move action and can be done before declaring your actions for that unit.
 
