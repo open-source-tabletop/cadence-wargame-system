@@ -32,7 +32,9 @@ If a character is killed while carrying a flag it is dropped where the character
 
 Games of Respawn consist of 2 or more teams of an equal number of characters, games are best played with 3 characters per team for a small game, 5 for a standard game, and 7 or more for large games. Games consisting of 10 or more total characters may require a larger battlefield.
 
-To create a team you create your characters by choosing a class, choosing two perks from that class, a primary and secondary weapon, and one item of equipment. You then choose a team perk that applies to every character in your team.
+To create a team you create your characters by choosing a class, choosing two perks from that class, a primary and secondary weapon, and one item of equipment. You may not take any perk more than twice in your team. 
+
+After you have created your characters you then choose a team perk that applies to every character in your team.
 
 Every character begins with the following profile:
 
@@ -42,10 +44,42 @@ Every character begins with the following profile:
 
 ### Assault Class
 
+#### Perks
+
 | Perk | Effect |
 | :--- | :----- |
-| Double shot, this model may make a second attack action during its activation. ||
+| Hail of Fire | This character may make a second attack action during its activation, this attack must be against the same target and both attacks suffer -1 to its Attack roll. |
+| Up Close and Personal | This character can re-roll failed Attack rolls against targets within 4 inches. |
+| Tactical Rush | This character may perform an Advance action after an Attack action. |
+| Hold the Line | When the target of an attack, this character may spend 1 Command Point allowing it to re-roll any failed Defence rolls. |
+| Suppressing Fire | When this character causes an enemy character to lose a hit point, it can instead cause it to lose a Command Point. |
+| Improved Armour | Improve the characters Defence to 4+. |
+| Quick | Improve this characters Movement to 7". |
 
+#### Weapons
+
+- **Primary Weapon**: Assault Rifle, Tactical Rifle, SMG, or Shotgun
+- **Secondary Weapon**: Melee Weapon or High Caliber Pisol
+- **Equipment**: Frag Grenade, Med Pack, or Grapnel
+
+### Scout Class
+
+#### Perks
+
+| Perk | Effect |
+| :--- | :----- |
+| Camouflage | This character gains the Stealth (6) Special Rule. |
+| Scout | This character may choose which entry point it uses from the allowed choices and may be placed up to 9 inches from it when deploying from reserve. |
+| Sniper | This character gains +1 to Attack Rolls against targets 12" or more away. |
+| Weak Spot | This character may add +1 Piercing to it's primary weapon. |
+| Marksman | Improve this characters Skill to 3+. |
+| Mark Target | If this character makes an Attack action it may declare that the target character is Marked. All attacks against that character for the rest of the round count an obscured line of sight as clear. Once per round only. |
+
+#### Weapons
+
+- **Primary Weapon**: Sniper Rifle or Marksman Rifle
+- **Secondary Weapon**: Pistol or Melee Weapon
+- **Equipment**: Smoke Grenade, Explosive Charges
 
 ## Missions
 
