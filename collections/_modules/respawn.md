@@ -12,6 +12,10 @@ Respawn is best played on a 2ft x 3ft or similar sized area. Each game of Respaw
 
 When a character is killed in Respawn, they are removed from the game and placed back in reserve and must be redeployed during the next round. The character returns to the game with their original weapons and full hit points.
 
+### Pick-ups
+
+
+
 ### Objectives
 
 Respawn uses Control objectives as detailed in the core rules as well as Flag objectives detailed below:
@@ -34,15 +38,33 @@ To create a team you pick your characters from one of the available classes, cus
 
 #### Assault
 
-| Class     | Cmd | Mov | Skl | Def | Tgh | HP  |
+| Cmd | Mov | Skl | Def | Tgh | HP  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  6  | 8"  | 4+  | 5+  |  2  |  2  |
 
 #### Support
 
-#### Sniper
+| Cmd | Mov | Skl | Def | Tgh | HP  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  6  | 7"  | 4+  | 4+  |  1  |  3  |
+
+#### Scout 
+
+| Cmd | Mov | Skl | Def | Tgh | HP  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  6  | 6"  | 3+  | 5+  |  1  |  4  |
 
 #### Engineer
 
+| Cmd | Mov | Skl | Def | Tgh | HP  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  6  | 6"  | 4+  | 4+  |  2  |  2  |
+
 #### Heavy
+
+| Cmd | Mov | Skl | Def | Tgh | HP  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  6  | 4"  | 4+  | 3+  |  2  |  4  |
 
 ## Missions
 
