@@ -32,39 +32,20 @@ If a character is killed while carrying a flag it is dropped where the character
 
 Games of Respawn consist of 2 or more teams of an equal number of characters, games are best played with 3 characters per team for a small game, 5 for a standard game, and 7 or more for large games. Games consisting of 10 or more total characters may require a larger battlefield.
 
-To create a team you pick your characters from one of the available classes, customise them, then choose a team perk.
+To create a team you create your characters by choosing a class, choosing two perks from that class, a primary and secondary weapon, and one item of equipment. You then choose a team perk that applies to every character in your team.
 
-### Character Classes
-
-#### Assault
+Every character begins with the following profile:
 
 | Cmd | Mov | Skl | Def | Tgh | HP  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|  6  | 8"  | 4+  | 5+  |  2  |  2  |
+|  6  |  6" |  4+ |  5+ |  2  |  2  |
 
-#### Support
+### Assault Class
 
-| Cmd | Mov | Skl | Def | Tgh | HP  |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|  6  | 7"  | 4+  | 4+  |  1  |  3  |
+| Perk | Effect |
+| :--- | :----- |
+| Double shot, this model may make a second attack action during its activation. ||
 
-#### Scout 
-
-| Cmd | Mov | Skl | Def | Tgh | HP  |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|  6  | 6"  | 3+  | 5+  |  1  |  4  |
-
-#### Engineer
-
-| Cmd | Mov | Skl | Def | Tgh | HP  |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|  6  | 6"  | 4+  | 4+  |  2  |  2  |
-
-#### Heavy
-
-| Cmd | Mov | Skl | Def | Tgh | HP  |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-|  6  | 4"  | 4+  | 3+  |  2  |  4  |
 
 ## Missions
 
