@@ -34,6 +34,8 @@ To create a team you pick your characters from one of the available classes, cus
 
 #### Assault
 
+| Class     | Cmd | Mov | Skl | Def | Tgh | HP  |
+
 #### Support
 
 #### Sniper
