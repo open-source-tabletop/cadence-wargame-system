@@ -26,6 +26,22 @@ If a character is killed while carrying a flag it is dropped where the character
 
 ## Creating a Team
 
+Games of Respawn consist of 2 or more teams of an equal number of characters, games are best played with 3 characters per team for a small game, 5 for a standard game, and 7 or more for large games. Games consisting of 10 or more total characters may require a larger battlefield.
+
+To create a team you pick your characters from one of the available classes, customise them, then choose a team perk.
+
+### Character Classes
+
+#### Assault
+
+#### Support
+
+#### Sniper
+
+#### Engineer
+
+#### Heavy
+
 ## Missions
 
 ### Team Deathmatch
