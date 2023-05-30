@@ -93,20 +93,19 @@ Every character begins with the following profile:
 
 | Loadout   | Primary Weapon           | Secondary Weapon   |
 | :-------- | :----------------------- | :----------------- |
-| Stalker   | Whisperbolt Sniper Rifle | Sentinel Pistol    |
-| Hunter    | Nemesis Sniper Rifle     | Combat Knife       |
-| Ghost     | Eliminator Shotgun       | Poisoned Blade     |
 | Assassin  | Shadowstrike Blade       | Executioner Pistol |
-
+| Ghost     | Eliminator Shotgun       | Poisoned Blade     |
+| Hunter    | Nemesis Sniper Rifle     | Combat Knife       |
+| Stalker   | Whisperbolt Sniper Rifle | Sentinel Pistol    |
 
 #### Equipment
 
 | Equipment | Effect |
 | :-------- | :----- |
+| Explosive Charge | One use only, instead of making a normal attack action, this character may use an attack action to place an explosive charge token within 3 inches of itself, and at least 3 inches from any other character. If any character moves within 1 inch of this marker it explodes and any character within 3 inches takes 6 automatic hits, rolling their Defence as though they were targeted in an attack. At the end of each round, on a d6 roll of a 3+ the charge explodes and is removed from the game. |
+| Grapnel | This character counts as having the Flying special rule when it moves to a Higher or Lower height level. |
 | Smoke Grenade | One Use, at the end of its activation, this character may place 1 smoke marker (a 50mm token) within 3" of itself. Any character making an attack that draws line of sight through this marker treats their line of sight as blocked. This marker is removed at the end of the round. |
-| Explosive Charge | One use only, instead of making a normal attack action, this model may use an attack action to place an explosive charge token within 3 inches of itself, and at least 3 inches from any other character. If any character moves within 1 inch of this marker it explodes and any model within 3 inches takes 6 automatic hits, rolling their Defence as though they were targeted in an attack. At the end of each round, on a d6 roll of a 3+ the charge explodes and is removed from the game. |
-| Grapnel | This model counts as having the Flying special rule when it moves to a Higher or Lower height level. |
-| Targetting Drone | This model may count obscured line of sight as clear against targets within 12 inches. |
+| Targetting Drone | This character may count obscured line of sight as clear against targets within 12 inches. |
 
 ### Support Class
 
@@ -114,15 +113,29 @@ Every character begins with the following profile:
 
 | Perk | Effect |
 | :--- | :----- |
+| Grenadier | This character has 3 Frag Grenades. Instead of using them you may give 1 to any friendly character within 1 inch at the end of your activation. |
+| Heavy Armour | Increase this characters Defence to 3+ but reduce the Movement to 5. |
+| Medic | This character must take a med kit for its equipment but the action no longer costs a Command Point. |
+| Motivator | When this character finishes an activation with 1 Command Point remaining, it may transfer it to a friendly character within 3 inches. |
 | Munitions Expert | As an action, this character may modify a friendly characters weapon for their next attack. The friendly character must be within 1 inch and no enemy characters may be within 3 inches. You may add the Rending (2) or Accurate special rule. |
-| Grenadier | This model has 3 Frag Grenades. Instead of using them you may give 1 to any friendly character within 1 inch at the end of your activation. |
 | Tactical Expert | At the start of this characters activation, you may designate any enemy character as the teams Primary Target. Friendly characters may re-roll one dice from an attack against that character. |
 | Unbreakable | This character improves its Hit Points to 3. |
 
+#### Weapon Loadouts
+
+| Loadout    | Primary Weapon           | Secondary Weapon   |
+| :--------- | :----------------------- | :----------------- |
+| Suppressor | Quantum Rifle            | Stun Pistol        |
+| Breacher   | Peacekeeper Shotgun      | Stun Hammer        |
+| Medic      | SMG                      | Stun Pistol        |
+| Support    | Stasis Rifle             | Sentinel Pistol    |
 
 #### Equipment
 
-| Stealth Field | This model, and all friendly models within 3 inches count as having the Stealth (12) special rule. |
+| Deployable Barricade | One use, at the end of its activation, this character may place a barricade that is 2 inches long and 1 inch tall within 1 inch of itself. |
+| Med Kit | As an action, this character may restore 1 lost Hit Point to a friendly character within 1 inch, if there are no enemy characters within 3 inches. |
+| Smoke Grenade | One Use, at the end of its activation, this character may place 1 smoke marker (a 50mm token) within 3" of itself. Any character making an attack that draws line of sight through this marker treats their line of sight as blocked. This marker is removed at the end of the round. |
+| Stealth Field | This character, and all friendly characters within 3 inches count as having the Stealth (12) special rule. |
 
 ### Heavy Class
 
@@ -139,7 +152,11 @@ Every character begins with the following profile:
 | Sentinel Pistol          | 6"  |  3  |  2  |  0  | Assault                       |
 | SMG                      | 12" |  8  |  1  |  0  | Assault                       |
 | Tactical Shotgun         | 8"  |  2  |  4  |  2  | Rapid Fire, Indirect          |
+| Peacekeep Shotgun        | 8"  |  2  |  3  |  0  | Rapid Fire, Impact            |
 | Whisperbolt Sniper Rifle | 36" |  2  |  5  |  2  | Accurate                      |
+| Quantum Rifle            | 24" |  2  |  2  |  1  | Quantum Tunneling             |
+| Stun Pistol              | 6"  |  3  |  2  |  0  | Stun                          |
+| Stasis Rifle             | 18" |  4  |  1  |  0  | Stasis, Heavy                 |
 
 | Assault Weapon           | Rng | Att | Dmg | Prc | Special Rules                 |
 | :----------------------- | :-: | :-: | :-: | :-: | :---------------------------- |
@@ -147,6 +164,18 @@ Every character begins with the following profile:
 | Energy Blade             | 1"  |  4  |  3  |  3  | Assault                       |
 | Poisoned Blade           | 1"  |  2  |  2  |  0  | Assault, Rending (3)          |
 | Shadowstrike Blade       | 1"  |  2  |  8  |  1  | Assault, Accurate, Heavy      |
+| Stun Hammer              | 1"  |  2  |  3  |  0  | Assault, Stun                 |
+
+## Special Rules
+
+The following special rules are used in games of Respawn.
+
+| Special Rule | Effect |
+| :----------- | :----- |
+| Quantum Tunneling | Attacks with this weapon always count as having a clear line of sight, even when the attacking character cannot see its target. |
+| Stun | Characters can lose 1 Hit Point at most from attacks by Stun weapons. If the character loses any hit points it also loses a Command Point. |
+| Impact | In addition to doing damage in the normal way, each point of damage caused by Impact weapons causes the target to move directly away from the character that made the attack. This move stops immediately if the character comes into contact with any other characters or terrain. |
+| Stasis | If a character loses any hit points to a Stasis weapon it may not move or advance for the remainder of the round. |
 
 ## Missions
 
@@ -154,7 +183,7 @@ Every character begins with the following profile:
 
 #### Battlefield
 
-The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a model is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
+The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
 
 #### Objectives
 
@@ -168,7 +197,7 @@ Each team scores 1 Victory Point each time they kill a character on an enemy tea
 
 Players should set up the table and roll off to choose one of the short table edges. Each player should then place a flag base somewhere 6 inches from their table edge and at least 6 inches from any other table edge. The player that choose their table edge places their flag base first.
 
-Each player then places 3 entry points on their own table edge numbered 1 - 3. Any time they bring one of their models onto the battlefield from reserve the player must roll a d3 (roll a d6 and divide by 2 rounding up) to determine which entry point they will use.
+Each player then places 3 entry points on their own table edge numbered 1 - 3. Any time they bring one of their characters onto the battlefield from reserve the player must roll a d3 (roll a d6 and divide by 2 rounding up) to determine which entry point they will use.
 
 #### Objectives
 
@@ -182,7 +211,7 @@ Each team scores 1 Victory Points each time they score a flag objective.
 
 Players divide the battlefield into quarters and take it in turns to place a control objective in each of the quarters, with at least 9 inches between each objective.
 
-The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a model is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
+The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
 
 #### Objectives
 
@@ -194,7 +223,7 @@ Each team scores 1 Victory Point for each Control Point they have secured at the
 
 #### Battlefield
 
-One Control objective is placed in the center of the table. The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a model is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
+One Control objective is placed in the center of the table. The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
 
 #### Objectives
 
