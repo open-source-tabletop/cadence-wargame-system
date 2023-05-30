@@ -113,7 +113,7 @@ Players build their team by selecting a number of cars from the list below and u
 | Runner             |  6  |  10"|  5+ |  3+ |  4  |  5  |                       | 18     |
 | Hotrod             |  6  |  11"|  5+ |  3+ |  4  |  5  | Fast                  | 25     |
 | Buggy              |  6  |  9" |  5+ |  4+ |  3  |  5  | Off-road              | 16     |
-| Truck              |  6  |  9" |  5+ |  3+ |  4  |  6  | Rugged                | 28     |
+| Truck              |  6  |  9" |  5+ |  3+ |  4  |  6  | Sturdy                | 28     |
 
 ### Upgrades
 
@@ -159,7 +159,7 @@ The following special rules apply in games of Scraplands Showdown.
 | :------------ | :----- |
 | Fast | You may add a second boost without making a control check during an Advance Action. |
 | Off-road | You may make a free pivot at the start of an Advance action. |
-| Rugged | You may re-roll the d6 to determine the number of hits in a control check. |
+| Sturdy | You may re-roll the d6 to determine the number of hits in a control check. |
 | Ramshackle | This car gains +1 to its Defence rolls against control check hits. |
 | Disrupt | Any car that takes unsaved damage from this weapon makes a control check, even if it does not lose any hit points. |
 
