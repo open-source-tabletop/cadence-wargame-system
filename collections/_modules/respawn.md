@@ -10,7 +10,7 @@ Respawn is best played on a 2ft x 3ft or similar sized area. Each game of Respaw
 
 ### Respawn
 
-When a character is killed in Respawn, they are removed from the game and placed back in reserve and must be redeployed during the next round. The character returns to the game with their original weapons and full hit points.
+When a character is killed in Respawn, they are removed from the game and placed back in reserve and must be redeployed during the next round. The character returns to the game with their original weapons, including one use weapons and equipment, and full hit points.
 
 ### Pick-ups
 
@@ -71,9 +71,9 @@ Every character begins with the following profile:
 | Equipment | Effect |
 | :-------- | :----- |
 | Frag Grenade | Gains the Frag Grenade weapon |
-| Med Pack | One use only, this model may spend 1 Command Point at the start of its activation to restore 1 lost Hit Point. |
-| Grapnel | This model counts as having the Flying special rule when it moves to a Higher or Lower height level. |
-| Shield | This model gains the Shield (1) special rule. |
+| Med Pack | One use only, this character may spend 1 Command Point at the start of its activation to restore 1 lost Hit Point. |
+| Grapnel | This character counts as having the Flying special rule when it moves to a Higher or Lower height level. |
+| Shield | This character gains the Shield (1) special rule. |
 
 ### Scout Class
 
@@ -87,28 +87,66 @@ Every character begins with the following profile:
 | Weak Spot | This character may add +1 Piercing to it's primary weapon. |
 | Marksman | Improve this characters Skill to 3+. |
 | Mark Target | If this character makes an Attack action it may declare that the target character is Marked. All attacks against that character for the rest of the round count an obscured line of sight as clear. Once per round only. |
+| Ghost Walk | Once use, this character may move through an item of terrain as though it were clear, so long as it has sufficient movement to be placed on clear terrain at the end of its action. |
 
-#### Weapons
+#### Weapon Loadouts
 
-- **Primary Weapon**: Sniper Rifle or Marksman Rifle
-- **Secondary Weapon**: Pistol or Melee Weapon
-- **Equipment**: Smoke Grenade, Explosive Charges
+| Loadout   | Primary Weapon           | Secondary Weapon   |
+| :-------- | :----------------------- | :----------------- |
+| Stalker   | Whisperbolt Sniper Rifle | Sentinel Pistol    |
+| Hunter    | Nemesis Sniper Rifle     | Combat Knife       |
+| Ghost     | Eliminator Shotgun       | Poisoned Blade     |
+| Assassin  | Shadowstrike Blade       | Executioner Pistol |
+
+
+#### Equipment
+
+| Equipment | Effect |
+| :-------- | :----- |
+| Smoke Grenade | One Use, at the end of its activation, this character may place 1 smoke marker (a 50mm token) within 3" of itself. Any character making an attack that draws line of sight through this marker treats their line of sight as blocked. This marker is removed at the end of the round. |
+| Explosive Charge | One use only, instead of making a normal attack action, this model may use an attack action to place an explosive charge token within 3 inches of itself, and at least 3 inches from any other character. If any character moves within 1 inch of this marker it explodes and any model within 3 inches takes 6 automatic hits, rolling their Defence as though they were targeted in an attack. At the end of each round, on a d6 roll of a 3+ the charge explodes and is removed from the game. |
+| Grapnel | This model counts as having the Flying special rule when it moves to a Higher or Lower height level. |
+| Targetting Drone | This model may count obscured line of sight as clear against targets within 12 inches. |
+
+### Support Class
+
+#### Perks
+
+| Perk | Effect |
+| :--- | :----- |
+| Munitions Expert | As an action, this character may modify a friendly characters weapon for their next attack. The friendly character must be within 1 inch and no enemy characters may be within 3 inches. You may add the Rending (2) or Accurate special rule. |
+| Grenadier | This model has 3 Frag Grenades. Instead of using them you may give 1 to any friendly character within 1 inch at the end of your activation. |
+| Tactical Expert | At the start of this characters activation, you may designate any enemy character as the teams Primary Target. Friendly characters may re-roll one dice from an attack against that character. |
+| Unbreakable | This character improves its Hit Points to 3. |
+
+
+#### Equipment
+
+| Stealth Field | This model, and all friendly models within 3 inches count as having the Stealth (12) special rule. |
+
+### Heavy Class
 
 ## Weapon Summary
 
-| Ranged Weapon      | Rng | Att | Dmg | Prc | Special Rules                 |
-| :----------------- | :-: | :-: | :-: | :-: | :---------------------------- |
-| Assault Rifle      | 24" |  4  |  2  |  1  | Rapid Fire                    |
-| Hellfire Rifle     | 28" |  3  |  2  |  2  | Accurate, Rending (1)         |
-| Tactical Shotgun   | 8"  |  2  |  4  |  2  | Rapid Fire, Indirect          |
-| Executioner Pistol | 6"  |  3  |  3  |  1  | Assault                       |
-| Sentinel Pistol    | 6"  |  3  |  2  |  0  | Assault                       |
-| SMG                | 12" |  8  |  1  |  0  | Assault                       |
-| Frag Grenade       | 6"  |  6  |  3  |  2  | Inaccurate, Indirect, One Use |
+| Ranged Weapon            | Rng | Att | Dmg | Prc | Special Rules                 |
+| :----------------------- | :-: | :-: | :-: | :-: | :---------------------------- |
+| Assault Rifle            | 24" |  4  |  2  |  1  | Rapid Fire                    |
+| Eliminator Shotgun       | 12" |  3  |  4  |  2  | Rapid Fire, Indirect          |
+| Executioner Pistol       | 6"  |  3  |  3  |  1  | Assault                       |
+| Frag Grenade             | 6"  |  6  |  3  |  2  | Inaccurate, Indirect, One Use |
+| Hellfire Rifle           | 28" |  3  |  2  |  2  | Accurate, Rending (1)         |
+| Nemesis Sniper Rifle     | 48" |  1  |  10 |  3  | Accurate, Heavy               |
+| Sentinel Pistol          | 6"  |  3  |  2  |  0  | Assault                       |
+| SMG                      | 12" |  8  |  1  |  0  | Assault                       |
+| Tactical Shotgun         | 8"  |  2  |  4  |  2  | Rapid Fire, Indirect          |
+| Whisperbolt Sniper Rifle | 36" |  2  |  5  |  2  | Accurate                      |
 
-| Assault Weapon     | Rng | Att | Dmg | Prc | Special Rules                 |
-| :----------------- | :-: | :-: | :-: | :-: | :---------------------------- |
-| Energy Blade       | 1"  |  4  |  3  |  3  | Assault                       |
+| Assault Weapon           | Rng | Att | Dmg | Prc | Special Rules                 |
+| :----------------------- | :-: | :-: | :-: | :-: | :---------------------------- |
+| Combat Knife             | 1"  |  2  |  2  |  0  | Assault                       |
+| Energy Blade             | 1"  |  4  |  3  |  3  | Assault                       |
+| Poisoned Blade           | 1"  |  2  |  2  |  0  | Assault, Rending (3)          |
+| Shadowstrike Blade       | 1"  |  2  |  8  |  1  | Assault, Accurate, Heavy      |
 
 ## Missions
 

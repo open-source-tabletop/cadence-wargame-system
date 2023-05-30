@@ -43,7 +43,7 @@
 
 <h3 id="respawn">Respawn</h3>
 
-<p>When a character is killed in Respawn, they are removed from the game and placed back in reserve and must be redeployed during the next round. The character returns to the game with their original weapons and full hit points.</p>
+<p>When a character is killed in Respawn, they are removed from the game and placed back in reserve and must be redeployed during the next round. The character returns to the game with their original weapons, including one use weapons and equipment, and full hit points.</p>
 
 <h3 id="pick-ups">Pick-ups</h3>
 
@@ -187,15 +187,15 @@
     </tr>
     <tr>
       <td style="text-align: left">Med Pack</td>
-      <td style="text-align: left">One use only, this model may spend 1 Command Point at the start of its activation to restore 1 lost Hit Point.</td>
+      <td style="text-align: left">One use only, this character may spend 1 Command Point at the start of its activation to restore 1 lost Hit Point.</td>
     </tr>
     <tr>
       <td style="text-align: left">Grapnel</td>
-      <td style="text-align: left">This model counts as having the Flying special rule when it moves to a Higher or Lower height level.</td>
+      <td style="text-align: left">This character counts as having the Flying special rule when it moves to a Higher or Lower height level.</td>
     </tr>
     <tr>
       <td style="text-align: left">Shield</td>
-      <td style="text-align: left">This model gains the Shield (1) special rule.</td>
+      <td style="text-align: left">This character gains the Shield (1) special rule.</td>
     </tr>
   </tbody>
 </table>
@@ -236,16 +236,119 @@
       <td style="text-align: left">Mark Target</td>
       <td style="text-align: left">If this character makes an Attack action it may declare that the target character is Marked. All attacks against that character for the rest of the round count an obscured line of sight as clear. Once per round only.</td>
     </tr>
+    <tr>
+      <td style="text-align: left">Ghost Walk</td>
+      <td style="text-align: left">Once use, this character may move through an item of terrain as though it were clear, so long as it has sufficient movement to be placed on clear terrain at the end of its action.</td>
+    </tr>
   </tbody>
 </table>
 
-<h4 id="weapons">Weapons</h4>
+<h4 id="weapon-loadouts-1">Weapon Loadouts</h4>
 
-<ul>
-  <li><strong>Primary Weapon</strong>: Sniper Rifle or Marksman Rifle</li>
-  <li><strong>Secondary Weapon</strong>: Pistol or Melee Weapon</li>
-  <li><strong>Equipment</strong>: Smoke Grenade, Explosive Charges</li>
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Loadout</th>
+      <th style="text-align: left">Primary Weapon</th>
+      <th style="text-align: left">Secondary Weapon</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Stalker</td>
+      <td style="text-align: left">Whisperbolt Sniper Rifle</td>
+      <td style="text-align: left">Sentinel Pistol</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Hunter</td>
+      <td style="text-align: left">Nemesis Sniper Rifle</td>
+      <td style="text-align: left">Combat Knife</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Ghost</td>
+      <td style="text-align: left">Eliminator Shotgun</td>
+      <td style="text-align: left">Poisoned Blade</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Assassin</td>
+      <td style="text-align: left">Shadowstrike Blade</td>
+      <td style="text-align: left">Executioner Pistol</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="equipment-1">Equipment</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Equipment</th>
+      <th style="text-align: left">Effect</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Smoke Grenade</td>
+      <td style="text-align: left">One Use, at the end of its activation, this character may place 1 smoke marker (a 50mm token) within 3” of itself. Any character making an attack that draws line of sight through this marker treats their line of sight as blocked. This marker is removed at the end of the round.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Explosive Charge</td>
+      <td style="text-align: left">One use only, instead of making a normal attack action, this model may use an attack action to place an explosive charge token within 3 inches of itself, and at least 3 inches from any other character. If any character moves within 1 inch of this marker it explodes and any model within 3 inches takes 6 automatic hits, rolling their Defence as though they were targeted in an attack. At the end of each round, on a d6 roll of a 3+ the charge explodes and is removed from the game.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Grapnel</td>
+      <td style="text-align: left">This model counts as having the Flying special rule when it moves to a Higher or Lower height level.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Targetting Drone</td>
+      <td style="text-align: left">This model may count obscured line of sight as clear against targets within 12 inches.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="support-class">Support Class</h3>
+
+<h4 id="perks-2">Perks</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Perk</th>
+      <th style="text-align: left">Effect</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Munitions Expert</td>
+      <td style="text-align: left">As an action, this character may modify a friendly characters weapon for their next attack. The friendly character must be within 1 inch and no enemy characters may be within 3 inches. You may add the Rending (2) or Accurate special rule.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Grenadier</td>
+      <td style="text-align: left">This model has 3 Frag Grenades. Instead of using them you may give 1 to any friendly character within 1 inch at the end of your activation.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tactical Expert</td>
+      <td style="text-align: left">At the start of this characters activation, you may designate any enemy character as the teams Primary Target. Friendly characters may re-roll one dice from an attack against that character.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Unbreakable</td>
+      <td style="text-align: left">This character improves its Hit Points to 3.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="equipment-2">Equipment</h4>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Stealth Field</td>
+      <td>This model, and all friendly models within 3 inches count as having the Stealth (12) special rule.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="heavy-class">Heavy Class</h3>
 
 <h2 id="weapon-summary">Weapon Summary</h2>
 
@@ -270,17 +373,9 @@
       <td style="text-align: left">Rapid Fire</td>
     </tr>
     <tr>
-      <td style="text-align: left">Hellfire Rifle</td>
-      <td style="text-align: center">28”</td>
+      <td style="text-align: left">Eliminator Shotgun</td>
+      <td style="text-align: center">12”</td>
       <td style="text-align: center">3</td>
-      <td style="text-align: center">2</td>
-      <td style="text-align: center">2</td>
-      <td style="text-align: left">Accurate, Rending (1)</td>
-    </tr>
-    <tr>
-      <td style="text-align: left">Tactical Shotgun</td>
-      <td style="text-align: center">8”</td>
-      <td style="text-align: center">2</td>
       <td style="text-align: center">4</td>
       <td style="text-align: center">2</td>
       <td style="text-align: left">Rapid Fire, Indirect</td>
@@ -292,6 +387,30 @@
       <td style="text-align: center">3</td>
       <td style="text-align: center">1</td>
       <td style="text-align: left">Assault</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Frag Grenade</td>
+      <td style="text-align: center">6”</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left">Inaccurate, Indirect, One Use</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Hellfire Rifle</td>
+      <td style="text-align: center">28”</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left">Accurate, Rending (1)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Nemesis Sniper Rifle</td>
+      <td style="text-align: center">48”</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">10</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: left">Accurate, Heavy</td>
     </tr>
     <tr>
       <td style="text-align: left">Sentinel Pistol</td>
@@ -310,12 +429,20 @@
       <td style="text-align: left">Assault</td>
     </tr>
     <tr>
-      <td style="text-align: left">Frag Grenade</td>
-      <td style="text-align: center">6”</td>
-      <td style="text-align: center">6</td>
-      <td style="text-align: center">3</td>
+      <td style="text-align: left">Tactical Shotgun</td>
+      <td style="text-align: center">8”</td>
       <td style="text-align: center">2</td>
-      <td style="text-align: left">Inaccurate, Indirect, One Use</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left">Rapid Fire, Indirect</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Whisperbolt Sniper Rifle</td>
+      <td style="text-align: center">36”</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">5</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left">Accurate</td>
     </tr>
   </tbody>
 </table>
@@ -333,12 +460,36 @@
   </thead>
   <tbody>
     <tr>
+      <td style="text-align: left">Combat Knife</td>
+      <td style="text-align: center">1”</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: left">Assault</td>
+    </tr>
+    <tr>
       <td style="text-align: left">Energy Blade</td>
       <td style="text-align: center">1”</td>
       <td style="text-align: center">4</td>
       <td style="text-align: center">3</td>
       <td style="text-align: center">3</td>
       <td style="text-align: left">Assault</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Poisoned Blade</td>
+      <td style="text-align: center">1”</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: left">Assault, Rending (3)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Shadowstrike Blade</td>
+      <td style="text-align: center">1”</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: left">Assault, Accurate, Heavy</td>
     </tr>
   </tbody>
 </table>
