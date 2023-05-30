@@ -2927,7 +2927,6 @@ button:disabled,
   padding: 0.5em 0 0 0;
 }
 #menu > ul > li > ul {
-  color: #7c7f82;
   display: none;
   margin: 0.5em 0 1.5em 0;
   padding-left: 1em;

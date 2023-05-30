@@ -45,6 +45,10 @@
 
 <p>When a character is killed in Respawn, they are removed from the game and placed back in reserve and must be redeployed during the next round. The character returns to the game with their original weapons and full hit points.</p>
 
+<h3 id="pick-ups">Pick-ups</h3>
+
+<p>TODO</p>
+
 <h3 id="objectives">Objectives</h3>
 
 <p>Respawn uses Control objectives as detailed in the core rules as well as Flag objectives detailed below:</p>
@@ -58,6 +62,286 @@
 <p>If a character is killed while carrying a flag it is dropped where the character was last positioned. A member of the opposing team may pick the flag up from where it lies and continue to carry it to their base. If a member of the same team touches the flag it is immediately placed back at their base.</p>
 
 <h2 id="creating-a-team">Creating a Team</h2>
+
+<p>Games of Respawn consist of 2 or more teams of an equal number of characters, games are best played with 3 characters per team for a small game, 5 for a standard game, and 7 or more for large games. Games consisting of 10 or more total characters may require a larger battlefield.</p>
+
+<p>To create a team you create your characters by choosing a class, choosing two perks from that class, weapon loadout, and one item of equipment. You may not take any perk more than twice in your team.</p>
+
+<p>After you have created your characters you then choose a team perk that applies to every character in your team.</p>
+
+<p>Every character begins with the following profile:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Cmd</th>
+      <th style="text-align: center">Mov</th>
+      <th style="text-align: center">Skl</th>
+      <th style="text-align: center">Def</th>
+      <th style="text-align: center">Tgh</th>
+      <th style="text-align: center">HP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">6”</td>
+      <td style="text-align: center">4+</td>
+      <td style="text-align: center">5+</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="assault-class">Assault Class</h3>
+
+<h4 id="perks">Perks</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Perk</th>
+      <th style="text-align: left">Effect</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Assault Training</td>
+      <td style="text-align: left">This character may make two Attack actions with its Primary weapon if it does not make a Move action.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Heavy Hitter</td>
+      <td style="text-align: left">This character can re-roll failed Attack rolls against targets within 4 inches.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tactical Awareness</td>
+      <td style="text-align: left">This character may perform an Advance action after an Attack action.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Resilient</td>
+      <td style="text-align: left">When the target of an attack, this character may spend 1 Command Point allowing it to re-roll any failed Defence rolls.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Suppression Specialist</td>
+      <td style="text-align: left">When this character causes an enemy character to lose at least 1 hit point it also loses a Command Point.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Improved Armour</td>
+      <td style="text-align: left">Improve the characters Defence to 4+.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Skirmisher</td>
+      <td style="text-align: left">Improve this characters Movement to 7”.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="weapon-loadouts">Weapon Loadouts</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Loadout</th>
+      <th style="text-align: left">Primary Weapon</th>
+      <th style="text-align: left">Secondary Weapon</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Frontline</td>
+      <td style="text-align: left">Assault Rifle</td>
+      <td style="text-align: left">Executioner Pistol</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Vanguard</td>
+      <td style="text-align: left">Energy Blade</td>
+      <td style="text-align: left">Executioner Pistol</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Commando</td>
+      <td style="text-align: left">Tactical Shotgun</td>
+      <td style="text-align: left">Sentinel Pistol</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Striker</td>
+      <td style="text-align: left">Hellfire Rifle</td>
+      <td style="text-align: left">SMG</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="equipment">Equipment</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Equipment</th>
+      <th style="text-align: left">Effect</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Frag Grenade</td>
+      <td style="text-align: left">Gains the Frag Grenade weapon</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Med Pack</td>
+      <td style="text-align: left">One use only, this model may spend 1 Command Point at the start of its activation to restore 1 lost Hit Point.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Grapnel</td>
+      <td style="text-align: left">This model counts as having the Flying special rule when it moves to a Higher or Lower height level.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Shield</td>
+      <td style="text-align: left">This model gains the Shield (1) special rule.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="scout-class">Scout Class</h3>
+
+<h4 id="perks-1">Perks</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Perk</th>
+      <th style="text-align: left">Effect</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Camouflage</td>
+      <td style="text-align: left">This character gains the Stealth (6) Special Rule.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Scout</td>
+      <td style="text-align: left">This character may choose which entry point it uses from the allowed choices and may be placed up to 9 inches from it when deploying from reserve.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Sniper</td>
+      <td style="text-align: left">This character gains +1 to Attack Rolls against targets 12” or more away.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Weak Spot</td>
+      <td style="text-align: left">This character may add +1 Piercing to it’s primary weapon.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Marksman</td>
+      <td style="text-align: left">Improve this characters Skill to 3+.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Mark Target</td>
+      <td style="text-align: left">If this character makes an Attack action it may declare that the target character is Marked. All attacks against that character for the rest of the round count an obscured line of sight as clear. Once per round only.</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="weapons">Weapons</h4>
+
+<ul>
+  <li><strong>Primary Weapon</strong>: Sniper Rifle or Marksman Rifle</li>
+  <li><strong>Secondary Weapon</strong>: Pistol or Melee Weapon</li>
+  <li><strong>Equipment</strong>: Smoke Grenade, Explosive Charges</li>
+</ul>
+
+<h2 id="weapon-summary">Weapon Summary</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Ranged Weapon</th>
+      <th style="text-align: center">Rng</th>
+      <th style="text-align: center">Att</th>
+      <th style="text-align: center">Dmg</th>
+      <th style="text-align: center">Prc</th>
+      <th style="text-align: left">Special Rules</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Assault Rifle</td>
+      <td style="text-align: center">24”</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: left">Rapid Fire</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Hellfire Rifle</td>
+      <td style="text-align: center">28”</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left">Accurate, Rending (1)</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Tactical Shotgun</td>
+      <td style="text-align: center">8”</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left">Rapid Fire, Indirect</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Executioner Pistol</td>
+      <td style="text-align: center">6”</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: left">Assault</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Sentinel Pistol</td>
+      <td style="text-align: center">6”</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: left">Assault</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">SMG</td>
+      <td style="text-align: center">12”</td>
+      <td style="text-align: center">8</td>
+      <td style="text-align: center">1</td>
+      <td style="text-align: center">0</td>
+      <td style="text-align: left">Assault</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Frag Grenade</td>
+      <td style="text-align: center">6”</td>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left">Inaccurate, Indirect, One Use</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Assault Weapon</th>
+      <th style="text-align: center">Rng</th>
+      <th style="text-align: center">Att</th>
+      <th style="text-align: center">Dmg</th>
+      <th style="text-align: center">Prc</th>
+      <th style="text-align: left">Special Rules</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Energy Blade</td>
+      <td style="text-align: center">1”</td>
+      <td style="text-align: center">4</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: center">3</td>
+      <td style="text-align: left">Assault</td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 id="missions">Missions</h2>
 

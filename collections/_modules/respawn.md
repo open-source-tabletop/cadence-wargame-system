@@ -14,7 +14,7 @@ When a character is killed in Respawn, they are removed from the game and placed
 
 ### Pick-ups
 
-
+TODO
 
 ### Objectives
 
@@ -32,7 +32,7 @@ If a character is killed while carrying a flag it is dropped where the character
 
 Games of Respawn consist of 2 or more teams of an equal number of characters, games are best played with 3 characters per team for a small game, 5 for a standard game, and 7 or more for large games. Games consisting of 10 or more total characters may require a larger battlefield.
 
-To create a team you create your characters by choosing a class, choosing two perks from that class, a primary and secondary weapon, and one item of equipment. You may not take any perk more than twice in your team. 
+To create a team you create your characters by choosing a class, choosing two perks from that class, weapon loadout, and one item of equipment. You may not take any perk more than twice in your team. 
 
 After you have created your characters you then choose a team perk that applies to every character in your team.
 
@@ -48,19 +48,32 @@ Every character begins with the following profile:
 
 | Perk | Effect |
 | :--- | :----- |
-| Hail of Fire | This character may make a second attack action during its activation, this attack must be against the same target and both attacks suffer -1 to its Attack roll. |
-| Up Close and Personal | This character can re-roll failed Attack rolls against targets within 4 inches. |
-| Tactical Rush | This character may perform an Advance action after an Attack action. |
-| Hold the Line | When the target of an attack, this character may spend 1 Command Point allowing it to re-roll any failed Defence rolls. |
-| Suppressing Fire | When this character causes an enemy character to lose a hit point, it can instead cause it to lose a Command Point. |
+| Assault Training | This character may make two Attack actions with its Primary weapon if it does not make a Move action. |
+| Heavy Hitter | This character can re-roll failed Attack rolls against targets within 4 inches. |
+| Tactical Awareness | This character may perform an Advance action after an Attack action. |
+| Resilient | When the target of an attack, this character may spend 1 Command Point allowing it to re-roll any failed Defence rolls. |
+| Suppression Specialist | When this character causes an enemy character to lose at least 1 hit point it also loses a Command Point. |
 | Improved Armour | Improve the characters Defence to 4+. |
-| Quick | Improve this characters Movement to 7". |
+| Skirmisher | Improve this characters Movement to 7". |
 
-#### Weapons
+#### Weapon Loadouts
 
-- **Primary Weapon**: Assault Rifle, Tactical Rifle, SMG, or Shotgun
-- **Secondary Weapon**: Melee Weapon or High Caliber Pisol
-- **Equipment**: Frag Grenade, Med Pack, or Grapnel
+| Loadout   | Primary Weapon   | Secondary Weapon   |
+| :-------- | :--------------- | :----------------- |
+| Frontline | Assault Rifle    | Executioner Pistol |
+| Vanguard  | Energy Blade     | Executioner Pistol |
+| Commando  | Tactical Shotgun | Sentinel Pistol    |
+| Striker   | Hellfire Rifle   | SMG                |
+
+
+#### Equipment
+
+| Equipment | Effect |
+| :-------- | :----- |
+| Frag Grenade | Gains the Frag Grenade weapon |
+| Med Pack | One use only, this model may spend 1 Command Point at the start of its activation to restore 1 lost Hit Point. |
+| Grapnel | This model counts as having the Flying special rule when it moves to a Higher or Lower height level. |
+| Shield | This model gains the Shield (1) special rule. |
 
 ### Scout Class
 
@@ -80,6 +93,22 @@ Every character begins with the following profile:
 - **Primary Weapon**: Sniper Rifle or Marksman Rifle
 - **Secondary Weapon**: Pistol or Melee Weapon
 - **Equipment**: Smoke Grenade, Explosive Charges
+
+## Weapon Summary
+
+| Ranged Weapon      | Rng | Att | Dmg | Prc | Special Rules                 |
+| :----------------- | :-: | :-: | :-: | :-: | :---------------------------- |
+| Assault Rifle      | 24" |  4  |  2  |  1  | Rapid Fire                    |
+| Hellfire Rifle     | 28" |  3  |  2  |  2  | Accurate, Rending (1)         |
+| Tactical Shotgun   | 8"  |  2  |  4  |  2  | Rapid Fire, Indirect          |
+| Executioner Pistol | 6"  |  3  |  3  |  1  | Assault                       |
+| Sentinel Pistol    | 6"  |  3  |  2  |  0  | Assault                       |
+| SMG                | 12" |  8  |  1  |  0  | Assault                       |
+| Frag Grenade       | 6"  |  6  |  3  |  2  | Inaccurate, Indirect, One Use |
+
+| Assault Weapon     | Rng | Att | Dmg | Prc | Special Rules                 |
+| :----------------- | :-: | :-: | :-: | :-: | :---------------------------- |
+| Energy Blade       | 1"  |  4  |  3  |  3  | Assault                       |
 
 ## Missions
 
