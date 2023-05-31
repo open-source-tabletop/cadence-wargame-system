@@ -1,0 +1,13 @@
+---
+title: Game Modules
+permalink: /modules/
+---
+
+{% for nav in site.data.modules_nav %}
+<h3>{{ nav.name }}</h3>
+{% if nav.description %}
+<p>{{ nav.description }}</p>
+{% endif %}
+<p><a href="{{ nav.link }}" class="button">View the {{ nav.name }} module</a></p>
+<hr>
+{% endfor %}

@@ -13,20 +13,3 @@
       link: https://github.com/open-source-tabletop/cadence
 - name: Game Modules
   link: /modules/
-  children:
-    - name: "Devil's Bluff"
-      link: /devils-bluff/
-    - name: Guilds and Glory
-      link: /guilds-and-glory/
-    - name: Halo Firefight
-      link: /halo-firefight/
-    - name: "Realms of Arcanis: Legions"
-      link: /legions/
-    - name: Respawn
-      link: /respawn/
-    - name: Scraplands Showdown
-      link: /scraplands-showdown/
-    - name: "Dark Millenium: Shadow War"
-      link: /shadow-war/
-    - name: Squadrons
-      link: /squadrons/
