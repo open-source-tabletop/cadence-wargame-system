@@ -5,6 +5,8 @@ parentlink: /guilds-and-glory/
 category: heroes
 ---
 
+The Book of Heroes contains a selection of pre-made heroes you can use to get started playing Guilds and Glory quickly.
+
 ## Warriors
 
 ### Baldwin the Unforgiven

@@ -61,22 +61,35 @@ Fear     | This model must spend an additional Command Point to move closer to a
 
 ## Playing the game
 
-There are 3 steps to follow to play a game of Guilds and Glory: choose your campaign, get the rules for the listed monsters, and choose your characters. These sections are separated out into their own expansions called Books, the "Book of Heroes", for example, provides a selection of premade characters you can choose from.
+To play a game of Guilds and Glory you will need 3 things: Your characters, a campaign, and rules for the monsters and minions you will face. These sections are separated out into their own expansions that provide you with a great variety of options.
 
 ### Choose your Adventurers
 
 {% assign heroes = site.guilds-and-glory | where: 'category', 'heroes' %}
 {% for item in heroes %}
-- [{{ item.title }}]({{ item.url }}){% endfor %}
+#### [{{ item.title }}]({{ item.url }})
+
+{{item.excerpt | strip_html }}
+
+{% endfor %}
+
 
 ### Monsters and Minions
 
 {% assign minions = site.guilds-and-glory | where: 'category', 'minions' %}
 {% for item in minions %}
-- [{{ item.title }}]({{ item.url }}){% endfor %}
+#### [{{ item.title }}]({{ item.url }})
+
+{{item.excerpt | strip_html }}
+
+{% endfor %}
 
 ### Campaigns
 
 {% assign campaign = site.guilds-and-glory | where: 'category', 'campaign' %}
 {% for item in campaign %}
-- [{{ item.title }}]({{ item.url }}){% endfor %}
+#### [{{ item.title }}]({{ item.url }})
+
+{{item.excerpt | strip_html }}
+
+{% endfor %}
