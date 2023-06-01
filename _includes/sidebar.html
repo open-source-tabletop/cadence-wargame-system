@@ -29,6 +29,16 @@
                 {% endfor %}
             </ul>
         </nav>
+        <nav id="modules">
+            <header class="major">
+                <h2>Game Modules</h2>
+            </header>
+            <ul>
+                {% for nav in site.data.modules_nav %}
+                <li><a href="{{ nav.link }}">{{ nav.name }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
         <!--
         <section>
             <header class="major">
