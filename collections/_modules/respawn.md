@@ -12,6 +12,10 @@ Respawn is best played on a 2ft x 3ft or similar sized area. Each game of Respaw
 
 When a character is killed in Respawn, they are removed from the game and placed back in reserve and must be redeployed during the next round. The character returns to the game with their original weapons, including one use weapons and equipment, and full hit points.
 
+### Reactions
+
+TODI
+
 ### Pick-ups
 
 TODO
@@ -30,7 +34,7 @@ If a character is killed while carrying a flag it is dropped where the character
 
 ## Creating a Team
 
-Games of Respawn consist of 2 or more teams of an equal number of characters, games are best played with 3 characters per team for a small game, 5 for a standard game, and 7 or more for large games. Games consisting of 10 or more total characters may require a larger battlefield.
+Games of Respawn consist of 2 or more teams of an equal number of characters, games are best played with 3 characters per team for a quick game, 5 for a standard game, and 7 or more for large games. Games consisting of 10 or more total characters may require a larger battlefield.
 
 To create a team you create your characters by choosing a class, choosing two perks from that class, weapon loadout, and one item of equipment. You may not take any perk more than twice in your team. 
 
@@ -40,7 +44,7 @@ Every character begins with the following profile:
 
 | Cmd | Mov | Skl | Def | Tgh | HP  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|  6  |  6" |  4+ |  5+ |  2  |  2  |
+|  6  |  6" |  4+ |  4+ |  2  |  2  |
 
 ### Assault Class
 
@@ -48,13 +52,14 @@ Every character begins with the following profile:
 
 | Perk | Effect |
 | :--- | :----- |
-| Assault Training | This character may make two Attack actions with its Primary weapon if it does not make a Move action. |
+| Onslaught | Ability (3 Command Points): This action works like a normal Attack action except that the character doubles the Attacks attribute of their weapon. The character may not perform an Attack action during the same activation. |
+| Covering Fire | Reaction (1 Command Point): When an enemy character attacks a friendly character within 6 inches, after they have made their attack rolls, you may roll 3 Skill Rolls. Each success will remove a successful attack roll from that attack. You must have a clear line of sight to the attacking character. |
 | Heavy Hitter | This character can re-roll failed Attack rolls against targets within 4 inches. |
 | Tactical Awareness | This character may perform an Advance action after an Attack action. |
-| Resilient | When the target of an attack, this character may spend 1 Command Point allowing it to re-roll any failed Defence rolls. |
+| Resilient | Reaction (1 Command Point): When the target of an attack you may re-roll any failed Defence rolls. |
 | Suppression Specialist | When this character causes an enemy character to lose at least 1 hit point it also loses a Command Point. |
-| Improved Armour | Improve the characters Defence to 4+. |
-| Skirmisher | Improve this characters Movement to 7". |
+| Improved Armour | Improve the characters Defence by 1 (lower the required roll by 1). |
+| Skirmisher | Improve this characters Movement by 1. |
 
 #### Weapon Loadouts
 
@@ -64,7 +69,6 @@ Every character begins with the following profile:
 | Vanguard  | Energy Blade     | Executioner Pistol |
 | Commando  | Tactical Shotgun | Sentinel Pistol    |
 | Striker   | Hellfire Rifle   | SMG                |
-
 
 #### Equipment
 
@@ -84,7 +88,7 @@ Every character begins with the following profile:
 | Camouflage | This character gains the Stealth (6) Special Rule. |
 | Scout | This character may choose which entry point it uses from the allowed choices and may be placed up to 9 inches from it when deploying from reserve. |
 | Sniper | This character gains +1 to Attack Rolls against targets 12" or more away. |
-| Weak Spot | This character may add +1 Piercing to it's primary weapon. |
+| Weak Spot | This character adds +1 Piercing to it's primary weapon. |
 | Marksman | Improve this characters Skill to 3+. |
 | Mark Target | If this character makes an Attack action it may declare that the target character is Marked. All attacks against that character for the rest of the round count an obscured line of sight as clear. Once per round only. |
 | Ghost Walk | Once use, this character may move through an item of terrain as though it were clear, so long as it has sufficient movement to be placed on clear terrain at the end of its action. |
@@ -114,8 +118,8 @@ Every character begins with the following profile:
 | Perk | Effect |
 | :--- | :----- |
 | Grenadier | This character has 3 Frag Grenades. Instead of using them you may give 1 to any friendly character within 1 inch at the end of your activation. |
-| Heavy Armour | Increase this characters Defence to 3+ but reduce the Movement to 5. |
-| Medic | This character must take a med kit for its equipment but the action no longer costs a Command Point. |
+| Heavy Armour | Improve this characters Defence by 2 (lower the required roll by 2) but reduce the Movement by 1. |
+| Medic | This character must take a med kit for its equipment but the ability no longer costs a Command Point. |
 | Motivator | When this character finishes an activation with 1 Command Point remaining, it may transfer it to a friendly character within 3 inches. |
 | Munitions Expert | As an action, this character may modify a friendly characters weapon for their next attack. The friendly character must be within 1 inch and no enemy characters may be within 3 inches. You may add the Rending (2) or Accurate special rule. |
 | Tactical Expert | At the start of this characters activation, you may designate any enemy character as the teams Primary Target. Friendly characters may re-roll one dice from an attack against that character. |
@@ -133,7 +137,7 @@ Every character begins with the following profile:
 #### Equipment
 
 | Deployable Barricade | One use, at the end of its activation, this character may place a barricade that is 2 inches long and 1 inch tall within 1 inch of itself. |
-| Med Kit | As an action, this character may restore 1 lost Hit Point to a friendly character within 1 inch, if there are no enemy characters within 3 inches. |
+| Med Kit | Ability (1 Command Point): this character may restore 1 lost Hit Point to a friendly character within 1 inch, if there are no enemy characters within 3 inches. |
 | Smoke Grenade | One Use, at the end of its activation, this character may place 1 smoke marker (a 50mm token) within 3" of itself. Any character making an attack that draws line of sight through this marker treats their line of sight as blocked. This marker is removed at the end of the round. |
 | Stealth Field | This character, and all friendly characters within 3 inches count as having the Stealth (12) special rule. |
 
@@ -146,7 +150,7 @@ Every character begins with the following profile:
 | Assault Rifle            | 24" |  4  |  2  |  1  | Rapid Fire                    |
 | Eliminator Shotgun       | 12" |  3  |  4  |  2  | Rapid Fire, Indirect          |
 | Executioner Pistol       | 6"  |  3  |  3  |  1  | Assault                       |
-| Frag Grenade             | 6"  |  6  |  3  |  2  | Inaccurate, Indirect, One Use |
+| Frag Grenade             | 6"  |  6  |  3  |  2  | Inaccurate, Indirect, One Use, Blast |
 | Hellfire Rifle           | 28" |  3  |  2  |  2  | Accurate, Rending (1)         |
 | Nemesis Sniper Rifle     | 48" |  1  |  10 |  3  | Accurate, Heavy               |
 | Sentinel Pistol          | 6"  |  3  |  2  |  0  | Assault                       |
@@ -172,6 +176,7 @@ The following special rules are used in games of Respawn.
 
 | Special Rule | Effect |
 | :----------- | :----- |
+| Blast| TODO |
 | Quantum Tunneling | Attacks with this weapon always count as having a clear line of sight, even when the attacking character cannot see its target. |
 | Stun | Characters can lose 1 Hit Point at most from attacks by Stun weapons. If the character loses any hit points it also loses a Command Point. |
 | Impact | In addition to doing damage in the normal way, each point of damage caused by Impact weapons causes the target to move directly away from the character that made the attack. This move stops immediately if the character comes into contact with any other characters or terrain. |
