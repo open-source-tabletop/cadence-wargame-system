@@ -14,21 +14,26 @@ When a character is killed in Respawn, they are removed from the game and placed
 
 ### Reactions
 
-TODI
+Some of the characters perks allow them to perform reactions. These work the same as taking an action during an activation but happen during another characters activation. Simply follow the rules provided in the reaction to know when and how these work.
 
 ### Pick-ups
 
 If you choose you may include a number of pick-ups in your games. These are resources your character can pick up that will improve their skills for the remainder of the round. If you wish to include to pick-ups in your game you should place 1-3 pick-up points on your battlefield. These should just be simple markers telling you where your pick-up will spawn.
 
-When a pick-up is available at a pick-up point you will need to place a token or dice at the point to indicate what kind of pick-up it is. There are 6 types of pickup, 3 have immediate effects while 3 provide a bonus until the end of the characters activation.
+When a pick-up is available at a pick-up point you will need to place a token or dice at the point to indicate what kind of pick-up it is. There are 6 types of pickup, 3 have immediate effects while 3 provide a bonus that lasts a set amount of time.
 
 At the start of each round, for each pick-up point that does not have a pick-up and does not have a character within 3 inches, roll a d6 to determine which pick-up has spawned and place it on the pick-up point.
 
-To collect a pick-up a character must simply move into contact with it during their activation.
+To collect a pick-up a character must simply move into contact with it during their activation. Remove the marker from the pick-up point.
 
 | Number | Type | Effect |
 | :----: | :--- | :----- |
 | 1 | Health Boost | The character immediately recovers 1 lost Hit Point. |
+| 2 | Adrenaline | The character immediately regains 1 Command Point |
+| 3 | Resupply | Any "One use" weapon or equipment the character has that has been used is recovered and may be used again. |
+| 4 | Shield | The character gains +1 to their Toughness until the end of their next activation. |
+| 5 | Speed | The character gains +3 to it's Movement until the end of it's next activation. |
+| 6 | Damage | The characters weapons have +1 Damage or +1 Piercing until the end of their current activation. |
 
 ### Objectives
 
