@@ -36,17 +36,17 @@ If a character is killed while carrying a flag it is dropped where the character
 
 Games of Respawn consist of 2 or more teams of an equal number of characters, games are best played with 3 characters per team for a quick game, 5 for a standard game, and 7 or more for large games. Games consisting of 10 or more total characters may require a larger battlefield.
 
-To create a team you create your characters by choosing a class, choosing two perks from that class, weapon loadout, and one item of equipment. You may not take any perk more than twice in your team. You must choose different classes for each of your characters until you have at least one of each class
+To create a team you create your characters by choosing a class, choosing two perks from that class, weapon loadout, and one item of equipment. You may not take any perk more than twice in your team. You must choose different classes for each of your characters until you have at least one of each class.
 
 After you have created your characters you then choose a team perk that applies to every character in your team.
 
-Every character begins with the following profile:
+### Assault Class
+
+#### Starting Profile
 
 | Cmd | Mov | Skl | Def | Tgh | HP  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |  6  |  6" |  4+ |  4+ |  2  |  2  |
-
-### Assault Class
 
 #### Perks
 
@@ -80,6 +80,12 @@ Every character begins with the following profile:
 | Shield | This character gains the Shield (1) special rule. |
 
 ### Scout Class
+
+#### Starting Profile
+
+| Cmd | Mov | Skl | Def | Tgh | HP  |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|  6  |  7" |  4+ |  5+ |  2  |  2  |
 
 #### Perks
 
