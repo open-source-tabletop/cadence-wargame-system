@@ -45,9 +45,61 @@
 
 <p>When a character is killed in Respawn, they are removed from the game and placed back in reserve and must be redeployed during the next round. The character returns to the game with their original weapons, including one use weapons and equipment, and full hit points.</p>
 
+<h3 id="reactions">Reactions</h3>
+
+<p>Some of the characters perks allow them to perform reactions. These work the same as taking an action during an activation but happen during another characters activation. Simply follow the rules provided in the reaction to know when and how these work.</p>
+
 <h3 id="pick-ups">Pick-ups</h3>
 
-<p>TODO</p>
+<p>If you choose you may include a number of pick-ups in your games. These are resources your character can pick up that will improve their skills for the remainder of the round. If you wish to include to pick-ups in your game you should place 1-3 pick-up points on your battlefield. These should just be simple markers telling you where your pick-up will spawn.</p>
+
+<p>When a pick-up is available at a pick-up point you will need to place a token or dice at the point to indicate what kind of pick-up it is. There are 6 types of pickup, 3 have immediate effects while 3 provide a bonus that lasts a set amount of time.</p>
+
+<p>At the start of each round, for each pick-up point that does not have a pick-up and does not have a character within 3 inches, roll a d6 to determine which pick-up has spawned and place it on the pick-up point.</p>
+
+<p>To collect a pick-up a character must simply move into contact with it during their activation. Remove the marker from the pick-up point.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Number</th>
+      <th style="text-align: left">Type</th>
+      <th style="text-align: left">Effect</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">1</td>
+      <td style="text-align: left">Health Boost</td>
+      <td style="text-align: left">The character immediately recovers 1 lost Hit Point.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">2</td>
+      <td style="text-align: left">Adrenaline</td>
+      <td style="text-align: left">The character immediately regains 1 Command Point</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">3</td>
+      <td style="text-align: left">Resupply</td>
+      <td style="text-align: left">Any “One use” weapon or equipment the character has that has been used is recovered and may be used again.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">4</td>
+      <td style="text-align: left">Shield</td>
+      <td style="text-align: left">The character gains +1 to their Toughness until the end of their next activation.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">5</td>
+      <td style="text-align: left">Speed</td>
+      <td style="text-align: left">The character gains +3 to it’s Movement until the end of it’s next activation.</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">6</td>
+      <td style="text-align: left">Damage</td>
+      <td style="text-align: left">The characters weapons have +1 Damage or +1 Piercing until the end of their current activation.</td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 id="objectives">Objectives</h3>
 
@@ -63,13 +115,15 @@
 
 <h2 id="creating-a-team">Creating a Team</h2>
 
-<p>Games of Respawn consist of 2 or more teams of an equal number of characters, games are best played with 3 characters per team for a small game, 5 for a standard game, and 7 or more for large games. Games consisting of 10 or more total characters may require a larger battlefield.</p>
+<p>Games of Respawn consist of 2 or more teams of an equal number of characters, games are best played with 3 characters per team for a quick game, 5 for a standard game, and 7 or more for large games. Games consisting of 10 or more total characters may require a larger battlefield.</p>
 
-<p>To create a team you create your characters by choosing a class, choosing two perks from that class, weapon loadout, and one item of equipment. You may not take any perk more than twice in your team.</p>
+<p>To create a team you create your characters by choosing a class, choosing two perks from that class, weapon loadout, and one item of equipment. You may not take any perk more than twice in your team. You must choose different classes for each of your characters until you have at least one of each class.</p>
 
 <p>After you have created your characters you then choose a team perk that applies to every character in your team.</p>
 
-<p>Every character begins with the following profile:</p>
+<h3 id="assault-class">Assault Class</h3>
+
+<h4 id="starting-profile">Starting Profile</h4>
 
 <table>
   <thead>
@@ -87,14 +141,12 @@
       <td style="text-align: center">6</td>
       <td style="text-align: center">6”</td>
       <td style="text-align: center">4+</td>
-      <td style="text-align: center">5+</td>
+      <td style="text-align: center">4+</td>
       <td style="text-align: center">2</td>
       <td style="text-align: center">2</td>
     </tr>
   </tbody>
 </table>
-
-<h3 id="assault-class">Assault Class</h3>
 
 <h4 id="perks">Perks</h4>
 
@@ -107,8 +159,12 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">Assault Training</td>
-      <td style="text-align: left">This character may make two Attack actions with its Primary weapon if it does not make a Move action.</td>
+      <td style="text-align: left">Onslaught</td>
+      <td style="text-align: left">Ability (3 Command Points): This action works like a normal Attack action except that the character doubles the Attacks attribute of their weapon. The character may not perform an Attack action during the same activation.</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Covering Fire</td>
+      <td style="text-align: left">Reaction (1 Command Point): When an enemy character attacks a friendly character within 6 inches, after they have made their attack rolls, you may roll 3 Skill Rolls. Each success will remove a successful attack roll from that attack. You must have a clear line of sight to the attacking character.</td>
     </tr>
     <tr>
       <td style="text-align: left">Heavy Hitter</td>
@@ -120,7 +176,7 @@
     </tr>
     <tr>
       <td style="text-align: left">Resilient</td>
-      <td style="text-align: left">When the target of an attack, this character may spend 1 Command Point allowing it to re-roll any failed Defence rolls.</td>
+      <td style="text-align: left">Reaction (1 Command Point): When the target of an attack you may re-roll any failed Defence rolls.</td>
     </tr>
     <tr>
       <td style="text-align: left">Suppression Specialist</td>
@@ -128,11 +184,11 @@
     </tr>
     <tr>
       <td style="text-align: left">Improved Armour</td>
-      <td style="text-align: left">Improve the characters Defence to 4+.</td>
+      <td style="text-align: left">Improve the characters Defence by 1 (lower the required roll by 1).</td>
     </tr>
     <tr>
       <td style="text-align: left">Skirmisher</td>
-      <td style="text-align: left">Improve this characters Movement to 7”.</td>
+      <td style="text-align: left">Improve this characters Movement by 1.</td>
     </tr>
   </tbody>
 </table>
@@ -202,6 +258,31 @@
 
 <h3 id="scout-class">Scout Class</h3>
 
+<h4 id="starting-profile-1">Starting Profile</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Cmd</th>
+      <th style="text-align: center">Mov</th>
+      <th style="text-align: center">Skl</th>
+      <th style="text-align: center">Def</th>
+      <th style="text-align: center">Tgh</th>
+      <th style="text-align: center">HP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">6</td>
+      <td style="text-align: center">7”</td>
+      <td style="text-align: center">4+</td>
+      <td style="text-align: center">5+</td>
+      <td style="text-align: center">2</td>
+      <td style="text-align: center">2</td>
+    </tr>
+  </tbody>
+</table>
+
 <h4 id="perks-1">Perks</h4>
 
 <table>
@@ -226,7 +307,7 @@
     </tr>
     <tr>
       <td style="text-align: left">Weak Spot</td>
-      <td style="text-align: left">This character may add +1 Piercing to it’s primary weapon.</td>
+      <td style="text-align: left">This character adds +1 Piercing to it’s primary weapon.</td>
     </tr>
     <tr>
       <td style="text-align: left">Marksman</td>
@@ -324,11 +405,11 @@
     </tr>
     <tr>
       <td style="text-align: left">Heavy Armour</td>
-      <td style="text-align: left">Increase this characters Defence to 3+ but reduce the Movement to 5.</td>
+      <td style="text-align: left">Improve this characters Defence by 2 (lower the required roll by 2) but reduce the Movement by 1.</td>
     </tr>
     <tr>
       <td style="text-align: left">Medic</td>
-      <td style="text-align: left">This character must take a med kit for its equipment but the action no longer costs a Command Point.</td>
+      <td style="text-align: left">This character must take a med kit for its equipment but the ability no longer costs a Command Point.</td>
     </tr>
     <tr>
       <td style="text-align: left">Motivator</td>
@@ -393,7 +474,7 @@
     </tr>
     <tr>
       <td>Med Kit</td>
-      <td>As an action, this character may restore 1 lost Hit Point to a friendly character within 1 inch, if there are no enemy characters within 3 inches.</td>
+      <td>Ability (1 Command Point): this character may restore 1 lost Hit Point to a friendly character within 1 inch, if there are no enemy characters within 3 inches.</td>
     </tr>
     <tr>
       <td>Smoke Grenade</td>
@@ -452,7 +533,7 @@
       <td style="text-align: center">6</td>
       <td style="text-align: center">3</td>
       <td style="text-align: center">2</td>
-      <td style="text-align: left">Inaccurate, Indirect, One Use</td>
+      <td style="text-align: left">Inaccurate, Indirect, One Use, Blast</td>
     </tr>
     <tr>
       <td style="text-align: left">Hellfire Rifle</td>
@@ -604,6 +685,10 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align: left">Blast</td>
+      <td style="text-align: left">TODO</td>
+    </tr>
     <tr>
       <td style="text-align: left">Quantum Tunneling</td>
       <td style="text-align: left">Attacks with this weapon always count as having a clear line of sight, even when the attacking character cannot see its target.</td>
