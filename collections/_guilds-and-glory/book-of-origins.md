@@ -7,6 +7,8 @@ category: heroes
 
 The Book of Origins contains rules that allow you to create your own custom characters for Guilds and Glory.
 
+Revealing the Pathways of Destiny, delving deep into the profound connection between a hero's origins and the shaping of their identity, offering invaluable insights for aspiring adventurers. It contains rules for creating your own custom characters for Guilds and Glory.
+
 ## Creating Your Own Character
 
 Creating custom characters for Guilds and Glory is simple and very flexible. Rather than choosing from multiple races, classes, or skill trees, almost everything that defines your character is determined by its Aspects. Aspects represent some dimension of your character and its up to you whether the skills or attributes they have is due to their race, training, or natural skills. When you create a character you are able to choose perks from your chosen aspects, these may be special rules, bonuses to your attributes, or special abilities.
