@@ -13,17 +13,16 @@ Revealing the Pathways of Destiny, delving deep into the profound connection bet
 
 Creating custom characters for Guilds and Glory is simple and very flexible. Rather than choosing from multiple races, classes, or skill trees, almost everything that defines your character is determined by its Aspects. Aspects represent some dimension of your character and its up to you whether the skills or attributes they have is due to their race, training, or natural skills. When you create a character you are able to choose perks from your chosen aspects, these may be special rules, bonuses to your attributes, or special abilities.
 
-When you create a level 1 character you choose from 3 starting profiles and choose 3 aspects. You may then choose 1 perk from your aspects. If you are creating a higher level character, or an existing character goes up a level, you may choose a number of perks equal to your level. At level 4 you may choose a 4th aspect and at level 8 you may choose a 5th aspect.
+When you create a level 1 character you choose from 4 starting profiles and choose 3 aspects. You may then choose 1 perk from each of your aspects. If you are creating a higher level character, or an existing character goes up a level, you may choose one extra perk for each of your additional levels. At level 4 you may choose a 4th aspect and at level 8 you may choose a 5th aspect.
 
 ## Aspects
 
-mov skl str def tgh hp
-
 ### Agile
 
-Mov +1
-
-Move attack advance
+| Perk | Effect |
+| :--- | :----- |
+| Swift Step | Gain +1 to your Movement attribute. |
+| Hit and Run | This model may perform an Advance action after an Attack action. |
 
 ### Stalwart
 
