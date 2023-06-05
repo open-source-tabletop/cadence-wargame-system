@@ -23,7 +23,7 @@ When you create a level 1 character you choose from 4 starting profiles and choo
 | :--- | :----- |
 | Swift Step | Gain +1 to your Movement attribute. |
 | Hit and Run | This model may perform an Advance action after an Attack action. |
-| Sure Footed | This model may ignore the movement penalties for rough terrain or barricades. |
+| Sure Footed | This model may ignore the movement penalties for rough terrain and changing height levels. |
 
 ### Stalwart
 
