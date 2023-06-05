@@ -316,7 +316,7 @@ Models cannot climb over or move through this piece of terrain.
 
 #### Keyword: Rough
 
-Terrain with the barrier keyword may be moved across at the cost of 1 inch of allowed movement, in addition to the distance travelled, however models may not finish their movement on a barrier.
+Terrain with the rough keyword may be moved across at the cost of 1 inch of allowed movement, in addition to the distance travelled, however models may not finish their movement on rough terrain.
 
 #### Keyword: Cover
 
