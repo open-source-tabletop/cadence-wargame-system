@@ -27,6 +27,10 @@ When you create a level 1 character you choose from 4 starting profiles and choo
 
 ### Stalwart
 
+| Perk | Effect |
+| :--- | :----- |
+| Rugged | Gain +1 to your Strength attribute. |
+
 Str +1
 
 Unmovable
