@@ -36,6 +36,12 @@ Different campaigns may require a broad range of terrain and you will usually ne
 
 In Guilds and Glory, regardless of the number of players, the adventurers are treated as a single player for initiative purposes. This means the adventurers and the Overlord roll off at the start of each round to determine which has the initiative. In addition, either side must always choose the model with the most Command Points remaining to activate next. If there are multiple models that have the same number then the player can decide which to activate, or roll-off if there are multiple players in the adventurers.
 
+### Minion Groups
+
+When the Overlord has multiple models of the same type, ie. taken from the same unit profile, these always activate as a group. When the Overlord choses one of these models they must activate each model in the group. This may be done in any order the Overlord wishes.
+
+If the Overlord has more than 4 models in a group they must be split into two groups. It is worth noting that these models are not a unit and do not activate together and perform the same actions.
+
 ### Attacks
 
 Unless otherwise stated, all weapons are assumed to have the Arc (front) special rule. Models making an attack against another model from their rear arc gain +1 to their weapons Piercing attribute. When a model moves within 1 inch of an enemy model it may make a free pivot to face that model.
