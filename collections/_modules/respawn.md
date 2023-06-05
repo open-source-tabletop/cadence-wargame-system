@@ -16,6 +16,20 @@ When a character is killed in Respawn, they are removed from the game and placed
 
 Some of the characters perks allow them to perform reactions. These work the same as abilities taken during an activation but happen during another characters activation. Simply follow the rules provided in the reaction to know when and how these work.
 
+### Special Terrain
+
+#### Teleport
+
+If you wish you may include teleports in your battles, and these may be one or two-way. You will need a suitable piece of terrain for the teleport and a marker for it's destination. If you wish it to be two-way simply choose another teleport as the destination.
+
+When a character moves into contact it may immediately be placed in contact with the target destination. It may continue it's movement from that point.
+
+#### Launch Pads
+
+Launch pads are similar to teleports in that they allow you to move your character around the battlefield more quickly than normal. However they do so by more directly launching the character through the air.
+
+As with teleports you will need a suitable piece of terrain and a marker for the launch pads destination. The destination should be no more than 12 inches away and not blocked by any large terrain. Unlike teleports, when a character uses a launch pad they will lose 2 inches off their remaining movement and may only continue moving after the jump if they have movement left.
+
 ### Pick-ups
 
 If you wish, you may include a number of pick-ups in your games. These are resources your character can collect that will improve their skills for the remainder of the round. There are 6 types of pickup, 3 have immediate effects while 3 provide a bonus that lasts a set amount of time.
