@@ -46,6 +46,10 @@ If the Overlord has more than 4 models in a group they must be split into two gr
 
 Unless otherwise stated, all weapons are assumed to have the Arc (front) special rule. Models making an attack against another model from their rear arc gain +1 to their weapons Piercing attribute. When a model moves within 1 inch of an enemy model it may make a free pivot to face that model.
 
+### Strength
+
+Models in Guilds and Glory have a Strength attribute. This is typically used as a value in a weapons Damage attribute, where you substitute the abbreviation Str for the models strength.
+
 ### Keywords
 
 Both models and weapons may include specific keywords, these typically represent certain aspects of their nature, such as being "evil", "wild", or "magic". These keywords do not confer any special rule on their own but are instead used to determine how they interact with other rules. A weapon may specify that it does additional damage to Undead models for example, or a model may be immune to Fire weapons.
