@@ -21,25 +21,37 @@ When you create a level 1 character you choose from 4 starting profiles and choo
 
 | Perk | Effect |
 | :--- | :----- |
-| Swift Step | Gain +1 to your Movement attribute. |
 | Hit and Run | This model may perform an Advance action after an Attack action. |
+| Nimble | This model does not suffer the rush penalty when making Attack actions. |
 | Sure Footed | This model may ignore the movement penalties for rough terrain and changing height levels. |
+| Swift Step | Gain +1 to your Movement attribute. |
+| Whirlwind Strike | Ability (1 Command Point): This model may use this action after an Attack action to perform a second Attack action against the same target. |
 
 ### Stalwart
 
 | Perk | Effect |
 | :--- | :----- |
-| Rugged | Gain +1 to your Strength attribute. |
 | Immovable | This model is immune to any rule that would cause it to be moved outside of it's own actions. |
-| Stout | This model gains the Immunity (poison) special rule. |
+| Stout | This model gains the Immunity (poison), and Immunity (fear) special ruless. |
+| Rugged | Gain +1 to your Strength attribute. |
+| Unbreakable | Ability (1 Command Point): Until the start of this models next activation it counts its Toughness as double. |
 
 ### Trickster
 
-Targetting shenanigans
-
-Movement Shenanigans
+| Perk | Effect |
+| :--- | :----- |
+| Mimicry | Ability (1 Command Point): Until this models next activation enemy models must roll a 6 on a d6 roll to target this model. |
+| Shimmer | Reaction (1 Command Point): When this model is targetted for an attack by the overlord it may attempt to redirect it to another model within 3 inches that the attacking model has line of sight to. On a d6 roll of a 2 or more the attack targets the model the player chose. |
+| Swap | Ability (1 Command Point): This model may swap position with another friendly model within 6 inches. |
+| Translocate | Ability (1 Command Point): After a Move action this model may be placed anywhere within 8 inches, so long as it is more than 3 inches from an enemy model. After this action the models activation ends. |
+| Veiled | This model gainst the Stealth (6) special rule. |
 
 ### Arcane
+
+
+| Perk | Effect |
+| :--- | :----- |
+| Arcane Blast | This character gains one of the Arcane Blast weapons listed below. This perk may be chosen again for a different Arcane Blast |
 
 Choose from destruction, conjuration, illusion spells?
 
@@ -48,6 +60,12 @@ Magical insight (bonus against magic or arcane enemies)
 Warding (bonus against magic attacks)
 
 Dispel
+
+| Arcane Blast     | Rng | Att | Dmg | Prc | Type            | Special Rules        |
+| :--------------- | :-: | :-: | :-: | :-: | :-------------- |:-------------------- |
+| Fireball         | 12" |  3  |  4  |  0  | Fire, Magic     | Heavy, Burning       |
+| Lightning Strike | 12" |  4  |  4  |  2  | Electric, Magic | Heavy, Blinding      |
+| Hurricane        | 4"  |  3  |  3  |  0  | Magic           | Impact               |
 
 ### Protector
 

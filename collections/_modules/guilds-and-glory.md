@@ -93,14 +93,14 @@ The following additional special rules are available for Guilds and Glory.
 
 | Special Rule | Effect |
 | :----------- | :----- |
-| Blinded | If a model takes damage from an attack from this weapon they gain the Blinded status effect, even if they did not lose any hit points. |
+| Blinding | If a model takes damage from an attack from this weapon they gain the Blinded status effect, even if they did not lose any hit points. |
 | Burning | If a model loses a hit point to an attack from this weapon they gain the Burning status effect. |
 | Fatal Blow | Models that are downed by this weapon only succeed on their Death Save with a roll of 6. |
 | Fear | If a model takes damage from an attack from this weapon they gain the Fear status effect, even if they did not lose any hit points. |
+| Impact | In addition to doing damage, each point of damage caused by Impact weapons causes the target to move directly away from the model that made the attack. This move stops immediately if the model comes into contact with any other models or terrain. |
 | Poison | If a model loses a hit point to an attack from this weapon they gain the Poisoned status effect. |
 | Slowing | If a model loses a hit point to an attack from this weapon they gain the Slowed status effect. |
 | Stun | If a model loses a hit point to an attack from this weapon they gain the Stunned status effect. |
-
 ## Managing Your Party
 
 Throughout the course of a campaign, your will need to track your party as characters level up, get injured or replaced, or as equipment gets used or added to your inventory.
