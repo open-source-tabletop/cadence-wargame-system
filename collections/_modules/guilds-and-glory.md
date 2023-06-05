@@ -48,7 +48,7 @@ Unless otherwise stated, all weapons are assumed to have the Arc (front) special
 
 ### Strength
 
-Models in Guilds and Glory have a Strength attribute. This is typically used as a value in a weapons Damage attribute, where you substitute the abbreviation Str for the models strength.
+Models in Guilds and Glory have a Strength (Str) attribute. This is typically used as a value in a weapons Damage attribute, where you substitute the abbreviation Str for the models strength.
 
 ### Keywords
 
