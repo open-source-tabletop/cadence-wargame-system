@@ -30,10 +30,8 @@ When you create a level 1 character you choose from 4 starting profiles and choo
 | Perk | Effect |
 | :--- | :----- |
 | Rugged | Gain +1 to your Strength attribute. |
-
-Str +1
-
-Unmovable
+| Immovable | This model is immune to any rule that would cause it to be moved outside of it's own actions. |
+| Stout | This model gains the Immunity (poison) special rule. |
 
 ### Trickster
 
