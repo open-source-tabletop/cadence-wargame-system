@@ -49,7 +49,11 @@ To collect a pick-up a character must simply move into contact with it during th
 
 ### Objectives
 
-Respawn uses Control objectives as detailed in the core rules as well as Flag objectives detailed below:
+Respawn uses Control Objectives and Flag Objectives.
+
+#### Control Objectives
+
+Control Objectives in Respawn work the same as in the Core Rule with the exception that they stay secured even if there are no friendly models within 3 inches of them.
 
 #### Flags
 
@@ -79,9 +83,9 @@ All of your characters must choose one of the following starting profiles.
 
 | Profile       | Cmd | Mov | Skl | Def | Tgh | HP  |
 | :------------ | :-: | :-: | :-: | :-: | :-: | :-: |
-| Balanced      |  6  |  5" |  4+ |  4+ |  1  |  4  |
-| Fast          |  6  |  8" |  4+ |  5+ |  1  |  4  |
-| Tough         |  6  |  4" |  4+ |  4+ |  2  |  3  |
+| Balanced      |  6  |  5" |  4+ |  4+ |  2  |  3  |
+| Fast          |  6  |  8" |  4+ |  5+ |  1  |  6  |
+| Tough         |  6  |  4" |  4+ |  4+ |  2  |  4  |
 
 ### Assault Class
 
@@ -98,21 +102,21 @@ All of your characters must choose one of the following starting profiles.
 
 | Perk | Effect |
 | :--- | :----- |
-| Onslaught | Ability (3 Command Points): This action works like a normal Attack action except that the character doubles the Attacks attribute of their weapon. The character may not perform an Attack action during the same activation. |
-| Covering Fire | Reaction (1 Command Point): When an enemy character attacks a friendly character within 6 inches, after they have made their attack rolls, you may roll 3 Skill Rolls. Each success will remove a successful attack roll from that attack. You must have a clear line of sight to the attacking character. |
+| Onslaught | Ability (3 Command Points): This action works like a normal Attack action except that the character doubles the Attacks attribute of their weapon. If the character uses this action it performs only this action during its activation. |
+| Covering Fire | Ability (1 Command Point): This model makes an Attack Roll against every enemy character within 12 inches, within its front arc, that it has clear or obscured line of sight to. If the roll is successful that character loses 1 Command Point.
 | Heavy Hitter | This character can re-roll failed Attack rolls against targets within 4 inches. |
 | Tactical Awareness | This character may perform an Advance action after an Attack action. |
 | Resilient | Reaction (1 Command Point): When the target of an attack you may re-roll any failed Defence rolls. |
 | Suppression Specialist | When this character causes an enemy character to lose at least 1 hit point it also loses a Command Point. |
 | Improved Armour | Improve the characters Defence by 1 (lower the required roll by 1). |
-| Skirmisher | Improve this characters Movement by 1. |
+| Skirmisher | Improve this characters Movement by 2. |
 
 #### Equipment
 
 | Equipment | Effect |
 | :-------- | :----- |
 | Frag Grenade | Gains the Frag Grenade weapon |
-| Med Pack | One use only, this character may spend 1 Command Point at the start of its activation to restore 1 lost Hit Point. |
+| Med Pack | One use only, this character may spend 1 Command Point at the start of its activation to restore all lost Hit Points. |
 | Grapnel | This character counts as having the Flying special rule when it moves to a Higher or Lower height level. |
 | Shield | This character gains the Shield (2) special rule. |
 
@@ -131,13 +135,13 @@ All of your characters must choose one of the following starting profiles.
 
 | Perk | Effect |
 | :--- | :----- |
-| Camouflage | This character gains the Stealth (6) Special Rule. |
+| Camouflage | This character gains the Stealth (6) Special Rule and the Resilient Special Rule. |
 | Scout | This character may choose which entry point it uses from the allowed choices and may be placed up to 9 inches from it when deploying from reserve. |
-| Sniper | This character gains +1 to Attack Rolls against targets 12" or more away. |
+| Sniper | This character gains +1 to Attack Rolls against targets 12" or more away and gains the Skilled Special Rule. |
 | Weak Spot | This character adds +1 Piercing to it's primary weapon. |
 | Marksman | Improve this characters Skill to 3+. |
-| Mark Target | If this character makes an Attack action it may declare that the target character is Marked. All attacks against that character for the rest of the round count an obscured line of sight as clear. Once per round only. |
-| Ghost Walk | Once use, this character may move through an item of terrain as though it were clear, so long as it has sufficient movement to be placed on clear terrain at the end of its action. |
+| Mark Target | If this character makes an Attack action it may declare that the target character is Marked. All attacks against that character for the rest of the round count as having the Rending (3) Rule. |
+| Ghost Walk | One use, this character may move through an item of terrain as though it were clear and gains +2 to its Movement when doing so, so long as it has sufficient movement to be placed on clear terrain at the end of its action. |
 
 #### Equipment
 
@@ -145,8 +149,8 @@ All of your characters must choose one of the following starting profiles.
 | :-------- | :----- |
 | Explosive Charge | One use only, instead of making a normal attack action, this character may use an attack action to place an explosive charge token within 3 inches of itself, and at least 3 inches from any other character. If any character moves within 1 inch of this marker it explodes and any character within 3 inches takes 6 automatic hits, rolling their Defence as though they were targeted in an attack. At the end of each round, on a d6 roll of a 3+ the charge explodes and is removed from the game. |
 | Grapnel | This character counts as having the Flying special rule when it moves to a Higher or Lower height level. |
-| Smoke Grenade | One Use, at the end of its activation, this character may place 1 smoke marker (a 50mm token) within 3" of itself. Any character making an attack that draws line of sight through this marker treats their line of sight as blocked. This marker is removed at the end of the round. |
-| Targetting Drone | This character may count obscured line of sight as clear against targets within 12 inches. |
+| Smoke Grenade | One Use, at the end of its activation, this character may place 2 smoke markers (a 50mm token) within 3" of itself and touching each other. Any character making an attack that draws line of sight through this marker treats their line of sight as blocked. This marker is removed at the end of the round. |
+| Targetting Drone | This character may count obscured line of sight as clear against targets within 12 inches and may re-roll 1 failed attack roll dice. |
 
 ### Support Class
 
@@ -166,17 +170,17 @@ All of your characters must choose one of the following starting profiles.
 | Grenadier | This character has Frag grenades but ignores the one use rule. In addition, any friendly character that ends its activation within 3 inches of this character may restore any used Frag Grenades they started with. |
 | Heavy Armour | Improve this characters Defence by 2 (lower the required roll by 2) but reduce the Movement by 2. |
 | Medic | This character must take a med kit for its equipment but the ability no longer costs a Command Point. |
-| Motivator | When this character finishes an activation with 1 Command Point remaining, it may transfer it to a friendly character within 3 inches. |
-| Munitions Expert | Ability (1 Command Point): this character may modify a friendly characters weapon for their next attack. The friendly character must be within 1 inch and no enemy characters may be within 3 inches. You may add the Rending (2) or Accurate special rule. |
+| Motivator | When this character finishes an activation with 1 Command Point remaining, it may transfer it to a friendly character within 9 inches. |
+| Munitions Expert | Ability (1 Command Point): this character may modify a friendly characters weapon for their next attack. The friendly character must be within 1 inch and no enemy characters may be within 3 inches. You add the Rending (3) and Accurate special rules. |
 | Tactical Expert | At the start of this characters activation, you may designate any enemy character as the teams Primary Target. Friendly characters may re-roll one dice from an attack against that character. |
-| Unbreakable | This character improves its Hit Points by 1. |
+| Unbreakable | This character improves its Hit Points by 1 up to a maximum of 6. |
 
 #### Equipment
 
-| Deployable Barricade | One use, at the end of its activation, this character may place a barricade that is 2 inches long and 1 inch tall within 1 inch of itself. If the character is killed the barricade is removed from the battlefield. |
-| Med Kit | Ability (1 Command Point): this character may restore 1 lost Hit Point to a friendly character within 1 inch, if there are no enemy characters within 3 inches. |
-| Smoke Grenade | One Use, at the end of its activation, this character may place 1 smoke marker (a 50mm token) within 3" of itself. Any character making an attack that draws line of sight through this marker treats their line of sight as blocked. This marker is removed at the end of the round. |
-| Phase Inducer | Ability (3 Command Points): Until the end of the round, this character and any friendly characters within 4 inches, may not be targetted for attacks from more than 12 inches away. |
+| Deployable Barricade | One use, at the end of its activation, this character may place a barricade that is 2 inches long and 1 inch tall within 3 inches of itself. This barricade has the Cover keyword. If the character is killed the barricade is removed from the battlefield. |
+| Med Kit | Ability (1 Command Point): this character may restore all lost Hit Points to a friendly character within 1 inch, if there are no enemy characters within 3 inches. |
+| Smoke Grenade | One Use, at the end of its activation, this character may place 2 smoke markers (a 50mm token) within 3" of itself and touching each other. Any character making an attack that draws line of sight through this marker treats their line of sight as blocked. This marker is removed at the end of the round. |
+| Phase Inducer | Ability (3 Command Points): Until the end of the round, this character and any friendly characters within 4 inches, may not be targetted for attacks from more than 9 inches away. |
 
 ### Heavy Class
 
@@ -194,11 +198,11 @@ All of your characters must choose one of the following starting profiles.
 | Perk | Effect |
 | :--- | :----- |
 | Last Stand | When this character has 1 hit point remaining, it gains +1 to all its attack rolls. |
-| Intimidation | Enemy charactes within 8 inches of this character suffer -1 to their attack rolls. |
+| Intimidation | Enemy charactes within 6 inches of this character suffer -2 to their attack rolls. |
 | Bulwark | This character gains the Heavy Armour (1) special rule, but it can no longer make Advance actions. |
 | Distraction | Characters within 6 inches of this character, when able, must target this character when making an attack. |
-| Brute | When using a weapon with the Heavy special rule, roll a d6, on a 3+ this character recovers 1 Command Point. |
-| Smash | Ability (1 Command Point): This character may target an enemy character within 1 inch, the targetted character is pushed d6 inches directly away from this character, stopping if it comes into contact with another character or terrain.
+| Brute | When using a weapon with the Heavy special rule this character does not need to spend an additional Command Point to use it if it did not take more than 2 actions. |
+| Smash | Ability (1 Command Point): This character may target an enemy character within 1 inch and roll a d6. The targetted character takes damage equivalent to the d6 roll and is pushed directly away from this character, stopping if it comes into contact with terrain, a drop in height, or another character. |
 
 #### Equipment
 
@@ -215,12 +219,12 @@ All of your characters must choose one of the following starting profiles.
 | Ranged Weapon            | Rng | Att | Dmg | Prc | Special Rules                 |
 | :----------------------- | :-: | :-: | :-: | :-: | :---------------------------- |
 | Assault Rifle            | 24" |  4  |  2  |  1  | Rapid Fire                    |
-| Barrage Launcher         | 16" |  4  |  4  |  2  | Blast, Heavy, Indirect        |
+| Barrage Launcher         | 12" |  4  |  4  |  2  | Blast, Heavy, Indirect        |
 | Eliminator Shotgun       | 12" |  3  |  4  |  2  | Rapid Fire, Indirect          |
 | Executioner Pistol       | 6"  |  3  |  3  |  1  | Assault                       |
 | Frag Grenade             | 6"  |  4  |  4  |  2  | Blast, Indirect, One Use      |
-| Heavy Incinerator        | 6"  |  4  |  6  |  1  | Heavy, Torrent                |
-| Hellfire Rifle           | 28" |  3  |  2  |  2  | Accurate, Rending (1)         |
+| Heavy Incinerator        | 6"  |  10 |  1  |  1  | Heavy, Torrent                |
+| Hellfire Rifle           | 24" |  3  |  2  |  2  | Accurate, Rending (2)         |
 | Nemesis Sniper Rifle     | 48" |  1  |  10 |  3  | Accurate, Heavy               |
 | Stasis Grenade           | 8"  |  1  |  4  |  0  | Stasis, One Use               |
 | Rampage Minigun          | 24" |  12 |  1  |  1  | Heavy, Rending (1)            |
@@ -229,7 +233,7 @@ All of your characters must choose one of the following starting profiles.
 | Tactical Shotgun         | 8"  |  2  |  4  |  2  | Rapid Fire, Indirect          |
 | Peacekeep Shotgun        | 8"  |  2  |  3  |  0  | Rapid Fire, Impact            |
 | Whisperbolt Sniper Rifle | 36" |  2  |  5  |  2  | Accurate                      |
-| Quantum Rifle            | 24" |  2  |  2  |  1  | Quantum Tunneling             |
+| Quantum Rifle            | 24" |  2  |  3  |  1  | Quantum Tunneling             |
 | Stun Pistol              | 6"  |  3  |  2  |  0  | Stun                          |
 | Stasis Rifle             | 18" |  4  |  1  |  0  | Stasis, Heavy                 |
 
@@ -249,7 +253,7 @@ The following special rules are used in games of Respawn.
 
 | Special Rule | Effect |
 | :----------- | :----- |
-| Blast| When this weapon hits its target, it also counts as hitting every other character within 2 inches of the target with one hit. |
+| Blast | When this weapon hits its target, it also counts as hitting every other character within 3 inches of the target with one hit. |
 | Quantum Tunneling | Attacks with this weapon always count as having a clear line of sight, even when the attacking character cannot see its target. |
 | Stun | Characters can lose 1 Hit Point at most from attacks by Stun weapons. If the character loses any hit points it also loses a Command Point. |
 | Impact | In addition to doing damage in the normal way, each point of damage caused by Impact weapons causes the target to move directly away from the character that made the attack. This move stops immediately if the character comes into contact with any other characters or terrain. |
@@ -279,7 +283,8 @@ Each player then places 3 entry points on their own table edge numbered 1 - 3. A
 
 #### Objectives
 
-Each team scores 1 Victory Points each time they score a flag objective.
+- Each team scores 10 Victory Points each time they score a flag objective.
+- Each team scores 1 Victory Point each time they kill an enemy character.
 
 -----
 
@@ -293,7 +298,9 @@ The battlefield should be set up with 6 entry points spaced randomly around the 
 
 #### Objectives
 
-Each team scores 1 Victory Point for each Control Point they have secured at the end of each round.
+- Each team scores 5 Victory Point for each Control Point they have secured at the end of each round.
+- Each team scores 1 Victory Point each time they secure a Control Point.
+- Each team scores 1 Victory Point each time they kill an enemy character.
 
 -----
 
@@ -305,6 +312,5 @@ One Control objective is placed in the center of the table. The battlefield shou
 
 #### Objectives
 
-Each team scores 5 Victory Points if they control the central objective at the end of a round.
-
-Each team scores 1 Victory Point each time they kill an enemy character.
+- Each team scores 7 Victory Points if they control the central objective at the end of a round.
+- Each team scores 1 Victory Point each time they kill an enemy character.
