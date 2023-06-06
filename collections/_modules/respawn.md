@@ -83,9 +83,9 @@ All of your characters must choose one of the following starting profiles.
 
 | Profile       | Cmd | Mov | Skl | Def | Tgh | HP  |
 | :------------ | :-: | :-: | :-: | :-: | :-: | :-: |
-| Balanced      |  6  |  5" |  4+ |  4+ |  2  |  3  |
-| Fast          |  6  |  8" |  4+ |  5+ |  1  |  6  |
-| Tough         |  6  |  4" |  4+ |  4+ |  2  |  4  |
+| Balanced      |  6  |  5" |  4+ |  4+ |  3  |  3  |
+| Fast          |  6  |  8" |  4+ |  5+ |  3  |  3  |
+| Tough         |  6  |  4" |  4+ |  4+ |  3  |  4  |
 
 ### Assault Class
 
