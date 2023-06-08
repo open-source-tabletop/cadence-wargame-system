@@ -60,6 +60,8 @@ Guiding these unhallowed hordes are the dread draugr skalds, twisted overseers w
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----------- |
 |  5  |  4" |  3+ |  4+ |  4  |  3  |  5  | Evil, Undead |
 
+## Skeletons and Zombies
+
 ### Risen Skeleton Warrior
 
 ### Dreadknight Skeleton Warrior
