@@ -7,7 +7,7 @@ category: minions
 
 A Compendium of Specters and Undead Creatures
 
-## Reanimated Somethings
+## Draugr
 
 ### Restless Draugr Warrior
 
@@ -28,4 +28,20 @@ A Compendium of Specters and Undead Creatures
 
 ### Vengeful Draugr
 
-### Undying Draugr
+### Draugr Skald
+
+### Risen Skeleton Warrior
+
+### Dreadknight Skeleton Warrior
+
+### Zombie
+
+## Spirits
+
+### Wraith Reaper
+
+### Banshee
+
+## Necromantic Constructs
+
+### Dread Abomination
