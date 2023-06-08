@@ -36,6 +36,7 @@ Guiding these unhallowed hordes are the dread draugr skalds, twisted overseers w
 - Ancient Axe and Light Shield.
 - Ancient Greatsword
 - Ancient Greataxe
+
 ### Restless Draugr Archer
 
 | Cmd | Mov | Skl | Def | Str | Tgh | HP  | Keywords     |
