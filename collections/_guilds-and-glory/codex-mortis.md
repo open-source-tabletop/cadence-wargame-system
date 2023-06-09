@@ -63,6 +63,8 @@ Guiding these unhallowed hordes are the dread draugr skalds, twisted overseers w
 
 ## Skeletons and Zombies
 
+In the realm of a malevolent necromancer, skeletal warriors and mindless zombies form the sinister ranks of the undead horde. Skeletons, clad in remnants of armor, wield clattering swords and rusted axes, their disciplined formations making up for their individual frailty. Zombies, once living but now rotting corpses, advance relentlessly in overwhelming numbers, driven by an insatiable hunger for flesh. Together, these unholy minions serve as the necromancer's obedient and expendable forces, bound to carry out their master's dark will.
+
 ### Risen Skeleton Warrior
 
 | Cmd | Mov | Skl | Def | Str | Tgh | HP  | Keywords     |
