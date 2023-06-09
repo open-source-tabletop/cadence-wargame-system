@@ -101,6 +101,7 @@ The following additional special rules are available for Guilds and Glory.
 | Poison | If a model loses a hit point to an attack from this weapon they gain the Poisoned status effect. |
 | Slowing | If a model loses a hit point to an attack from this weapon they gain the Slowed status effect. |
 | Stun | If a model loses a hit point to an attack from this weapon they gain the Stunned status effect. |
+
 ## Managing Your Party
 
 Throughout the course of a campaign, your will need to track your party as characters level up, get injured or replaced, or as equipment gets used or added to your inventory.
