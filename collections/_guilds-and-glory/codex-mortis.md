@@ -11,7 +11,7 @@ A Compendium of Specters and Undead Creatures
 
 | Special Rule | Effect |
 | :----------- | :----- |
-| Undead | This model has the Immunity (poison), Immunity (fear), and Vulnerable (Sacred) Special Rules. |
+| Undead | This model has the Immunity (poison) and Immunity (fear) Special Rules |
 | Revenant | While this model has Command Points remaining any damage that would cause it to lose a Hit Point instead causes it to lose a Command Point. |
 | Shambling | This model may perform either 1 1or 2 actions only during it's activation. |
 | Leech | If this weapon causes a model to lose 1 or more Hit Points, the attacker regains 1 lost Hit Point. |
@@ -64,6 +64,12 @@ Guiding these unhallowed hordes are the dread draugr skalds, twisted overseers w
 ## Skeletons and Zombies
 
 ### Risen Skeleton Warrior
+
+| Cmd | Mov | Skl | Def | Str | Tgh | HP  | Keywords     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----------- |
+|  4  |  3" |  5+ |  6+ |  2  |  1  |  3  | Evil, Undead |
+
+**Special Rules**: Undead, Shambling
 
 ### Dreadknight Skeleton Warrior
 
