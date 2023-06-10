@@ -3,7 +3,7 @@ title: Cadence Core Rules
 permalink: /core-rules/
 ---
 
-Welcome to the Cadence System, a free, community owned wargaming ruleset designed to open up a world of wargaming possibilities. These core rules provide the foundation upon which any number of games can be created, you will find a range of pre-written modules and expansions to play or you can create your own game using the system.
+Introducing Cadence, a versatile wargaming system that opens the door to a diverse range of games. The core rules have a focus on light, flexible, mechanics that are easy to learn while each game module contributes their own unique mechanics and themes. The entire system is freely available and community maintained. With Cadence, exploring and immersing yourself in new gaming experiences has never been easier, 
 
 ## Contents
 
@@ -35,7 +35,6 @@ Welcome to the Cadence System, a free, community owned wargaming ruleset designe
 
 - [Terrain](#terrain-1)
 - [Universal Special Rules](#universal-special-rules)
-- [Basic Missions](#basic-missions)
 
 ## Basic Rules
 
@@ -49,9 +48,9 @@ Dice rolls should be done in full view of all players, and, when a rule permits 
 
 ### Distance and Measuring
 
-Measuring is important for checking range and movement. Cadence uses inches, and you'll need an inch-marked ruler to play.
+Cadence uses inches for measuring movement and range, you'll need an inch-marked ruler to play. Always measure the distance to or from a model from the closest point on its base. You may measure any distance at any time, as long as it doesn't interfere with your opponent's actions or unnecessarily slow down the game.
 
-Always measure the distance to or from a model from the closest point on its base. You may measure any distance at any time, as long as it doesn't interfere with your opponent's actions or unnecessarily slow down the game. Remember that a model or object is considered "within" a certain distance if any part of it is closer than the specified distance.
+Remember that a model or object is considered "within" a certain distance if any part of it is closer than the specified distance.
 
 ### Armies
 
@@ -61,11 +60,11 @@ In Cadence, each player has a selection of miniatures that represent their army.
 
 In the game, a "model" is a specific term referring to a miniature or group of miniatures mounted on a single base or otherwise connected. If a model does not have a base, it must have a clear footprint to count as a base.
 
-"Units" are groups of 1 or more models within the game. All models must belong to exactly one unit.
+"Units" are groups of 1 or more models within the game. All models must belong to exactly one unit. Some games modules feature large units of models while smaller games will typically have 1 model in each unit.
 
 #### Profiles
 
-To play the game, you need to know which models you can use and what they can do on the battlefield. Each model in the game has a profile that lists its stats and rules, including its weapons and equipment, special abilities, and any unique rules it may have. The unit profiles are provided in each module, often grouped into different factions or army lists.
+To play the game, you need to know which models you can use and what they can do on the battlefield. Each model in the game has a profile that lists its attributes and rules, including its weapons and equipment, special abilities, and any unique rules it may have. The unit profiles are provided in each module, often grouped into different factions or army lists.
 
 #### Attributes
 
@@ -77,12 +76,6 @@ Each model in Cadence has a set of attributes that tell you how well it can perf
 - Defence (Def): The model's armour or ability to negate attacks.
 - Toughness (Tgh): How much damage the model can take for each of it's hit points.
 - Hit Points (HP): How much damage the model can take before being destroyed.
-
-#### Command Points and Hit Points
-
-During a game you will place a d6 next to each of your units to show how many Command Points they have remaining this round, refreshed at the start of each new round. You also use a d6 to show how many hit points a unit has remaining after they take damage. It is important to use different colour dice to represent each of these and to ensure that these will not be mixed up with your opponents dice or those you use to make rolls.
-
-It is best to use a red or warm colour for hit points and a blue or cold colour dice for command points.
 
 #### Special Rules
 
@@ -203,7 +196,7 @@ At the start of each new round, players roll-off to determine who has the initia
 
 #### Place Command Dice
 
-Each unit in your army needs a Command Dice - a d6 in a different color from those used for hit points - placed next to it at the start of a new round. The top face of the die should show the unit's Command attribute, which represents the unit's Command Points for that round. On the first turn, this should also be done for each unit that you have in reserve.
+At the start of each round you place a six sided dice next to each of your units, including those in reserve, showing their available Command Points for the round. This is always the highest Command attribute of the models in the unit.
 
 #### Alternate Activations
 
@@ -272,9 +265,9 @@ Make Attack Rolls equal to the attacks attribute of the weapon being used. Each 
 - **Height Advantage**: Gain a +1 to your Attack Roll when attacking a target at a lower height level.
 - **Obscured Penalty**: When attacking a target with an obscured line of sight, suffer a -1 penalty to your Attack Roll.
 
-#### Step 3 - Roll Defence
+#### Step 3 - Defence Rolls
 
-For every successful hit against a target unit, the target player makes Defence Rolls equal to the Damage attribute of the weapon being used. Roll a d6 trying to score equal or higher than that unit's Defence attribute. This roll is reduced by the attacking weapon's Piercing attribute. Each failed Defence Roll results in 1 point of damage.
+For every successful hit against a target unit, the target player makes Defence Rolls equal to the Damage attribute of the weapon being used. Roll a d6 trying to score equal or higher than that unit's Defence attribute. This roll is reduced by the attacking weapon's Piercing attribute, and may be modified to the point where it will automatically fail. Each failed Defence Roll results in the target taking 1 point of damage.
 
 #### Step 3 - Apply Damage
 
@@ -282,7 +275,7 @@ When a unit takes damage, it loses 1 hit point for every amount of damage that e
 
 The target player assigns the lost hit points to one model in the target unit, except the leader unless it's the only model remaining. If that model is reduced to 0 hit points, it's destroyed, remove it from the game, and select another model. Continue doing this until you have assigned all the damage to models, or until every model in the unit has been removed.
 
-If a model loses hit points but isn't reduced to 0, place a die next to the model, indicating the remaining hit points. If your unit takes damage and has a model that has already taken damage in a previous attack, assign any new damage to that model first. This way, a unit only needs one dice to display remaining hit points.
+If a model loses hit points but isn't reduced to 0, it can be useful to place a die or marker next to the model, indicating the remaining hit points. If your unit takes damage and has a model that has already taken damage in a previous attack, assign any new damage to that model first. This way, a unit only needs one dice to display remaining hit points.
 
 ### Action: Ability
 
@@ -360,44 +353,6 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | One Use | This weapon may only be used once per battle. |
 | Rapid Fire | This weapon gains +1 to it's Attack attribute against targets within half of it's maximum range. |
 | Rending (X) | Weapons with this rule automatically cause additional X damage when the attack roll is a 6. |
+| Shred | Weapons with this rule count their targets Toughness as 1 lower, to a minimum of 1. |
 | Torrent | An attack with this weapon hits on any attack roll that is not a 1. |
-
-### Basic Missions
-
-#### Mission 1
-
-##### Entry Points
-
-Players roll off and choose opposing table edges, if using a rectangular table these should be the long table edges. Players alternate placing 1 entry point for every full 12 inches of length for their table edge - these can be placed anywhere on this table edge.
-
-##### Primary Objectives
-
-Place 1 'Destroy' objective in the center of the table. The Primary Objective is worth a number of Victory Points equal to the turn number it is destroyed.
-
-##### Secondary Objectives
-
-Along the centre line of the table, between the 2 players, place 2 'Control' objectives on either side of the Primary Objective, halfway between the edge of the table and the centre so that all 3 objectives form a line between the players. Each Secondary Objective is worth 1 Victory Point at the end of each round it is secured and an additional 1 Victory Point if the Primary Objective has not been destroyed.
-
-#### Mission 2
-
-##### Entry Points
-
-Players roll off and choose opposing table edges, if using a rectangular table these should be the short table edges. Players alternate placing 1 entry point for every full 12 inches of length for their table edge - these can be placed anywhere on this table edge.
-
-##### Primary Objectives
-
-Each player must place 4 'Access' objective on their side of the table so that they are at least 6 inches from any table edge and any other objective. Players may only secure the objectives placed by their opponent. Each objective is worth 1 Victory Point.
-
-#### Mission 3
-
-##### Entry Points
-
-Players roll off and choose opposing table edges. Players alternate placing 1 entry point for every full 12 inches of length for their table edge - these can be placed anywhere on this table edge.
-
-##### Primary Objectives
-
-Place one 'Control' objective in the centre of the board. The Primary Objective is worth 4 Victory Points at the end of round 1, 3 Victory Points at the end of round 2, and 2 Victory Points for all remaining rounds.
-
-##### Secondary Objectives
-
-Place 4 'Recover' objectives around the primary objective half way between the center of the board and each of the 4 corners. The Secondary Objectives are each worth 2 Victory Points for being secured at the end of the game.
+| Volley | Each attack roll that rolls a 6 allows the attacker to roll and additional attack roll, these additional rolls do not generate additional rolls. |
