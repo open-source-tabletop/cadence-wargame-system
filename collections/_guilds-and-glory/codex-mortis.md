@@ -13,7 +13,7 @@ A Compendium of Specters and Undead Creatures
 | :----------- | :----- |
 | Undead | This model has the Immunity (poison) and Immunity (fear) Special Rules |
 | Revenant | While this model has Command Points remaining any damage that would cause it to lose a Hit Point instead causes it to lose a Command Point. |
-| Shambling | This model may perform either 1 1or 2 actions only during it's activation. |
+| Shambling | This model may only perform either 1 or 2 actions during it's activation. |
 | Leech | If this weapon causes a model to lose 1 or more Hit Points, the attacker regains 1 lost Hit Point. |
 
 ## Draugr
@@ -26,7 +26,7 @@ Guiding these unhallowed hordes are the dread draugr skalds, twisted overseers w
 
 | Cmd | Mov | Skl | Def | Str | Tgh | HP  | Keywords     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----------- |
-|  4  |  3" |  5+ |  5+ |  2  |  2  |  2  | Evil, Undead |
+|  3  |  3" |  5+ |  5+ |  2  |  2  |  2  | Evil, Undead |
 
 **Special Rules**: Undead, Revenant, Shambling
 
@@ -41,7 +41,7 @@ Guiding these unhallowed hordes are the dread draugr skalds, twisted overseers w
 
 | Cmd | Mov | Skl | Def | Str | Tgh | HP  | Keywords     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----------- |
-|  4  |  3" |  5+ |  5+ |  2  |  2  |  2  | Evil, Undead |
+|  3  |  3" |  5+ |  5+ |  2  |  2  |  2  | Evil, Undead |
 
 **Special Rules**: Undead, Revenant, Shambling
 
@@ -51,7 +51,7 @@ Guiding these unhallowed hordes are the dread draugr skalds, twisted overseers w
 
 | Cmd | Mov | Skl | Def | Str | Tgh | HP  | Keywords     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----------- |
-|  4  |  3" |  4+ |  4+ |  3  |  2  |  3  | Evil, Undead |
+|  3  |  3" |  4+ |  4+ |  3  |  2  |  3  | Evil, Undead |
 
 **Special Rules**: Undead, Revenant, Shambling
 
@@ -60,6 +60,12 @@ Guiding these unhallowed hordes are the dread draugr skalds, twisted overseers w
 | Cmd | Mov | Skl | Def | Str | Tgh | HP  | Keywords     |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----------- |
 |  5  |  4" |  3+ |  4+ |  4  |  3  |  5  | Evil, Undead |
+
+**Necrotic Charge (1 Command Point)**: This model removes 1 Hit Point but restores 1 lost hit point to every Draugr model within 6 inches.
+
+**Absorb Essence (1 Command Point)**: Remove a friendly Draugr model and restore up to 3 lost hit points.
+
+**Onward (2 Command Points)**: All Draugr models within 6 inches regain 1 Command Point if they have at least 1 Command Point Remaining.
 
 ## Skeletons and Zombies
 
