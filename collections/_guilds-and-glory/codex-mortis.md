@@ -5,15 +5,20 @@ parentlink: /guilds-and-glory/
 category: minions
 ---
 
-A Compendium of Specters and Undead Creatures
+#### A Compendium of Specters and Undead Creatures
 
 ## Special Rules
 
-| Special Rule | Effect |
-| :----------- | :----- |
+| Model Special Rules | Effect |
+| :------------------ | :----- |
 | Undead | This model has the Immunity (poison) and Immunity (fear) Special Rules |
 | Revenant | While this model has Command Points remaining any damage that would cause it to lose a Hit Point instead causes it to lose a Command Point. |
 | Shambling | This model may only perform either 1 or 2 actions during it's activation. |
+| Wraith | This model may move through terrain so long as it has sufficient movement to be placed on clear terrain after moving. It also has the Vulnerable (Sacred) and Vulnerable (Fire) special rules. |
+
+| Weapon Special Rules | Effect |
+| :------------------- | :----- |
+| Death Touch | If this weapon causes any damage to a model, it loses a minimum of 1 hit point, even if it does not do enough damage to normally cause a model to lose a hit point. |
 | Leech | If this weapon causes a model to lose 1 or more Hit Points, the attacker regains 1 lost Hit Point. |
 | Necrotic Blast | When this weapon is used, it may make an attack against every enemy model within 3 inches of the initial target, alternatively it may double its Attacks and only make an attack against the chosen target. |
 
@@ -95,7 +100,23 @@ In the realm of a malevolent necromancer, skeletal warriors and mindless zombies
 
 ## Spirits
 
+Spirit creatures, malevolent beings summoned by dark and sinister forces, exist as ethereal entities that transcend the boundaries of the physical realm. These vile spirits take on various forms, their appearances reflecting their inherent wickedness. Born from the depths of evil, they bring forth terror and devastation, wielding supernatural abilities that strike fear into the hearts of mortals. 
+
+These creatures are often conjured by those who dabble in forbidden arts, harnessing the power of the occult to call upon their spectral might. Their presence instills a sense of foreboding, their very existence tied to the machinations of the most wicked and maleficent beings. Confronting these evil spirits requires great strength, resolve, and an understanding of the dark arts that bind them to the mortal plane.
+
 ### Wraith Reaper
+
+| Cmd | Mov | Skl | Def | Str | Tgh | HP  | Keywords     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----------- |
+|  4  |  3" |  4+ |  2+ |  2  |  3  |  3  | Evil, Spirit |
+
+**Special Rules**: Undead, Wraith, Touch of Death
+
+**Equipment**: A Wraith Reaper is equipped with a Spectral Scythe.
+
+#### Abilities
+
+**Death's Embrace (2 Command Points)**: Every enemy model within 4 inches must make 2 Defence Rolls. For each failed roll they lose 1 Command Point.
 
 ### Banshee
 
@@ -109,20 +130,25 @@ In the realm of a malevolent necromancer, skeletal warriors and mindless zombies
 
 **Special Rules**: Undead, Terrifying, Heavy Armour (1)
 
+**Equipment**: A Dread Abomination is equipped with a Brute Maul
+
 #### Abilities
 
-**Rampage (2 Command Points)**: This model moves directly forward its full Movement attribute, stopping if it comes in contact with any terrain. Any model, friendly or enemy, that this model comes into contact with are moved by the shortest distance out of its way and take d6 hits with Dmg 2, Prc 1.
+**Rampage (2 Command Points)**: This model moves directly forward its full Movement attribute, stopping if it comes in contact with any terrain. Any model, friendly or enemy, that this model comes into contact with are moved by the shortest distance out of its way by their controlling player. This model makes an attack against each model that was moved with the Brute Rampage weapon as though it was within 1 inch.
 
 ## Weapon Summary
 
-| Ranged Weapon       | Rng | Att | Dmg | Prc | Special Rules      |
-| :------------------ | :-: | :-: | :-: | :-: | :----------------- |
-| Ancient Bow         | 10" |  1  |  4  |  0  |                    |
+| Ranged Weapon           | Rng | Att | Dmg | Prc | Special Rules                  |
+| :---------------------- | :-: | :-: | :-: | :-: | :----------------------------- |
+| Ancient Bow             | 10" |  1  |  4  |  0  |                                |
 
-| Assault Weapon      | Rng | Att | Dmg | Prc | Special Rules      |
-| :------------------ | :-: | :-: | :-: | :-: | :----------------- |
-| Ancient Sword       | 1"  |  2  | Str |  0  | Assault, Leech              |
-| Ancient Axe         | 1"  |  2  | Str |  1  | Assault, Rending (1)        |
-| Ancient Greatsword  | 1"  |  2  |Str+2|  1  | Assault, Heavy, Leech       |
-| Ancient Greataxe    | 1"  |  2  |Str+1|  2  | Assault, Heavy, Rending (2) |
-| Dreadforged Maul    | 1"  |  2  | Str |  2  | Assault, Leech, Necrotic Blast |
+| Assault Weapon          | Rng | Att | Dmg | Prc | Special Rules                  |
+| :---------------------- | :-: | :-: | :-: | :-: | :----------------------------- |
+| Ancient Sword           | 1"  |  2  | Str |  0  | Assault, Leech                 |
+| Ancient Axe             | 1"  |  2  | Str |  1  | Assault, Rending (1)           |
+| Ancient Greatsword      | 1"  |  2  |Str+2|  1  | Assault, Heavy, Leech          |
+| Ancient Greataxe        | 1"  |  2  |Str+1|  2  | Assault, Heavy, Rending (2)    |
+| Brute Maul              | 2"  |  2  |Str+1|  2  | Assault, Shred                 |
+| Brute Rampage           | 1"  |  2  | Str |  0  | Assault                        |
+| Dreadforged Maul        | 1"  |  2  | Str |  2  | Assault, Leech, Necrotic Blast |
+| Spectral Scythe         | 1"  |  3  | Str |  0  | Assault, Death Touch           |

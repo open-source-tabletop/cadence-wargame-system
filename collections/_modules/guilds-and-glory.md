@@ -88,12 +88,13 @@ The following additional special rules are available for Guilds and Glory.
 | Immunity (Keyword) | The model is immune to any damage taken from a weapon or ability with the provided keyword |
 | Proficient (Keyword) | This model may add 1 to the Damage attribute of weapons with this keyword. |
 | Terrifying | When an enemy model activates within 3 inches of this model it gains the Fear status effect. |
-| Vulnerable (Keyword) | The model counts as having a Toughness of 1 against damage taken from a weapon or ability with the provided keyword. |
+| Vulnerable (Keyword) | This model must re-roll successful Defence rolls against weapons with the given Keyword. |
 
 ### Weapon Special Rules
 
 | Special Rule | Effect |
 | :----------- | :----- |
+| Advantage (Keyword) | This weapon has +1 to its Damage and Piercing attributes against targets with the given keyword. |
 | Blinding | If a model takes damage from an attack from this weapon they gain the Blinded status effect, even if they did not lose any hit points. |
 | Burning | If a model loses a hit point to an attack from this weapon they gain the Burning status effect. |
 | Fatal Blow | Models that are downed by this weapon only succeed on their Death Save with a roll of 6. |
