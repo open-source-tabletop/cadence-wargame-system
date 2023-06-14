@@ -4,11 +4,11 @@
   link: /about/
 - name: Core Rules
   link: /core-rules/
-#  children:
-#    - name: Online Rules
-#      link: /core-rules/
-#    - name: Download PDF (Coming Soon)
-#      link: "#"
+  children:
+    - name: Online Rules
+      link: /core-rules/
+    - name: PDF Download
+      link: "/pdfs/cadence-core-rules.pdf"
 #    - name: Github Source
 #      link: https://github.com/open-source-tabletop/cadence
 - name: Game Modules
