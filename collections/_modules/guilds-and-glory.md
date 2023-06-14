@@ -87,6 +87,7 @@ The following additional special rules are available for Guilds and Glory.
 | Expert (Keyword) | This model may add 1 to the Attacks attribute of weapons with this keyword and also counts as having the Proficient (Keyword) rule of the same keyword. |
 | Immunity (Keyword) | The model is immune to any damage taken from a weapon or ability with the provided keyword |
 | Proficient (Keyword) | This model may add 1 to the Damage attribute of weapons with this keyword. |
+| Terrifying | When an enemy model activates within 3 inches of this model it gains the Fear status effect. |
 | Vulnerable (Keyword) | The model counts as having a Toughness of 1 against damage taken from a weapon or ability with the provided keyword. |
 
 ### Weapon Special Rules

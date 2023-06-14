@@ -15,6 +15,7 @@ A Compendium of Specters and Undead Creatures
 | Revenant | While this model has Command Points remaining any damage that would cause it to lose a Hit Point instead causes it to lose a Command Point. |
 | Shambling | This model may only perform either 1 or 2 actions during it's activation. |
 | Leech | If this weapon causes a model to lose 1 or more Hit Points, the attacker regains 1 lost Hit Point. |
+| Necrotic Blast | When this weapon is used, it may make an attack against every enemy model within 3 inches of the initial target, alternatively it may double its Attacks and only make an attack against the chosen target. |
 
 ## Draugr
 
@@ -61,11 +62,19 @@ Guiding these unhallowed hordes are the dread draugr skalds, twisted overseers w
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----------- |
 |  5  |  4" |  3+ |  4+ |  4  |  3  |  5  | Evil, Undead |
 
+**Special Rules**: Undead, Revenant
+
+**Equipment**: A Draugr Skald is equipped with a Dreadforged Maul
+
+#### Abilities
+
 **Necrotic Charge (1 Command Point)**: This model removes 1 Hit Point but restores 1 lost hit point to every Draugr model within 6 inches.
 
 **Absorb Essence (1 Command Point)**: Remove a friendly Draugr model and restore up to 3 lost hit points.
 
 **Onward (2 Command Points)**: All Draugr models within 6 inches regain 1 Command Point if they have at least 1 Command Point Remaining.
+
+<!--
 
 ## Skeletons and Zombies
 
@@ -82,6 +91,7 @@ In the realm of a malevolent necromancer, skeletal warriors and mindless zombies
 ### Dreadknight Skeleton Warrior
 
 ### Zombie
+-->
 
 ## Spirits
 
@@ -93,6 +103,17 @@ In the realm of a malevolent necromancer, skeletal warriors and mindless zombies
 
 ### Dread Abomination
 
+| Cmd | Mov | Skl | Def | Str | Tgh | HP  | Keywords     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----------- |
+|  3  |  8" |  3+ |  3+ |  6  |  4  |  4  | Evil, Undead |
+
+**Special Rules**: Undead, Terrifying, Heavy Armour (1)
+
+#### Abilities
+
+**Rampage (2 Command Points)**: This model moves directly forward its full Movement attribute, stopping if it comes in contact with any terrain. Any model, friendly or enemy, that this model comes into contact with are moved by the shortest distance out of its way and take d6 hits with Dmg 2, Prc 1.
+
+## Weapon Summary
 
 | Ranged Weapon       | Rng | Att | Dmg | Prc | Special Rules      |
 | :------------------ | :-: | :-: | :-: | :-: | :----------------- |
@@ -100,7 +121,8 @@ In the realm of a malevolent necromancer, skeletal warriors and mindless zombies
 
 | Assault Weapon      | Rng | Att | Dmg | Prc | Special Rules      |
 | :------------------ | :-: | :-: | :-: | :-: | :----------------- |
-| Ancient Sword       | 1"  |  2  | Str |  0  | Leech              |
-| Ancient Axe         | 1"  |  2  | Str |  1  | Rending (1)        |
-| Ancient Greatsword  | 1"  |  2  |Str+2|  1  | Heavy, Leech       |
-| Ancient Greataxe    | 1"  |  2  |Str+1|  2  | Heavy, Rending (2) |
+| Ancient Sword       | 1"  |  2  | Str |  0  | Assault, Leech              |
+| Ancient Axe         | 1"  |  2  | Str |  1  | Assault, Rending (1)        |
+| Ancient Greatsword  | 1"  |  2  |Str+2|  1  | Assault, Heavy, Leech       |
+| Ancient Greataxe    | 1"  |  2  |Str+1|  2  | Assault, Heavy, Rending (2) |
+| Dreadforged Maul    | 1"  |  2  | Str |  2  | Assault, Leech, Necrotic Blast |
