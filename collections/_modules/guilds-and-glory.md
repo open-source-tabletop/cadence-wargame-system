@@ -85,7 +85,7 @@ The following additional special rules are available for Guilds and Glory.
 | :----------- | :----- |
 | Dark Vision | This model ignores the rules for Darkness when choosing a target for an attack. |
 | Expert (Keyword) | This model may add 1 to the Attacks attribute of weapons with this keyword and also counts as having the Proficient (Keyword) rule of the same keyword. |
-| Immunity (Keyword) | The model is immune to any damage taken from a weapon or ability with the provided keyword |
+| Immunity (Keyword) | The model is immune to any damage or effects taken from a weapon or ability with the provided keyword |
 | Proficient (Keyword) | This model may add 1 to the Damage attribute of weapons with this keyword. |
 | Terrifying | When an enemy model activates within 3 inches of this model it gains the Fear status effect. |
 | Vulnerable (Keyword) | This model must re-roll successful Defence rolls against weapons with the given Keyword. |

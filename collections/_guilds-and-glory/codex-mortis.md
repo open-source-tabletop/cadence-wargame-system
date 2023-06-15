@@ -5,7 +5,24 @@ parentlink: /guilds-and-glory/
 category: minions
 ---
 
-#### A Compendium of Specters and Undead Creatures
+### A Compendium of Specters and Undead Creatures
+
+#### [Draugr](#draugr-1)
+
+- [Restless Draugr Warrior](#restless-draugr-warrior)
+- [Restless Draugr Archer](#restless-draugr-archers)
+- [Vengeful Draugr Warrior](#vengeful-draugr-warrior)
+- [Vengeful Dragur Archer](#vengeful-draugr-archer)
+- [Dragr Skald](#draugr-skald)
+
+#### [Spirits](#spirits-1)
+
+- [Wraith Reaper](#wraith-reaper)
+- [Banshee](#banshee)
+
+#### [Necromantic Constructs](#necromantic-constructs-1)
+
+- [Dread Abomination](#dread-abomination)
 
 ## Special Rules
 
@@ -21,6 +38,7 @@ category: minions
 | Death Touch | If this weapon causes any damage to a model, it loses a minimum of 1 hit point, even if it does not do enough damage to normally cause a model to lose a hit point. |
 | Leech | If this weapon causes a model to lose 1 or more Hit Points, the attacker regains 1 lost Hit Point. |
 | Necrotic Blast | When this weapon is used, it may make an attack against every enemy model within 3 inches of the initial target, alternatively it may double its Attacks and only make an attack against the chosen target. |
+| Soul Drain | Every time a model loses a Hit Point to attacks from this weapon, it also loses 1 Command Point. |
 
 ## Draugr
 
@@ -60,6 +78,23 @@ Guiding these unhallowed hordes are the dread draugr skalds, twisted overseers w
 |  3  |  3" |  4+ |  4+ |  3  |  2  |  3  | Evil, Undead |
 
 **Special Rules**: Undead, Revenant, Shambling
+
+**Equipment**: Vengeful Draugr Warriors are equipped with one of the following:
+
+- Ancient Sword
+- Ancient Axe and Light Shield.
+- Ancient Greatsword
+- Ancient Greataxe
+
+### Vengeful Draugr Archer
+
+| Cmd | Mov | Skl | Def | Str | Tgh | HP  | Keywords     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----------- |
+|  3  |  3" |  4+ |  4+ |  3  |  2  |  3  | Evil, Undead |
+
+**Special Rules**: Undead, Revenant, Shambling
+
+**Equipment**: Vengeful Draugr Archers are equipped with Ancient Bows.
 
 ### Draugr Skald
 
@@ -120,6 +155,22 @@ These creatures are often conjured by those who dabble in forbidden arts, harnes
 
 ### Banshee
 
+| Cmd | Mov | Skl | Def | Str | Tgh | HP  | Keywords     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :----------- |
+|  5  |  5" |  3+ |  2+ |  3  |  3  |  4  | Evil, Spirit |
+
+**Special Rules**: Undead, Wraith
+
+**Equipment**: A Wraith is equipped with the Ephemeral Touch weapon
+
+#### Abilities
+
+**Ethereal Illusions (2 Command Points)**: Attacks against this model suffer -2 to their Attack Roll until the end of the current round.
+
+**Wail of the Damned (1 Command Point)**: This model may make an attack against every enemy model within 6 inches with the Banshee Wail weapon.
+
+**Terrifying Gaze (2 Command Points), Necrotic**: This model may select a model that it has a clear line of sight to, within 8 inches, on a d6 roll of a 2+ that model gains the Stunned and Fear status effects.
+
 ## Necromantic Constructs
 
 ### Dread Abomination
@@ -138,17 +189,19 @@ These creatures are often conjured by those who dabble in forbidden arts, harnes
 
 ## Weapon Summary
 
-| Ranged Weapon           | Rng | Att | Dmg | Prc | Special Rules                  |
-| :---------------------- | :-: | :-: | :-: | :-: | :----------------------------- |
-| Ancient Bow             | 10" |  1  |  4  |  0  |                                |
+| Ranged Weapon           | Rng | Att | Dmg | Prc | Keywords | Special Rules                  |
+| :---------------------- | :-: | :-: | :-: | :-: | :------- | :----------------------------- |
+| Ancient Bow             | 10" |  1  |  4  |  0  |          |                                |
 
-| Assault Weapon          | Rng | Att | Dmg | Prc | Special Rules                  |
-| :---------------------- | :-: | :-: | :-: | :-: | :----------------------------- |
-| Ancient Sword           | 1"  |  2  | Str |  0  | Assault, Leech                 |
-| Ancient Axe             | 1"  |  2  | Str |  1  | Assault, Rending (1)           |
-| Ancient Greatsword      | 1"  |  2  |Str+2|  1  | Assault, Heavy, Leech          |
-| Ancient Greataxe        | 1"  |  2  |Str+1|  2  | Assault, Heavy, Rending (2)    |
-| Brute Maul              | 2"  |  2  |Str+1|  2  | Assault, Shred                 |
-| Brute Rampage           | 1"  |  2  | Str |  0  | Assault                        |
-| Dreadforged Maul        | 1"  |  2  | Str |  2  | Assault, Leech, Necrotic Blast |
-| Spectral Scythe         | 1"  |  3  | Str |  0  | Assault, Death Touch           |
+| Assault Weapon          | Rng | Att | Dmg | Prc | Keywords | Special Rules                  |
+| :---------------------- | :-: | :-: | :-: | :-: | :------- | :----------------------------- |
+| Ancient Sword           | 1"  |  2  | Str |  0  |          | Assault, Leech                 |
+| Ancient Axe             | 1"  |  2  | Str |  1  |          | Assault, Rending (1)           |
+| Ancient Greatsword      | 1"  |  2  |Str+2|  1  |          | Assault, Heavy, Leech          |
+| Ancient Greataxe        | 1"  |  2  |Str+1|  2  |          | Assault, Heavy, Rending (2)    |
+| Banshee Wail            | 6"  |  3  |  3  |  2  | Necrotic | Assault
+| Brute Maul              | 2"  |  2  |Str+1|  2  |          | Assault, Shred                 |
+| Brute Rampage           | 1"  |  2  | Str |  0  |          | Assault                        |
+| Dreadforged Maul        | 1"  |  2  | Str |  2  | Necrotic | Assault, Leech, Necrotic Blast |
+| Ephemeral Touch         | 1"  |  3  |  3  |  2  | Necrotic | Assault, Soul Drain            |
+| Spectral Scythe         | 1"  |  3  | Str |  0  | Necrotic | Assault, Death Touch           |
