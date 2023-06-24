@@ -1,7 +1,5 @@
 ---
 title: Warhammer 40k Fleets
-parent: Squadrons
-parentlink: /squadrons/
 category: fleet
 ---
 
