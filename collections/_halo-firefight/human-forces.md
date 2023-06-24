@@ -10,8 +10,8 @@ parentlink: /halo-firefight/
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  4  |  4  | Shield (2)        | 28     |
-| Spartan III       |  5  |  7" |  2+ |  3+ |  3  |  3  | Active Camo       | 21     |
+| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Shields           | 28     |
+| Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo       | 21     |
 
 A Spartans unit consists of 1 Spartan II, III, or IV.
 
@@ -38,7 +38,7 @@ A Spartan II or Spartan IV may choose one of the following items:
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| ODST              |  4  |  6" |  3+ |  4+ |  2  |  2  |                   | 10     |
+| ODST              |  4  |  6" |  3+ |  4+ |  3  |  2  |                   | 10     |
 
 ### Marines
 
@@ -52,7 +52,7 @@ A Marines Unit consists of 3-5 Marines.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Warthog           |  4  | 12" |  4+ |  3+ |  4  |  4  | Heavy Armour (1)  | 26     |
+| Warthog           |  4  | 12" |  4+ |  3+ |  8  |  8  | Heavy Armour (1)  | 26     |
 
 ## Equipment
 
