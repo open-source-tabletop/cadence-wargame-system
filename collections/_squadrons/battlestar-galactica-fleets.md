@@ -1,7 +1,5 @@
 ---
 title: Battlestar Galactica Fleets
-parent: Squadrons
-parentlink: /squadrons/
 category: fleet
 ---
 
