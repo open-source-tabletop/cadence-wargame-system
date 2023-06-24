@@ -37,35 +37,34 @@ The following special rules are used in Halo Firefight games:
 | :------------------- | :----- |
 | Barrage | This weapon may split its attacks between two targets, so long as they are both valid targets, and are within 3 inches of each other. Decide how many of the attacks are targeting each of the targets before making any Attack Rolls. |
 | Dual Wield (X) | If a model is equipped with two of these weapons it may add X to the Attacks attribute. |
-| Short Range | Attacks made with this weapon against targets more than 12 inches away only hit with an Attack Roll of a 6. |
 
 ### Weapons
 
 | Human Weapons        | Rng | Att | Dmg | Prc | Special Rules                    | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
-| BR55 Service Rifle   | 28" |  3  |  3  |  1  |                                  | 1      |
-| M41 Rocket Launcher  | 6-24|  2  |  5  |  3  | Heavy, Shred                     | 3      |
-| M6 Pistol            | 8"  |  2  |  3  |  1  | Dual Wield (1)                   | 0      |
-| M7 SMG               | 18" |  4  |  2  |  0  | Dual Wield (2)                   | 0      |
-| M79 MLRS             | 18" |  7  |  3  |  2  | Barrage, Heavy, Indirect         | 16     |
-| M9 Grenade           | 4-8"|  3  |  5  |  2  | One Use, Indirect                | 0      |
-| M90 Shotgun          | 12" |  4  |  3  |  2  | Rending (2)                      | 2      |
-| MA5 Assault Rifle    | 20" |  3  |  3  |  0  | Rapid Fire                       | 0      |
-| Melee Strike (X)     | 1"  |  2  |  X  |  1  | Assault                          | 0      |
-| SRS99 Sniper Rifle   | 48" |  1  |  10 |  2  | Accurate, Rending (2)            | 3      |
-| Vulcan "Chaingun"    | 24" |  9  |  2  |  1  | Heavy, Short Range               | 12     |
+| BR55 Service Rifle   | 28" |  3  |  4  |  1  |                                  | 1      |
+| M41 Rocket Launcher  | 24" |  4  |  6  |  3  | Heavy, Shred                     | 3      |
+| M6 Pistol            | 8"  |  2  |  4  |  1  | Dual Wield (1)                   | 0      |
+| M7 SMG               | 18" |  5  |  2  |  0  | Dual Wield (2)                   | 0      |
+| M79 MLRS             | 18" |  7  |  5  |  2  | Barrage, Heavy, Indirect         | 10     |
+| M9 Grenade           | 8"  |  3  |  6  |  3  | One Use, Indirect                | 0      |
+| M90 Shotgun          | 12" |  4  |  5  |  1  | Rending (2)                      | 2      |
+| MA5 Assault Rifle    | 20" |  4  |  3  |  0  | Rapid Fire (1)                   | 0      |
+| Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                          | 0      |
+| SRS99 Sniper Rifle   | 48" |  1  |  10 |  3  | Accurate, Rending (1)            | 3      |
+| Vulcan "Chaingun"    | 24" |  6  |  3  |  2  | Heavy, Rapid Fire (3)            | 12     |
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                               | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :------------------------------------ | :----- |
-| Assault Cannon       | 18" |  3  |  5  |  2  | Heavy, Shred                          | 3      |
-| Beam Rifle           | 48" |  2  |  6  |  1  | Accurate, Rending (2)                 | 1      |
-| Covenant Carbine     | 16" |  3  |  3  |  0  |                                       | 0      |
-| Energy Sword         | 1"  |  2  |  5  |  3  | Assault, Shred                        | 2      |
-| Fuel Rod Gun         | 30" |  2  |  6  |  2  | Heavy, Shred                          | 3      |
+| Assault Cannon       | 18" |  3  |  6  |  2  | Heavy, Shred                          | 3      |
+| Beam Rifle           | 48" |  2  |  6  |  1  | Accurate, Rending (1)                 | 1      |
+| Covenant Carbine     | 16" |  4  |  3  |  0  |                                       | 0      |
+| Energy Sword         | 1"  |  3  |  8  |  4  | Assault, Shred                        | 5      |
+| Fuel Rod Gun         | 30" |  2  |  8  |  3  | Heavy, Shred                          | 3      |
 | Hunter Combat Shield | 1"  |  2  |  4  |  1  | Heavy, Assault                        | 0      |
 | Needle Rifle         | 32" |  3  |  3  |  0  |                                       | 0      |
 | Needler              | 18" |  8  |  1  |  0  | Accurate, Rending (2), Dual Wield (4) | 0      |
-| Plasma Grenade       | 4-8"|  3  |  5  |  1  | One Use, Accurate                     | 0      |
+| Plasma Grenade       | 8"  |  3  |  5  |  1  | One Use, Accurate                     | 0      |
 | Plasma Pistol        |     |     |     |     |                                       | 0      |
 | - Standard           | 16" |  2  |  3  |  0  | Dual Wield (1)                        | -      |
 | - Overcharge         | 12" |  1  |  10 |  1  | Heavy                                 | -      |
