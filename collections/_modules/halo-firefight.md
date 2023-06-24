@@ -56,19 +56,19 @@ The following special rules are used in Halo Firefight games:
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                               | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :------------------------------------ | :----- |
-| Assault Cannon       | 18" |  3  |  6  |  2  | Heavy, Shred                          | 3      |
+| Assault Cannon       | 18" |  3  |  6  |  2  | Heavy, Shred, Volley                  | 3      |
 | Beam Rifle           | 48" |  2  |  6  |  1  | Accurate, Rending (1)                 | 1      |
 | Covenant Carbine     | 16" |  4  |  3  |  0  |                                       | 0      |
 | Energy Sword         | 1"  |  3  |  8  |  4  | Assault, Shred                        | 5      |
-| Fuel Rod Gun         | 30" |  2  |  8  |  3  | Heavy, Shred                          | 3      |
-| Hunter Combat Shield | 1"  |  2  |  4  |  1  | Heavy, Assault                        | 0      |
-| Needle Rifle         | 32" |  3  |  3  |  0  |                                       | 0      |
-| Needler              | 18" |  8  |  1  |  0  | Accurate, Rending (2), Dual Wield (4) | 0      |
+| Fuel Rod Gun         | 30" |  2  |  8  |  3  | Heavy, Shred, Volley                  | 3      |
+| Hunter Combat Shield | 1"  |  4  |  4  |  1  | Assault                               | 0      |
+| Needle Rifle         | 32" |  3  |  3  |  0  | Rending (2)                           | 1      |
+| Needler              | 18" |  8  |  1  |  0  | Accurate, Rending (2), Dual Wield (4) | 1      |
 | Plasma Grenade       | 8"  |  3  |  5  |  1  | One Use, Accurate                     | 0      |
 | Plasma Pistol        |     |     |     |     |                                       | 0      |
-| - Standard           | 16" |  2  |  3  |  0  | Dual Wield (1)                        | -      |
-| - Overcharge         | 12" |  1  |  10 |  1  | Heavy                                 | -      |
-| Plasma Rifle         | 20" |  4  |  2  |  1  | Rapid Fire                            | 0      |
+| - Standard           | 16" |  3  |  2  |  0  | Dual Wield (1)                        | -      |
+| - Overcharge         | 12" |  2  |  5  |  2  | Heavy, Rending (1)                    | -      |
+| Plasma Rifle         | 20" |  5  |  2  |  1  |                                       | 0      |
 
 ## Army Lists
 
