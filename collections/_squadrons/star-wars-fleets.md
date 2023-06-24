@@ -1,7 +1,5 @@
 ---
 title: Star Wars Fleets
-parent: Squadrons
-parentlink: /squadrons/
 category: fleet
 ---
 
