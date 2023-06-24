@@ -60,7 +60,7 @@ Models cannot make attacks that pass through Obscuring terrain.
 
 #### Dangerous
 
-Models that spend any part of their activation within Dangerous terrain must roll 3 d6, for each roll of a 6 the model takes d6 damage and must make a Defence roll as though it was the target of an attack.
+Models that spend any part of their activation within Dangerous terrain must roll a d6, on a roll of a 1 they lose 1 hit point.
 
 ### Objectives
 
@@ -76,11 +76,13 @@ A Recover objective is secured in the same way as a Scan objective, except that 
 
 #### Destroy
 
-A Destroy objective is treated much the same as an enemy ship, with Defence, Toughness and Hit Point attributes. Unless otherwise specified these are all 3. A Destroy objective belongs to one player and is scored for the opposite player when it is destroyed, regardless of which model destroys it.
+A Destroy objective is treated much the same as an enemy ship, with Defence of 4+, Toughness and Hit Points of 2. A Destroy objective is scored when it is destroyed.
 
 ## Building a Squadron
 
-Players build their squadron by creating ships as outlined below. Each ship has a basic profile that is then enhanced by a number of upgrades. There are some premade lists for popular settings listed at the end of this document. Each ship starts at a cost of 15 points, with each upgrade and weapon adding to this total. Each ship with 5 or more upgrades costs an additional 5 points.
+Players build their squadron by creating ships as outlined below. Each ship has a basic profile that is then enhanced by a number of upgrades. There are some premade lists for popular settings listed at the end of this document.
+
+Each ship starts at a cost of 15 points, with each upgrade and weapon adding to this total. Each ship with 5 or more upgrades starts at a cost of 23 points.
 
 Games are best played at 150, 250, or 350 point limits.
 
@@ -88,7 +90,7 @@ Games are best played at 150, 250, or 350 point limits.
 
 | Cmd | Mov | Skl | Def | Tgh | HP  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|  4  |  6" |  4+ |  4+ |  3  |  3  |
+|  4  |  6" |  4+ |  4+ |  4  |  2  |
 
 ### Ship Upgrades
 
@@ -96,23 +98,21 @@ Games are best played at 150, 250, or 350 point limits.
 | :-------------- | :-------------------------------------------- | :--: |
 | Command 1       | The ship has a Command of 5                   | 2*   |
 | Command 2       | The ship has a Command of 6                   | 4*   |
-| Speed 1         | The ship has a Movement of 7"                 | 1    |
-| Speed 2         | The ship has a Movement of 8"                 | 3    |
+| Speed 1         | The ship has a Movement of 7"                 | 2    |
+| Speed 2         | The ship has a Movement of 8"                 | 4    |
 | Skilled 1       | The ship has the Skilled special rule         | 1    |
 | Skilled 2       | The ship has a Skill of 3+                    | 4    |
 | Skilled 3       | The ship has a Skill of 2+                    | 9    |
 | Armour 1        | The ship has a Defence of 3+                  | 4    |
 | Armour 2        | The ship has a Defence of 2+                  | 9    |
 | Tough 1         | The ship has the Resilient special rule       | 1    |
-| Tough 2         | The ship has a Toughness of 4                 | 4    |
-| Tough 3         | The ship has a Toughness of 5                 | 10   |
-| Hit Points 1    | The ship has 4 hit points                     | 4    |
-| Hit Points 2    | The ship has 5 hit points                     | 10   |
-| Agility         | The ship has the Agile special rule           | 1    |
-| Boost           | The ship has the Boost special rule           | 1    |
-| Shield 1        | The ship has the Shields (1) special rule     | 2    |
-| Shield 2        | The ship has the Shields (2) special rule     | 4    |
-| Shield 3        | The ship has the Shields (3) special rule     | 10   |
+| Tough 2         | The ship has a Toughness of 5                 | 2    |
+| Tough 3         | The ship has a Toughness of 6                 | 5    |
+| Hit Points 1    | The ship has 3 hit points                     | 4    |
+| Hit Points 2    | The ship has 4 hit points                     | 10   |
+| Agility         | The ship has the Agile special rule           | 2    |
+| Boost           | The ship has the Boost special rule           | 2    |
+| Shield          | The ship has the Shields special rule         | 2    |
 | Stealth 1       | The ship has the Stealth (12) special rule    | 4    |
 | Stealth 2       | The ship has the Stealth (9) special rule     | 7    |
 | Jamming         | The ship has the Signal Jam special rule      | 3    |
@@ -123,45 +123,18 @@ Games are best played at 150, 250, or 350 point limits.
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                   | Cost |
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------------------ | :--: |
-| Energy Cannons            | 12" |  6  |  2  |  0  | Fixed                           | 1    |
-| Twin Energy Cannons       | 12" |  9  |  2  |  1  | Fixed                           | 3    |
-| Heavy Energy Cannons      | 16" |  7  |  3  |  1  | Fixed                           | 4    |
-| Disruptor Cannons         | 8"  |  3  |  3  |  2  | Disruptor                       | 1    |
-| Heavy Disruptor Cannons   | 12" |  4  |  3  |  2  | Disruptor                       | 2    |
-| Kinetic Cannons           | 12" |  7  |  2  |  1  | Fixed, Kinetic, Rapid Fire      | 2    |
-| Heavy Kinetic Cannons     | 16" |  8  |  2  |  2  | Fixed, Kinetic, Rapid Fire      | 3    |
-| Concussion Missiles       | 16" |  3  |  8  |  1  | Heavy, Arc (Front), Target Lock | 6    |
-| Heavy Concussion Missiles | 16" |  3  |  9  |  2  | Heavy, Arc (Front), Target Lock | 8    |
-| Unguided Bombs            | 6"  |  3  |  9  |  3  | Fixed, Heavy, Inaccurate        | 6    |
-| Heavy Energy Turret       | 16" |  7  |  3  |  1  |                                 | 8    |
-| Heavy Kinetic Turret      | 16" |  9  |  2  |  2  | Kinetic                         | 9    |
-
-### Example Ships
-
-#### Interceptor - 41pts
-
-**Setup**: Command 1, Speed 2, Agility, Boost, Shield 1, Twin Energy Cannons.
-
-| Name              | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules            |
-| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------------- |
-| Interceptor       |  5  |  8" |  4+ |  4+ |  3  |  3  | Agile, Boost, Shield (1) |
-
-#### Light Bomber - 32pts
-
-**Setup**: Hit Points 1, Shield 2, Disruptor Cannons, Heavy Concussion Missiles
-
-| Name              | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
-| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| Light Bomber      |  4  |  6" |  4+ |  4+ |  3  |  4  | Shield (2)            |
-
-#### Heavy Gunship - 79pts
-
-**Setup**: Command 2, Armour 1, Tough 2, Hit Points 1, Weapon Platform, Heavy Kinetic Cannons, Concussion Missiles
-
-| Name              | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         |
-| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-------------------- |
-| Heavy Gunship     |  5  |  6" |  4+ |  3+ |  4  |  4  | Weapon Platform       |
-
+| Energy Cannons            | 12" |  6  |  3  |  0  | Fixed                           | 1    |
+| Twin Energy Cannons       | 12" |  8  |  3  |  1  | Fixed                           | 3    |
+| Heavy Energy Cannons      | 16" |  6  |  5  |  1  | Fixed                           | 4    |
+| Disruptor Cannons         | 8"  |  6  |  4  |  2  | Disruptor                       | 1    |
+| Heavy Disruptor Cannons   | 12" |  8  |  5  |  2  | Disruptor                       | 2    |
+| Kinetic Cannons           | 12" |  6  |  3  |  1  | Fixed, Kinetic, Rapid Fire      | 2    |
+| Heavy Kinetic Cannons     | 16" |  8  |  4  |  2  | Fixed, Kinetic, Rapid Fire      | 5    |
+| Concussion Missiles       | 16" |  4  |  8  |  3  | Heavy, Arc (Front), Target Lock | 7    |
+| Heavy Concussion Missiles | 16" |  4  |  9  |  3  | Heavy, Arc (Front), Target Lock | 8    |
+| Unguided Bombs            | 6"  |  3  |  9  |  4  | Fixed, Heavy, Inaccurate        | 6    |
+| Heavy Energy Turret       | 16" |  4  |  3  |  1  |                                 | 8    |
+| Heavy Kinetic Turret      | 16" |  4  |  2  |  2  | Kinetic                         | 9    |
 
 ### Constructed Army Lists
 
@@ -190,9 +163,11 @@ The following new special rules apply to units and weapons in Squadrons.
 
 | Rules | Details |
 | :---- | :------ |
-| Disruptor | Defence rolls against this weapon do not gain the benefit of the Shields (X) special rule. |
+| Disruptor | Rolls to Counter Damage against this weapon do not gain the benefit of the Shields special rule. |
 | Target Lock | Roll a d6 before making any attack rolls, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack but it must be against the same target. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
-| Kinetic | This weapon counts as having a Piercing value of 0 against a ship with Shields (X), while the effect of the shield is active. |
+| Kinetic | This weapon counts as having a Piercing value of 0 against a ship with Shields, while the effect of the shield is active. |
+
+---
 
 ## Missions
 
@@ -204,6 +179,8 @@ In addition to scoring Victory Points by securing objective markers you also sco
 - 2VP for destroying the enemy Squadron Leader.
 - 1VP for destroying more than half of the enemy ships.
 - 2VP for destroying all enemy ships.
+
+---
 
 ### Mission 1 - Debris Field
 
@@ -223,6 +200,8 @@ From Round 2 each objective you have scanned becomes a Destroy Objective worth 1
 
 From Round 3 each player should nominate one of their own ships, that ship is worth 2 Victory Points if it survives until the end of the game.
 
+---
+
 ### Mission 2 - Target Acquired
 
 ##### Attacker and Defender
@@ -240,6 +219,8 @@ The defender places two Destroy objectives near their table edge. They must be 6
 ##### Targets
 
 The defender should nominate one of the attackers ships before the game begins, they score 2 Victory Points if they destroy that ship before the end of Round 2, or 1 Victory Point in any subsequent turn.
+
+---
 
 ### Mission 3 - Crossed Paths
 

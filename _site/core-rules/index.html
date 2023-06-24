@@ -106,7 +106,7 @@
   <li>Movement (Mov): The number of inches this model can travel during a move action:</li>
   <li>Skill (Skl): The model’s ability with it’s weapons.</li>
   <li>Defence (Def): The model’s armour or ability to negate attacks.</li>
-  <li>Toughness (Tgh): How much damage the model can take for each of it’s hit points.</li>
+  <li>Toughness (Tgh): The model’s ability to ignore damage and keep fighting.</li>
   <li>Hit Points (HP): How much damage the model can take before being destroyed.</li>
 </ul>
 
@@ -139,7 +139,7 @@
 <ul>
   <li>Range (Rng): The distance the weapon can make an attack up to.</li>
   <li>Attacks (Att): The volume or intensity of the attacks from the weapon.</li>
-  <li>Damage (Dmg): The damage each successful hit from the weapon inflicts.</li>
+  <li>Damage (Dmg): How destructive a hit from this weapon is.</li>
   <li>Piercing (Prc): The weapons ability to negate armour.</li>
   <li>Special Rules that apply to the weapon.</li>
 </ul>
@@ -308,23 +308,30 @@
 <p>Make Attack Rolls equal to the attacks attribute of the weapon being used. Each roll is a d6 trying to equal or beat the attacking model’s Skill attribute. When multiple models attack with the same weapon against the same unit, roll the combined number of these attacks together. Every successful roll is a hit.</p>
 
 <ul>
-  <li><strong>Close Range Penalty</strong>: Attack Rolls against a target unit within 1 inch of your unit count as having a Skill of 6, instead of the attacking model’s Skill attribute. However, weapons with the Assault special rule don’t suffer this penalty.</li>
-  <li><strong>Rush Penalty</strong>: Models using 3 or more Command Points this activation suffer a -1 penalty to their Attack Rolls.</li>
+  <li><strong>Close Range Penalty</strong>: Attack Rolls against a target unit within 1 inch of your unit only hit on a roll of a 6, instead of using the attacking model’s Skill attribute. However, weapons with the Assault special rule don’t suffer this penalty.</li>
+  <li><strong>Rush Penalty</strong>: Models using 3 or more Command Points this activation suffer a -2 penalty to their Attack Rolls.</li>
   <li><strong>Height Advantage</strong>: Gain a +1 to your Attack Roll when attacking a target at a lower height level.</li>
   <li><strong>Obscured Penalty</strong>: When attacking a target with an obscured line of sight, suffer a -1 penalty to your Attack Roll.</li>
 </ul>
 
-<h4 id="step-3---defence-rolls">Step 3 - Defence Rolls</h4>
+<h4 id="step-2---defence-rolls">Step 2 - Defence Rolls</h4>
 
-<p>For every successful hit against a target unit, the target player makes Defence Rolls equal to the Damage attribute of the weapon being used. Roll a d6 trying to score equal or higher than that unit’s Defence attribute. This roll is reduced by the attacking weapon’s Piercing attribute, and may be modified to the point where it will automatically fail. Each failed Defence Roll results in the target taking 1 point of damage.</p>
+<p>For every successful hit against a target unit, the target player makes a Defence Roll. Roll a d6 trying to score equal or higher than that unit’s Defence attribute. This roll is reduced by the attacking weapon’s Piercing attribute, and may be modified to the point where it will automatically fail. Each failed Defence Roll results in the target taking 1 point of damage.</p>
 
-<h4 id="step-3---apply-damage">Step 3 - Apply Damage</h4>
+<h4 id="step-3---counter-rolls">Step 3 - Counter Rolls</h4>
 
-<p>When a unit takes damage, it loses 1 hit point for every amount of damage that equals its Toughness attribute. For instance, a unit with a Toughness of 1 will lose 1 hit point for every point of damage, while a unit with a Toughness of 3 would lose 1 hit point for every 3 points of damage.</p>
+<p>For each point of damage a unit takes, it must test to see if it can counter the damage, or if it will lose a Hit Point. Roll a d6, to counter the damage you must equal or beat a specific target based on the rules below:</p>
 
-<p>The target player assigns the lost hit points to one model in the target unit, except the leader unless it’s the only model remaining. If that model is reduced to 0 hit points, it’s destroyed, remove it from the game, and select another model. Continue doing this until you have assigned all the damage to models, or until every model in the unit has been removed.</p>
+<ul>
+  <li>If the Damage attribute of the weapon is <strong>less than the targets Toughness</strong> you counter the damage on a roll of 3+.</li>
+  <li>If the Damage attribute of the weapon is <strong>equal to the targets Toughness</strong> you counter the damage on a roll of 4+.</li>
+  <li>If the Damage attribute of the weapon is <strong>more than the targets Toughness</strong> you counter the damage on a roll of 5+.</li>
+  <li>If the Damage attribute of the weapon is <strong>double, or more than double, the targets Toughness</strong> you counter the damage on a roll of 6+.</li>
+</ul>
 
-<p>If a model loses hit points but isn’t reduced to 0, it can be useful to place a die or marker next to the model, indicating the remaining hit points. If your unit takes damage and has a model that has already taken damage in a previous attack, assign any new damage to that model first. This way, a unit only needs one dice to display remaining hit points.</p>
+<h4 id="step-4---reduce-hit-points">Step 4 - Reduce Hit Points</h4>
+
+<p>The target player assigns all lost hit points to one model in the target unit, starting with any model that has already lost hit points. If that model is reduced to 0 hit points, remove it from the game as destroyed and select another model. Continue doing this until you have assigned all the damage to models, or until every model in the unit has been removed. If a model loses hit points but isn’t reduced to 0, it can be useful to place a die or marker next to the model, indicating the remaining hit points.</p>
 
 <h3 id="action-ability">Action: Ability</h3>
 
@@ -362,7 +369,7 @@
 
 <h4 id="keyword-cover">Keyword: Cover</h4>
 
-<p>Units that are targeted for an attack that gain an obscured line of sight through this terrain gain a +1 to their Defence Rolls.</p>
+<p>Units that are targeted for an attack that gain an obscured line of sight through this terrain gain a +2 to their Defence Rolls.</p>
 
 <h4 id="height-levels">Height Levels</h4>
 
@@ -405,8 +412,8 @@
       <td>This model ignores the penalty for travelling through rough terrain.</td>
     </tr>
     <tr>
-      <td>Shields (X)</td>
-      <td>While this model has it’s full Hit Points it adds X to its Toughness.</td>
+      <td>Shields</td>
+      <td>While this model has it’s full Hit Points it may re-roll failed attempts to Counter Damage.</td>
     </tr>
     <tr>
       <td>Skilled</td>
@@ -455,7 +462,7 @@
     </tr>
     <tr>
       <td>Inaccurate</td>
-      <td>When making an attack with this weapon your attack roll has a -1 modifier.</td>
+      <td>When making an attack with this weapon your attack roll only hits on an Attack roll of a 6.</td>
     </tr>
     <tr>
       <td>Indirect</td>
@@ -466,16 +473,16 @@
       <td>This weapon may only be used once per battle.</td>
     </tr>
     <tr>
-      <td>Rapid Fire</td>
-      <td>This weapon gains +1 to it’s Attack attribute against targets within half of it’s maximum range.</td>
+      <td>Rapid Fire (X)</td>
+      <td>This weapon gains +X to it’s Attack attribute against targets within half of it’s maximum range.</td>
     </tr>
     <tr>
       <td>Rending (X)</td>
-      <td>Weapons with this rule automatically cause additional X damage when the attack roll is a 6.</td>
+      <td>When an attack with this weapon hits with a roll of 6, it counts as doing X additional hits.</td>
     </tr>
     <tr>
       <td>Shred</td>
-      <td>Weapons with this rule count their targets Toughness as 1 lower, to a minimum of 1.</td>
+      <td>Rolls to Counter Damage have a -1 modifier against weapons with this rule.</td>
     </tr>
     <tr>
       <td>Torrent</td>

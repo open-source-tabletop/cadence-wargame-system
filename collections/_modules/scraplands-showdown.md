@@ -70,7 +70,7 @@ When a car moves into contact with you you may choose to dodge them by spending 
 
 At times you may be at risk of losing control of your car; when being attacked, pushing your speed, or colliding with the terrain. When asked to perform a control check you make a Skill Roll: if you pass the Skill Roll nothing happens, if you fail the Skill Roll then the following happens:
 
-- Take d6 hits, making Defence Rolls as normal for these. You take d6 hits regardless of how many cars or pieces of terrain you are in contact with. When required by a rule to roll multiple control checks the damage is added together before rolling Defence.
+- Take d6 hits as though hit with a Damage 3 weapon, making Defence Rolls as normal. You take d6 hits regardless of how many cars or pieces of terrain you are in contact with. When required by a rule to roll multiple control checks the damage is added together before rolling Defence.
 - If a control check causes your car to lose any hit points your activation immediately ends and your opponent may either rotate your car up to 45 degrees or move you 1 inch in any direction. If this move brings you into contact with terrain or any cars not originally hit this will trigger additional control checks.
 
 ### Terrain
@@ -87,7 +87,7 @@ If your car moves over dangerous terrain you roll 1 control check for each move 
 
 #### Destructible
 
-Any terrain with the destructible keyword counts as having Defence of 3, Toughness of 3, and 1 Hit Point. If reduced to 0 Hit Points it is removed from the table. Destructible terrain is also usually Solid or Dangerous.
+Any terrain with the destructible keyword counts as having Defence of 4+, Toughness of 3, and 1 Hit Point. If reduced to 0 Hit Points it is removed from the table. Destructible terrain is also usually Solid or Dangerous.
 
 #### Ramps
 
@@ -99,7 +99,7 @@ At the end of the cars movement it takes a control check.
 
 ### Mines
 
-You may place mine tokens around the track, or these may be placed by cars with a mine dropper. These should be no larger than 30mm circles. If any car moves within 1 inch of the mine it explodes and is removed from the battlefield. Any car within an inch of the token when it explodes takes d6 hits, each hit does 2 Damage, and has a Piercing attribute of 2.
+You may place mine tokens around the track, or these may be placed by cars with a mine dropper. These should be no larger than 30mm circles. If any car moves within 1 inch of the mine it explodes and is removed from the battlefield. Any car within an inch of the token when it explodes takes d6 hits as though hit by a weapon with Damage 5,and Piercing 2.
 
 ## Building a Team
 
@@ -109,10 +109,10 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Car                | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules         | Points |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------| :----: |
-| Wreck              |  5  |  8" |  5+ |  4+ |  3  |  4  | Ramshackle            | 12     |
-| Runner             |  6  |  10"|  5+ |  3+ |  4  |  5  |                       | 18     |
-| Hotrod             |  6  |  11"|  5+ |  3+ |  4  |  5  | Fast                  | 25     |
-| Buggy              |  6  |  9" |  5+ |  4+ |  3  |  5  | Off-road              | 16     |
+| Wreck              |  5  |  8" |  5+ |  4+ |  2  |  4  | Ramshackle            | 12     |
+| Runner             |  6  |  10"|  5+ |  3+ |  3  |  5  |                       | 18     |
+| Hotrod             |  6  |  11"|  5+ |  3+ |  3  |  5  | Fast                  | 25     |
+| Buggy              |  6  |  9" |  5+ |  4+ |  2  |  5  | Off-road              | 16     |
 | Truck              |  6  |  9" |  5+ |  3+ |  4  |  6  | Sturdy                | 28     |
 
 ### Upgrades
@@ -122,13 +122,13 @@ Players build their team by selecting a number of cars from the list below and u
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                 | Points |
 | :------------------------ | :-: | :-: | :-: | :-: | :---------------------------- | :----: |
 | Light Machine Gun         | 10" | 5   |  3  |  0  | Arc (Front)                   | 3      |
-| Twin Light Machine Guns   | 10" | 6   |  3  |  0  | Arc (Front)                   | 4      |
-| Heavy Machine Gun         | 12" | 6   |  3  |  1  | Arc (Front)                   | 5      |
-| Twin Heavy Machine Guns   | 12" | 7   |  3  |  1  | Arc (Front)                   | 6      |
-| Heavy Cannon              | 16" | 3   |  5  |  1  | Arc (Front), Rending (2)      | 5      |
-| Minigun                   | 12" | 12  |  2  |  2  | Arc (Front)                   | 9      |
-| Rocket Launcher           | 12" | 5   |  5  |  3  | Arc (Front), Disrupt          | 13     |
-| Flamethrower              | 3"  | 12  |  1  |  1  | Arc (Front), Torrent, Disrupt | 5      |
+| Twin Light Machine Guns   | 10" | 7   |  3  |  0  | Arc (Front)                   | 4      |
+| Heavy Machine Gun         | 12" | 6   |  4  |  1  | Arc (Front)                   | 6      |
+| Twin Heavy Machine Guns   | 12" | 7   |  4  |  1  | Arc (Front)                   | 7      |
+| Heavy Cannon              | 16" | 4   |  5  |  1  | Arc (Front), Rending (1)      | 5      |
+| Minigun                   | 12" | 7   |  4  |  1  | Arc (Front), Rapid Fire (2)   | 9      |
+| Rocket Launcher           | 12" | 5   |  6  |  3  | Arc (Front), Disrupt, Volley  | 11     |
+| Flamethrower              | 3"  | 10  |  1  |  1  | Arc (Front), Torrent, Disrupt | 5      |
 | Caltrops                  | 3"  | 3   |  3  |  0  | Arc (Rear), Disrupt           | 1      |
 
 #### Upgrades 
@@ -138,9 +138,9 @@ Players build their team by selecting a number of cars from the list below and u
 | Armour | Gain the Resilient Special Rule (Re-roll failed Defence Rolls of 1) | 4 |
 | Elite Driver | One per team only. Improve the cars Skill attribute to 4+. | 6 |
 | Mine Dropper | One use only, if this car makes an attack action, instead of attacking with a regular weapon this car may place a mine marker in its rear arc. It may not place this token within 1 inch of an enemy car. |
-| Ram | Damage from a failed control check when rammed by this car has a Piercing attribute of 1, | 2 |
+| Ram | Damage from a failed control check when rammed by this car has a Piercing attribute of 2. | 2 |
 | Spikes | Cars that must take a control check for collisions with this car take d6+1 hits instead of d6. | 2 |
-| Tank Tracks | This car may re-roll the d6 for how many hits a control check causes and has it's Movement Rate reduced by 2. This car ignores the effects of dangerous terrain and gains +1 to its Toughness. | 12 |
+| Tank Tracks | This car may re-roll the d6 for how many hits a control check causes and has it's Movement Rate reduced by 2. This car ignores the effects of dangerous terrain and gains +1 to its Toughness. | 10 |
 | Turret | One per car only. Remove the Arc (Front) special rule from one weapon on this car. | 6 |
 
 #### Abilities
@@ -161,7 +161,7 @@ The following special rules apply in games of Scraplands Showdown.
 | Off-road | You may make a free pivot at the start of an Advance action. |
 | Sturdy | You may re-roll the d6 to determine the number of hits in a control check. |
 | Ramshackle | This car gains +1 to its Defence rolls against control check hits. |
-| Disrupt | Any car that takes unsaved damage from this weapon makes a control check, even if it does not lose any hit points. |
+| Disrupt | Any car that takes fails a Defence roll against attacks from this weapon makes a control check, even if it does not lose any hit points. |
 
 -----
 
