@@ -52,12 +52,12 @@ A Marines Unit consists of 3-5 Marines.
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Warthog           |  4  | 12" |  4+ |  3+ |  8  |  8  | Heavy Armour (1)  | 26     |
+| Warthog           |  4  | 12" |  4+ |  3+ |  8  |  8  | Vehicle           | 26     |
 
 ## Equipment
 
 | Equipment | Effect | Points |
 | :-------- | :----- | :----- |
 | Active Camouflage | This model gains the Active Camouflage special rule. | 6 |
-| Overshield | This model gains the Shield (3) special rule. | 6 |
+| Overshield | This model gains +1 to its rolls to Counter Damage. | 6 |
 | Jet Pack | This model adds 2 inches to its Movement attribute and gains the Flying special rule. | 6 |
