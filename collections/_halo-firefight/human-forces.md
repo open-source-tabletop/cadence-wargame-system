@@ -38,13 +38,13 @@ A Spartan II or Spartan IV may choose one of the following items:
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| ODST              |  4  |  6" |  3+ |  4+ |  3  |  2  |                   | 10     |
+| ODST              |  4  |  6" |  3+ |  4+ |  3  |  1  |                   | 10     |
 
 ### Marines
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Marine            |  4  |  6" |  4+ |  5+ |  2  |  2  |                   | 7      |
+| Marine            |  4  |  6" |  4+ |  5+ |  3  |  1  |                   | 7      |
 
 A Marines Unit consists of 3-5 Marines.
 
