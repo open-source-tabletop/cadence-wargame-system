@@ -32,6 +32,7 @@ The following special rules are used in Halo Firefight games:
 | :------------------ | :----- |
 | Active Camo | When a model targets this model for an attack from more than 6 inches away, it must roll a d6 first. On a roll of a 6 it is able to make the attack. All attacks against this model suffer -1 to their Attack Rolls. If this model is hit by any attacks it loses the Active Camo rule for the remainder of the round. |
 | Weak Point (Arc) | This model counts as having a Toughness of 1 against attacks in the specified Arc. |
+| Vehicle | This model may not use climbable terrain. In addition this model may make a free attack action against any unit it comes into base contact with using the Vehicle Ram weapon. |
 
 | Weapon Special Rules | Effect |
 | :------------------- | :----- |
@@ -52,7 +53,10 @@ The following special rules are used in Halo Firefight games:
 | MA5 Assault Rifle    | 20" |  4  |  3  |  0  | Rapid Fire (1)                   | 0      |
 | Melee Strike (X)     | 1"  |  3  |  X  |  1  | Assault                          | 0      |
 | SRS99 Sniper Rifle   | 48" |  1  |  10 |  3  | Accurate, Rending (1)            | 3      |
+| Vehicle Ram          | 1"  |  *  |  4  |  0  | Accurate, Rending (4), Shred     | 0      |
 | Vulcan "Chaingun"    | 24" |  6  |  3  |  2  | Heavy, Rapid Fire (3)            | 12     |
+
+* The number of attacks for a Vehicle Ram is equal to the number of models in the target unit on the same height level as the attacker.
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                               | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :------------------------------------ | :----- |
