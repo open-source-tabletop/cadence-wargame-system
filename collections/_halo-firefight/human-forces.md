@@ -10,12 +10,10 @@ parentlink: /halo-firefight/
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Spartan II / IV   |  6  |  8" |  2+ |  2+ |  4  |  4  | Shield (2)        | 23     |
-| Spartan III       |  5  |  7" |  2+ |  3+ |  3  |  3  | Active Camo       | 17     |
+| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  4  |  4  | Shield (2)        | 28     |
+| Spartan III       |  5  |  7" |  2+ |  3+ |  3  |  3  | Active Camo       | 21     |
 
 A Spartans unit consists of 1 Spartan II, III, or IV.
-
-### Equipment
 
 A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (5).
 
@@ -40,10 +38,21 @@ A Spartan II or Spartan IV may choose one of the following items:
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| 
+| ODST              |  4  |  6" |  3+ |  4+ |  2  |  2  |                   | 10     |
 
-## Insurrectionist Forces
+### Marines
 
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
+| Marine            |  4  |  6" |  4+ |  5+ |  2  |  2  |                   | 7      |
+
+A Marines Unit consists of 3-5 Marines.
+
+### M12 Warthog
+
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
+| Warthog           |  4  | 12" |  4+ |  3+ |  4  |  4  | Heavy Armour (1)  | 26     |
 
 ## Equipment
 

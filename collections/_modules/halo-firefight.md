@@ -28,42 +28,48 @@ Building an army for Halo Firefight simply requires choosing the units you wish 
 
 The following special rules are used in Halo Firefight games:
 
-| Special Rule | Effect |
-| :----------- | :----- |
+| Model Special Rules | Effect |
+| :------------------ | :----- |
 | Active Camo | When a model targets this model for an attack from more than 6 inches away, it must roll a d6 first. On a roll of a 6 it is able to make the attack. All attacks against this model suffer -1 to their Attack Rolls. If this model is hit by any attacks it loses the Active Camo rule for the remainder of the round. |
-| Dual Wield (X) | If a model is equipped with two of these weapons it may add X to the Attacks attribute. |
 | Weak Point (Arc) | This model counts as having a Toughness of 1 against attacks in the specified Arc. |
+
+| Weapon Special Rules | Effect |
+| :------------------- | :----- |
+| Barrage | This weapon may split its attacks between two targets, so long as they are both valid targets, and are within 3 inches of each other. Decide how many of the attacks are targeting each of the targets before making any Attack Rolls. |
+| Dual Wield (X) | If a model is equipped with two of these weapons it may add X to the Attacks attribute. |
+| Short Range | Attacks made with this weapon against targets more than 12 inches away only hit with an Attack Roll of a 6. |
 
 ### Weapons
 
 | Human Weapons        | Rng | Att | Dmg | Prc | Special Rules                    | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :------------------------------- | :----- |
-| M6 Pistol            | 8"  |  2  |  3  |  1  | Dual Wield (1)                   | 0      |
-| MA5 Assault Rifle    | 20" |  3  |  3  |  0  | Rapid Fire                       | 0      |
-| M90 Shotgun          | 12" |  4  |  3  |  2  | Rending (2)                      | 0      |
 | BR55 Service Rifle   | 28" |  3  |  3  |  1  |                                  | 1      |
-| SRS99 Sniper Rifle   | 48" |  1  |  10 |  2  | Accurate, Rending (2)            | 3      |
 | M41 Rocket Launcher  | 6-24|  2  |  5  |  3  | Heavy, Shred                     | 3      |
+| M6 Pistol            | 8"  |  2  |  3  |  1  | Dual Wield (1)                   | 0      |
 | M7 SMG               | 18" |  4  |  2  |  0  | Dual Wield (2)                   | 0      |
+| M79 MLRS             | 18" |  7  |  3  |  2  | Barrage, Heavy, Indirect         | 16     |
 | M9 Grenade           | 4-8"|  3  |  5  |  2  | One Use, Indirect                | 0      |
+| M90 Shotgun          | 12" |  4  |  3  |  2  | Rending (2)                      | 2      |
+| MA5 Assault Rifle    | 20" |  3  |  3  |  0  | Rapid Fire                       | 0      |
 | Melee Strike (X)     | 1"  |  2  |  X  |  1  | Assault                          | 0      |
-
+| SRS99 Sniper Rifle   | 48" |  1  |  10 |  2  | Accurate, Rending (2)            | 3      |
+| Vulcan "Chaingun"    | 24" |  9  |  2  |  1  | Heavy, Short Range               | 12     |
 
 | Covenant Weapons     | Rng | Att | Dmg | Prc | Special                               | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :------------------------------------ | :----- |
 | Assault Cannon       | 18" |  3  |  5  |  2  | Heavy, Shred                          | 3      |
 | Beam Rifle           | 48" |  2  |  6  |  1  | Accurate, Rending (2)                 | 1      |
 | Covenant Carbine     | 16" |  3  |  3  |  0  |                                       | 0      |
-| Fuel Rod Gun         | 30" |  2  |  6  |  2  | Heavy, Shred                          | 3      |
-| Needler              | 18" |  8  |  1  |  0  | Accurate, Rending (2), Dual Wield (4) | 0      |
-| Needle Rifle         | 32" |  3  |  3  |  0  |                                       | 0      |
-| Plasma Pistol        |     |     |     |     |                                       | 0      |
-| - *Standard*         | 16" |  2  |  3  |  0  | Dual Wield (1)                        | -      |
-| - *Overcharge*       | 12" |  1  |  10 |  1  | Heavy                                 | -      |
-| Plasma Rifle         | 20" |  4  |  2  |  1  | Rapid Fire                            | 0      |
 | Energy Sword         | 1"  |  2  |  5  |  3  | Assault, Shred                        | 2      |
+| Fuel Rod Gun         | 30" |  2  |  6  |  2  | Heavy, Shred                          | 3      |
 | Hunter Combat Shield | 1"  |  2  |  4  |  1  | Heavy, Assault                        | 0      |
+| Needle Rifle         | 32" |  3  |  3  |  0  |                                       | 0      |
+| Needler              | 18" |  8  |  1  |  0  | Accurate, Rending (2), Dual Wield (4) | 0      |
 | Plasma Grenade       | 4-8"|  3  |  5  |  1  | One Use, Accurate                     | 0      |
+| Plasma Pistol        |     |     |     |     |                                       | 0      |
+| - Standard           | 16" |  2  |  3  |  0  | Dual Wield (1)                        | -      |
+| - Overcharge         | 12" |  1  |  10 |  1  | Heavy                                 | -      |
+| Plasma Rifle         | 20" |  4  |  2  |  1  | Rapid Fire                            | 0      |
 
 ## Army Lists
 
