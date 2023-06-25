@@ -8,12 +8,14 @@ title: Human Forces
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Shields           | 28     |
-| Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo       | 21     |
+| Spartan II / IV   |  6  |  7" |  2+ |  2+ |  6  |  4  | Shields           | 32     |
+| Spartan III       |  5  |  7" |  2+ |  3+ |  5  |  3  | Active Camo       | 24     |
 
-A Spartans unit consists of 1 Spartan II, III, or IV.
+#### Unit Configuration 
 
-A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (5).
+A Spartan unit consists of 1 Spartan II, III, or IV.
+
+A Spartan is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6).
 
 A Spartan may replace its MA5 Assault Rifle with any of the following:
 
@@ -36,7 +38,23 @@ A Spartan II or Spartan IV may choose one of the following items:
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
-| ODST              |  4  |  6" |  3+ |  4+ |  3  |  1  |                   | 10     |
+| ODST              |  4  |  6" |  3+ |  4+ |  3  |  1  |                   | 12     |
+
+An ODST unit consists of 2-3 ODSTs
+
+An ODST is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6).
+
+An ODST may replace its MA5 Assault Rifle with any of the following:
+
+- M6 Pistol
+- M90 Shotgun
+- BR55 Service Rifle
+- M7 SMG
+
+For every 5 ODSTs you include in your army, one may replace its MA5 Assault Rifle with one of the following:
+
+- M41 Rocket Launcher
+- SRS99 Sniper Rifle
 
 ### Marines
 
@@ -52,9 +70,9 @@ A Marines Unit consists of 3-5 Marines.
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
 | Warthog           |  4  | 12" |  4+ |  3+ |  8  |  8  | Vehicle           | 26     |
 
-## Equipment
+## Upgrades
 
-| Equipment | Effect | Points |
+| Upgrade   | Effect | Points |
 | :-------- | :----- | :----- |
 | Active Camouflage | This model gains the Active Camouflage special rule. | 6 |
 | Overshield | This model gains +1 to its rolls to Counter Damage. | 6 |
