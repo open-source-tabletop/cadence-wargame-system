@@ -42,16 +42,16 @@ A Spartan II or Spartan IV may choose one of the following items:
 
 An ODST unit consists of 2-3 ODSTs
 
-An ODST is equipped with an MA5 Assault Rifle, an M6 Pistol, M9 Grenades, and Melee Strike (6).
+An ODST is equipped with an M7 SMG, M9 Grenades, and Melee Strike (6).
 
-An ODST may replace its MA5 Assault Rifle with any of the following:
+An ODST may replace its M7 SMG with any of the following:
 
 - M6 Pistol
 - M90 Shotgun
 - BR55 Service Rifle
-- M7 SMG
+- MA5 Assault Rifle 
 
-For every 5 ODSTs you include in your army, one may replace its MA5 Assault Rifle with one of the following:
+For every 5 ODSTs you include in your army, one may replace its M7 SMG with one of the following:
 
 - M41 Rocket Launcher
 - SRS99 Sniper Rifle
