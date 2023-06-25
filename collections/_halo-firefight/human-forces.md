@@ -34,6 +34,11 @@ A Spartan II or Spartan IV may choose one of the following items:
 - Overshield
 - Jet Pack
 
+### ODST Sergeant
+| Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
+| :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
+| ODST Sergeant     |  5  |  6" |  3+ |  4+ |  3  |  1  |                   | 16     |
+
 ### ODSTs
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
@@ -64,7 +69,7 @@ For every 5 ODSTs you include in your army, one may replace its M7 SMG with one 
 
 A Marines Unit consists of 3-5 Marines.
 
-### M12 Warthog
+### Warthog
 
 | Model             | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     | Points |
 | :---------------- | :-: | :-: | :-: | :-: | :-: | :-: | :---------------- | :----- |
