@@ -3,7 +3,7 @@ title: Cadence Core Rules
 permalink: /core-rules/
 ---
 
-Introducing Cadence, a versatile wargaming system that opens the door to a diverse range of games. The core rules have a focus on light, flexible, mechanics that are easy to learn while each game module contributes their own unique mechanics and themes. The entire system is freely available and community maintained. With Cadence, exploring and immersing yourself in new gaming experiences has never been easier, 
+Introducing Cadence, a versatile wargaming system that opens the door to a diverse range of games. The core rules have a focus on light, flexible, mechanics that are easy to learn while each game module contributes their own unique mechanics and themes. The entire system is freely available and open to the community. With Cadence, exploring and immersing yourself in new gaming experiences has never been easier, 
 
 ### Contents
 
@@ -42,15 +42,11 @@ Introducing Cadence, a versatile wargaming system that opens the door to a diver
 
 Cadence uses six-sided dice ("d6") to determine the outcome of actions. Most rolls are based on a single d6 which may have modifiers applied to them. To succeed, the dice must score equal to or above a target number. However, a roll of 1 always counts as a failure regardless of any modifiers.
 
-You may also be asked to "roll-off" against other players, each player rolls 2 d6. The winner is the player with the highest combined result. In case of a tie, players roll-off again.
-
-Dice rolls should be done in full view of all players, and, when a rule permits you to re-roll a dice you may only re-roll a dice once.
+You may also be asked to "roll-off" against other players, each player rolls 2 d6. The winner is the player with the highest combined result. In case of a tie, players roll-off again. Dice rolls should be done in full view of all players, and, when a rule permits you to re-roll a dice you may only re-roll a dice once.
 
 ### Distance and Measuring
 
-Cadence uses inches for measuring movement and range, you'll need an inch-marked ruler to play. Always measure the distance to or from a model from the closest point on its base. You may measure any distance at any time, as long as it doesn't interfere with your opponent's actions or unnecessarily slow down the game.
-
-Remember that a model or object is considered "within" a certain distance if any part of it is closer than the specified distance.
+Cadence uses inches for measuring movement and range, you'll need an inch-marked ruler to play. Always measure the distance to or from a model from the closest point on its base. You may measure any distance at any time, as long as it doesn't interfere with your opponent's actions or unnecessarily slow down the game. Remember that a model or object is considered "within" a certain distance if any part of it is closer than the specified distance.
 
 ### Armies
 
@@ -58,13 +54,11 @@ In Cadence, each player has a selection of miniatures that represent their army.
 
 ### Units and Models
 
-In the game, a "model" is a specific term referring to a miniature or group of miniatures mounted on a single base or otherwise connected. If a model does not have a base, it must have a clear footprint to count as a base.
-
-"Units" are groups of 1 or more models within the game. All models must belong to exactly one unit. Some games modules feature large units of models while smaller games will typically have 1 model in each unit.
+In the game, a "model" is a specific term referring to a miniature or group of miniatures mounted on a single base or otherwise connected. If a model does not have a base, it must have a clear footprint to count as a base. "Units" are groups of 1 or more models within the game. All models must belong to exactly one unit. Some games modules feature large units of models while smaller games will typically have 1 model in each unit.
 
 #### Profiles
 
-To play the game, you need to know which models you can use and what they can do on the battlefield. Each model in the game has a profile that lists its attributes and rules, including its weapons and equipment, special abilities, and any unique rules it may have. The unit profiles are provided in each module, often grouped into different factions or army lists.
+To play the game, you need to know which models you can use and what they can do on the battlefield. Each model in the game has a profile that lists its attributes, weapons, equipment, special abilities, and any unique rules it may have. The unit profiles are provided in each module, often grouped into different factions or army lists.
 
 #### Attributes
 
@@ -74,7 +68,7 @@ Each model in Cadence has a set of attributes that tell you how well it can perf
 - Movement (Mov): The number of inches this model can travel during a move action:
 - Skill (Skl): The model's ability with it's weapons.
 - Defence (Def): The model's armour or ability to negate attacks.
-- Toughness (Tgh): The model's ability to ignore damage and keep fighting.
+- Toughness (Tgh): The model's ability to counter damage and keep fighting.
 - Hit Points (HP): How much damage the model can take before being destroyed.
 
 #### Special Rules
@@ -83,7 +77,7 @@ Special rules modify how the model operates within the game. Some special rules 
 
 #### Abilities
 
-Abilities are like actions that are unique to a unit. These work like normal actions and the details of how they work, along with any requirements or restrictions, will be given in a unit's profile.
+Abilities are like actions that are unique to a unit. These work like normal actions and the details of how they work, the number of command points they require to perform, along with any requirements or restrictions, will be given in a unit's profile.
 
 #### Unit Formation
 
