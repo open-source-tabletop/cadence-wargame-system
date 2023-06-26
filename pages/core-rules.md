@@ -267,6 +267,7 @@ For every successful hit against a target unit, the target player makes a Defenc
 
 For each point of damage a unit takes, it must test to see if it can counter the damage, or if it will lose a Hit Point. Roll a d6, to counter the damage you must equal or beat a specific target based on the rules below:
 
+- If the Damage attribute of the weapon is **half, or lower, of the targets Toughness** you counter the damage on a roll of 2+.
 - If the Damage attribute of the weapon is **less than the targets Toughness** you counter the damage on a roll of 3+.
 - If the Damage attribute of the weapon is **equal to the targets Toughness** you counter the damage on a roll of 4+.
 - If the Damage attribute of the weapon is **more than the targets Toughness** you counter the damage on a roll of 5+.
