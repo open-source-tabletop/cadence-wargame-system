@@ -19,8 +19,11 @@
 		}
 
 		&.alt {
-			border: 0;
+			background-color: _palette(accent);
+			padding: 0.6em;
+			color: _palette(bg);
+			border: none;
 			border-radius: 0;
-			padding: 0;
+			margin: _size(element-margin) 0;
 		}
 	}
