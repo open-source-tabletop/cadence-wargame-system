@@ -14,38 +14,38 @@ When a character is killed in Respawn, they are removed from the game and placed
 
 ### Reactions
 
-Some of the characters perks allow them to perform reactions. These work the same as abilities taken during an activation but happen during another characters activation. Simply follow the rules provided in the reaction to know when and how these work.
+Some of the character perks allow them to perform Reactions. These work the same as ability actions taken during their activation but happen during another characters activation. Simply follow the rules provided for each reaction to know when and how these work.
 
 ### Special Terrain
 
 #### Teleport
 
-If you wish you may include teleports in your battles, and these may be one or two-way. You will need a suitable piece of terrain for the teleport and a marker for it's destination. If you wish it to be two-way simply choose another teleport as the destination.
+You may include teleports in your battles, and these may be one or two-way. You will need a suitable piece of terrain for the teleport and a marker for it's destination. If you wish it to be two-way simply choose another teleport as the destination and vice versa.
 
-When a character moves into contact it may immediately be placed in contact with the target destination. It may continue it's movement from that point.
+When a character moves into contact it may immediately be placed in contact with the target destination in an allowed space. It may continue it's movement from that point.
 
 #### Launch Pads
 
 Launch pads are similar to teleports in that they allow you to move your character around the battlefield more quickly than normal. However they do so by more directly launching the character through the air.
 
-As with teleports you will need a suitable piece of terrain and a marker for the launch pads destination. The destination should be no more than 12 inches away and not blocked by any large terrain. Unlike teleports, when a character uses a launch pad they will lose 2 inches off their remaining movement and may only continue moving after the jump if they have movement left.
+As with teleports you will need a suitable piece of terrain and a marker for the launch pads destination. The destination should be no more than 12 inches away and not be blocked by any large terrain. Unlike teleports, when a character uses a launch pad they will lose 2 inches off their remaining movement and may only continue moving after the jump if they have movement left.
 
 ### Pick-ups
 
 If you wish, you may include a number of pick-ups in your games. These are resources your character can collect that will improve their skills for the remainder of the round. There are 6 types of pickup, 3 have immediate effects while 3 provide a bonus that lasts a set amount of time.
 
-If you wish to include to pick-ups in your game you should place 1-3 pick-up points on your battlefield. These should just be simple markers telling you where your pick-up will spawn. When a pick-up is available at a pick-up point you will need to place a token or dice at the point to indicate what kind of pick-up it is. At the start of each round, for each pick-up point that does not have a pick-up and does not have a character within 3 inches, roll a d6 to determine which pick-up has spawned and place it on the pick-up point.
+If you wish to include to pick-ups in your game you should place 1-3 pick-up points on your battlefield. These should just be simple markers telling you where your pick-up will spawn. When a pick-up is available at a pick-up point you will need to place a token or dice at the point to indicate what kind of pick-up it is. At the start of each round, for each pick-up point that does not have a character within 3 inches, roll a d6 to determine which pick-up has spawned and place it on the pick-up point. This will replace any existing pickups at that location.
 
 To collect a pick-up a character must simply move into contact with it during their activation. Remove the marker from the pick-up point and apply the effects to the character.
 
 | D6 Roll | Pick-up | Effect |
 | :----: | :--- | :----- |
-| 1 | Health | The character immediately recovers 1 lost Hit Point. |
-| 2 | Adrenaline | The character immediately regains 1 Command Point |
-| 3 | Resupply | Any "One use" weapon or equipment the character has that has been used is recovered and may be used again. |
-| 4 | Shield | The character gains +2 to their Toughness until the end of their next activation. |
-| 5 | Speed | The character gains +3 to it's Movement until the end of it's next activation. |
-| 6 | Damage | The characters weapons have +1 Damage or +1 Piercing until the end of their current activation. |
+| 1 | Health | The character immediately recovers all lost Hit Points. |
+| 2 | Adrenaline | The character immediately regains 2 Command Point |
+| 3 | Grenade | The character immediately gains the Fusion Grenade weapon. If the character already had this weapon, but had used it, they reset the 'one use' special rule. |
+| 4 | Shield | The character gains +1 to their rolls to Counter damage until the end of the round. |
+| 5 | Speed | The character gains +2 to it's Movement until the end of the round. |
+| 6 | Damage | The characters weapons have +1 Damage and +1 Piercing until the end of the round. |
 
 ### Objectives
 
@@ -102,14 +102,14 @@ All of your characters must choose one of the following starting profiles.
 
 | Perk | Effect |
 | :--- | :----- |
-| Onslaught | Ability (3 Command Points): This action works like a normal Attack action except that the character doubles the Attacks attribute of their weapon. If the character uses this action it performs only this action during its activation. |
-| Covering Fire | Ability (1 Command Point): This model makes an Attack Roll against every enemy character within 12 inches, within its front arc, that it has clear or obscured line of sight to. If the roll is successful that character loses 1 Command Point. |
+| Onslaught | Ability (3 Command Points): This action works like a normal Attack action except that the character doubles the Attacks attribute of their weapon. If the character uses this action it performs only this action during its activation. The character does not suffer the rush penalty for this action. |
+| Covering Fire | Ability (1 Command Point): This model makes two Attack Rolls against every enemy character within 12 inches, within its front arc, that it has clear or obscured line of sight to. For each successful roll that enemy character loses 1 Command Point. |
 | Heavy Hitter | This character can re-roll failed Attack rolls against targets within 4 inches. |
 | Tactical Awareness | This character may perform an Advance action after an Attack action. |
 | Resilient | Reaction (1 Command Point): When the target of an attack you may re-roll any failed Defence rolls. |
 | Suppression Specialist | When this character causes an enemy character to lose at least 1 hit point it also loses a Command Point. |
-| Improved Armour | Improve the characters Defence by 1 (lower the required roll by 1). |
-| Skirmisher | Improve this characters Movement by 2. |
+| Improved Armour | Improve the characters Defence by 1 (eg. 4+ becomes 3+). |
+| Skirmisher | Improve this characters Movement by 3 during Advance actions. |
 
 #### Equipment
 
@@ -136,7 +136,7 @@ All of your characters must choose one of the following starting profiles.
 | Perk | Effect |
 | :--- | :----- |
 | Camouflage | This character gains the Stealth (6) Special Rule and the Resilient Special Rule. |
-| Scout | This character may choose which entry point it uses from the allowed choices and may be placed up to 9 inches from it when deploying from reserve. |
+| Scout | This character may choose which entry point it uses from the allowed choices and may be placed up to 2 inches further than normal from it when deploying from reserve. |
 | Sniper | This character gains +1 to Attack Rolls against targets 12" or more away and gains the Skilled Special Rule. |
 | Weak Spot | This character adds +1 Piercing to it's primary weapon. |
 | Marksman | Improve this characters Skill to 3+. |
@@ -147,9 +147,9 @@ All of your characters must choose one of the following starting profiles.
 
 | Equipment | Effect |
 | :-------- | :----- |
-| Explosive Charge | One use only, instead of making a normal attack action, this character may use an attack action to place an explosive charge token within 3 inches of itself, and at least 3 inches from any other character. If any character moves within 1 inch of this marker it explodes and any character within 3 inches takes 6 automatic hits, rolling their Defence as though they were targeted in an attack with a Damage of 5. At the end of each round, on a d6 roll of a 3+ the charge explodes and is removed from the game. |
+| Explosive Charge | One use only, instead of making a normal attack action, this character may use an attack action to place an explosive charge token within 3 inches of itself, and at least 3 inches from any other character. If any character moves within 1 inch of this marker it explodes and any character within 3 inches takes 6 automatic hits, rolling their Defence as though they were targeted in an attack with a Damage of 3 and Piercing of 2. At the end of each round, on a d6 roll of a 4+ the charge explodes and is removed from the game. |
 | Grapnel | This character counts as having the Flying special rule when it moves to a Higher or Lower height level. |
-| Smoke Grenade | One Use, at the end of its activation, this character may place 2 smoke markers (a 50mm token) within 6" of itself and touching each other. Any character making an attack that draws line of sight through this marker treats their line of sight as blocked. This marker is removed at the end of the round. |
+| Smoke Grenade | One Use, at the end of its activation, this character may place 2 smoke markers (a 50mm token) within 6" of itself and touching each other. Any character making an attack that draws line of sight through this marker from more than 3 inches away from their target treats their line of sight as blocked. This marker is removed at the end of the round. |
 | Targetting Drone | This character may count obscured line of sight as clear against targets within 12 inches and may re-roll 1 failed attack roll dice. |
 
 ### Support Class
@@ -168,12 +168,12 @@ All of your characters must choose one of the following starting profiles.
 | Perk | Effect |
 | :--- | :----- |
 | Grenadier | This character has Frag grenades and Stasis grenades but ignores the one use rule. In addition, any friendly character that ends its activation within 3 inches of this character may restore any used Frag Grenades they started with. |
-| Heavy Armour | Improve this characters Defence by 1 (lower the required roll by 2), improve the Toughness by 1, but reduce the Movement by 1. |
-| Medic | This character must take a med kit for its equipment but the ability no longer costs a Command Point. |
-| Motivator | When this character finishes an activation with 1 Command Point remaining, it may transfer it to a friendly character within 9 inches. |
-| Munitions Expert | Ability (1 Command Point): this character may modify a friendly characters weapon for their next attack. The friendly character must be within 1 inch and no enemy characters may be within 3 inches. You add the Rending (2) and Accurate special rules. |
-| Tactical Expert | At the start of this characters activation, you may designate any enemy character as the teams Primary Target. Friendly characters may re-roll one dice from an attack against that character. |
-| Unbreakable | This character improves its Hit Points by 1 up to a maximum of 6. |
+| Heavy Armour | Improve this characters Defence by 1 (eg. 4+ becomes 3+), increase the Toughness by 1, but reduce the Movement by 1. |
+| Medic | This character must take a med kit for its equipment but the ability no longer costs a Command Point to use. It must still be declared at the start of the activation. |
+| Motivator | When friendly characters activate within 6 inches of this character they gain 1 command point on a d6 roll of 3+. This happens before testing to see if the character would lose a single remaining command point. |
+| Munitions Expert | Ability (1 Command Point): this character may modify a friendly characters weapon for their next attack. The friendly character must be within 3 inches and no enemy characters may be within 3 inches. You add the Rending (2) and Accurate special rules to the chosen weapon profile. |
+| Tactical Expert | At the start of this characters activation, you may designate any enemy character as the teams Primary Target. Friendly characters may re-roll one dice from an attack roll against that character. This lasts until the end of the round. |
+| Unbreakable | This character increases its Hit Points by 1. |
 
 #### Equipment
 
@@ -223,6 +223,7 @@ All of your characters must choose one of the following starting profiles.
 | Eliminator Shotgun       | 12" |  3  |  6  |  2  | Rapid Fire, Indirect          |
 | Executioner Pistol       | 6"  |  3  |  4  |  1  | Assault                       |
 | Frag Grenade             | 6"  |  3  |  3  |  2  | Blast, Indirect, One Use      |
+| Fusion Grenade           | 6"  |  3  |  6  |  2  | Blast, Indirect, One Use      |
 | Heavy Incinerator        | 6"  |  6  |  2  |  1  | Heavy, Torrent                |
 | Hellfire Rifle           | 24" |  3  |  4  |  2  | Accurate, Shred               |
 | Nemesis Sniper Rifle     | 48" |  2  |  7  |  3  | Accurate, Heavy               |
@@ -269,7 +270,7 @@ The battlefield should be set up with 6 entry points spaced randomly around the 
 
 #### Objectives
 
-Each team scores 1 Victory Point each time they kill a character on an enemy team.
+Each team scores 1 Victory Point each time they kill a character on an enemy team. On the last round this is increased to 2 Victory Points.
 
 -----
 
