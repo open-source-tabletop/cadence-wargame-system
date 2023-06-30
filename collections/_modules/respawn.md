@@ -178,9 +178,9 @@ All of your characters must choose one of the following starting profiles.
 #### Equipment
 
 | Deployable Barricade | One use, at the end of its activation, this character may place a barricade that is 2 inches long and 1 inch tall within 3 inches of itself. This barricade has the Cover keyword. If the character is killed the barricade is removed from the battlefield. |
-| Med Kit | Ability (1 Command Point): this character may restore all lost Hit Points to a friendly character within 1 inch, if there are no enemy characters within 3 inches. |
-| Smoke Grenade | One Use, at the end of its activation, this character may place 2 smoke markers (a 50mm token) within 6" of itself and touching each other. Any character making an attack that draws line of sight through this marker treats their line of sight as blocked. This marker is removed at the end of the round. |
-| Phase Inducer | Ability (3 Command Points): Until the end of the round, this character and any friendly characters within 4 inches, may not be targetted for attacks from more than 9 inches away. |
+| Med Kit | Ability (1 Command Point): this character may restore all lost Hit Points to a friendly character within 3 inches, if there are no enemy characters within 3 inches. |
+| Smoke Grenade | One Use, at the end of its activation, this character may place 2 smoke markers (a 50mm token) within 6" of itself and touching each other. Any character making an attack that draws line of sight through this marker from more than 3 inches away from their target treats their line of sight as blocked. This marker is removed at the end of the round. |
+| Phase Inducer | Ability (1 Command Points): One use. Until the end of the round, this character and any friendly characters within 4 inches of it, may not be targetted for attacks from more than 9 inches away. |
 
 ### Heavy Class
 
@@ -202,17 +202,17 @@ All of your characters must choose one of the following starting profiles.
 | Bulwark | This character gains the Heavy Armour (1) special rule, but it can no longer make Advance actions. |
 | Distraction | Characters within 6 inches of this character, when able, must target this character when making an attack. |
 | Brute | When using a weapon with the Heavy special rule this character does not need to spend an additional Command Point to use it if it did not take more than 2 actions. |
-| Smash | Ability (1 Command Point): This character may target an enemy character within 1 inch and roll a d6. The targetted character takes damage equivalent to the d6 roll and is pushed directly away from this character, stopping if it comes into contact with terrain, a drop in height, or another character. |
+| Smash | This character gains the Smash weapon. |
 
 #### Equipment
 
 | Equipment | Effect |
 | :-------- | :----- |
-| Explosive Charge | One use only, instead of making a normal attack action, this character may use an attack action to place an explosive charge token within 3 inches of itself, and at least 3 inches from any other character. If any character moves within 1 inch of this marker it explodes and any character within 3 inches takes 6 automatic hits, rolling their Defence as though they were targeted in an attack. At the end of each round, on a d6 roll of a 3+ the charge explodes and is removed from the game. |
-| Stasis Grenade | Gains the Stasis Grenade weapon. |
+| Explosive Charge | One use only, instead of making a normal attack action, this character may use an attack action to place an explosive charge token within 3 inches of itself, and at least 3 inches from any other character. If any character moves within 1 inch of this marker it explodes and any character within 3 inches takes 6 automatic hits, rolling their Defence as though they were targeted in an attack with a Damage of 3 and Piercing of 2. At the end of each round, on a d6 roll of a 4+ the charge explodes and is removed from the game. |
+| Stasis Grenade | This character gains the Stasis Grenade weapon. |
 | Shield | This character gains the Shields special rule. |
 | Deployable Barricade | One use, at the end of its activation, this character may place a barricade that is 2 inches long and 1 inch tall within 1 inch of itself. If the character is killed the barricade is removed from the battlefield. |
-| Improved Armour | Improve the characters Defence by 1 (lower the required roll by 1). |
+| Improved Armour | Improve the characters Defence by 1 (eg. a 4+ becomes a 3+). |
 
 ## Weapon Summary
 
@@ -247,6 +247,7 @@ All of your characters must choose one of the following starting profiles.
 | Poisoned Blade           | 1"  |  3  |  2  |  0  | Assault, Rending (2), Shred   |
 | Shadowstrike Blade       | 1"  |  2  |  8  |  1  | Assault, Accurate, Shred      |
 | Stun Hammer              | 1"  |  2  |  4  |  0  | Assault, Stun                 |
+| Smash                    | 1"  |  d6 |  3  |  0  | Assault, Impact               |
 
 ## Special Rules
 
@@ -284,8 +285,8 @@ Each player then places 3 entry points on their own table edge numbered 1 - 3. A
 
 #### Objectives
 
-- Each team scores 10 Victory Points each time they score a flag objective.
-- Each team scores 1 Victory Point each time they kill an enemy character.
+- Each team scores 8 Victory Points each time they score a flag objective.
+- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points on the last round.
 
 -----
 
@@ -299,9 +300,9 @@ The battlefield should be set up with 6 entry points spaced randomly around the 
 
 #### Objectives
 
-- Each team scores 5 Victory Point for each Control Point they have secured at the end of each round.
-- Each team scores 1 Victory Point each time they secure a Control Point.
-- Each team scores 1 Victory Point each time they kill an enemy character.
+- Each team scores 6 Victory Point for each Control Point they have secured at the end of each round.
+- Each team scores 2 Victory Points each time they secure a Control Point that was previously controlled by the other player.
+- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points in the last round.
 
 -----
 
@@ -314,4 +315,4 @@ One Control objective is placed in the center of the table. The battlefield shou
 #### Objectives
 
 - Each team scores 7 Victory Points if they control the central objective at the end of a round.
-- Each team scores 1 Victory Point each time they kill an enemy character.
+- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points if they are within 3 inches of the control objective.
