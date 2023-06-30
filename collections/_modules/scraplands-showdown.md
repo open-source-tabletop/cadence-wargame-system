@@ -8,8 +8,6 @@ Scraplands Showdown is a post-apocalyptic vehicle racing and combat game. Each p
 ![Scraplands](/images/scraplands.jpg "Scraplands by u/pidgeon_pete")
 </span>
 
-## Module Rules
-
 ### Playing Scraplands Showdown
 
 Scraplands Showdown is best played on a 3ft x 3ft or larger sized area set up to form a race track.
