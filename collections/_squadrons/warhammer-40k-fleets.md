@@ -1,6 +1,5 @@
 ---
 title: Warhammer 40k Fleets
-category: fleet
 ---
 
 The following ship setups can be used to represent ships from Warhammer 40k. This is a fan creation and not an official Warhammer 40k product.
