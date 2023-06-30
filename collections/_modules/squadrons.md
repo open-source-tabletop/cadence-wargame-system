@@ -138,8 +138,7 @@ Games are best played at 150, 250, or 350 point limits.
 
 The following army lists represent popular ships from different settings constructed using the ship construction rules above:
 
-{% assign fleets = site.squadrons | where: 'category', 'fleet' %}
-{% for item in fleets %}
+{% for item in site.squadrons %}
 - [{{ item.title }}]({{ item.url }}){% endfor %}
 
 ## Special Rules
