@@ -41,8 +41,8 @@ To collect a pick-up a character must simply move into contact with it during th
 | D6 Roll | Pick-up | Effect |
 | :----: | :--- | :----- |
 | 1 | Health | The character immediately recovers all lost Hit Points. |
-| 2 | Adrenaline | The character immediately regains 2 Command Point |
-| 3 | Grenade | The character immediately gains the Fusion Grenade weapon. If the character already had this weapon, but had used it, they reset the 'one use' special rule. |
+| 2 | Adrenaline | The character immediately regains 2 Command Points. |
+| 3 | Grenade | The character immediately gains the Fusion Grenade weapon. If the character already has this weapon, but has used it, they reset the 'one use' special rule. |
 | 4 | Shield | The character gains +1 to their rolls to Counter damage until the end of the round. |
 | 5 | Speed | The character gains +2 to it's Movement until the end of the round. |
 | 6 | Damage | The characters weapons have +1 Damage and +1 Piercing until the end of the round. |
