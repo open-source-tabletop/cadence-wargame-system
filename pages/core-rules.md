@@ -65,7 +65,7 @@ To play the game, you need to know which models you can use and what they can do
 Each model in Cadence has a set of attributes that tell you how well it can perform various actions, these are:
 
 - Command (Cmd): The number of actions this model can perform each round.
-- Movement (Mov): The number of inches this model can travel during a move action:
+- Movement (Mov): The number of inches this model can travel during a move action.
 - Skill (Skl): The model's ability with it's weapons.
 - Defence (Def): The model's armour or ability to negate attacks.
 - Toughness (Tgh): The model's ability to counter damage and keep fighting.
