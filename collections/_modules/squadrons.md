@@ -4,6 +4,8 @@ title: Squadrons
 
 Squadrons is a game of high speed combat between small fighter or bomber scale ships. Each player commands a squadron of around 5 to 15 ships as they try to take down their opponents ships.
 
+[View the Squadrons Github Project](https://github.com/open-source-tabletop/squadrons)
+
 ### Playing Squadrons
 
 Squadrons is best played on a 3ft x 3ft or similar sized area.
@@ -110,7 +112,7 @@ Games are best played at 150, 250, or 350 point limits.
 | Boost           | The ship has the Boost special rule           | 2    |
 | Shield          | The ship has the Shields special rule         | 2    |
 | Stealth 1       | The ship has the Stealth (12) special rule    | 4    |
-| Stealth 2       | The ship has the Stealth (9) special rule     | 7    |
+| Stealth 2       | The ship has the Stealth (6) special rule     | 7    |
 | Jamming         | The ship has the Signal Jam special rule      | 3    |
 | Countermeasures | The ship has the Countermeasures special rule | 2    |
 | Weapon Platform | The ship has the Weapon Platform special rule | 10   |
@@ -129,15 +131,50 @@ Games are best played at 150, 250, or 350 point limits.
 | Concussion Missiles       | 16" |  4  |  8  |  3  | Heavy, Arc (Front), Target Lock | 7    |
 | Heavy Concussion Missiles | 16" |  4  |  9  |  3  | Heavy, Arc (Front), Target Lock | 8    |
 | Unguided Bombs            | 6"  |  3  |  9  |  4  | Fixed, Heavy, Inaccurate        | 6    |
-| Heavy Energy Turret       | 16" |  4  |  3  |  1  |                                 | 8    |
-| Heavy Kinetic Turret      | 16" |  4  |  2  |  2  | Kinetic                         | 9    |
+| Heavy Energy Turret       | 16" |  4  |  5  |  1  |                                 | 8    |
+| Heavy Kinetic Turret      | 16" |  5  |  4  |  2  | Kinetic                         | 9    |
 
-### Constructed Army Lists
+## Example Ships
 
-The following army lists represent popular ships from different settings constructed using the ship construction rules above:
+### Light Interceptor - 25 points
 
-{% for item in site.squadrons %}
-- [{{ item.title }}]({{ item.url }}){% endfor %}
+- **Setup**: Speed 2, Agility, Boost
+- **Weapons**: Kinetic Cannons
+
+| Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+|  4  |  8" |  4+ |  4+ |  4  |  2  | Agile, Boost      |
+
+### Light Raider - 31 points
+
+- **Setup**: Armour 1, Shield
+- **Weapons**: Twin Energy Cannons, Concussion Missiles
+
+| Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+|  4  |  6" |  4+ |  3+ |  4  |  2  | Shields           |
+
+### Superiority Fighter - 44 points
+
+- **Setup**: Command 2, Speed 2, Skilled 3
+- **Weapons**: Heavy Energy Cannons
+
+| Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+|  6  |  8" |  2+ |  4+ |  4  |  2  |                   |
+
+### Gunship - 59 points
+
+- **Setup**: Command 1, Skilled 2, Hit Points 1, Countermeasures
+- **Weapons**: Heavy Energy Turret, Heavy Concussion Missiles
+
+| Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules     |
+| :-: | :-: | :-: | :-: | :-: | :-: | :---------------- |
+|  5  |  6" |  3+ |  4+ |  4  |  3  | Countermeasures   |
+
+## Premade Ships
+
+If you want to jump right into playing without designing your own ships you will find lists of premade ships, covering popular settings, on the [Squadrons Github Project Page](https://github.com/open-source-tabletop/squadrons).
 
 ## Special Rules
 

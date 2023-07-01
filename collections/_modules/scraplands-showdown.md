@@ -4,6 +4,8 @@ title: Scraplands Showdown
 
 Scraplands Showdown is a post-apocalyptic vehicle racing and combat game. Each player assembles a team of cars, customised with upgrades, weapons, and armour, and competes to out-race and out-fight their opponents in a brutal Showdown.
 
+[View the Scraplands Showdown Github Project](https://github.com/open-source-tabletop/scraplands)
+
 <span class="image main">
 ![Scraplands](/images/scraplands.jpg "Scraplands by u/pidgeon_pete")
 </span>
