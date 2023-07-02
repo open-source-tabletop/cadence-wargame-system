@@ -83,7 +83,7 @@ Abilities are like actions that are unique to a unit. These work like normal act
 
 Units consisting of more than one model must stay within close proximity of each other during a battle, known as being "in formation". A unit is in formation when the distance between each model forms a chain connecting all the models with a gap between each model no larger than 2 inches. Every time you activate a unit, after you move each of your models, the unit must finish that action in formation.
 
-It is possible for your unit to become out of formation during another units activation, by losing models as they are destroyed for example. If this happens, the next time the unit activates it must make a move action ad it's first action to restore being in formation. If it cannot resume being in formation after this move action the unit is destroyed and removed from the game.
+It is possible for your unit to become out of formation during another units activation, by losing models as they are destroyed for example. If this happens, the next time the unit activates it must make a move action as it's first action to restore being in formation. If it cannot resume being in formation after this move action the unit is destroyed and removed from the game.
 
 #### Facing and Arcs
 
