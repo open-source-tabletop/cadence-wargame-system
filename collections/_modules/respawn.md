@@ -4,6 +4,8 @@ title: Respawn
 
 Respawn is a class based team skirmish, with influences from online multiplayer shooters.
 
+[View the Respawn Github Project](https://github.com/open-source-tabletop/respawn)
+
 ### Playing Respawn
 
 Respawn is best played on a 2ft x 3ft or similar sized area. Each game of Respawn lasts for 4 rounds. Models in Respawn are referred to throughout as **Characters**.
