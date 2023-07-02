@@ -230,7 +230,7 @@ All of your characters must choose one of the following starting profiles.
 | Hellfire Rifle           | 24" |  3  |  4  |  2  | Accurate, Shred               |
 | Nemesis Sniper Rifle     | 48" |  2  |  7  |  3  | Accurate, Heavy               |
 | Stasis Grenade           | 8"  |  1  |  4  |  0  | Stasis, One Use               |
-| Rampage Minigun          | 24" |  8  |  1  |  0  | Heavy, Rending (1)            |
+| Rampage Minigun          | 24" |  8  |  2  |  1  | Rending (1)                   |
 | Sentinel Pistol          | 6"  |  3  |  2  |  0  | Assault                       |
 | SMG                      | 12" |  8  |  2  |  0  | Assault                       |
 | Tactical Shotgun         | 8"  |  3  |  5  |  1  | Rapid Fire, Indirect          |
