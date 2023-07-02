@@ -8,6 +8,8 @@ Welcome to the town of Devil's Bluff: a lawless place where anything goes and da
 ![Devils' Bluff](/images/cowboy.png "Devils'Bluff by u/pidgeon_pete")
 </span>
 
+### A Bad Hand
+
 In the heart of the rugged Arizona landscape, where the sun beats down upon the scorched earth and the winds carry tales of both despair and hope, there lies a town—a town known as Barton's Bluff. Nestled away from the prying eyes of the lawmen and the watchful gaze of the righteous, this once-promising settlement has become a haven for darkness and deceit.
 
 Barton's Bluff, named after the towering bluff that looms over its outskirts, was once a place of promise. With fertile farmland stretching as far as the eye could see and rich veins of coal hidden deep within the surrounding hills, the prospect of wealth and prosperity seemed within reach. But alas, the pursuit of profit and power came at a heavy cost.
@@ -19,6 +21,8 @@ Recognizing the depths of despair that had befallen their town, the local priest
 But fate had other plans.
 
 As the discussions reached their crescendo, the very foundations of the town shuddered beneath the weight of their collective sins. The earth itself rebelled, shaking the very core of Devil's Bluff. Chaos erupted as the bluff crumbled, swallowing the church and its ill-fated occupants into the depths below.
+
+### Playing the card you're dealt
 
 When the dust settled and the echoes of the catastrophe subsided, a new chapter dawned upon Barton's Bluff—one of opportunity and treacherous ambition. The once-mighty factions lay shattered, their leaders silenced by the cruel hand of fate. A power vacuum emerged, leaving the workers, the small-time gangs, and the few righteous souls to vie for control over the remnants of this fractured town.
 
