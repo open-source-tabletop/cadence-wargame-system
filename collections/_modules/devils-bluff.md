@@ -24,7 +24,7 @@ As the discussions reached their crescendo, the very foundations of the town shu
 
 ### Playing the cards you're dealt
 
-When the dust settled and the echoes of the catastrophe subsided, a new chapter dawned upon Barton's Bluff—one of opportunity and treacherous ambition. The once-mighty factions lay shattered, their leaders silenced by the cruel hand of fate. A power vacuum emerged, leaving the workers, the small-time gangs, and the few righteous souls to vie for control over the remnants of this fractured town.
+When the dust settled and the echoes of the catastrophe subsided, a new chapter dawned upon Barton's Bluff—one of opportunity and treacherous ambition. The high and mighty had fallem, silenced by the cruel hand of fate. A power vacuum emerged, leaving the workers, the small-time gangs, the hired thugs, and the few righteous souls to vie for control over the remnants of the fractured town.
 
 Each faction harbored its own desires—for power, for wealth, for the restoration of law and order. It is within this crucible of chaos and possibility that you, courageous player, shall step forward. Choosing a gang, embracing a cause, and setting your sights on the destiny of Devil's Bluff, you shall carve your name into the annals of this lawless land.
 
