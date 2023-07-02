@@ -8,55 +8,31 @@ Welcome to the town of Devil's Bluff: a lawless place where anything goes and da
 ![Devils' Bluff](/images/cowboy.png "Devils'Bluff by u/pidgeon_pete")
 </span>
 
+In the heart of the rugged Arizona landscape, where the sun beats down upon the scorched earth and the winds carry tales of both despair and hope, there lies a town—a town known as Barton's Bluff. Nestled away from the prying eyes of the lawmen and the watchful gaze of the righteous, this once-promising settlement has become a haven for darkness and deceit.
+
+Barton's Bluff, named after the towering bluff that looms over its outskirts, was once a place of promise. With fertile farmland stretching as far as the eye could see and rich veins of coal hidden deep within the surrounding hills, the prospect of wealth and prosperity seemed within reach. But alas, the pursuit of profit and power came at a heavy cost.
+
+Unscrupulous landowners, wealthy mine operators, and cunning casino magnates set their sights on Barton's Bluff, their insatiable greed casting a long shadow over the town. The people, weary and downtrodden, began to refer to their home as Devil's Bluff—a testament to the evil that had taken root.
+
+Recognizing the depths of despair that had befallen their town, the local priest orchestrated a gathering—a meeting of the minds within the sacred walls of the church. Heads of the factions, along with their trusted lieutenants, assembled in this unlikely sanctuary, seeking an end to the misery that gripped Barton's Bluff.
+
+But fate had other plans.
+
+As the discussions reached their crescendo, the very foundations of the town shuddered beneath the weight of their collective sins. The earth itself rebelled, shaking the very core of Devil's Bluff. Chaos erupted as the bluff crumbled, swallowing the church and its ill-fated occupants into the depths below.
+
+When the dust settled and the echoes of the catastrophe subsided, a new chapter dawned upon Barton's Bluff—one of opportunity and treacherous ambition. The once-mighty factions lay shattered, their leaders silenced by the cruel hand of fate. A power vacuum emerged, leaving the workers, the small-time gangs, and the few righteous souls to vie for control over the remnants of this fractured town.
+
+Each faction harbored its own desires—for power, for wealth, for the restoration of law and order. It is within this crucible of chaos and possibility that you, courageous player, shall step forward. Choosing a gang, embracing a cause, and setting your sights on the destiny of Devil's Bluff, you shall carve your name into the annals of this lawless land.
+
+In Devil's Bluff, the cards are dealt, and the stakes are high. The struggle for control has just begun, and only the boldest and most cunning shall prevail. Will you seize the reins of power, forge a path of righteousness, or simply revel in the spoils of this forsaken town?
+
+The time has come to make your mark, to shape the destiny of Devil's Bluff. The Wild West awaits, and the showdown is nigh.
+
 ## Module Rules
 
 ### Playing Devil's Bluff
 
-Devil's Bluff requires a battlefield around 2ft by 3ft, or something with a similar area. Each game of Devil's Bluff lasts for 4 rounds. 
+Devil's Bluff requires a battlefield around 2ft by 3ft, or something with a similar area. Each game of Devil's Bluff lasts for 4 rounds. Models in Devil's Bluff are referred to throughout as **characters** and player's armies are called **gangs**.
 
-Each gang will normally consist of between 6 and 10 models. You will need a selection of 28mm scale miniatures suitable for a Wild West theme and may include models that have a mounted version.
+Devil's Bluff is designed to be played as a campaign, featuring a series of interconnected games. It is suitable for 2 or more players. Each player will manage their gang, working towards their own unique goals, and attempting to stop any other gang rising to dominance. 
 
-### Action: Call Horse
-
-Models that purchased a horse as part of their equipment may call it during their activation. The player rolls a d6 and on a roll of a 2 or more the model gains the **Mounted** special rule. A model with the **Mounted** special rule may choose to dismount, removing the special rule, at the start of any subsequent activation.
-
-- The model must be at Height Level 0 to perform this action.
-- The model may not have any enemy models within 3 inches to perform this action.
-
-*During play it is best to have both a mounted and on foot version of your miniature, however a token can be used in it's place. The horse is not represented separately from the rider in this game, it is assumed that it moves away from the battle when not being ridden and (usually) responds when called.*
-
-### Special Rules
-
-#### Unit Special Rules
-
-| Rule    | Details    |
-| :------ | :--------- |
-| Mounted | This model gains +6 to it's Movement attribute. <br>This model suffers -1 to it's Attack Rolls if it declared a Move action this activation. <br>This model may use the Trample weapon. |
-
-## Creating a Gang
-
-Creating a gang for Devil's Bluff is simple, you have 50 points to spend creating your Gang Leader and up to 2 more Legendary Gunslingers. You may then spend another 50 points on Hired Guns.
-
-### Legendary Characters
-
-You have 50 points to spend creating Legendary Gunslingers, one of which should be given the Gang Leader upgrade. No upgrade option may be taken twice in your gang.
-
-Each Legendary Gunslinger starts with the profile below and may purchase up to 3 Upgrades. You may then purchase up to 3 weapons or equipment options.
-
-| Name                | Cmd | Mov | Skl | Def | Tgh | HP  |
-| :-------------------| :-: | :-: | :-: | :-: | :-: | :-: |
-| Legendary Character |  5  | 5"  | 4+  | 6+  |  3  |  5  |
-
-| Upgrade | Description | Points |
-| :------ | :---------- | :----: |
-| Gang Leader | This model gains +1 Command, this does not count towards your upgrade limit. | 0 |
-| Intimidate |
-| Sneak |
-| Quick Draw |
-| Brawler |
-| Grit |
-| Sniper |
-| Lucky |
-| Hot Foot |
-
-### Hired Guns
