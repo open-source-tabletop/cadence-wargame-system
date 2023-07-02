@@ -22,7 +22,7 @@ But fate had other plans.
 
 As the discussions reached their crescendo, the very foundations of the town shuddered beneath the weight of their collective sins. The earth itself rebelled, shaking the very core of Devil's Bluff. Chaos erupted as the bluff crumbled, swallowing the church and its ill-fated occupants into the depths below.
 
-### Playing the card you're dealt
+### Playing the cards you're dealt
 
 When the dust settled and the echoes of the catastrophe subsided, a new chapter dawned upon Barton's Bluff—one of opportunity and treacherous ambition. The once-mighty factions lay shattered, their leaders silenced by the cruel hand of fate. A power vacuum emerged, leaving the workers, the small-time gangs, and the few righteous souls to vie for control over the remnants of this fractured town.
 
@@ -36,7 +36,6 @@ The time has come to make your mark, to shape the destiny of Devil's Bluff. The 
 
 ### Playing Devil's Bluff
 
-Devil's Bluff requires a battlefield around 2ft by 3ft, or something with a similar area. Each game of Devil's Bluff lasts for 4 rounds. Models in Devil's Bluff are referred to throughout as **characters** and player's armies are called **gangs**.
+Devil's Bluff requires a battlefield around 2ft by 3ft, or something with a similar area and each game lasts for 4 rounds. Models are referred to throughout as **characters** and player's armies are called **gangs**.
 
 Devil's Bluff is designed to be played as a campaign, featuring a series of interconnected games. It is suitable for 2 or more players. Each player will manage their gang, working towards their own unique goals, and attempting to stop any other gang rising to dominance. 
-
