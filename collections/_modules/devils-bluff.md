@@ -33,11 +33,3 @@ Each faction harbored its own desires—for power, for wealth, for the restorati
 In Devil's Bluff, the cards are dealt, and the stakes are high. The struggle for control has just begun, and only the boldest and most cunning shall prevail. Will you seize the reins of power, forge a path of righteousness, or simply revel in the spoils of this forsaken town?
 
 The time has come to make your mark, to shape the destiny of Devil's Bluff. The Wild West awaits, and the showdown is nigh.
-
-## Module Rules
-
-### Playing Devil's Bluff
-
-Devil's Bluff requires a battlefield around 2ft by 3ft, or something with a similar area and each game lasts for 4 rounds. Models are referred to throughout as **characters** and player's armies are called **gangs**.
-
-Devil's Bluff is designed to be played as a campaign, featuring a series of interconnected games. It is suitable for 2 or more players. Each player will manage their gang, working towards their own unique goals, and attempting to stop any other gang rising to dominance. 
