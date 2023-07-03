@@ -220,9 +220,9 @@ All of your characters must choose one of the following starting profiles.
 
 | Ranged Weapon            | Rng | Att | Dmg | Prc | Special Rules                 |
 | :----------------------- | :-: | :-: | :-: | :-: | :---------------------------- |
-| Assault Rifle            | 24" |  4  |  3  |  1  | Rapid Fire                    |
+| Assault Rifle            | 24" |  4  |  3  |  1  | Rapid Fire (1)                |
 | Barrage Launcher         | 12" |  4  |  5  |  2  | Blast, Heavy, Volley          |
-| Eliminator Shotgun       | 12" |  3  |  6  |  2  | Rapid Fire, Indirect          |
+| Eliminator Shotgun       | 12" |  3  |  6  |  2  | Rapid Fire (1), Indirect      |
 | Executioner Pistol       | 6"  |  3  |  4  |  1  | Assault                       |
 | Frag Grenade             | 6"  |  3  |  3  |  2  | Blast, Indirect, One Use      |
 | Fusion Grenade           | 6"  |  3  |  6  |  2  | Blast, Indirect, One Use      |
@@ -233,8 +233,8 @@ All of your characters must choose one of the following starting profiles.
 | Rampage Minigun          | 24" |  8  |  2  |  1  | Rending (1)                   |
 | Sentinel Pistol          | 6"  |  3  |  2  |  0  | Assault                       |
 | SMG                      | 12" |  8  |  2  |  0  | Assault                       |
-| Tactical Shotgun         | 8"  |  3  |  5  |  1  | Rapid Fire, Indirect          |
-| Peacekeep Shotgun        | 8"  |  3  |  4  |  0  | Rapid Fire, Impact            |
+| Tactical Shotgun         | 8"  |  3  |  5  |  1  | Rapid Fire (1), Indirect      |
+| Peacekeeper Shotgun      | 8"  |  3  |  4  |  0  | Rapid Fire (1), Impact        |
 | Whisperbolt Sniper Rifle | 36" |  2  |  5  |  3  | Accurate                      |
 | Quantum Rifle            | 24" |  2  |  4  |  1  | Quantum Tunneling             |
 | Stun Pistol              | 6"  |  3  |  2  |  0  | Stun                          |
@@ -243,7 +243,7 @@ All of your characters must choose one of the following starting profiles.
 | Assault Weapon           | Rng | Att | Dmg | Prc | Special Rules                 |
 | :----------------------- | :-: | :-: | :-: | :-: | :---------------------------- |
 | Combat Knife             | 1"  |  3  |  2  |  0  | Assault                       |
-| Crusher                  | 1"  |  3  |  5  |  0  | Assault
+| Crusher                  | 1"  |  3  |  5  |  0  | Assault                       |
 | Energy Blade             | 1"  |  3  |  3  |  3  | Assault                       |
 | Electro Maul             | 1"  |  3  |  3  |  1  | Assault, Stasis               |
 | Poisoned Blade           | 1"  |  3  |  2  |  0  | Assault, Rending (2), Shred   |
