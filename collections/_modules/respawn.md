@@ -179,6 +179,8 @@ All of your characters must choose one of the following starting profiles.
 
 #### Equipment
 
+| Equipment | Effect |
+| :-------- | :----- |
 | Deployable Barricade | One use, at the end of its activation, this character may place a barricade that is 2 inches long and 1 inch tall within 3 inches of itself. This barricade has the Cover keyword. If the character is killed the barricade is removed from the battlefield. |
 | Med Kit | Ability (1 Command Point): this character may restore all lost Hit Points to a friendly character within 3 inches, if there are no enemy characters within 3 inches. |
 | Smoke Grenade | One Use, at the end of its activation, this character may place 2 smoke markers (a 50mm token) within 6" of itself and touching each other. Any character making an attack that draws line of sight through this marker from more than 3 inches away from their target treats their line of sight as blocked. This marker is removed at the end of the round. |
