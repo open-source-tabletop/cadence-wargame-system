@@ -34,7 +34,10 @@
                 <h2>Game Modules</h2>
             </header>
             <ul>
-                {% for nav in site.data.modules_nav %}
+                {% for nav in site.data.finished_modules %}
+                <li><a href="{{ nav.link }}">{{ nav.name }}</a></li>
+                {% endfor %}
+                {% for nav in site.data.wip_modules %}
                 <li><a href="{{ nav.link }}">{{ nav.name }}</a></li>
                 {% endfor %}
             </ul>
