@@ -37,6 +37,13 @@
                 {% for nav in site.data.finished_modules %}
                 <li><a href="{{ nav.link }}">{{ nav.name }}</a></li>
                 {% endfor %}
+            </ul>
+        </nav>
+        <nav id="wip">
+            <header class="major">
+                <h2>Modules in Development</h2>
+            </header>
+            <ul>
                 {% for nav in site.data.wip_modules %}
                 <li><a href="{{ nav.link }}">{{ nav.name }}</a></li>
                 {% endfor %}

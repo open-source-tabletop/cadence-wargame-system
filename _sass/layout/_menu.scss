@@ -6,7 +6,7 @@
 
 /* Menu */
 
-	#menu, #modules {
+	#menu, #modules, #wip {
 		ul {
 			@include vendor('user-select', 'none');
 			color: _palette(fg-bold);
