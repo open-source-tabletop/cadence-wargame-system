@@ -247,7 +247,7 @@ All of your characters must choose one of the following starting profiles.
 | Peacekeeper Shotgun      | 8"  |  3  |  4  |  0  | Rapid Fire (1), Impact        |
 | Whisperbolt Sniper Rifle | 36" |  2  |  5  |  3  | Accurate                      |
 | Quantum Rifle            | 24" |  2  |  4  |  1  | Quantum Tunneling             |
-| Stun Pistol              | 6"  |  3  |  2  |  0  | Stun                          |
+| Stun Pistol              | 6"  |  3  |  3  |  0  | Assault, Stun                 |
 | Stasis Rifle             | 18" |  4  |  1  |  0  | Stasis, Heavy                 |
 
 | Assault Weapon           | Rng | Att | Dmg | Prc | Special Rules                 |
