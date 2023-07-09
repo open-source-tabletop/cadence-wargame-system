@@ -346,6 +346,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
 | Arc (X) | This weapon may only be used against models in the named arcs. |
 | Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
+| Destructive (X) | Each failed Defence Roll against this weapon causes X damage instead of 1. |
 | Fixed | This weapon can only target enemy models that are directly on the line of this models forward facing measured from the centre of the base. |
 | Heavy | A unit must spend an additional Command Point to use this weapon. |
 | Inaccurate | When making an attack with this weapon your attack roll only hits on an Attack roll of a 6. |
