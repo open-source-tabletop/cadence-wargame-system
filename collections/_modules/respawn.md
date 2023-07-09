@@ -2,17 +2,25 @@
 title: Respawn
 ---
 
-Respawn is a class based team skirmish, with influences from online multiplayer shooters.
+Respawn is a tabletop team skirmish game, requiring only 3 miniatures per player, with influences from popular online FPS games. Each team competes in Deathmatch, Capture the Flag, and King of the Hill type missions, with characters respawning each round to continue the fight. A range of character classes, with weapon, equipment, and perk choices, let you create a unique team - using any style of miniatures you like.
 
-[View the Respawn Github Project](https://github.com/open-source-tabletop/respawn)
+You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to play this game. If you would like to contribute to the development of Respawn please [visit the Respawn Github Project](https://github.com/open-source-tabletop/respawn).
 
-### Playing Respawn
+---
 
-Respawn is best played on a 2ft x 3ft or similar sized area. Each game of Respawn lasts for 4 rounds. Models in Respawn are referred to throughout as **Characters**.
+## Playing Respawn
 
-### Respawn
+Respawn is best played on a 2ft x 3ft or similar sized area and should include plenty of line of sight blocking terrain. Each game of Respawn lasts for 5 rounds, or until the mission Win Conditions are met. Models in Respawn are referred to throughout as **Characters**.
 
-When a character is killed in Respawn, they are removed from the game and placed back in reserve and must be redeployed during the next round. When the character redeploys they do so with their original weapons, including one use weapons and equipment, and full hit points.
+### Killing Characters 
+
+When a character is killed in Respawn, instead of being removed from the game they may optionally be marked as Downed. You may place a token next to or in place of the model or place it on its side to show this. A Downed character may not be activated unless it is revived, it may be revived by a friendly character using the Revive action. At the end of each round, Downed characters are removed from the game as detailed below.
+
+If you do not wish your character to be Downed they are instead removed from the game and placed back in reserve and must be redeployed during the next round. When the character redeploys they do so with their original weapons, including one use weapons and equipment, and full hit points.
+
+### Action: Revive (1 Command Point)
+
+You may attempt to revive a Downed friendly character so long as you are within 3 inches of that character and there are no enemy characters within 3 inches of either character. Roll a d6 and add the Downed characters remaining command points to the roll, on a roll of 4 or more te character is restored to normal with 1 hit point. Each attempt to revive a character also reduces any Command Points they may have remaining by 1.
 
 ### Reactions
 
@@ -67,7 +75,7 @@ If a character is killed while carrying a flag it is dropped where the character
 
 ## Creating Your Team
 
-Games of Respawn consist of 2 or more teams of 3 characters, if you want to play larger games you can assemble your teams in groups of 3 following the rules below.
+Games of Respawn consist of 2 or more teams of 3 characters, if you want to play larger games you can assemble your teams in groups of 3 following the rules below. Teams in Respawn often create their own unique look, able to customise their appearance, weapons, and equipment as they please, any miniatures can be used so long as both players are using miniatures approximately the same size.
 
 To create a team you create 3 characters following these steps:
 
@@ -265,17 +273,19 @@ The following special rules are used in games of Respawn.
 | Impact | Each successful hit from this weapon causes the target to move directly away from the attacker by 1 inch, in addition to any damage it may cause. This move stops immediately if the character comes into contact with any other characters or terrain. |
 | Stasis | If a character loses any hit points to a Stasis weapon it may not move or advance for the remainder of the round. |
 
-## Missions
+## Exhibition Games
+
+Exhibition games arw one off matches played between two evenly matched teams. Simply determine which mission you are playing randomly before setting up ypur battlefield.
 
 ### Team Deathmatch
 
 #### Battlefield
 
-The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
+The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll 2d6 and choose their entry point number from one of those dice results.
 
 #### Objectives
 
-Each team scores 1 Victory Point each time they kill a character on an enemy team. On the last round this is increased to 2 Victory Points.
+Each team scores 1 Victory Point each time they kill a character on an enemy team. The first team to score 6 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.
 
 -----
 
@@ -283,14 +293,16 @@ Each team scores 1 Victory Point each time they kill a character on an enemy tea
 
 #### Battlefield
 
-Players should set up the table and roll off to choose one of the short table edges. Each player should then place a flag base somewhere 6 inches from their table edge and at least 6 inches from any other table edge. The player that choose their table edge places their flag base first.
+Players should set up the table and roll off to choose one of the short table edges each. Each player should then place a flag base somewhere 6 inches from their table edge and at least 6 inches from any other table edge. The player that choose their table edge places their flag base first.
 
 Each player then places 3 entry points on their own table edge numbered 1 - 3. Any time they bring one of their characters onto the battlefield from reserve the player must roll a d3 (roll a d6 and divide by 2 rounding up) to determine which entry point they will use.
 
 #### Objectives
 
-- Each team scores 8 Victory Points each time they score a flag objective.
-- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points on the last round.
+- Each team scores 5 Victory Points each time they score a flag objective.
+- Each team scores 1 Victory Point each time they kill an enemy character.
+
+The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.
 
 -----
 
@@ -298,15 +310,17 @@ Each player then places 3 entry points on their own table edge numbered 1 - 3. A
 
 #### Battlefield
 
-Players divide the battlefield into quarters and take it in turns to place a control objective in each of the quarters, with at least 9 inches between each objective.
+The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll 2d6 and choose their entry point number from one of those dice results.
 
-The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
+Players divide the battlefield into quarters and take it in turns to place a control objective in each of the quarters, with at least 6 inches between each objective and at least 4 inches from any table edge.
 
 #### Objectives
 
-- Each team scores 6 Victory Point for each Control Point they have secured at the end of each round.
-- Each team scores 2 Victory Points each time they secure a Control Point that was previously controlled by the other player.
-- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points in the last round.
+- Each team scores 5 Victory Point for each Control Point they have secured at the end of each round.
+- Each team scores 1 Victory Points each time they secure a Control Point that was previously controlled by the other player.
+- Each team scores 1 Victory Point each time they kill an enemy character.
+
+The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.
 
 -----
 
@@ -314,9 +328,11 @@ The battlefield should be set up with 6 entry points spaced randomly around the 
 
 #### Battlefield
 
-One Control objective is placed in the center of the table. The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
+One Control objective is placed in the center of the table. The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll 2d6 and choose their entry point number from one of those dice results.
 
 #### Objectives
 
-- Each team scores 7 Victory Points if they control the central objective at the end of a round.
-- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points if they are within 3 inches of the control objective.
+- Each team scores 5 Victory Points if they control the central objective at the end of a round.
+- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points if the enemy character is within 3 inches of the control objective.
+
+The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.

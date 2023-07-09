@@ -1,8 +1,12 @@
 - name: "Devil's Bluff"
   link: /devils-bluff/
+  description: "Put together your posse, embrace your cause, and set your sights on the destiny of Devil’s Bluff in this Wild West Skirmish game."
 - name: Guilds and Glory
   link: /guilds-and-glory/
-- name: Halo Firefight
+  description: "A brave party of heroes fight fierce battles against monsters, delve into treacherous dungeons, all in the hope of glory and untold treasures."
+- name: "Halo: Firefight"
   link: /halo-firefight/
+  description: "Halo: Firefight is a fan made 28mm game set in the Halo universe."
 - name: Fracture
   link: /fracture/
+  description: "Fracture is a diverse sci-fi tabletop wargame with a wide range of factions, suitable for a large variety of miniatures, and battles at any scale."

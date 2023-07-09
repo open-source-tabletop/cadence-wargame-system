@@ -1,6 +1,9 @@
 - name: Respawn
   link: /respawn/
+  description: "Respawn is a tabletop team skirmish game, requiring only 3 miniatures per player, with influences from popular online FPS games. Each team competes in Deathmatch, Capture the Flag, and King of the Hill type missions, with characters respawning each round to continue the fight."
 - name: Scraplands Showdown
   link: /scraplands-showdown/
+  description: "Scraplands Showdown is a post-apocalyptic vehicle racing and combat game. Each player assembles a team of cars, customised with upgrades, weapons, and armour, and competes to out-race and out-fight their opponents in a brutal Showdown."
 - name: Squadrons
   link: /squadrons/
+  description: "Squadrons is a game of high speed. intense combat encounters between small fighter or bomber scale ships."

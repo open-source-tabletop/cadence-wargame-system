@@ -13,3 +13,5 @@
 #      link: https://github.com/open-source-tabletop/cadence
 - name: Game Modules
   link: /modules/
+- name: Modules in Development
+  link: /in-development/

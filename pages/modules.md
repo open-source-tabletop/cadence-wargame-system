@@ -3,12 +3,9 @@ title: Game Modules
 permalink: /modules/
 ---
 
-{% for nav in site.data.modules_nav %}
-### {{ nav.name }}
+The following game modules have been released for general use, however these games may still require playtesting and may be seeking additional contributors.
 
-{{ nav.description }}
-
-<a href="{{ nav.link }}" class="button primary">View the {{ nav.name }} module</a>
-
------
-{% endfor %}
+| Module | Description |
+| :----- | :---------- |
+{% for nav in site.data.finished_modules %}| [{{ nav.name }}]({{ nav.link}}) | {{ nav.description }} |
+{% endfor %} 
