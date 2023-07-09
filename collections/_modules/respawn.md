@@ -10,11 +10,11 @@ You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to pla
 
 ## Playing Respawn
 
-Respawn is best played on a 2ft x 3ft or similar sized area and should include plenty of line of sight blocking terrain. Each game of Respawn lasts for 5 rounds, or until the mission Win Conditions are met. Models in Respawn are referred to throughout as **Characters**.
+Respawn is best played on a 2ft x 3ft or similar sized area and should include plenty of line of sight blocking terrain. Each game of Respawn lasts for 5 rounds. Models in Respawn are referred to throughout as **Characters**.
 
 ### Killing Characters 
 
-When a character is killed in Respawn, instead of being removed from the game they may optionally be marked as Downed. You may place a token next to or in place of the model or place it on its side to show this. A Downed character may not be activated unless it is revived, it may be revived by a friendly character using the Revive action. At the end of each round, Downed characters are removed from the game as detailed below.
+When a character is killed in Respawn, instead of being removed from the game they may optionally be marked as Downed. You may place a token next to or in place of the model or place it on its side to show this. A Downed character may not be activated, and is treated as though it is in effect not on the table, unless it is revived, it may be revived by a friendly character using the Revive action. At the end of each round, Downed characters are removed from the game as detailed below. Missions that score Victory Points for killing enemy characters only score those points when the model is finally removed from the game.
 
 If you do not wish your character to be Downed they are instead removed from the game and placed back in reserve and must be redeployed during the next round. When the character redeploys they do so with their original weapons, including one use weapons and equipment, and full hit points.
 
@@ -285,7 +285,7 @@ The battlefield should be set up with 6 entry points spaced randomly around the 
 
 #### Objectives
 
-Each team scores 1 Victory Point each time they kill a character on an enemy team. The first team to score 6 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.
+Each team scores 1 Victory Point each time they kill a character on an enemy team and 3 Victory Points any round in which they kill all of the enemy characters. From Round 4 onwards killing an enemy character is worth 2 Victory Points. . The first team to score 15 Victory Points wins the match, or the player with the most Victory Points when the game ends.
 
 -----
 
@@ -302,7 +302,7 @@ Each player then places 3 entry points on their own table edge numbered 1 - 3. A
 - Each team scores 5 Victory Points each time they score a flag objective.
 - Each team scores 1 Victory Point each time they kill an enemy character.
 
-The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.
+The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points when the game ends.
 
 -----
 
@@ -316,11 +316,11 @@ Players divide the battlefield into quarters and take it in turns to place a con
 
 #### Objectives
 
-- Each team scores 5 Victory Point for each Control Point they have secured at the end of each round.
+- Each team scores 2 Victory Point for each Control Point they have secured at the end of each round.
 - Each team scores 1 Victory Points each time they secure a Control Point that was previously controlled by the other player.
 - Each team scores 1 Victory Point each time they kill an enemy character.
 
-The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.
+The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points when the game ends.
 
 -----
 
@@ -332,7 +332,25 @@ One Control objective is placed in the center of the table. The battlefield shou
 
 #### Objectives
 
-- Each team scores 5 Victory Points if they control the central objective at the end of a round.
-- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points if the enemy character is within 3 inches of the control objective.
+- Each team scores 4 Victory Points if they control the central objective at the end of a round.
+- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points if the enemy character is within 1 inch of the control objective.
 
-The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.
+The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points when the game ends.
+
+## Tournament Games
+
+Respawn can be played in one-off matches, or you can play over multiple games, with multiple players, representing a tournament of games. This adds additional perks for your teams that they can earn through their success and a bigger challenge in competing not just for a single victory, but to become the Tournament Champions.
+
+A typical tournament involves each player playing 5 games and a final. For the initial 5 games, where relevant, you should randomise which player is playing against opponent. Players will score 2 points for winning their game, 1 point for a draw, and no points for a defeat. The last game is a special format elimination deathmatch featuring multiple players. If you have up to 4 players in your tournament, all players will take part in this game. If you have more than 4 players you should arrange the players into tiered matches as best fits, aiming to have 3-4 players in each game. The elimination deathmatch determines the final positions of each player.
+
+### Elimination Deathmatch
+
+The Elimination Deathmatch is a special mission designed for 2-4 players. Unlike most games of Respawn, players have a limited number of Respawns available to them equal to the number of points they have scored during the first 5 games of the tournament. The Elimination Deathmatch has no round limit.
+
+#### Battlefield
+
+The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll 2d6 and choose their entry point number from one of those dice results.
+
+#### Objectives
+
+There are no Victory Points to score in the Elimination Deathmatch, the goal is to be the last team on the battlefield. As each team runs out of respawns they will no longer be able to bring back their characters. When a player loses their last character and has no remaining respawns they are eliminated. The players final positions in the tournament are determined by the order they are eliminated, with the last player winning that match.
