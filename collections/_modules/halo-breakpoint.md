@@ -1,5 +1,5 @@
 ---
-title: Halo Breakpoint 
+title: "Halo: Breakpoint"
 ---
 
 **Halo: Breakpoint is in development, you can find out more, or get involved, at the [Halo: Breakpoint Github Project page](https://github.com/open-source-tabletop/halo-breakpoint).**
