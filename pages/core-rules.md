@@ -261,11 +261,11 @@ Make Attack Rolls equal to the attacks attribute of the weapon being used. Each 
 
 #### Step 2 - Defence Rolls
 
-For every successful hit against a target unit, the target player makes a Defence Roll. Roll a d6 trying to score equal or higher than that unit's Defence attribute. This roll is reduced by the attacking weapon's Piercing attribute, and may be modified to the point where it will automatically fail. Each failed Defence Roll results in the target taking 1 point of damage.
+For every successful hit against a target unit, the target player makes a Defence Roll. Roll a d6 trying to score equal or higher than that unit's Defence attribute, if there are multiple Defence attributes in the unit you use the attribute that is the majority, or the highest if there is no majority, at the start of the attack. This roll is reduced by the attacking weapon's Piercing attribute, and may be modified to the point where it will automatically fail. Each failed Defence Roll results in the target taking 1 point of damage.
 
 #### Step 3 - Counter Rolls
 
-For each point of damage a unit takes, it must test to see if it can counter the damage, or if it will lose a Hit Point. Roll a d6, to counter the damage you must equal or beat a specific target based on the rules below:
+For each point of damage a unit takes, it must test to see if it can counter the damage, or if it will lose a Hit Point. This roll uses the targets Toughness - if there are different attributes for models in this unit you use the attribute that is in the majority, or the highest if there is no majority at the start of the attack. Roll a d6, to counter the damage you must equal or beat a specific target based on the rules below:
 
 - If the Damage attribute of the weapon is **half, or lower, of the targets Toughness** you counter the damage on a roll of 2+.
 - If the Damage attribute of the weapon is **less than the targets Toughness** you counter the damage on a roll of 3+.
