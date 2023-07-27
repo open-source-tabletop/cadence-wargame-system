@@ -109,7 +109,7 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-re
 /* Type */
 body, input, select, textarea {
   color: #4e5357;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Source Sans Pro", "Courier New", monospace, sans-serif;
   font-size: 13pt;
   font-weight: 400;
   line-height: 1.65;
