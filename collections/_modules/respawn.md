@@ -2,7 +2,7 @@
 title: Respawn
 ---
 
-Respawn is a tabletop team skirmish game, requiring only 3 miniatures per player, with influences from popular online FPS games. Each team competes in Deathmatch, Capture the Flag, and King of the Hill type missions, with characters respawning each round to continue the fight. A range of character classes, with weapon, equipment, and perk choices, let you create a unique team - using any style of miniatures you like.
+Respawn is a tabletop team skirmish game, requiring only 3-6 miniatures per player, with influences from popular online FPS games. Each team competes in Deathmatch, Capture the Flag, and King of the Hill type missions, with characters respawning each round to continue the fight. A range of character classes, with weapon, equipment, and perk choices, let you create a unique team - using any style of miniatures you like.
 
 You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to play this game. If you would like to contribute to the development of Respawn please [visit the Respawn Github Project](https://github.com/open-source-tabletop/respawn).
 
@@ -14,13 +14,15 @@ Respawn is best played on a 2ft x 3ft or similar sized area and should include p
 
 ### Killing Characters 
 
-When a character is killed in Respawn, instead of being removed from the game they may optionally be marked as Downed. You may place a token next to or in place of the model or place it on its side to show this. A Downed character may not be activated, and is treated as though it is in effect not on the table, unless it is revived, it may be revived by a friendly character using the Revive action. At the end of each round, Downed characters are removed from the game as detailed below. Missions that score Victory Points for killing enemy characters only score those points when the model is finally removed from the game.
+When a character is killed in Respawn, instead of being removed from the game they may optionally be marked as Downed. You may place a token next to or in place of the character or place it on its side to show this. A Downed character may not be activated, and is treated as though it is in effect not on the table, unless it is revived, it may be revived by a friendly character using the Revive action. At the end of each round, Downed characters are removed from the game as detailed below. Missions that score Victory Points for killing enemy characters only score those points when the character is finally removed from the game.
 
 If you do not wish your character to be Downed they are instead removed from the game and placed back in reserve and must be redeployed during the next round. When the character redeploys they do so with their original weapons, including one use weapons and equipment, and full hit points.
 
+On the 5th round a character may not be revived, when the character is killed it is removed from game.
+
 ### Action: Revive (1 Command Point)
 
-You may attempt to revive a Downed friendly character so long as you are within 3 inches of that character and there are no enemy characters within 3 inches of either character. Roll a d6 and add the Downed characters remaining command points to the roll, on a roll of 4 or more te character is restored to normal with 1 hit point. Each attempt to revive a character also reduces any Command Points they may have remaining by 1.
+You may attempt to revive a Downed friendly character so long as you are within 3 inches of that character and there are no enemy characters within 3 inches of either character. Roll a d6 and add the Downed characters remaining command points to the roll, on a roll of 4 or more the character is restored to normal with 1 hit point remaining. Each attempt to revive a character also reduces any Command Points they may have remaining by 1.
 
 ### Reactions
 
@@ -50,8 +52,8 @@ To collect a pick-up a character must simply move into contact with it during th
 
 | D6 Roll | Pick-up | Effect |
 | :----: | :--- | :----- |
-| 1 | Health | The character immediately recovers all lost Hit Points. |
-| 2 | Adrenaline | The character immediately regains 2 Command Points. |
+| 1 | Health | The character gains 1 hit point, this may take them above their starting Hit Points. |
+| 2 | Adrenaline | The character immediately regains 3 Command Points. |
 | 3 | Grenade | The character immediately gains the Fusion Grenade weapon. If the character already has this weapon, but has used it, they reset the 'one use' special rule. |
 | 4 | Shield | The character gains +1 to their rolls to Counter damage until the end of the round. |
 | 5 | Speed | The character gains +2 to it's Movement until the end of the round. |
@@ -63,7 +65,7 @@ Respawn uses Control Objectives and Flag Objectives.
 
 #### Control Objectives
 
-Control Objectives in Respawn work the same as in the Core Rule with the exception that they stay secured even if there are no friendly models within 3 inches of them.
+Control Objectives in Respawn work the same as in the Core Rule with the exception that they stay secured even if there are no friendly characters within 3 inches of them.
 
 #### Flags
 
@@ -94,7 +96,7 @@ All of your characters must choose one of the following starting profiles.
 | Profile       | Cmd | Mov | Skl | Def | Tgh | HP  |
 | :------------ | :-: | :-: | :-: | :-: | :-: | :-: |
 | Balanced      |  6  |  5" |  4+ |  4+ |  3  |  2  |
-| Fast          |  6  |  8" |  4+ |  5+ |  3  |  2  |
+| Fast          |  6  |  7" |  4+ |  5+ |  3  |  2  |
 | Tough         |  6  |  4" |  4+ |  4+ |  4  |  2  |
 
 ### Assault Class
@@ -112,11 +114,11 @@ All of your characters must choose one of the following starting profiles.
 
 | Perk | Effect |
 | :--- | :----- |
-| Onslaught | Ability (3 Command Points): This action works like a normal Attack action except that the character doubles the Attacks attribute of their weapon. If the character uses this action it performs only this action during its activation. The character does not suffer the rush penalty for this action. |
-| Covering Fire | Ability (1 Command Point): This model makes two Attack Rolls against every enemy character within 12 inches, within its front arc, that it has clear or obscured line of sight to. For each successful roll that enemy character loses 1 Command Point. |
-| Heavy Hitter | This character can re-roll failed Attack rolls against targets within 4 inches. |
-| Tactical Awareness | This character may perform an Advance action after an Attack action. |
-| Resilient | Reaction (1 Command Point): When the target of an attack you may re-roll any failed Defence rolls. |
+| Onslaught | Ability (3 Command Points): This action works like a normal Attack action except that the character doubles the Attacks attribute of their weapon. If the character uses this action it performs only this action during its activation. |
+| Covering Fire | Ability (1 Command Point): This character makes two Attack Rolls against every enemy character within 12 inches, within its front arc, that it has clear or obscured line of sight to. For each successful roll that enemy character loses 2 Command Points. |
+| Heavy Hitter | This character can re-roll failed Attack rolls against targets within 3 inches. |
+| Tactical Awareness | This character may perform only 1 action when it first activates each round. In addition they may perform an Advance action after an Attack action. |
+| Resilient | Reaction (1 Command Point): When targetted in an attack you may re-roll any failed Defence rolls. |
 | Suppression Specialist | When this character causes an enemy character to lose at least 1 hit point it also loses a Command Point. |
 | Improved Armour | Improve the characters Defence by 1 (eg. 4+ becomes 3+). |
 | Skirmisher | Improve this characters Movement by 3 during Advance actions. |
@@ -145,13 +147,13 @@ All of your characters must choose one of the following starting profiles.
 
 | Perk | Effect |
 | :--- | :----- |
-| Camouflage | This character gains the Stealth (6) Special Rule and the Resilient Special Rule. |
+| Camouflage | This character gains the Stealth (6) Special Rule. |
 | Scout | This character may choose which entry point it uses from the allowed choices and may be placed up to 2 inches further than normal from it when deploying from reserve. |
-| Sniper | This character gains +1 to Attack Rolls against targets 12" or more away and gains the Skilled Special Rule. |
+| Sniper | This character gains +1 to Attack Rolls against targets 12" or more away. |
 | Weak Spot | This character adds +1 Piercing to it's primary weapon. |
 | Marksman | Improve this characters Skill to 3+. |
-| Mark Target | If this character makes an Attack action it may declare that the target character is Marked. All attacks against that character for the rest of the round count as having the Rending (1) Rule. |
-| Ghost Walk | One use, this character may move through an item of terrain as though it were clear and gains +2 to its Movement when doing so, so long as it has sufficient movement to be placed on clear terrain at the end of its action. |
+| Mark Target | If this character makes an Attack action it may declare that the target character is Marked. All attacks against that character for the rest of the round gain the Shred and Rending (1) special rules. |
+| Ghost Walk | One use, this character may move through an area of terrain as though it were clear and gains +2 to its Movement when doing so, so long as it has sufficient movement to be placed on clear terrain at the end of its action. |
 
 #### Equipment
 
@@ -170,7 +172,7 @@ All of your characters must choose one of the following starting profiles.
 | :--------- | :----------------------- | :----------------- |
 | Suppressor | Quantum Rifle            | Stun Pistol        |
 | Breacher   | Peacekeeper Shotgun      | Stun Hammer        |
-| Brawler    | Electro Maul             | Stun Pistol        |
+| Defender   | Electro Maul             | Stun Pistol        |
 | Support    | Stasis Rifle             | Sentinel Pistol    |
 
 #### Perks
@@ -179,10 +181,10 @@ All of your characters must choose one of the following starting profiles.
 | :--- | :----- |
 | Grenadier | This character has Frag grenades and Stasis grenades but ignores the one use rule. In addition, any friendly character that ends its activation within 3 inches of this character may restore any used Frag Grenades they started with. |
 | Heavy Armour | Improve this characters Defence by 1 (eg. 4+ becomes 3+), increase the Toughness by 1, but reduce the Movement by 1. |
-| Medic | This character must take a med kit for its equipment but the ability no longer costs a Command Point to use. It must still be declared at the start of the activation. |
-| Motivator | When friendly characters activate within 6 inches of this character they gain 1 command point on a d6 roll of 3+. This happens before testing to see if the character would lose a single remaining command point. |
-| Munitions Expert | Ability (1 Command Point): this character may modify a friendly characters weapon for their next attack. The friendly character must be within 3 inches and no enemy characters may be within 3 inches. You add the Rending (2) and Accurate special rules to the chosen weapon profile. |
-| Tactical Expert | At the start of this characters activation, you may designate any enemy character as the teams Primary Target. Friendly characters may re-roll one dice from an attack roll against that character. This lasts until the end of the round. |
+| Medic | This character must take a med kit for its equipment but the ability no longer costs a Command Point to use. It must still be declared at the start of the activation and can still contribute to a rush penalty. |
+| Motivator | When friendly characters activate within 6 inches of this character they regain 1 used command point on a d6 roll of 4+. This happens before testing to see if the character would lose a single remaining command point. |
+| Munitions Expert | Ability (1 Command Point): this character may modify a friendly characters weapon for their next attack. The friendly character must be within 3 inches and no enemy characters may be within 3 inches of either character. You add Rapid Fire (1) Special Rule to that weapon. |
+| Tactical Expert | At the start of this characters activation, you may designate any enemy character as the teams Primary Target. Friendly characters may re-roll one dice from any attack roll against that character. This lasts until the end of the round. |
 | Unbreakable | This character increases its Hit Points by 1. |
 
 #### Equipment
@@ -192,7 +194,7 @@ All of your characters must choose one of the following starting profiles.
 | Deployable Barricade | One use, at the end of its activation, this character may place a barricade that is 2 inches long and 1 inch tall within 3 inches of itself. This barricade has the Cover keyword. If the character is killed the barricade is removed from the battlefield. |
 | Med Kit | Ability (1 Command Point): this character may restore all lost Hit Points to a friendly character within 3 inches, if there are no enemy characters within 3 inches. |
 | Smoke Grenade | One Use, at the end of its activation, this character may place 2 smoke markers (a 50mm token) within 6" of itself and touching each other. Any character making an attack that draws line of sight through this marker from more than 3 inches away from their target treats their line of sight as blocked. This marker is removed at the end of the round. |
-| Phase Inducer | Ability (1 Command Points): One use. Until the end of the round, this character and any friendly characters within 4 inches of it, may not be targetted for attacks from more than 9 inches away. |
+| Phase Inducer | Ability (1 Command Points): One use. Until the end of the round, this character and any friendly characters within 4 inches of it, may not be targetted for attacks from more than 12 inches away. |
 
 ### Heavy Class
 
@@ -204,15 +206,17 @@ All of your characters must choose one of the following starting profiles.
 | Rampage    | Rampage Minigun          | Sentinel Pistol    |
 | Pyro       | Heavy Incinerator        | Combat Knife       |
 | Gladiator  | Fusion Gladius           | Executioner Pistol |
+| Ripper     | Ripper Claws             | Leech Knife        |
 
 #### Perks
 
 | Perk | Effect |
 | :--- | :----- |
-| Last Stand | When this character has 1 hit point remaining, it gains +1 to all its attack rolls. |
+| Last Stand | When this character has 1 hit point remaining, it gains +1 to all its Attack and Defence rolls. |
 | Intimidation | Enemy charactes within 6 inches of this character suffer -2 to their attack rolls. |
-| Bulwark | This character gains the Heavy Armour (1) special rule, but it can no longer make Advance actions. |
+| Bulwark | This character gains the Heavy Armour (2) special rule, but it can no longer make Advance actions. |
 | Distraction | Characters within 6 inches of this character, when able, must target this character when making an attack. |
+| Finisher | Ability (1 Command Point): If this model is within 1 inch of a Downed character it may use this ability to kill the character and remove it from the battlefield. |
 | Brute | When using a weapon with the Heavy special rule this character does not need to spend an additional Command Point to use it if it did not take more than 2 actions. |
 | Smash | This character gains the Smash weapon. |
 
@@ -230,36 +234,38 @@ All of your characters must choose one of the following starting profiles.
 
 | Ranged Weapon            | Rng | Att | Dmg | Prc | Special Rules                 |
 | :----------------------- | :-: | :-: | :-: | :-: | :---------------------------- |
-| Assault Rifle            | 24" |  4  |  3  |  1  | Rapid Fire (1)                |
-| Barrage Launcher         | 12" |  4  |  5  |  2  | Blast, Heavy, Volley          |
-| Eliminator Shotgun       | 12" |  3  |  6  |  2  | Rapid Fire (1), Indirect      |
+| Assault Rifle            | 18" |  4  |  3  |  1  | Rapid Fire (1)                |
+| Barrage Launcher         | 12" |  4  |  5  |  2  | Blast (1), Heavy              |
+| Eliminator Shotgun       | 12" |  3  |  6  |  2  | Indirect, Shred               |
 | Executioner Pistol       | 6"  |  3  |  4  |  1  | Assault                       |
-| Frag Grenade             | 6"  |  3  |  3  |  2  | Blast, Indirect, One Use      |
-| Fusion Grenade           | 6"  |  3  |  6  |  2  | Blast, Indirect, One Use      |
+| Frag Grenade             | 6"  |  3  |  3  |  2  | Blast (1), Indirect, One Use  |
+| Fusion Grenade           | 6"  |  3  |  5  |  2  | Blast (2), Indirect, One Use  |
 | Heavy Incinerator        | 6"  |  6  |  2  |  1  | Heavy, Torrent                |
 | Hellfire Rifle           | 24" |  3  |  4  |  2  | Accurate, Shred               |
-| Nemesis Sniper Rifle     | 48" |  2  |  7  |  3  | Accurate, Heavy               |
+| Nemesis Sniper Rifle     | 28" |  2  |  7  |  3  | Accurate, Heavy               |
 | Stasis Grenade           | 8"  |  1  |  4  |  0  | Stasis, One Use               |
-| Rampage Minigun          | 24" |  8  |  2  |  1  | Rending (1)                   |
-| Sentinel Pistol          | 6"  |  3  |  2  |  0  | Assault                       |
-| SMG                      | 12" |  8  |  2  |  0  | Assault                       |
-| Tactical Shotgun         | 8"  |  3  |  5  |  1  | Rapid Fire (1), Indirect      |
-| Peacekeeper Shotgun      | 8"  |  3  |  4  |  0  | Rapid Fire (1), Impact        |
-| Whisperbolt Sniper Rifle | 36" |  2  |  5  |  3  | Accurate                      |
+| Rampage Minigun          | 18" |  5  |  3  |  1  | Rapid Fire (1), Rending (1)   |
+| Sentinel Pistol          | 6"  |  3  |  3  |  0  | Assault                       |
+| SMG                      | 9"  |  5  |  3  |  0  | Assault, Rapid Fire (1)       |
+| Tactical Shotgun         | 8"  |  3  |  4  |  1  | Rending (1), Shred            |
+| Peacekeeper Shotgun      | 8"  |  3  |  4  |  0  | Rapid Fire (1), Impact (2)    |
+| Whisperbolt Sniper Rifle | 24" |  1  |  5  |  3  | Accurate, Destructive (2)     |
 | Quantum Rifle            | 24" |  2  |  4  |  1  | Quantum Tunneling             |
 | Stun Pistol              | 6"  |  3  |  3  |  0  | Assault, Stun                 |
-| Stasis Rifle             | 18" |  4  |  1  |  0  | Stasis, Heavy                 |
+| Stasis Rifle             | 14" |  3  |  1  |  0  | Rapid Fire (1), Stasis        |
 
 | Assault Weapon           | Rng | Att | Dmg | Prc | Special Rules                 |
 | :----------------------- | :-: | :-: | :-: | :-: | :---------------------------- |
-| Combat Knife             | 1"  |  3  |  2  |  0  | Assault                       |
+| Combat Knife             | 1"  |  3  |  3  |  0  | Assault                       |
 | Crusher                  | 1"  |  3  |  5  |  0  | Assault                       |
 | Energy Blade             | 1"  |  3  |  3  |  3  | Assault                       |
 | Electro Maul             | 1"  |  3  |  3  |  1  | Assault, Stasis               |
-| Poisoned Blade           | 1"  |  3  |  2  |  0  | Assault, Rending (2), Shred   |
-| Shadowstrike Blade       | 1"  |  2  |  8  |  1  | Assault, Accurate, Shred      |
+| Leech Knife              | 1"  |  1  |  4  |  0  | Assault, Leech                |
+| Poisoned Blade           | 1"  |  3  |  3  |  0  | Assault, Rending (2), Shred   |
+| Ripper Claws             | 1"  |  3  |  3  |  1  | Assault, Rapid Fire (2)       |
+| Shadowstrike Blade       | 1"  |  2  |  6  |  1  | Assault, Accurate, Shred      |
 | Stun Hammer              | 1"  |  2  |  4  |  0  | Assault, Stun                 |
-| Smash                    | 1"  |  d6 |  3  |  0  | Assault, Impact               |
+| Smash                    | 1"  |  d6 |  3  |  0  | Assault, Impact (3)           |
 
 ## Special Rules
 
@@ -267,15 +273,15 @@ The following special rules are used in games of Respawn.
 
 | Special Rule | Effect |
 | :----------- | :----- |
-| Blast | When this weapon hits its target, it also counts as hitting every other character within 3 inches of the target with one hit. |
-| Quantum Tunneling | Attacks with this weapon always count as having a clear line of sight, even when the attacking character cannot see its target. |
-| Stun | Characters that lose a Hit Point to an attack from this weapon also lose 1 Command Point. |
-| Impact | Each successful hit from this weapon causes the target to move directly away from the attacker by 1 inch, in addition to any damage it may cause. This move stops immediately if the character comes into contact with any other characters or terrain. |
-| Stasis | If a character loses any hit points to a Stasis weapon it may not move or advance for the remainder of the round. |
+| Quantum Tunneling | Attacks with this weapon always count as having a clear line of sight regardless of line of sight or other intervening models or terrain. |
+| Stun | Characters that fail any Defence Rolls to an attack from this weapon also lose 1 Command Point. |
+| Impact (X) | Each successful hit from this weapon causes the target to move directly away from the attacker by X inches, in addition to any damage it may cause. This move stops immediately if the character comes into contact with any other characters or terrain. |
+| Leech | Any hit points a character loses to this weapon restore lost hit points on the attacking model. |
+| Stasis | If a character loses any hit points to a Stasis weapon it may not move or advance for the remainder of the round and loses 1 Command Point. |
 
 ## Exhibition Games
 
-Exhibition games arw one off matches played between two evenly matched teams. Simply determine which mission you are playing randomly before setting up ypur battlefield.
+Exhibition games are one off matches played between two evenly matched teams. Simply determine which mission you are playing randomly before setting up ypur battlefield.
 
 ### Team Deathmatch
 
