@@ -6,29 +6,19 @@ Squadrons is a game of high speed combat between small fighter or bomber scale s
 
 [View the Squadrons Github Project](https://github.com/open-source-tabletop/squadrons)
 
-
-
-
-
 ## Playing Squadrons
 
 Squadrons uses the **Cadence Wargame System** core rules, which can be found at [Cadence.Games](https://cadence.games).
 
-Each model in Squadrons represents a single ship of fighter or bomber scale referred to throughout as **ships**. You may use any models you find appropriate so long as the scale and bases are consistent between players, though 1/270 scale is recommended.
+Each model in Squadrons represents a single ship of fighter or bomber scale referred to throughout as **ships**, all ships count as having the **Vehicle** special rule. You may use any models you find appropriate so long as the scale and bases are consistent between players, though 1/270 scale is recommended.
 
 Squadrons is best played on a **3ft x 3ft** or similar sized area and each game lasts for **4 rounds**.
 
 ### Ship Movement
 
-#### Move Actions
+Each time you activate one of your ships you must always take a Move action, though you may still choose when to perform this action. When you perform this action or and Advance action you must also move the maximum distance allowed and may only make 1 pivot per action.
 
-Each time you activate one of your ships you must always take a Move action, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed and must moved in a straight line directly forward. When making a Move action you may add 1 pivot of up to 45 degrees at any point during your movement.
-
-#### Advance Actions
-
-When you make an Advance action you follow the same rules as above for making a Move action. Alternatively you may instead move 2 inches forward and pivot your ship exactly 180 degrees.
-
-#### Moving over Bases
+When you make an Advance action you may instead move 2 inches forward and pivot your ship exactly 180 degrees.
 
 You may move over the bases of any friendly or enemy ships during your movement so long as you have sufficient movement to complete the move without the bases overlapping. If you do not have sufficient movement your ship stops before passing over the enemy base and your activation ends.
 
@@ -38,11 +28,7 @@ When a ship is targeted for an attack it may try to evade the attack if it still
 
 ### Ship Attacks
 
-#### Targets
-
 Ships may only target enemy ships that are over an inch away but otherwise may choose any enemy ship as a target.
-
-#### Line of Sight
 
 Line of sight in Squadrons is always worked out on the flat surface of the battlefield using only the ships bases to determine the results.These lines are treated the same as the sight lines you would use when looking through a model.
 
@@ -68,10 +54,6 @@ Squadrons has three types of objectives: **Scan**, **Recover**, and **Destroy**.
 - **Recover**: A Recover objective is secured in the same way as a Scan objective, except that the ship cannot have performed an Advance action during it's activation. A recover objective is only scored at the end of the game if the ship that recovered it survives.
 - **Destroy**: A Destroy objective is treated much the same as an enemy ship though it never activates and does not move. A Destroy objective is scored when it is destroyed. It has the following profile: Defence: 4+, Toughness: 4, Hit Points: 2.
 
-
-
-
-
 ## Building a Squadron
 
 Players build their squadron by creating ships as outlined below. Each ship has a basic profile that is then enhanced by a number of upgrades. If you want to jump right into playing without designing your own ships you will find lists of premade ships, covering popular settings, on the [Squadrons Github Project Page](https://github.com/open-source-tabletop/squadrons).
@@ -84,7 +66,7 @@ Games are best played at 300 - 400 points. Larger games may require a larger bat
 
 | Cmd | Mov | Skl | Def | Tgh | HP  |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-|  4  |  6" |  4+ |  4+ |  4  |  2  |
+|  4  |  6" |  4+ |  4+ |  4  |  4  |
 
 ### Ship Upgrades
 
@@ -102,8 +84,8 @@ Games are best played at 300 - 400 points. Larger games may require a larger bat
 | Tough 1         | The ship has the Resilient special rule       | 5    |
 | Tough 2         | The ship has a Toughness of 5                 | 4    |
 | Tough 3         | The ship has a Toughness of 6                 | 6    |
-| Hit Points 1    | The ship has 3 hit points                     | 5    |
-| Hit Points 2    | The ship has 4 hit points                     | 12   |
+| Hit Points 1    | The ship has 5 hit points                     | 5    |
+| Hit Points 2    | The ship has 6 hit points                     | 12   |
 | Agility         | The ship has the Agile special rule           | 3    |
 | Boost           | The ship has the Boost special rule           | 2    |
 | Shield          | The ship has the Shields special rule         | 3    |
@@ -130,10 +112,6 @@ Games are best played at 300 - 400 points. Larger games may require a larger bat
 | Heavy Energy Turret       | 16" |  4  |  5  |  1  |                                           | 9    |
 | Heavy Kinetic Turret      | 16" |  5  |  4  |  2  | Kinetic, Shred                            | 11   |
 
-
-
-
-
 ## Example Ships
 
 #### Scout - 30 Points
@@ -143,7 +121,7 @@ Games are best played at 300 - 400 points. Larger games may require a larger bat
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules           |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------- |
-| Scout                     |  4  |  7" |  4+ |  4+ |  4  |  2  | Agile, Signal Jam       |
+| Scout                     |  4  |  7" |  4+ |  4+ |  4  |  4  | Agile, Signal Jam       |
 
 #### Fighter - 57 Points
 
@@ -152,7 +130,7 @@ Games are best played at 300 - 400 points. Larger games may require a larger bat
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules           |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------- |
-| Fighter                   |  5  |  6" |  3+ |  4+ |  4  |  3  | Shields                 |
+| Fighter                   |  5  |  6" |  3+ |  4+ |  4  |  5  | Shields                 |
 
 #### Heavy Bomber - 63 Points
 
@@ -161,11 +139,7 @@ Games are best played at 300 - 400 points. Larger games may require a larger bat
 
 | Ship                      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules           |
 | :------------------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------- |
-| Raider                    |  4  |  6" |  4+ |  4+ |  6  |  4  | Shields, Skilled        |
-
-
-
-
+| Raider                    |  4  |  6" |  4+ |  4+ |  6  |  6  | Shields, Skilled        |
 
 ## Special Rules
 
@@ -175,7 +149,6 @@ The following new special rules apply to units and weapons in Squadrons.
 
 | Rule | Details |
 | :--- | :------ |
-| Agile | This ship may make an additional 45 degree turn during a Move Action. |
 | Boost | If this ship makes a Move and Advance action and does not pivot it may add up to 3 inches to it's movement. |
 | Countermeasures | Once per game this ship may evade an attack without spending a Command Point. |
 | Squadron Leader | Friendly ships within 6 inches of this ship do not have to roll to see if they lose a Command Point when activating with just 1. This ship also gains +1 to it's Command attribute on the first round, up to a maximum of 6. |
@@ -190,10 +163,6 @@ The following new special rules apply to units and weapons in Squadrons.
 | Target Lock | Roll a d6 before making any attack rolls with this weapon, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack but it must be against the same target. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
 | Kinetic | This weapon counts their Piercing attribute as -1 against a ship with Shields, while the effect of the shield is active. |
 
-
-
-
-
 ## Missions
 
 ### Victory Points
@@ -202,8 +171,8 @@ In addition to scoring Victory Points (VP) as explained in each mission - you al
 
 - 1VP for scoring the first ship kill in the game.
 - 2VP for destroying the enemy Squadron Leader.
-- 1VP for destroying more than half of the enemy ships.
-- 2VP for destroying all enemy ships.
+- 2VP for destroying more than half of the enemy ships.
+- 1VP for destroying all enemy ships.
 
 ---
 

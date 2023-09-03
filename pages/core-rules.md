@@ -2,6 +2,7 @@
 title: Cadence Core Rules
 permalink: /core-rules/
 ---
+# Cadence Core Rules
 
 Cadence is a versatile wargaming system that opens the door to a diverse range of games. The core rules focus on light, flexible mechanics that are easy to learn while each game module can contribute their own unique mechanics and themes where required.
 
@@ -36,6 +37,7 @@ The entire system is freely available and open to the community. With Cadence, e
 
 - [Terrain](#terrain-1)
 - [Facing and Arcs](#facing-and-arcs)
+- [Vehicles and Transports](#vehicles-and-transports)
 - [Universal Special Rules](#universal-special-rules)
 
 
@@ -309,7 +311,41 @@ While not used by all game modules, sometimes it is important to know which dire
 
 Each model divides the battlefield around it into four 90-degree zones, called arcs, centred on the centre of the models base. The front arc is aligned to the model's forward-facing direction, the rear arc is aligned with the backward-facing direction, and the left and right side arcs are to the model's left and right, respectively.
 
-To determine which arc an enemy model is in, it is considered to be in the front-most possible arc. If a model is partially in more than one arc then the front arc takes priority, followed by the side arcs, with the rear arc being the lowest priority. 
+To determine which arc an enemy model is in, it is considered to be in the front-most possible arc. If a model is partially in more than one arc then the front arc takes priority, followed by the side arcs, with the rear arc being the lowest priority.
+
+### Vehicles and Transports 
+
+Vehicles are a special type of model typically characterised by their increased size, limited flexibility when moving, and inability to interact with some kinds of terrain. These limitations are often balanced with increased firepower and armour. Transports are a type of vehicle which can be used to move other models around the battlefield.  The following rules represent a simple way to include vehicles in a game module which can be used as presented, expanded upon, or replaced with custom rules.
+
+Models with the **Vehicle** or **Transport** special rules have the following changes to their rules:
+
+#### Vehicle Movement
+
+When a vehicle moves it must always move directly forward or backward and may not freely pivot during this movement. During either a Move or Advance action the model may make up to 2 pivots of up to 45 degrees - these must be separated by moving at least 1 inch.
+
+Vehicles may not move over the base of any other model and other friendly models may not move over a vehicle's base.
+
+#### Vehicles and Terrain
+
+Vehicles ignore the **Climbable** keyword for terrain, treating them as impassable instead. Vehicles do not get the benefit from terrain with the **Cover** keyword.
+
+#### Vehicles and Attacks
+
+Vehicles ignore the **Heavy** keyword when making attacks. In addition line of sight should be worked out from the barrel of the weapon being used and can be obscured by the models own parts. When being attacked, models count an **obscured** line of sight to a vehicle as **clear**. Unless otherwise stated, a vehicle has the **Platform (2)** and **Weak Spot (Rear)** special rules.
+
+#### Transports
+
+Transports are a special type of vehicle model which can carry other models across the battlefield. Transports have the special rule **Transport (X)** which indicates the number of models that it can carry. These models may not be other **Vehicle** or **Transport** models and models with the **Large** special rule count as 2 models.
+
+#### Embarking and Disembarking
+
+A unit that wishes to travel in a friendly Transport must be within 1 inch of the Transport model, if the Transport has sufficient capacity to carry all models in the unit the unit may **Embark**, the unit is removed from the battlefield and placed back into reserve, if you have multiple units in transports you must make a note of which units are in which transports.
+
+A unit that is embarked on a transport may be activated from reserve if it has Command Points remaining to **Disembark**. A unit treats the Transport model as it's Entry Point, being placed up to it's Movement attribute in inches from the Transport, but may not make a Move or Advance action in the same activation as they disembarked. If a unit disembarks and cannot place all models from the unit then any models not placed are destroyed.
+
+#### Destroying a Transport
+
+If a Transport model is destroyed while one or more units are embarked, these units are immediately placed as close to where the Transport model was before being destroyed and are reduced to 0 Command Points. Any models that cannot be placed in formation are destroyed.
 
 ### Universal Special Rules
 
@@ -319,15 +355,22 @@ Special rules are a set of modifiers to how models operate within the game. The 
 
 | Rule | Details |
 | ---- | ------- |
+| Agile | This vehicle may make an additional 45 degree pivot during either their Move or Advance action. |
 | Flying | Models with this rule are not affected by intervening terrain or models when they move, so long as they finish their move in an allowed position. These models ignore any penalties for changing height levels. |
 | Heavy Armour (X) | Reduce the piercing value of attacks made against this model by X to a minimum of 0. |
+| Large | This model counts as 2 models for calculating how many models a Transport can carry. |
 | Non-Scoring | This unit cannot perform the Secure action. |
+| Platform (X) | When taking an attack action this model may make attacks with X weapons it is equipped with instead of 1. |
 | Resilient | This model may re-roll any failed Defence Rolls. |
 | Rugged | This model ignores the penalty for travelling through rough terrain. |
 | Shields | While this model has it's full Hit Points it may re-roll failed attempts to Counter Damage. |
 | Skilled | This model may re-roll any failed Attack Rolls. |
+| Steady | This model ignores the Heavy special rule. |
 | Stealth (X) | Attacks against this model from more than X inches away count a **clear** line of sight as **obstructed** and an **obstructed** line of sight as **blocked**. |
 | Support | Models with this rule do not need to be deployed on the first turn and may instead be held in reserve in subsequent turns. These models must be deployed in the second or third turn. |
+| Transport (X) | This model counts as a Transport with a capacity of X, see the section **Vehicles and Transports** in the Advanced Rules. |
+| Weak Spot (X) | Against attacks which originate in the named arc X, this model has -1 to its Defence and Counter Rolls. |
+| Vehicle | This model counts as a Vehicle, see the section **Vehicles and Transports** in the Advanced Rules. |
 
 #### Weapon Special Rules
 
@@ -339,6 +382,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Blast (X) | If this weapon has at least one successful hit then it also counts as doing X hits to every other model, enemy or friendly, within 2 inches of the center of the original targets base. |
 | Destructive (X) | Each failed Defence Roll against this weapon causes X damage instead of 1. |
 | Fixed | Attacks with this weapon can only target models that lie directly in the path of this model's forward facing. |
+| Grenade | Only 1 model in a unit may use a weapon with this rule per Attack Action. This weapon may not target a model closer than 3 inches. |
 | Heavy | A unit must spend an additional Command Point to use this weapon. |
 | Inaccurate | When making an attack with this weapon your Skill counts as 6+. |
 | Indirect | Attacks with this weapon count an **obscured** line of sight as **clear**. This supercedes the Stealth special rule. |

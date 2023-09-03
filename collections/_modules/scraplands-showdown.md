@@ -14,7 +14,7 @@ Scraplands Showdown is a post-apocalyptic vehicle racing and combat game. Each p
 
 Scraplands Showdown uses the **Cadence Wargame System** core rules, which can be found at [Cadence.Games](https://cadence.games).
 
-The models in Scraplands represent heavily modified cars with makeshift weapons and armour. Models around the 1:64 scale similar, to die cast model cars, are the best scale for this game. These models are referred to throughout this module as **cars**.
+The models in Scraplands represent heavily modified cars with makeshift weapons and armour. Models around the 1:64 scale similar, to die cast model cars, are the best scale for this game. These models are referred to throughout this module as **cars**, all cars count as having the **vehicle** special rule.
 
 Scraplands Showdown is best played on a 3ft x 3ft or larger sized area.
 
@@ -32,7 +32,7 @@ In race missions, cars activate in a specific order as determined below:
 
 #### Race Deployment
 
-At the start of each mission, the players will be required to place their cars on the table before the first round starts. Players roll-off then alternate placing their cars. The first player places a car touching, but behind, the starting line. The second car is then placed one inch behind the starting line, the next is placed 2 inches behind the start line and so on. The cars must be placed facing forward across the start line but may otherwise be placed anywhere along it. Alternatively, players may set up grid positions for the cars to be placed upon.
+At the start of each mission, the players will be required to place their cars on the table before the first round starts. Players roll-off then alternate placing one car, after which they roll-off again, repeating this until every car has been placed. The first player places a car touching, but behind, the starting line. The second car is then placed one inch behind the starting line, the next is placed 2 inches behind the start line and so on. The cars must be placed facing forward across the start line but may otherwise be placed anywhere along it. Alternatively, players may set up grid positions for the cars to be placed upon.
 
 #### Finishing a Race
 
@@ -46,15 +46,13 @@ Not all missions in Scraplands are races, as the cars may also take part in an A
 
 #### Action: Move
 
-Each time one of your cars performs a Move action it may move up to its Movement attribute +d6 in inches directly forward, or 3 inches backward, and you may add 1 pivot of up to 45 degrees at any point during the action. If any rule permits you to perform more than 1 pivot, you must always move a minimum of 1 inch between each pivot. You may not move over any other car at any time.
+Each time one of your cars performs a Move action it may add d6 inches to its Movement attribute but doing so means it may not perform any pivots. A car's Movement is reduced to 3 inches when moving backward.
 
 If at any point during your move you move into base contact with another car your movement ends and both cars must make a control check as explained below. If you take a Move action whilst in contact with another car, you must pivot so that you can move away from the vehicle, however this does not trigger a control check.
 
 #### Action: Advance
 
-When you perform an Advance action you first determine how far you will travel and how many pivots you may make based on how hard you wish to push your car, done by performing 1 to 3 boosts. For each boost you must roll a d6, adding the value to the to the total distance you will move. For each roll of a 1 you must make a control check. You must move the full distance rolled. For each boost you may make 1 pivot of up to 45 degrees, so long as you travel at least 1 inch between each pivot.
-
-For each boost you perform you may add a **boost marker** next to your car, these remain until the next time you activate your car, until then if you are the target of an attack you may remove one or more of these markers to re-roll failed Defence Rolls.
+When you perform an Advance action you do not move your normal Move attribute in inches, instead you roll 3d6 and take the two highest rolls as your Movement attribute. If you roll any 1s, then you must make a control check as explained below.
 
 #### Action: Coasting
 
@@ -64,13 +62,9 @@ When activating a car with 1 Command Point, if you fail the test to use the Comm
 
 Cars may only target enemy cars that are over an inch away but otherwise may choose any enemy car as a target.
 
-### Ramming
-
-When you move into an enemy car you may declare this as a deliberate attempt to ram if you have moved at least 6 inches during that action. To do this you must spend 1 Command Point, any cars that you have collided with must take 3 control checks instead of the normal 1 for a collision.
-
 ### Control Checks
 
-At times you may be at risk of losing control of your car; when being attacked, pushing your speed, or colliding with the terrain. When asked to perform a control check you make a Skill Roll: if you pass the Skill Roll nothing happens, if you fail the Skill Roll then the following happens:
+At times you may be at risk of losing control of your car; when being attacked, pushing your speed, or colliding with the terrain. When asked to perform a control check roll a d6, on a roll of a 1 you have failed the control check.
 
 - Take d6 hits as though hit with a Damage 3, Piercing 0 weapon - making Defence and Counter Rolls as normal. You take d6 hits regardless of how many cars or pieces of terrain you are in contact with.
 - If a control check causes your car to lose any hit points your activation immediately ends and your opponent may either rotate your car up to 45 degrees or move you 1 inch in any direction. If this move brings you into contact with terrain or any cars not originally hit this will trigger additional control checks.
@@ -86,11 +80,11 @@ Terrain in Scraplands comes in the following types: Solid, Dangerous, Rough, Des
 
 ### Mines
 
-You may place mine tokens around the track, or these may be placed by cars with a mine dropper. These should be no larger than 25mm circles. If any car moves within 1 inch of the marker the mine explodes and is removed from the battlefield. Any car within 2 inches of the token when it explodes takes 3 Control Checks.
+You may place mine tokens around the track, or these may be placed by cars with a mine dropper. These should be no larger than 25mm circles. If any car moves within 1 inch of the marker the mine explodes and is removed from the battlefield. Any car within 3 inches of the token when it explodes takes a Control Check.
 
 ## Building a Team
 
-Players build their team by selecting a number of cars from the list below and upgrading them with weapons, armour, and abilities. When adding upgrades to a car you may not add more points of upgrades than the initial cost of the car. Games of Scraplands Showdown are best played at 100 points for small games, and 150 to 200 points for large games.
+Players build their team by selecting a number of cars from the list below and upgrading them with weapons, armour, and abilities. When adding upgrades to a car you may not add more points of upgrades than the initial cost of the car. Games of Scraplands Showdown are best played at 100 points for small games, 150 points for medium sized games, and 200 points for large games.
 
 ### Cars
 
@@ -108,14 +102,14 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules                         | Points |
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------------------------ | :----: |
-| Light Machine Gun         | 10" | 6   |  3  |  0  | Arc (Front)                           | 2      |
-| Twin Light Machine Guns   | 10" | 6   |  3  |  0  | Accurate, Arc (Front)                 | 3      |
-| Heavy Machine Gun         | 12" | 6   |  4  |  1  | Arc (Front)                           | 4      |
-| Twin Heavy Machine Guns   | 12" | 6   |  4  |  1  | Accurate, Arc (Front)                 | 9      |
-| Heavy Cannon              | 12" | 4   |  5  |  1  | Arc (Front), Rending (1)              | 5      |
-| Minigun                   | 12" | 10  |  4  |  1  | Arc (Front), Volley                   | 10     |
-| Rocket Launcher           | 12" | 5   |  6  |  3  | Arc (Front), Disrupt, Destructive (2) | 12     |
-| Flamethrower              | 3"  | 10  |  3  |  0  | Arc (Front), Torrent, Disrupt         | 6      |
+| Light Machine Gun         | 10" | 5   |  3  |  0  | Arc (Front)                           | 2      |
+| Twin Light Machine Guns   | 10" | 5   |  3  |  0  | Accurate, Arc (Front)                 | 3      |
+| Heavy Machine Gun         | 12" | 5   |  4  |  1  | Arc (Front)                           | 4      |
+| Twin Heavy Machine Guns   | 12" | 5   |  4  |  1  | Accurate, Arc (Front)                 | 9      |
+| Heavy Cannon              | 12" | 3   |  5  |  1  | Arc (Front), Rending (1)              | 5      |
+| Minigun                   | 12" | 8   |  4  |  1  | Arc (Front), Volley                   | 10     |
+| Rocket Launcher           | 12" | 4   |  6  |  3  | Arc (Front), Disrupt, Destructive (2) | 12     |
+| Flamethrower              | 3"  | 6   |  3  |  0  | Arc (Front), Torrent, Disrupt         | 6      |
 | Caltrops                  | 3"  | 3   |  3  |  0  | Arc (Rear), Disrupt                   | 1      |
 
 #### Upgrades 
@@ -126,7 +120,7 @@ Players build their team by selecting a number of cars from the list below and u
 | Armour Plates | Increase the cars Toughness by 1. | 5 |
 | Elite Driver | One per team only. Improve the cars Skill attribute to 4+. | 6 |
 | Mine Dropper | One use only, if this car makes an attack action, instead of attacking with a regular weapon this car may place a mine marker in its rear arc 2 inches from the car. It may not place this token within 1 inch of an enemy car. | 3 |
-| Ram | Damage from a failed control check when rammed by this car has a Piercing attribute of 2. | 2 |
+| Ram | When this car collides with an enemy car while moving forward that car takes 1 additonal control check. | 2 |
 | Spikes | Cars that must take a control check for collisions with this car take d6+1 hits instead of d6. | 2 |
 | Tank Tracks | This car may re-roll the d6 for how many hits a control check causes and has it's Movement Rate reduced by 1. This car also ignores the effects of dangerous terrain. | 12 |
 | Turret | One per car only. Remove the Arc (Front) special rule from one weapon on this car. | 6 |
@@ -135,7 +129,7 @@ Players build their team by selecting a number of cars from the list below and u
 
 | Abilities | Details | Points |
 | :-------- | :------ | :----: |
-| Boost | One use only. This car moves 18 inches forward following the rules for a move action. This action costs 2 Command Points and is the only action that can be taken during that activation. | 5 |
+| Boost | One use only. This car adds 2d6 inches to its Movement during a move action. | 2 |
 | Drift | This car may move up to 8 inches directly forward, following the rules for a Move action, then make a single 90 degree pivot at the end of the movement. This action costs 1 Command Point and must be taken immediately after a Move Action. | 3 |
 | J-Turn | This car moves backwards 3 inches then rotates 180 degrees. This counts as taking a Move action and costs 1 Command Point. | 2 |
 
@@ -145,11 +139,11 @@ The following special rules apply in games of Scraplands Showdown.
 
 | Special Rules | Effect |
 | :------------ | :----- |
-| Fast | You may re-roll one boost roll of 1 each round. |
+| Fast | You add all 3d6 to your Movement when making an Advance action, but each roll of 1 triggers a control check. |
 | Off-road | You may make a free pivot at the start of an Advance action. |
 | Sturdy | You may re-roll the d6 to determine the number of hits in a control check. |
-| Ramshackle | This car gains +1 to its Defence rolls against control check hits. |
-| Disrupt | Any car that takes fails a Defence roll against attacks from this weapon makes a control check, even if it does not lose any hit points. |
+| Ramshackle | This may re-roll Counter rolls of 1. |
+| Disrupt | Any car that fails a Defence roll against attacks from this weapon makes a control check, even if it does not lose any hit points. |
 
 -----
 
@@ -171,7 +165,6 @@ The cars will score points at the end of the race for their finishing positions:
 - 10 points for 2nd
 - 8 points for 3rd
 - 6 points for 4th
-- 4 points for 5th
 
 #### Secondary Objectives
 
@@ -195,7 +188,6 @@ The cars will score points at the end of the race for their finishing positions:
 - 10 points for 2nd
 - 8 points for 3rd
 - 6 points for 4th
-- 4 points for 5th
 
 #### Secondary Objective
 

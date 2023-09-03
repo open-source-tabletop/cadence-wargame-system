@@ -109,7 +109,7 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after, body.is-re
 /* Type */
 body, input, select, textarea {
   color: #4e5357;
-  font-family: "Source Sans Pro", "Courier New", monospace, sans-serif;
+  font-family: "Source Sans Pro", Arial, monospace, sans-serif;
   font-size: 13pt;
   font-weight: 400;
   line-height: 1.65;
@@ -162,7 +162,7 @@ p {
 
 h1, h2, h3, h4, h5, h6 {
   color: #282e32;
-  font-family: "Raleway", serif;
+  font-family: "Raleway", Arial, serif;
   font-weight: 900;
   line-height: 1.5;
   text-transform: uppercase;
@@ -1398,7 +1398,7 @@ section.special, article.special {
 }
 
 header p {
-  font-family: "Raleway", serif;
+  font-family: "Raleway", Arial, serif;
   font-size: 1em;
   font-weight: 400;
   letter-spacing: 0.075em;
@@ -2014,7 +2014,7 @@ button,
   color: #d72a2a !important;
   cursor: pointer;
   display: inline-block;
-  font-family: "Raleway", serif;
+  font-family: "Raleway", Arial, serif;
   font-size: 0.8em;
   font-weight: 900;
   height: 3.5em;
@@ -2729,7 +2729,7 @@ button:disabled,
 #header .logo {
   border-bottom: 0;
   color: inherit;
-  font-family: "Raleway", serif;
+  font-family: "Raleway", Arial, serif;
   font-size: 1.125em;
 }
 #header .icons {
@@ -2863,7 +2863,7 @@ button:disabled,
   -ms-user-select: none;
   user-select: none;
   color: #282e32;
-  font-family: "Raleway", serif;
+  font-family: "Raleway", Arial, serif;
   font-weight: 400;
   letter-spacing: 0.075em;
   list-style: none;
