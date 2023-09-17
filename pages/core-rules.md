@@ -391,4 +391,5 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Rending (X) | When an attack with this weapon hits with a roll of 6, it counts as doing X additional hits. |
 | Shred | Rolls to Counter Damage have a -1 modifier against weapons with this rule. |
 | Torrent | An attack with this weapon hits on any attack roll that is not a 1. |
+| Volatile | Any attack roll that rolls a 1 counts as hitting the model that made the attack. |
 | Volley | Each attack roll that rolls a 6 allows the attacker to roll an additional attack roll, these additional rolls do not generate additional rolls. |
