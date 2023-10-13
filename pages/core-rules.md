@@ -236,7 +236,7 @@ Your chosen target model must be within range for an attack, this distance is th
 
 Make **Attack Rolls** equal to the **attacks** attribute of the weapon being used. Each roll is a d6 trying to equal or beat the attacking model's **Skill attribute**. Every successful roll is a **hit**. The following modifiers apply:
 
-- **Close Range Penalty**: Attack Rolls against a target unit within 1 inch of your model only hit on a **roll of a 6**, instead of using the attacking model's Skill attribute. However, weapons with the **Assault** special rule don't suffer this penalty.
+- **Close Range Penalty**: Attack Rolls against a target unit within 3 inches of your model only hit on a **roll of a 6**, instead of using the attacking model's Skill attribute. However, weapons with the **Assault** special rule don't suffer this penalty.
 - **Rush Penalty**: Units performing 3 or more actions this activation suffer a **-2 modifier** to their Attack Rolls.
 - **Height Advantage**: Gain a **+1 modifier** to your Attack Roll when attacking a model at a lower height level (see the terrain rules).
 - **Obscured Penalty**: When attacking a target with an obscured line of sight, suffer a **-1 modifier** to your Attack Roll.
@@ -331,7 +331,7 @@ Vehicles ignore the **Climbable** keyword for terrain, treating them as impassab
 
 #### Vehicles and Attacks
 
-Vehicles ignore the **Heavy** keyword when making attacks. In addition line of sight should be worked out from the barrel of the weapon being used and can be obscured by the models own parts. When being attacked, models count an **obscured** line of sight to a vehicle as **clear**. Unless otherwise stated, a vehicle has the **Platform (2)** and **Weak Spot (Rear)** special rules.
+Vehicles ignore the **Heavy** keyword when making attacks. In addition line of sight should be worked out from the barrel of the weapon being used and can be obscured by the models own parts. When attacking a vehicle, models count an **obscured** line of sight to a vehicle as **clear**. Unless otherwise stated, a vehicle has the **Platform (2)** and **Weak Spot (Rear)** special rules.
 
 #### Transports
 
@@ -378,7 +378,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | ----- | ------- |
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
 | Arc (X) | Attacks with this weapon can only target models in the named arc (X). |
-| Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
+| Assault | This weapon does not suffer from the Rush Penalty or Close Range Penalty or when making attacks. |
 | Blast (X) | If this weapon has at least one successful hit then it also counts as doing X hits to every other model, enemy or friendly, within 2 inches of the center of the original targets base. |
 | Destructive (X) | Each failed Defence Roll against this weapon causes X damage instead of 1. |
 | Fixed | Attacks with this weapon can only target models that lie directly in the path of this model's forward facing. |
