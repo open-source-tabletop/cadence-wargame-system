@@ -6,7 +6,7 @@ This expansion for Respawn provides some optional rules you can add to your game
 
 ### The Big Guns!
 
-Big Guns are a new type of pick up that can be placed on your battlefield using a suitable marker. Unlike the original pick ups you do not roll to determine the result until a character picks it up. In addition, once a character picks up a Big Gun they immediately perform a free action with the weapon then end their activation.
+Big Guns are a new type of pick up that can be placed on your battlefield using a suitable marker and following the same rules for placement. Unlike the original pick ups you do not roll to determine the result until a character picks it up. In addition, once a character picks up a Big Gun they immediately perform a free attack action with the weapon then end their activation. If the character has no valid enemy model to target they must instead target a friendly model. If they have no models to target they lose the pick up. All Big Guns are lost after making their attack.
 
 When picking up a Big Gun roll a d6 and consult the list below to see which weapon they will use:
 
