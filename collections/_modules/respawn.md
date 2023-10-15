@@ -6,11 +6,15 @@ Respawn is a tabletop team skirmish game, requiring only 3-6 miniatures per play
 
 You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to play this game. If you would like to contribute to the development of Respawn please [visit the Respawn Github Project](https://github.com/open-source-tabletop/respawn).
 
----
-
 ## Playing Respawn
 
 Respawn is best played on a 2ft x 3ft or similar sized area and should include plenty of line of sight blocking terrain. Each game of Respawn lasts for 5 rounds. Models in Respawn are referred to throughout as **Characters**.
+
+### Seasons
+
+Add more to your games with expansions for Respawn that add new missions, terrain, weapons and other optional rules:
+
+- [Season 1 - Big Guns](https://cadence.games/respawn/season-1-big-guns)
 
 ### Killing Characters 
 
@@ -18,7 +22,7 @@ When a character is killed in Respawn, instead of being removed from the game th
 
 If you do not wish your character to be Downed they are instead removed from the game and placed back in reserve and must be redeployed during the next round. When the character redeploys they do so with their original weapons, including one use weapons and equipment, and full hit points.
 
-On the 5th round a character may not be revived, when the character is killed it is removed from game.
+On the 5th round a character may not be revived, when the character is killed it is removed from game. 
 
 ### Action: Revive (1 Command Point)
 

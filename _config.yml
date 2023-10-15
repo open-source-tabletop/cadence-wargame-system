@@ -12,18 +12,7 @@ collections:
     output: true
     sort_by: title
     permalink: /:title/
-  shadow-war:
+  respawn:
     output: true
     sort_by: title
-  halo-firefight:
-    output: true
-    sort_by: title
-  legions:
-    output: true
-    sort_by: title
-  squadrons:
-    output: true
-    sort_by: title
-  guilds-and-glory:
-    output: true
-    sort_by: title
+    permalink: /respawn/:title/
