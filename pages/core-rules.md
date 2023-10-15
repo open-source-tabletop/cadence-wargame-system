@@ -343,6 +343,8 @@ A unit that wishes to travel in a friendly Transport must be within 1 inch of th
 
 A unit that is embarked on a transport may be activated from reserve if it has Command Points remaining to **Disembark**. A unit treats the Transport model as it's Entry Point, being placed up to it's Movement attribute in inches from the Transport, but may not make a Move or Advance action in the same activation as they disembarked. If a unit disembarks and cannot place all models from the unit then any models not placed are destroyed.
 
+Before the game begins you can decide if a unit is embarked upon a transport before any units are deployed from reserve.
+
 #### Destroying a Transport
 
 If a Transport model is destroyed while one or more units are embarked, these units are immediately placed as close to where the Transport model was before being destroyed and are reduced to 0 Command Points. Any models that cannot be placed in formation are destroyed.
