@@ -11,7 +11,7 @@ The core rules of Cadence are simple and quick to learn, with a dynamic flow of 
 
 ### Game Modules
 
-Game Modules are how you play Cadence: whether you choose something familiar like the [grim dark sci-fi setting of Shadow War](/shadow-war/) or something more down to earth such as [the wild west setting of Devil's Bluff](/devils-bluff/). Each module is it's own unique game, providing army lists to choose your models from, custom rules for that setting, missions, stories and almost anything else you might need.
+Game Modules are how you play Cadence. Each module is it's own unique game, providing army lists to choose your models from, custom rules for that setting, missions, stories and almost anything else you might need.
 
 There are several modules already created for you to try, some light and some more in-depth. Beyond that we encourage players and designers to get involved, to help us expand our modules, to balance and modify them, and to create new ones. And if you have a game you want to create you can even use the Cadence system thanks to it's permissive license.
 
