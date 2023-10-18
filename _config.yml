@@ -16,3 +16,7 @@ collections:
     output: true
     sort_by: title
     permalink: /respawn/:title/
+  halo-breakpoint:
+    output: true
+    sort_by: title
+    permalink: /halo-breakpoint/:title/

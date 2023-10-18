@@ -1,3 +1,6 @@
+- name: "Halo: Breakpoint"
+  link: /halo-breakpoint/
+  description: "Halo: Breakpoint is a fan made 28mm skirmish game set in the Halo universe."
 - name: Respawn
   link: /respawn/
   description: "Respawn is a tabletop team skirmish game, requiring only 3 miniatures per player, with influences from popular online FPS games. Each team competes in Deathmatch, Capture the Flag, and King of the Hill type missions, with characters respawning each round to continue the fight."
