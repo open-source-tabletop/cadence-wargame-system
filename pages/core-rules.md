@@ -227,8 +227,8 @@ When you choose your target model you must check how well you can see that model
 - If you can see the model without any part being covered, you have a **clear** line of sight.
 - If you can see the model but it is partly covered, you have an **obstructed** line of sight.
 - If the model is partially obscured by another model, or you cannot see it at all, you have a **blocked** line of sight.
-- If the model is within 1 inch of a friendly model, and you are more than 1 inch away, you have a **blocked** line of sight.
-- If you are attacking a model within 1 inch and can see any part of it then it always counts as a **clear** line of sight.
+- If the model is within 1 inch of a friendly model, and you are more than 3 inches away, you have a **blocked** line of sight.
+- If you are attacking a model within 3 inches and can see any part of it then it always counts as a **clear** line of sight.
 
 Your chosen target model must be within range for an attack, this distance is the attacking weapon's **Range** attribute in inches.
 
