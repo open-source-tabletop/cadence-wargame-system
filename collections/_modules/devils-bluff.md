@@ -1,0 +1,7 @@
+---
+title: Devils Bluff
+---
+
+Welcome to the town of Devil's Bluff: a lawless place where anything goes and danger walks hand-in-hand with opportunity. In this fast, deadly skirmish game, you'll put together a gang of gunslingers, battle for dominance, wealth, and power, as you build your Wild West legend.
+
+<a href="https://github.com/open-source-tabletop/devils-bluff/tree/main" class="button primary">View this project on Github</a>
