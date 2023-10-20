@@ -13,7 +13,7 @@ The core rules of Cadence are simple and quick to learn, with a dynamic flow of 
 
 Game Modules are how you play Cadence. Each game is it's own unique game, providing army lists to choose your models from, custom rules for that setting, missions, stories and almost anything else you might need.
 
-There are several games already created for you to try, some light and some more in-depth. Beyond that we encourage players and designers to get involved, to help us expand our modules, to balance and modify them, and to create new ones. And if you have a game you want to create you can even use the Cadence system thanks to it's permissive license.
+There are <a href="/modules/">several games available</a> for you to try, some light and some more in-depth. Beyond that we encourage players and designers to get involved, to help us expand our modules, to balance and modify them, and to create new ones. And if you have a game you want to create you can even use the Cadence system thanks to it's permissive license.
 
 ### Attribution License
 

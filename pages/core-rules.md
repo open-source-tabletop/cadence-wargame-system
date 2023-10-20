@@ -2,11 +2,10 @@
 title: Cadence Core Rules
 permalink: /core-rules/
 ---
-# Cadence Core Rules
 
-Cadence is a versatile wargaming system that opens the door to a diverse range of games. The core rules focus on light, flexible mechanics that are easy to learn while each game module can contribute their own unique mechanics and themes where required.
+Cadence is a versatile wargaming system with a focus on light, flexible mechanics that are easy to learn while each game module can contribute their own unique mechanics and themes where required.
 
-The entire system is freely available and open to the community. With Cadence, exploring and immersing yourself in new gaming experiences has never been easier.
+The Core Rules are licensed under a Creative Commons by Attribution 4.0 License, you can find details on [the projects GitHub page](https://github.com/open-source-tabletop/cadence). This license means the text of the rules are free, anyone can duplicate them, modify them, use them for any purpose (even commercial) so long as attribution to the original project is given.
 
 ### Contents
 

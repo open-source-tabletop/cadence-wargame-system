@@ -1,15 +1,15 @@
 - name: "Halo: Breakpoint"
   link: /halo-breakpoint/
-  description: "Halo: Breakpoint is a fan made 28mm skirmish game set in the Halo universe."
+  description: "Halo: Breakpoint is a fan made game module set in the Halo universe that allows you to enact battles from any era in the Halo timeline using 28mm miniatures. As there are no official miniatures in this scale you will need to find suitable proxies, or fan made sculpts to use."
 - name: Fracture
   link: /fracture/
-  description: "Fracture is a sci-fi tabletop wargame suitable for a large variety of miniatures."
+  description: "Fracture is a sci-fi wargame in an open-ended setting, players have the freedom to create their own unique faction from several core types, using any miniatures they want."
 - name: Respawn
   link: /respawn/
-  description: "Respawn is a tabletop team skirmish game, requiring only 3 miniatures per player, with influences from popular online FPS games. Each team competes in Deathmatch, Capture the Flag, and King of the Hill type missions, with characters respawning each round to continue the fight."
+  description: "Respawn is a tabletop team skirmish game, requiring only 3-6 miniatures per player, with influences from popular online FPS games. Each team competes in Deathmatch, Capture the Flag, and King of the Hill type missions, with characters respawning each round to continue the fight."
 - name: Scraplands Showdown
   link: /scraplands-showdown/
   description: "Scraplands Showdown is a post-apocalyptic vehicle racing and combat game. Each player assembles a team of cars, customised with upgrades, weapons, and armour, and competes to out-race and out-fight their opponents in a brutal Showdown."
 - name: Squadrons
   link: /squadrons/
-  description: "Squadrons is a game of high speed. intense combat encounters between small fighter or bomber scale ships."
+  description: "Squadrons is a game of high speed combat between small fighter or bomber scale ships. Each player commands a squadron of around 5 to 15 ships as they try to take down their opponents ships."
