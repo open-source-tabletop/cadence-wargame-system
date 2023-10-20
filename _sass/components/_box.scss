@@ -20,10 +20,12 @@
 
 		&.alt {
 			background-color: _palette(accent);
-			padding: 0.6em;
+			padding: 1.5em;
 			color: _palette(bg);
 			border: none;
-			border-radius: 0;
 			margin: _size(element-margin) 0;
+			h1, h2, h3, h4, h5, h6, strong {
+				color: _palette(bg);
+			}
 		}
 	}

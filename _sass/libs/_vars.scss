@@ -20,9 +20,9 @@
 	);
 
 // Font.
-	$font: (
-		family:				('Source Sans Pro',Arial, monospace, sans-serif),
-		family-heading:		('Raleway', Arial, serif),
+$font: (
+		family:				('Open Sans', sans-serif),
+		family-heading:		('Roboto Slab', serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				400,
 		weight-bold:		700,
@@ -40,5 +40,5 @@
 		fg-light:			#7c7f82,
 		border:				rgba(210,215,217,0.75),
 		border-bg:			transparentize(#e6ebed, 0.75),
-		accent:				#d72a2a
+		accent:				#00c483
 	);

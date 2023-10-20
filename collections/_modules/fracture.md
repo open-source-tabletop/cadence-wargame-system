@@ -1,8 +1,13 @@
 ---
 title: Fracture
 ---
+In the wake of the cataclysmic event known as the Fracture, the boundaries between dimensions have begun to break down, revealing a multiverse teeming with untold potential and peril. In this shifting tapestry of realities, powerful factions are thrown into a battle for survival and supremacy, each harnessing the boundless energy of fractured dimensions to forge their destiny.
 
-Fracture is a sci-fi tabletop wargame made with the [Cadence Wargame System](https://cadence.games) suitable for a large variety of miniatures. It is a great entry point for players coming from other games with existing armies but is not designed as a 1:1 proxy for those games. If you would like to contribute to the development of Fracture please [visit the Fracture Github Project page](https://github.com/open-source-tabletop/fracture)
+Fracture is a sci-fi wargame made with the [Cadence Wargame System](https://cadence.games), set in an open-ended setting, players have the freedom to create their own unique faction from several core types, using any miniatures they want. Customize your forces, adapt your strategy, and tell your own stories.
+
+If you would like to contribute to the development of Fracture please [visit the Fracture Github Project page](https://github.com/open-source-tabletop/fracture)
+
+> Fracture is a great entry point for players coming from other sci-fi games with existing armies but is not designed as a 1:1 proxy for those games.
 
 ## Playing Fracture
 
@@ -35,10 +40,24 @@ Building your army for Fracture is simple, players agree a maximum number of poi
 
 Recommended points for games of Fracture are 500-1000 points for smaller games which can be played on a 3ft by 4ft battlefield and up to 2000 for larger games with a larger battlefield.
 
-### Army Lists
+## Army Lists
 
-- [Sentinels Army List](/fracture/sentinels/)
-- [Marauders Army List](/fracture/marauders/)
-- [The Endless Army List](/fracture/the-endless/)
-- [The Swarm Army List](/fracture/the-swarm/)
-- [Voidborn Corsairs Army List](/fracture/voidborn-corsairs)
+### [Sentinels Army List](/fracture/sentinels/)
+
+Sentinels forces are highly advanced and incredibly powerful. Though often few in number their advanced weapons and armour make them a formidable foe on the battlefield.
+
+## [Marauders Army List](/fracture/marauders/)
+
+Marauders are disorganised and crude hordes. They may not have the best weapons, armour, or training,  or discipline, but they make up for it in numbers and a sheer willingness for a good fight.
+
+## [The Endless Army List](/fracture/the-endless/)
+
+Ruthless and ancient beings, once assured of their ultimate supremacy now find themselves surrounded by lesser beings. Unburdened by doubt and with an unwavering resolve their armies march once again into war.
+
+## [The Swarm Army List](/fracture/the-swarm/)
+
+Driven by an unknowable intelligence to expand their territory and eradicate all other life, the creatures of the Swarm are an ever present threat.
+
+## [Voidborn Corsairs Army List](/fracture/voidborn-corsairs)
+
+Enigmatic nomads, their fleets drift through new regions with little regard for those that claim to own these territories. With uncanny speed these raiders launch an attack only to evaporate into the void before a real resistance can be mounted.
