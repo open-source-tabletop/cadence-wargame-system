@@ -46,19 +46,19 @@ Recommended points for games of Fracture are 500-1000 points for smaller games w
 
 Sentinels forces are highly advanced and incredibly powerful. Though often few in number their advanced weapons and armour make them a formidable foe on the battlefield.
 
-## [Marauders Army List](/fracture/marauders/)
+### [Marauders Army List](/fracture/marauders/)
 
 Marauders are disorganised and crude hordes. They may not have the best weapons, armour, or training,  or discipline, but they make up for it in numbers and a sheer willingness for a good fight.
 
-## [The Endless Army List](/fracture/the-endless/)
+### [The Endless Army List](/fracture/the-endless/)
 
 Ruthless and ancient beings, once assured of their ultimate supremacy now find themselves surrounded by lesser beings. Unburdened by doubt and with an unwavering resolve their armies march once again into war.
 
-## [The Swarm Army List](/fracture/the-swarm/)
+### [The Swarm Army List](/fracture/the-swarm/)
 
 Driven by an unknowable intelligence to expand their territory and eradicate all other life, the creatures of the Swarm are an ever present threat.
 
-## [Voidborn Corsairs Army List](/fracture/voidborn-corsairs)
+### [Voidborn Corsairs Army List](/fracture/voidborn-corsairs)
 
 Enigmatic nomads, their fleets drift through new regions with little regard for those that claim to own these territories. With uncanny speed these raiders launch an attack only to evaporate into the void before a real resistance can be mounted.
 
