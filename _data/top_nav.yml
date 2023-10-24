@@ -6,5 +6,5 @@
   link: /core-rules/
 - name: Game Modules
   link: /modules/
-- name: Modules in Development
-  link: /in-development/
+#- name: Modules in Development
+#  link: /in-development/
