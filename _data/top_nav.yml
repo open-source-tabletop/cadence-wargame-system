@@ -8,3 +8,5 @@
   link: /modules/
 #- name: Modules in Development
 #  link: /in-development/
+- name: Make a Game
+  link: /making-a-game/
