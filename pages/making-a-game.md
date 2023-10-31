@@ -1,5 +1,6 @@
 ---
 title: Making a Game
+permalink: /making-a-game/
 ---
 
 One of the best parts of Cadence is using the core rules to make your own game with the system, whether you have a small idea you want to have fun with or a big project you plan to release commercially - cadence makes for a solid foundation. This article will cover some simple steps you can follow to get started making a game in Cadence, though this article doesn't get into concepts about planning and designing larger projects.
