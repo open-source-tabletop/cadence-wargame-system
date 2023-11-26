@@ -91,7 +91,6 @@ Any gang that has lost 50% of its models or has lost its leader becomes increasi
 | Longshot | This weapon may double it's Range, but it reduces its Attacks to 1. |
 | Leader | This model, and friendly models within 6 inches always pass the check when activating with 1 Command Point. |
 | Rookie | When making draws with this model, you may not exchange cards with those in your hand. |
-| Gunfighter | This model may make 2 attack actions in a row when using a Revolver if it does not move during its activation. |
 
 
 
@@ -102,7 +101,7 @@ Any gang that has lost 50% of its models or has lost its leader becomes increasi
 In order to play Devils Bluff you will need to put together a gang. Each player has 150 dollars with which to hire gunmen and pay for their weapons and equipment. Choose models and equipment from the list below, note that some restrictions apply:
 
 - You are required to include only 1 Leader model in your gang.
-- You can include up to 2 Legends in your gang.
+- You can include up to 4 Legends in your gang.
 - You must include at least 2 Hired Guns in your gang.
 - You can include as many Drifters in your gang as you like.
 - You may take only 2 weapons per model.
@@ -112,15 +111,15 @@ In order to play Devils Bluff you will need to put together a gang. Each player 
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
-| Leader     |  6  |  4" |  6+ | 10+ |  3  |  3  | Leader, Gunfighter |
+| Leader     |  6  |  4" |  6+ | 10+ |  3  |  4  | Leader             |
 
 This model may take up to 20 dollars of **weapons**, **special weapons**, **equipment** and **upgrades**.
 
-### 0-2 Legends - 16 Dollars each
+### 0-4 Legends - 16 Dollars each
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
-| Legend     |  5  |  4" |  7+ | 10+ |  3  |  2  | Gunfighter         |
+| Legend     |  5  |  4" |  7+ | 10+ |  3  |  3  |                    |
 
 This model may take up to 15 dollars of **weapons**, **special weapons**. **equipment** and **upgrades**.
 
@@ -136,7 +135,7 @@ This model may take up to 6 dollars of **weapons** and **equipment**.
 
 | Model      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules      |
 | :--------- | :-: | :-: | :-: | :-: | :-: | :-: | :----------------- |
-| Drifter    |  3  |  4" | 12+ | 10+ |  3  |  1  | Rookie             |
+| Drifter    |  3  |  4" | 12+ | 10+ |  3  |  2  | Rookie             |
 
 This model may take up to 3 dollars of **weapons**.
 
@@ -177,7 +176,7 @@ This model may take up to 3 dollars of **weapons**.
 | Steady Hands | This model only suffers a -2 to draws for the Rush Penalty. | 3 |
 | Mounted Combat | This model gains +2 to attack rolls when using Assault weapons while mounted on a Horse. | 4 |
 | Intuition | One use. Only one model in your gang may have this upgrade. Your opponent must reveal 2 of the cards in their hand. | 3 |
-
+| Gunfighter | This model may make 2 attack actions in a row when using a Revolver if it does not move during its activation. | 5 |
 
 
 
